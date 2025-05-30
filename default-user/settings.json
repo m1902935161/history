@@ -335,13 +335,21 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "User"
+            "user-default.png": "User",
+            "1748615399965-.png": "相遇"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
                 "description": "",
                 "position": 0
+            },
+            "1748615399965-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": ""
             }
         },
         "persona_description": "",
