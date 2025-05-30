@@ -1090,7 +1090,8 @@
             "defaultPosition": 1,
             "defaultDepth": 4,
             "defaultInterval": 1,
-            "defaultRole": 0
+            "defaultRole": 0,
+            "allowWIScan": false
         },
         "caption": {
             "refine_mode": false,
@@ -1413,7 +1414,8 @@
             "1345561466591"
         ],
         "null": [],
-        "魅魔型AI创作工具.png": []
+        "魅魔型AI创作工具.png": [],
+        "1748618855741": []
     },
     "nai_settings": {
         "temperature": 1.5,
