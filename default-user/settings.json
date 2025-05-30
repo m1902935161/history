@@ -5,18 +5,18 @@
         "LNavOpened": "false",
         "NavOpened": "true",
         "WINavOpened": "true",
-        "SelectedNavTab": "rm_button_characters",
+        "SelectedNavTab": "rm_button_selected_ch",
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "NavLockOn": "false"
     },
     "currentVersion": "1.13.0",
-    "username": "User",
+    "username": "相遇",
     "active_character": "default_Seraphina.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
-    "user_avatar": "user-default.png",
+    "user_avatar": "1748615399965-.png",
     "amount_gen": 350,
     "max_context": 8192,
     "main_api": "openai",
@@ -1396,14 +1396,18 @@
         {
             "id": "1345561466591",
             "name": "ST Default",
-            "color": "rgba(108, 32, 32, 1)"
+            "color": "rgba(108, 32, 32, 1)",
+            "color2": ""
         }
     ],
     "tag_map": {
         "default_Seraphina.png": [
             "1345561466591"
         ],
-        "null": []
+        "null": [],
+        "1748615188451": [
+            "1345561466591"
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
