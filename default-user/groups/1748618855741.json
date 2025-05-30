@@ -653,7 +653,8 @@
         "note_position": 1,
         "note_depth": 4,
         "note_role": 0,
-        "world_info": "Eldoria"
+        "world_info": "Eldoria",
+        "tainted": true
     },
     "fav": false,
     "chat_id": "2025-05-31@00h24m04s",
@@ -665,7 +666,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748622077519.8486,
     "create_date": "2025-5-30 @16h 21m 17s 519ms",
-    "date_last_chat": 1748622246415,
+    "date_last_chat": 1748622685941,
     "chat_size": 29076,
     "past_metadata": {
         "": {}
