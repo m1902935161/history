@@ -36,7 +36,13 @@
             "caseSensitive": null,
             "matchWholeWords": null,
             "useGroupScoring": null,
-            "automationId": ""
+            "automationId": "",
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false
         },
         "1": {
             "uid": 1,
@@ -75,7 +81,13 @@
             "caseSensitive": null,
             "matchWholeWords": null,
             "useGroupScoring": null,
-            "automationId": ""
+            "automationId": "",
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false
         },
         "2": {
             "uid": 2,
@@ -112,7 +124,13 @@
             "caseSensitive": null,
             "matchWholeWords": null,
             "useGroupScoring": null,
-            "automationId": ""
+            "automationId": "",
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false
         },
         "3": {
             "uid": 3,
@@ -149,7 +167,13 @@
             "caseSensitive": null,
             "matchWholeWords": null,
             "useGroupScoring": null,
-            "automationId": ""
+            "automationId": "",
+            "matchPersonaDescription": false,
+            "matchCharacterDescription": false,
+            "matchCharacterPersonality": false,
+            "matchCharacterDepthPrompt": false,
+            "matchScenario": false,
+            "matchCreatorNotes": false
         }
     }
 }
