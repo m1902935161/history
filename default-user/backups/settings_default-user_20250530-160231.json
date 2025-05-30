@@ -12,7 +12,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "相遇",
-    "active_character": "【嘉世】凛1.png",
+    "active_character": "【嘉世】凛.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1416,6 +1416,7 @@
         "null": [],
         "魅魔型AI创作工具.png": [],
         "1748618855741": [],
+        "【嘉世】凛.png": [],
         "【嘉世】凛1.png": []
     },
     "nai_settings": {
@@ -3145,8 +3146,8 @@
         "bind_preset_to_connection": true
     },
     "background": {
-        "name": "japan classroom side.jpg",
-        "url": "url(\"backgrounds/japan%20classroom%20side.jpg\")",
+        "name": "landscape winter lake house.jpg",
+        "url": "url(\"backgrounds/landscape%20winter%20lake%20house.jpg\")",
         "fitting": "classic"
     },
     "proxies": [
