@@ -10,11 +10,9 @@
     "generation_mode": 0,
     "disabled_members": [],
     "chat_metadata": {
-        "integrity": "7afec4ae-4159-48d2-849e-bbd54839bed8",
-        "chat_id_hash": 4892911119211065,
         "sheets": [
             {
-                "uid": "sheet_kQV5uNG4",
+                "uid": "sheet_Z0Lt3hh8",
                 "name": "时空表格",
                 "domain": "chat",
                 "type": "dynamic",
@@ -30,13 +28,6 @@
                         "cell_undefined_hDuyfuiYMPL4yvLa",
                         "cell_undefined_Z6ldc96pkYlpuA3u",
                         "cell_undefined_hCjE7tHO0rHXbjc0"
-                    ],
-                    [
-                        "cell_kQV5uNG4_CoH5O4dmc0W5DNsK",
-                        "cell_kQV5uNG4_RVTFDivrXKhmywvQ",
-                        "cell_kQV5uNG4_UTjaaLVoIjnqXL04",
-                        "cell_kQV5uNG4_OfHTs2VU8jDr5kY0",
-                        "cell_kQV5uNG4_RsTQfSbnTYRKjYYr"
                     ]
                 ],
                 "cellHistory": [
@@ -92,54 +83,6 @@
                             "value": "此地角色"
                         },
                         "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_kQV5uNG4_CoH5O4dmc0W5DNsK",
-                        "type": "row_header",
-                        "status": "",
-                        "coordUid": "coo_0NA9cBboEy4kYI3",
-                        "data": {},
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_kQV5uNG4_RVTFDivrXKhmywvQ",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_EkkjOrq7fgYOSVs",
-                        "data": {
-                            "value": "未来"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_kQV5uNG4_UTjaaLVoIjnqXL04",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_CWl44AS5PjOQq4U",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_kQV5uNG4_OfHTs2VU8jDr5kY0",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_R1nRt5Xr8249DuP",
-                        "data": {
-                            "value": "新伊甸/感知炼狱"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_kQV5uNG4_RsTQfSbnTYRKjYYr",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_1ax7alyQQtcekkV",
-                        "data": {
-                            "value": "皇冠之心选手"
-                        },
-                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -164,7 +107,7 @@
                 "template": "template_7LKy28mJ"
             },
             {
-                "uid": "sheet_ctd7QiMc",
+                "uid": "sheet_10sAR723",
                 "name": "角色特征表格",
                 "domain": "chat",
                 "type": "dynamic",
@@ -184,17 +127,6 @@
                         "cell_undefined_dKSjscTR0a2TRgDB",
                         "cell_undefined_P6kBNVEc4mZWNSrI",
                         "cell_undefined_sioSz89x6xfSw5eG"
-                    ],
-                    [
-                        "cell_ctd7QiMc_Urk1qNXexDVbuFbx",
-                        "cell_ctd7QiMc_wlNg2C6mkJBq8Tju",
-                        "cell_ctd7QiMc_f9wKV7xp2BG8qrJQ",
-                        "cell_ctd7QiMc_Rtfn2GHBF4lEO7HK",
-                        "cell_ctd7QiMc_36szFS77lYdSU2di",
-                        "cell_ctd7QiMc_ozhD9UvnPXly1EPO",
-                        "cell_ctd7QiMc_MstPZYQUcJyi1os5",
-                        "cell_ctd7QiMc_ilYW4Mr1Ae29WTzz",
-                        "cell_ctd7QiMc_OMLdYl652nyPaOKY"
                     ]
                 ],
                 "cellHistory": [
@@ -291,94 +223,6 @@
                             "value": "其他重要信息"
                         },
                         "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_Urk1qNXexDVbuFbx",
-                        "type": "row_header",
-                        "status": "",
-                        "coordUid": "coo_5gGTSlokzwKXgdb",
-                        "data": {},
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_wlNg2C6mkJBq8Tju",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_YIRquRBTDMF5uCL",
-                        "data": {
-                            "value": "皇冠之心选手"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_f9wKV7xp2BG8qrJQ",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_wM4BwPYYLGMqe5T",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_Rtfn2GHBF4lEO7HK",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_loLDFPMFzoS2KqP",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_36szFS77lYdSU2di",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_WGfIf2IcGq4FZzJ",
-                        "data": {
-                            "value": "欢愉之触选手"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_ozhD9UvnPXly1EPO",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_PiX5zA6DF3Q9nVi",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_MstPZYQUcJyi1os5",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_WU1Kcs5ED0HnlZ0",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_ilYW4Mr1Ae29WTzz",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_dRNxshGP0roQdyw",
-                        "data": {
-                            "value": "皇冠之心俱乐部专属房间"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_ctd7QiMc_OMLdYl652nyPaOKY",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_InVGth9tbvj2OBk",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -403,7 +247,7 @@
                 "template": "template_J1Nfxt0x"
             },
             {
-                "uid": "sheet_OUSsaU3e",
+                "uid": "sheet_zzASyg7G",
                 "name": "角色与<user>社交表格",
                 "domain": "chat",
                 "type": "dynamic",
@@ -419,13 +263,6 @@
                         "cell_undefined_zf7pfZ2bb4FZ3RKG",
                         "cell_undefined_WvvpnVlaDtXCf43h",
                         "cell_undefined_juHmq7H8cuvtvrTb"
-                    ],
-                    [
-                        "cell_OUSsaU3e_perRLPJZd7wRXexM",
-                        "cell_OUSsaU3e_oCKSF0UVn8PheN04",
-                        "cell_OUSsaU3e_ZygzWGTfhuiWTAAG",
-                        "cell_OUSsaU3e_25IiSCic1rZEjdCU",
-                        "cell_OUSsaU3e_EEpZ60lNwq1PW82r"
                     ]
                 ],
                 "cellHistory": [
@@ -482,54 +319,6 @@
                             "value": "对<user>好感"
                         },
                         "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_OUSsaU3e_perRLPJZd7wRXexM",
-                        "type": "row_header",
-                        "status": "",
-                        "coordUid": "coo_QEtjyiOxcG8ULO8",
-                        "data": {},
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_OUSsaU3e_oCKSF0UVn8PheN04",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_pbbto7oCQATIhtN",
-                        "data": {
-                            "value": "皇冠之心选手"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_OUSsaU3e_ZygzWGTfhuiWTAAG",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_1ONyo8QhesKOOq9",
-                        "data": {
-                            "value": "自己"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_OUSsaU3e_25IiSCic1rZEjdCU",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_i5lVwqBslBfaJGa",
-                        "data": {
-                            "value": "自信/期待"
-                        },
-                        "targetUid": ""
-                    },
-                    {
-                        "uid": "cell_OUSsaU3e_EEpZ60lNwq1PW82r",
-                        "type": "cell",
-                        "status": "",
-                        "coordUid": "coo_2Y31slbiU8Q0BFT",
-                        "data": {
-                            "value": "不详"
-                        },
-                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -554,7 +343,7 @@
                 "template": "template_tyws0XYk"
             },
             {
-                "uid": "sheet_Vcr6J8cs",
+                "uid": "sheet_69PaYxKa",
                 "name": "任务、命令或者约定表格",
                 "domain": "chat",
                 "type": "dynamic",
@@ -649,7 +438,7 @@
                 "template": "template_mxECZVjN"
             },
             {
-                "uid": "sheet_jgrFySQV",
+                "uid": "sheet_ZIFLi0i8",
                 "name": "重要事件历史表格",
                 "domain": "chat",
                 "type": "dynamic",
@@ -756,7 +545,7 @@
                 "template": "template_aaxYd6H1"
             },
             {
-                "uid": "sheet_wVXnqTO6",
+                "uid": "sheet_g0UwvuJb",
                 "name": "重要物品表格",
                 "domain": "chat",
                 "type": "dynamic",
@@ -852,37 +641,33 @@
             }
         ],
         "selected_sheets": [
-            "sheet_kQV5uNG4",
-            "sheet_ctd7QiMc",
-            "sheet_OUSsaU3e",
-            "sheet_Vcr6J8cs",
-            "sheet_jgrFySQV",
-            "sheet_wVXnqTO6"
+            "sheet_Z0Lt3hh8",
+            "sheet_10sAR723",
+            "sheet_zzASyg7G",
+            "sheet_69PaYxKa",
+            "sheet_ZIFLi0i8",
+            "sheet_g0UwvuJb"
         ],
         "note_prompt": "",
         "note_interval": 1,
         "note_position": 1,
         "note_depth": 4,
         "note_role": 0,
-        "timedWorldInfo": {
-            "sticky": {},
-            "cooldown": {}
-        },
-        "tainted": true,
-        "lastInContextMessageId": 0,
         "world_info": "Eldoria"
     },
     "fav": false,
-    "chat_id": "2025-05-30@23h27m35s",
+    "chat_id": "2025-05-31@00h24m04s",
     "chats": [
-        "2025-05-30@23h27m35s"
+        "2025-05-31@00h24m04s"
     ],
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1748622074359.8667,
-    "create_date": "2025-5-30 @16h 21m 14s 359ms",
-    "date_last_chat": 1748618856674.4207,
+    "date_added": 1748622077519.8486,
+    "create_date": "2025-5-30 @16h 21m 17s 519ms",
+    "date_last_chat": 1748622246415,
     "chat_size": 29076,
-    "past_metadata": {}
+    "past_metadata": {
+        "": {}
+    }
 }
