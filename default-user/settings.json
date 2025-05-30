@@ -3,7 +3,8 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "NavOpened": "true"
+        "NavOpened": "true",
+        "WINavOpened": "true"
     },
     "currentVersion": "1.13.0",
     "username": "User",
@@ -15,7 +16,9 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": []
+            "globalSelect": [
+                "Eldoria"
+            ]
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -208,7 +211,7 @@
         "toastr_position": "toast-top-center",
         "chat_width": 58,
         "never_resize_avatars": false,
-        "show_card_avatar_urls": false,
+        "show_card_avatar_urls": true,
         "play_message_sound": false,
         "play_sound_unfocused": true,
         "auto_save_msg_edits": false,
@@ -3111,7 +3114,7 @@
         "continue_prefill": false,
         "function_calling": false,
         "names_behavior": 0,
-        "continue_postfix": " ",
+        "continue_postfix": "\n\n",
         "custom_prompt_post_processing": "semi",
         "show_thoughts": false,
         "reasoning_effort": "medium",
