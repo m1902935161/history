@@ -1,7 +1,9 @@
 {
     "id": "1748618855741",
-    "name": "Group: 魅魔型AI创作工具",
-    "members": [],
+    "name": "TL",
+    "members": [
+        "【嘉世】凛1.png"
+    ],
     "avatar_url": "/thumbnail?type=avatar&file=%E9%AD%85%E9%AD%94%E5%9E%8BAI%E5%88%9B%E4%BD%9C%E5%B7%A5%E5%85%B7.png",
     "allow_self_responses": false,
     "activation_strategy": 2,
@@ -878,9 +880,9 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1748618855738.426,
-    "create_date": "2025-5-30 @15h 27m 35s 738ms",
-    "date_last_chat": 0,
-    "chat_size": 0,
+    "date_added": 1748622074359.8667,
+    "create_date": "2025-5-30 @16h 21m 14s 359ms",
+    "date_last_chat": 1748618856674.4207,
+    "chat_size": 29076,
     "past_metadata": {}
 }
