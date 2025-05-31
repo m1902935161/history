@@ -12,7 +12,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "相遇",
-    "active_character": null,
+    "active_character": "【嘉世】唐柔.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1430,7 +1430,8 @@
         "【喵乐园】林巧.png": [],
         "【嘉世】鹿屿.png": [],
         "【喵乐园】许凰音.png": [],
-        "【喵乐园】许凤萱.png": []
+        "【喵乐园】许凤萱.png": [],
+        "【嘉世】唐柔.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
