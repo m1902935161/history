@@ -7334,7 +7334,7 @@
                     [
                         "cell_ayDwL85N_9cmRY7zmIsnpKXxN",
                         "cell_ayDwL85N_oUZGUeK9a8Jjplxz",
-                        "cell_ayDwL85N_ujmyRQhMGbP73Qok",
+                        "cell_ayDwL85N_U27vdyOgTKJbhKOc",
                         "cell_ayDwL85N_VTdRJmdviQbkqrzM",
                         "cell_ayDwL85N_fLjNLa8X8tJOqQlE",
                         "cell_ayDwL85N_2FiaH5ylsMa14q8W"
@@ -8196,6 +8196,16 @@
                             "value": "肖甜遭受安雅“神经回溯”攻击，崩溃值飞速累积，导致袜子和裤子被剥离。她被迫发动防守技能。"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_U27vdyOgTKJbhKOc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jPMvgIZdKFrJ9KI",
+                        "data": {
+                            "value": "肖甜遭受安雅“神经回溯”攻击，崩溃值飞速累积，导致袜子和裤子被剥离。她被迫发动防守技能。安雅加大攻势，肖甜的崩溃值继续飙升，衣物再次剥离。"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -8395,7 +8405,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748684386637.0366,
     "create_date": "2025-5-31 @09h 39m 46s 637ms",
-    "date_last_chat": 1748709278117,
+    "date_last_chat": 1748709647926,
     "chat_size": 7343,
     "past_metadata": {
         "": {}
