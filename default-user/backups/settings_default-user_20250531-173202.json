@@ -2,17 +2,18 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
-        "NavOpened": "true",
+        "LNavOpened": "false",
+        "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "NavLockOn": "false"
+        "NavLockOn": "false",
+        "GroupMembers_PerPage": "25"
     },
     "currentVersion": "1.13.0",
     "username": "相遇",
-    "active_character": "【嘉世】凛.png",
+    "active_character": null,
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1407,6 +1408,17 @@
             "name": "ST Default",
             "color": "rgba(108, 32, 32, 1)",
             "color2": ""
+        },
+        {
+            "id": "98bad6a8-e675-4493-afea-985705369aa1",
+            "name": "New Tag",
+            "folder_type": "NONE",
+            "filter_state": "UNDEFINED",
+            "sort_order": null,
+            "is_hidden_on_character_card": false,
+            "color": "",
+            "color2": "",
+            "create_date": 1748626079314
         }
     ],
     "tag_map": {
@@ -1416,8 +1428,22 @@
         "null": [],
         "魅魔型AI创作工具.png": [],
         "1748618855741": [],
-        "【嘉世】凛.png": [],
-        "【嘉世】凛1.png": []
+        "【喵乐园】林巧.png": [],
+        "【嘉世】鹿屿.png": [],
+        "【喵乐园】许凰音.png": [],
+        "【喵乐园】许凤萱.png": [],
+        "【嘉世】唐柔.png": [],
+        "【嘉世经纪人】沈梦.png": [],
+        "【喵乐园经纪人】苏婉清.png": [],
+        "【感官至上经纪人】罗莎.png": [],
+        "【极乐经纪人】凛.png": [],
+        "【嘉世】凛霜.png": [],
+        "【嘉世】安雅.png": [],
+        "【喵乐园】沈梦辰.png": [],
+        "【喵乐园】肖甜.png": [],
+        "【嘉世】沈欣淼.png": [],
+        "【感官至上】苏闪闪.png": [],
+        "【感官至上】苏瑶瑶.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3146,8 +3172,8 @@
         "bind_preset_to_connection": true
     },
     "background": {
-        "name": "landscape winter lake house.jpg",
-        "url": "url(\"backgrounds/landscape%20winter%20lake%20house.jpg\")",
+        "name": "japan classroom side.jpg",
+        "url": "url(\"backgrounds/japan%20classroom%20side.jpg\")",
         "fitting": "classic"
     },
     "proxies": [
