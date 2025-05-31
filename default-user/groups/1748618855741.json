@@ -7034,18 +7034,10 @@
                     [
                         "cell_ayDwL85N_9cmRY7zmIsnpKXxN",
                         "cell_ayDwL85N_oUZGUeK9a8Jjplxz",
-                        "cell_ayDwL85N_UT0tBBDWeJPJ4hHh",
+                        "cell_ayDwL85N_D2OgqIV5rwszE4M5",
                         "cell_ayDwL85N_VTdRJmdviQbkqrzM",
                         "cell_ayDwL85N_fLjNLa8X8tJOqQlE",
-                        "cell_ayDwL85N_6Vh91xPc05b0WIGR"
-                    ],
-                    [
-                        "cell_ayDwL85N_2Tbre4ioMN5J572s",
-                        "cell_ayDwL85N_yIsogbVgqNYL6sak",
-                        "cell_ayDwL85N_VO7OEykB42Q50hoc",
-                        "cell_ayDwL85N_MHy88HJw9o8InV39",
-                        "cell_ayDwL85N_gubUtnWb1Yem9DEK",
-                        "cell_ayDwL85N_fL37MnkxMeynukqC"
+                        "cell_ayDwL85N_2FiaH5ylsMa14q8W"
                     ]
                 ],
                 "cellHistory": [
@@ -7538,6 +7530,26 @@
                             "value": "失去控制/挣扎"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_OgXhYfuLQTVfsoFi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jPMvgIZdKFrJ9KI",
+                        "data": {
+                            "value": "安雅遭受肖甜“咪咪痒痒爪”挠脚趾缝，并因“脱敏训练”的加持而爆发笑声，崩溃值快速积累"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_D2OgqIV5rwszE4M5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jPMvgIZdKFrJ9KI",
+                        "data": {
+                            "value": "安雅遭受肖甜“咪咪痒痒爪”挠脚趾缝和脚底心，导致袜子被剥离，在“脱敏训练”校准期内崩溃值快速积累并发出笑声和生理性眼泪。"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7737,7 +7749,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748684386637.0366,
     "create_date": "2025-5-31 @09h 39m 46s 637ms",
-    "date_last_chat": 1748706001660,
+    "date_last_chat": 1748706364022,
     "chat_size": 7343,
     "past_metadata": {
         "": {}
