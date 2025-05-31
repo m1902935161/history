@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1437,8 +1437,7 @@
         "【感官至上经纪人】罗莎.png": [],
         "【极乐经纪人】凛.png": [],
         "【嘉世】凛霜.png": [],
-        "【嘉世】安雅.png": [],
-        "【喵乐园】沈梦辰.png": []
+        "【嘉世】安雅.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
