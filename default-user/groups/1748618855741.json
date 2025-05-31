@@ -8840,6 +8840,16 @@
                             "value": "痛苦/羞耻"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_BQvYrXs3ho7ECtYv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oVyRxOJ7JlNY5uY",
+                        "data": {
+                            "value": "许凤萱遭受唐柔攻击，袜子被剥离，随后身体上半身遭受攻击，上衣和内衣被剥离，并试图发动技能以避免私密部位完全裸露。"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -9037,7 +9047,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748711632799,
+    "date_last_chat": 1748712017207,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
