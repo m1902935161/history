@@ -49,7 +49,7 @@
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
                         "cell_QR9YTYe4_ZctiI9QyFwuNgU5p",
-                        "cell_QR9YTYe4_VVvsPQe8gSlovj8k"
+                        "cell_QR9YTYe4_Yw86UuAnh31dN3Z1"
                     ]
                 ],
                 "cellHistory": [
@@ -665,6 +665,16 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_Yw86UuAnh31dN3Z1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "TL感官刑场"
                         },
                         "targetUid": ""
                     }
@@ -7476,7 +7486,7 @@
                     [
                         "cell_ayDwL85N_VE2snGozFpfmJcbN",
                         "cell_ayDwL85N_oRjUfxJYBew54GNg",
-                        "cell_ayDwL85N_1QvY7nKVOPXJ8MjD",
+                        "cell_ayDwL85N_BcsUs8t20CMMwICe",
                         "cell_ayDwL85N_NYT0WWIKNU6RHEiQ",
                         "cell_ayDwL85N_Ofl3Yd250zuRisBY",
                         "cell_ayDwL85N_J3DLpbqyepu663Yd"
@@ -7496,6 +7506,14 @@
                         "cell_ayDwL85N_D44xo1m6pJbQfGeA",
                         "cell_ayDwL85N_riteJRZoii40V3XX",
                         "cell_ayDwL85N_ZgobT858N7mxK55i"
+                    ],
+                    [
+                        "cell_ayDwL85N_tKFHqsJocyCeMfHe",
+                        "cell_ayDwL85N_yMUkqVtnKTM3Vy9G",
+                        "cell_ayDwL85N_ktwOXpSfWX2EKDFN",
+                        "cell_ayDwL85N_BGtSfc3KZwBFbvw2",
+                        "cell_ayDwL85N_93RoEkH0rJbfJF4g",
+                        "cell_ayDwL85N_jyNeMwEEXg5OWdW3"
                     ]
                 ],
                 "cellHistory": [
@@ -9014,6 +9032,74 @@
                             "value": "痛苦/羞耻/坚韧"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_BcsUs8t20CMMwICe",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PQdVYB5jcBg86uR",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TicklingLove比赛第二轮，唐柔担任挠痒者，许凤萱担任被挠痒者，许凤萱裤子和上衣被剥离，唐柔继续攻击。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_tKFHqsJocyCeMfHe",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Db8ieqtGeuAqFHI",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_yMUkqVtnKTM3Vy9G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_t3wKrHCYGL7degZ",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ktwOXpSfWX2EKDFN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QNQQWu5jRpIKM2K",
+                        "data": {
+                            "value": "对抗许凤萱的魅影舞步并成功剥离其内衣和内裤，触发感官处刑。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_BGtSfc3KZwBFbvw2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XGi6aYXrOV7Sb7q",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_93RoEkH0rJbfJF4g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ffnQWLLHjy1VDzU",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_jyNeMwEEXg5OWdW3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5eUHnQQx4Ez9KJD",
+                        "data": {
+                            "value": "高傲/兴奋/掌控"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -9211,7 +9297,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748712966012,
+    "date_last_chat": 1748734595744,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
