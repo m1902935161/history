@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_F722znWO5SoQZGbQ",
-                        "cell_QR9YTYe4_nExD90RtVpMmjdBl"
+                        "cell_QR9YTYe4_L4XXB1i5xsDFwtrx",
+                        "cell_QR9YTYe4_Evd07wW5iaJSDStf"
                     ]
                 ],
                 "cellHistory": [
@@ -695,6 +695,26 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "唐柔/沈梦/鹿屿/凛霜/沈欣淼/安雅/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_L4XXB1i5xsDFwtrx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_Evd07wW5iaJSDStf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱"
                         },
                         "targetUid": ""
                     }
@@ -7516,7 +7536,7 @@
                     [
                         "cell_ayDwL85N_J518PQXdAThKzQPi",
                         "cell_ayDwL85N_Twz4Yb1dbjjuBl79",
-                        "cell_ayDwL85N_3HdK7I1nhh52S1C8",
+                        "cell_ayDwL85N_S1nirXjJRgvPKfuI",
                         "cell_ayDwL85N_9oCiYtpfAHSVIiZv",
                         "cell_ayDwL85N_yVyYvVOnmuRMJEG2",
                         "cell_ayDwL85N_zHIwqhaREoLFplVm"
@@ -9164,6 +9184,16 @@
                             "value": "高傲/侵略性/期待"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_S1nirXjJRgvPKfuI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TL感官刑场遭受唐柔“极速锋芒”攻击，崩溃值快速积累，导致袜子被剥离。"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -9361,7 +9391,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748735100251,
+    "date_last_chat": 1748735462356,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
