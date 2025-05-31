@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -12,7 +12,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "相遇",
-    "active_character": null,
+    "active_character": "【嘉世】凛1.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1427,8 +1427,8 @@
         "null": [],
         "魅魔型AI创作工具.png": [],
         "1748618855741": [],
-        "【嘉世】凛1.png": [],
-        "【喵乐园】林巧.png": []
+        "【喵乐园】林巧.png": [],
+        "鹿屿.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
