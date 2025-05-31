@@ -2,19 +2,18 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
-        "NavOpened": "false",
+        "LNavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "NavLockOn": "false",
-        "GroupMembers_PerPage": "25"
+        "NavLockOn": "false"
     },
     "currentVersion": "1.13.0",
     "username": "相遇",
     "active_character": null,
-    "active_group": "1748618855741",
+    "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "1748615399965-.png",
@@ -1442,8 +1441,7 @@
         "【喵乐园】沈梦辰.png": [],
         "【喵乐园】肖甜.png": [],
         "【嘉世】沈欣淼.png": [],
-        "【感官至上】苏闪闪.png": [],
-        "【感官至上】苏瑶瑶.png": []
+        "【感官至上】苏闪闪.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
