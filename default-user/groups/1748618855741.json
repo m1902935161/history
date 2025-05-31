@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_WotiX0MNhsLeykpY",
-                        "cell_QR9YTYe4_8yuLH3iV9ekE5RHe"
+                        "cell_QR9YTYe4_ZctiI9QyFwuNgU5p",
+                        "cell_QR9YTYe4_BiAiBs8uJlNZAmiq"
                     ]
                 ],
                 "cellHistory": [
@@ -587,6 +587,56 @@
                             "value": "肖甜/沈梦辰/苏婉清/许凰音/许凤萱/林巧"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_b4lgfKymVSQVpKFH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_HsaI5gh9kzf0a7hL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "喵乐园休息区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_mznkWUfVMPFV7Xw9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "苏婉清/肖甜/沈梦辰/许凰音/许凤萱/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_ZctiI9QyFwuNgU5p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_BiAiBs8uJlNZAmiq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -607,8 +657,7 @@
                             "replaceDivide": ""
                         }
                     }
-                },
-                "template": "template_7LKy28mJ"
+                }
             },
             {
                 "uid": "sheet_KvpkieXg",
@@ -5507,8 +5556,7 @@
                             "replaceDivide": ""
                         }
                     }
-                },
-                "template": "template_J1Nfxt0x"
+                }
             },
             {
                 "uid": "sheet_HCgX1otI",
@@ -7256,8 +7304,7 @@
                             "replaceDivide": ""
                         }
                     }
-                },
-                "template": "template_tyws0XYk"
+                }
             },
             {
                 "uid": "sheet_J75Wtet5",
@@ -7351,8 +7398,7 @@
                             "replaceDivide": ""
                         }
                     }
-                },
-                "template": "template_mxECZVjN"
+                }
             },
             {
                 "uid": "sheet_ayDwL85N",
@@ -7384,26 +7430,26 @@
                     [
                         "cell_ayDwL85N_9cmRY7zmIsnpKXxN",
                         "cell_ayDwL85N_oUZGUeK9a8Jjplxz",
-                        "cell_ayDwL85N_U27vdyOgTKJbhKOc",
+                        "cell_ayDwL85N_HXq2ascmdLo4EIIF",
                         "cell_ayDwL85N_VTdRJmdviQbkqrzM",
                         "cell_ayDwL85N_fLjNLa8X8tJOqQlE",
                         "cell_ayDwL85N_2FiaH5ylsMa14q8W"
                     ],
                     [
-                        "cell_ayDwL85N_Gk4VWsCxYrlWQgzi",
-                        "cell_ayDwL85N_ppcBF5LWS11fLW0K",
-                        "cell_ayDwL85N_TjTWNMizYitpe4L0",
-                        "cell_ayDwL85N_2Hv8ZMuadLZAMysU",
-                        "cell_ayDwL85N_j3gksdTLSJSX0xz3",
-                        "cell_ayDwL85N_xubGE72V0LdM0NnL"
+                        "cell_ayDwL85N_9gMzyiuaWNXEsec7",
+                        "cell_ayDwL85N_8KSEpN1yrMqc55kl",
+                        "cell_ayDwL85N_oRHRYrwaZlxlzsEb",
+                        "cell_ayDwL85N_B9Rc2BzodHScGxjb",
+                        "cell_ayDwL85N_ddzR6KvSU1Bgr5jn",
+                        "cell_ayDwL85N_wNQDliBHl9TNhzIa"
                     ],
                     [
-                        "cell_ayDwL85N_MJx0OQiipeLPXxYe",
-                        "cell_ayDwL85N_VnGHOaCCCRTXaq43",
-                        "cell_ayDwL85N_EpDXcAkNQLu2B6Cm",
-                        "cell_ayDwL85N_1GKygZwti6XJalt4",
-                        "cell_ayDwL85N_1AL4HB2RB3dAvMb9",
-                        "cell_ayDwL85N_nsWrMG9txp43CPWz"
+                        "cell_ayDwL85N_VE2snGozFpfmJcbN",
+                        "cell_ayDwL85N_oRjUfxJYBew54GNg",
+                        "cell_ayDwL85N_fxLWdBKcEckL884z",
+                        "cell_ayDwL85N_NYT0WWIKNU6RHEiQ",
+                        "cell_ayDwL85N_Ofl3Yd250zuRisBY",
+                        "cell_ayDwL85N_J3DLpbqyepu663Yd"
                     ]
                 ],
                 "cellHistory": [
@@ -8514,6 +8560,132 @@
                             "value": "惊喜"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_HXq2ascmdLo4EIIF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jPMvgIZdKFrJ9KI",
+                        "data": {
+                            "value": "肖甜在TL感官刑场遭受感官处刑，失禁后比赛结束。之后她赤裸被喵乐园众人搀扶回休息区，情绪崩溃，但发现流量突破十万人，队友安慰她。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_9gMzyiuaWNXEsec7",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_aGu4Up71WiFbz56",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_8KSEpN1yrMqc55kl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_znbaXEhkCmVtfhS",
+                        "data": {
+                            "value": "苏婉清"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_oRHRYrwaZlxlzsEb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7OyH6q9jh80RaYN",
+                        "data": {
+                            "value": "喵乐园与嘉世的TL比赛第二轮，喵乐园派出许凤萱担任EE，嘉世派出唐柔担任ER。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_B9Rc2BzodHScGxjb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6utJDyBSwoTNWbn",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ddzR6KvSU1Bgr5jn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aLmTxNapAIcoS9J",
+                        "data": {
+                            "value": "喵乐园休息区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_wNQDliBHl9TNhzIa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Ip2KZjzys6GoELW",
+                        "data": {
+                            "value": "平静/果断"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_VE2snGozFpfmJcbN",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_bREOhfwTwJh6cYD",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_oRjUfxJYBew54GNg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LmCLefR4TZW9ocq",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_fxLWdBKcEckL884z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PQdVYB5jcBg86uR",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第二轮，唐柔担任ER，许凤萱担任EE。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_NYT0WWIKNU6RHEiQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_e7B1Vh2bBQ1MXZ4",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Ofl3Yd250zuRisBY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DY9bGSolyBb2ctF",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_J3DLpbqyepu663Yd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_f09SjQqtgjoAuV0",
+                        "data": {
+                            "value": "高傲/兴奋"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -8534,8 +8706,7 @@
                             "replaceDivide": ""
                         }
                     }
-                },
-                "template": "template_aaxYd6H1"
+                }
             },
             {
                 "uid": "sheet_V1ll106t",
@@ -8677,8 +8848,7 @@
                             "replaceDivide": ""
                         }
                     }
-                },
-                "template": "template_Bpi3KKBM"
+                }
             }
         ],
         "selected_sheets": [
@@ -8711,10 +8881,10 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1748684386637.0366,
-    "create_date": "2025-5-31 @09h 39m 46s 637ms",
-    "date_last_chat": 1748710799961,
-    "chat_size": 7343,
+    "date_added": 1748710803244.8105,
+    "create_date": "2025-5-31 @17h 00m 03s 244ms",
+    "date_last_chat": 1748711141528,
+    "chat_size": 440219,
     "past_metadata": {
         "": {}
     }
