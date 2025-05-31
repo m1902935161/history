@@ -49,7 +49,7 @@
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
                         "cell_QR9YTYe4_ZctiI9QyFwuNgU5p",
-                        "cell_QR9YTYe4_BiAiBs8uJlNZAmiq"
+                        "cell_QR9YTYe4_VVvsPQe8gSlovj8k"
                     ]
                 ],
                 "cellHistory": [
@@ -650,6 +650,16 @@
                     },
                     {
                         "uid": "cell_QR9YTYe4_RINtPrxZ0WHmjuFD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_VVvsPQe8gSlovj8k",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
@@ -7466,7 +7476,7 @@
                     [
                         "cell_ayDwL85N_VE2snGozFpfmJcbN",
                         "cell_ayDwL85N_oRjUfxJYBew54GNg",
-                        "cell_ayDwL85N_sO9Zo5Dh1zQ2NWNj",
+                        "cell_ayDwL85N_1QvY7nKVOPXJ8MjD",
                         "cell_ayDwL85N_NYT0WWIKNU6RHEiQ",
                         "cell_ayDwL85N_Ofl3Yd250zuRisBY",
                         "cell_ayDwL85N_J3DLpbqyepu663Yd"
@@ -7478,6 +7488,14 @@
                         "cell_ayDwL85N_sR4pTn7dcSN70jVe",
                         "cell_ayDwL85N_lS3RdxkGk5HorHUV",
                         "cell_ayDwL85N_xanj8oipL6P5GiA4"
+                    ],
+                    [
+                        "cell_ayDwL85N_Xh9UozuJocA1IIGx",
+                        "cell_ayDwL85N_9ZAaeTlgnrQN8PqI",
+                        "cell_ayDwL85N_CLI2fFUHbrAFC5dF",
+                        "cell_ayDwL85N_D44xo1m6pJbQfGeA",
+                        "cell_ayDwL85N_riteJRZoii40V3XX",
+                        "cell_ayDwL85N_ZgobT858N7mxK55i"
                     ]
                 ],
                 "cellHistory": [
@@ -8850,6 +8868,152 @@
                             "value": "许凤萱遭受唐柔攻击，袜子被剥离，随后身体上半身遭受攻击，上衣和内衣被剥离，并试图发动技能以避免私密部位完全裸露。"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_YlqDWwDcfHRdiWP1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PQdVYB5jcBg86uR",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第二轮，唐柔担任挠痒者，许凤萱担任被挠痒者，许凤萱袜子被剥离。唐柔将攻势转移至许凤萱上半身。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_lJLY8Jv9RtpifapR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oVyRxOJ7JlNY5uY",
+                        "data": {
+                            "value": "许凤萱遭受唐柔上半身攻击，裤子被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_yVHNVcM4QJzu3hy6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_qInw8bk0u75FZbA",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_VPBqMzeo1lz2wZ4g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1qhTbV5h0jcrBU4",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_U3P55842H1EWIWUQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jwqqR0J08eMalTe",
+                        "data": {
+                            "value": "遭受唐柔上半身攻击，上衣被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_HpM9AdqEzuVqDSfQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_D3WAswzaxNfeDJm",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_QYOWNnZUs1lrtHT7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9nJs4hZMT0tRA0N",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Xj9WMkYfdz3NA14X",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MfVd1xtkifB45XS",
+                        "data": {
+                            "value": "痛苦/羞耻/决绝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_1QvY7nKVOPXJ8MjD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PQdVYB5jcBg86uR",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TicklingLove比赛第二轮，唐柔担任挠痒者，许凤萱担任被挠痒者，许凤萱裤子和上衣被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Xh9UozuJocA1IIGx",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_TFKG0O6BviQ8Zo4",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_9ZAaeTlgnrQN8PqI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wU8Bqx4WPItUzFO",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CLI2fFUHbrAFC5dF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xnNfqL1IsAKZpic",
+                        "data": {
+                            "value": "遭受唐柔攻击，裤子和上衣被剥离，为避免私密部位露出而发动技能。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_D44xo1m6pJbQfGeA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VaeigDeODVVeAmn",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_riteJRZoii40V3XX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FhG63tuHtp6yQHM",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ZgobT858N7mxK55i",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PRBVoImPlfMD0dR",
+                        "data": {
+                            "value": "痛苦/羞耻/坚韧"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -9047,7 +9211,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748712017207,
+    "date_last_chat": 1748712323353,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
