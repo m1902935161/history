@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -13,7 +13,7 @@
     "currentVersion": "1.13.0",
     "username": "相遇",
     "active_character": null,
-    "active_group": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "1748615399965-.png",
