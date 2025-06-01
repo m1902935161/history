@@ -49,7 +49,7 @@
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
                         "cell_QR9YTYe4_46yRVBYg58GdKYp8",
-                        "cell_QR9YTYe4_Z1rQdVwXtRcqw9zm"
+                        "cell_QR9YTYe4_K9MXKncAghmTQY0g"
                     ]
                 ],
                 "cellHistory": [
@@ -1285,6 +1285,16 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "林巧/鹿屿/肖甜/沈梦辰/许凰音/许凤萱/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_K9MXKncAghmTQY0g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "林巧/鹿屿/肖甜/沈梦辰/许凰音/许凤萱"
                         },
                         "targetUid": ""
                     }
@@ -8640,18 +8650,10 @@
                     [
                         "cell_ayDwL85N_BB1lP1vTiaOieJgh",
                         "cell_ayDwL85N_hyQH7Q62BTNDELZz",
-                        "cell_ayDwL85N_SkqWKSKc46b1bkFo",
+                        "cell_ayDwL85N_Y6cJ83BP2Fk9eVcM",
                         "cell_ayDwL85N_WpqSawm9aP3DtFg4",
                         "cell_ayDwL85N_hWJ4GeFBrxwVhpsT",
-                        "cell_ayDwL85N_dBzmt4IXuwGUrvcE"
-                    ],
-                    [
-                        "cell_ayDwL85N_1qSEn12uxTxFqtzX",
-                        "cell_ayDwL85N_UbyJ4mime2GoNR8D",
-                        "cell_ayDwL85N_Ft9AsrjLN6XTBJW7",
-                        "cell_ayDwL85N_pns0U0RB1TbmIWJB",
-                        "cell_ayDwL85N_TDiztNIYkWFAU5wV",
-                        "cell_ayDwL85N_N4ifGNk8sgcIzRzt"
+                        "cell_ayDwL85N_rbsEpx6HzbIMe934"
                     ]
                 ],
                 "cellHistory": [
@@ -13270,6 +13272,26 @@
                             "value": "羞耻/挣扎/屈辱/崩溃"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Y6cJ83BP2Fk9eVcM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N0MNGmstbcs0UrR",
+                        "data": {
+                            "value": "鹿屿在感官刑场遭受林巧挠痒，阴茎勃起并被林巧快速剥离衣物至全裸，伴随着疯狂大笑，随后进入感官处刑阶段，喵乐园全员登场对其进行挠痒。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_rbsEpx6HzbIMe934",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uWocW8ZKiN3w1uM",
+                        "data": {
+                            "value": "羞耻/挣扎/崩溃"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13467,7 +13489,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748749398517,
+    "date_last_chat": 1748749882589,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
