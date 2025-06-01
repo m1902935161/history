@@ -49,7 +49,7 @@
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
                         "cell_QR9YTYe4_yfBuozQ4ndB2jjQS",
-                        "cell_QR9YTYe4_vEET5QT14hUYGPDD"
+                        "cell_QR9YTYe4_sigXtlhFCxfOARwY"
                     ]
                 ],
                 "cellHistory": [
@@ -1370,6 +1370,16 @@
                     },
                     {
                         "uid": "cell_QR9YTYe4_vEET5QT14hUYGPDD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "凛霜/许凤萱/沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_sigXtlhFCxfOARwY",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
@@ -8798,10 +8808,10 @@
                     [
                         "cell_ayDwL85N_jyz4MvVJQbsuXIXs",
                         "cell_ayDwL85N_gQMSrLXN7FzJXB3x",
-                        "cell_ayDwL85N_lERf5opaKjn51pdH",
+                        "cell_ayDwL85N_nZicHQK7OiooWIED",
                         "cell_ayDwL85N_A9xbtcImUhOPLv71",
                         "cell_ayDwL85N_ToLlGA5dMcRKLOhI",
-                        "cell_ayDwL85N_Mpzlfbc09SoTAWtP"
+                        "cell_ayDwL85N_T0HVKs4vmEm2tO8Y"
                     ]
                 ],
                 "cellHistory": [
@@ -13596,6 +13606,26 @@
                             "value": "自信/掌控/冷酷"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_nZicHQK7OiooWIED",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Fmg9vhFSOU0aZ5s",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第三轮，嘉世派出凛霜担任ER对阵许凤萱担任EE。凛霜发动“真言审判”，许凤萱说出弱点，凛霜发动“弱点刺探”剥离许凤萱内衣。许凤萱核心能量恢复，发动“魅影舞步”。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_T0HVKs4vmEm2tO8Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gDGDPl0rGBgE0QY",
+                        "data": {
+                            "value": "屈辱/挣扎/坚韧"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13794,7 +13824,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748750902655,
+    "date_last_chat": 1748760611693,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
