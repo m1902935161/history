@@ -49,7 +49,7 @@
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
                         "cell_QR9YTYe4_L4XXB1i5xsDFwtrx",
-                        "cell_QR9YTYe4_lb35BWWicZ1zXVix"
+                        "cell_QR9YTYe4_zo1HE8QSKm7uZvQ5"
                     ]
                 ],
                 "cellHistory": [
@@ -1057,6 +1057,16 @@
                             "value": "唐柔/许凤萱/肖甜/沈梦辰/许凰音/林巧"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_zo1HE8QSKm7uZvQ5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱/沈梦"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -1126,7 +1136,7 @@
                     [
                         "cell_KvpkieXg_jUYHpoapxpgYZDrq",
                         "cell_KvpkieXg_cvdvjETW0ah2YzcW",
-                        "cell_KvpkieXg_4NIKNsn5Q5Z8WdpE",
+                        "cell_KvpkieXg_sSQKLrGr5b95pBor",
                         "cell_KvpkieXg_uogM3ANSAmwrwr1K",
                         "cell_KvpkieXg_HAphkZ9Z5dYhYsy4",
                         "cell_KvpkieXg_HMOWM8TJTxHvTMHO",
@@ -8108,12 +8118,12 @@
                         "cell_ayDwL85N_zHIwqhaREoLFplVm"
                     ],
                     [
-                        "cell_ayDwL85N_DIakyAtg2MCFmYcc",
-                        "cell_ayDwL85N_lIG4fAuLAOQFwisv",
-                        "cell_ayDwL85N_QWIpdBpfSfZgG0Cw",
-                        "cell_ayDwL85N_DRQVChYbpQwGAt6A",
-                        "cell_ayDwL85N_zllPnFQSatDo5gNQ",
-                        "cell_ayDwL85N_vogkECLBQFU3FicT"
+                        "cell_ayDwL85N_sIrBO7KwGMMRWAxs",
+                        "cell_ayDwL85N_X57aYUn2v70eDm8J",
+                        "cell_ayDwL85N_CbuXA3bkAaTKKksK",
+                        "cell_ayDwL85N_zdY2f3ocwPmpHF9S",
+                        "cell_ayDwL85N_ceipxZomGCuGvlwU",
+                        "cell_ayDwL85N_i8kF4ge8ETtYCLJ9"
                     ]
                 ],
                 "cellHistory": [
@@ -11140,6 +11150,64 @@
                             "value": "愤怒/羞耻/崩溃"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_sIrBO7KwGMMRWAxs",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_qUbWO0JPHOCdotc",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_X57aYUn2v70eDm8J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oJflM2aRmsVSyp2",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CbuXA3bkAaTKKksK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3wNrQVSZDTARNwu",
+                        "data": {
+                            "value": "在TicklingLove感官刑场被许凤萱挠痒，TL核心强制启动，敏感度飙升，衣物被剥离至全裸。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_zdY2f3ocwPmpHF9S",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fnFm5KlnrVUAW6I",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ceipxZomGCuGvlwU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_igPfW4T7YvZ2fQk",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_i8kF4ge8ETtYCLJ9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_a0rOYeDvGj1Zc1n",
+                        "data": {
+                            "value": "高傲/不甘/屈辱/崩溃"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -11337,7 +11405,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748741785419,
+    "date_last_chat": 1748741845671,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
