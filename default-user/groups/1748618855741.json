@@ -1177,6 +1177,36 @@
                             "value": "唐柔/许凤萱/肖甜/沈梦辰/许凰音/林巧"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_Ssc0k4KRSUq51INN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "嘉世俱乐部后台准备室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_hywe7uOW2Wp7uzG0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "嘉世俱乐部后台准备室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_04rOx3QIKEyadjck",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "鹿屿/沈梦/安雅/凛霜/沈欣淼"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -6302,6 +6332,104 @@
                             "value": "高傲/独立/不屈不挠/极度好胜/内心深处隐藏着对现状的无奈和一丝脆弱/身体敏感度极高"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_7FyP8Ye5YlCDsTVl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tRVuZOeyjbwdLxu",
+                        "data": {
+                            "value": "修长/精致/比寻常女性动人/白皙/清澈眼眸"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_glwCPNtatdq7EjlC",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_AXhwaVPc8E9i012",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_kD1s8lRQh4glp9Tx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zsISHbEwD0HqfOz",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_SGxXbythC4uebif3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_17zoa9O0tTvjfJ1",
+                        "data": {
+                            "value": "修长/精致/比寻常女性动人/白皙/清澈眼眸"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_mnqOS9vdYdEugYW2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fpyhYAVHw8qzVQE",
+                        "data": {
+                            "value": "清秀内敛/温柔/坚韧/冷静沉着/极力压制反应"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_WWdOfyvPrmG1zOI8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_u60FijDDLw1yVs7",
+                        "data": {
+                            "value": "TL选手/新伊甸科技大学身体感官工程系大学生/神经义体调试兼职"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_EP8Wh5htYeroNJBN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5LqsbpwN9zW4OSn",
+                        "data": {
+                            "value": "身体感官工程学/挑逗之爱竞技训练"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_28C1AcClgA7yWEY3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_F3FVi16d81H30Pf",
+                        "data": {
+                            "value": "妹妹的虚拟偶像演唱会录像"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_wz9Um7jEr0crRfkg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DeYJBfKIAoqu2mL",
+                        "data": {
+                            "value": "嘉世俱乐部专属房间/大学宿舍般设施"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_Kp0r21injaM2Uqmv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LKPKP8ZYAGwnyQh",
+                        "data": {
+                            "value": "远超女性的敏感体质/琉璃之躯/为学费和妹妹生活费参赛/极力隐藏选手身份"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -8058,6 +8186,160 @@
                         "coordUid": "coo_UeD4ukm5AJpORcV",
                         "data": {
                             "value": "高傲/独立/不屈不挠/极度好胜/内心深处隐藏着对现状的无奈和脆弱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_9bxeOTzUvUTlIanm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HYJSYePOV95sfwV",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_agSBccSbh6vXVjjt",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_2ReSaazDMq4AR1E",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_FQeG1tPblZmye6Ne",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_e8He1u6lc2OgEkW",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_wsaqedHfyyVDjalI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DaBiM5KHKsHLT4P",
+                        "data": {
+                            "value": "经纪人"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_r3Ee8YNUqjS9U84a",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HgUWtWAG6aBPsCR",
+                        "data": {
+                            "value": "服从指令"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_x2EvoG6XslanbIEb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PWMRy1H3cFRWXXI",
+                        "data": {
+                            "value": "中"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_Wl3NTj1a1qWGdrzj",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_DMef4MnZ17mEw4Z",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_qKYat9kREmIcVWzX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JvL4p2zS2JWHaio",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_hcj7LL1k1CicJZLy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LNKk8S0kqCK9qZw",
+                        "data": {
+                            "value": "队友"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_QjNmFS74DPIwVEwD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Kda071oSjgiJ0Qr",
+                        "data": {
+                            "value": "尊重/支持"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_oFCBRZyLAeApKi5D",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KSy80ZIR1C9orKb",
+                        "data": {
+                            "value": "中"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_VLt8fup66pGf0LgD",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_xIwRuWxoMMvcQlU",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_biCOECySjf0vvigw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9JFIAjUE9VytFXX",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_u9ykHnWCxMB5PaEO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ins9FCcNv9P15Zz",
+                        "data": {
+                            "value": "对手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_6a6kvbXchD5EYGcx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vpO2dZ6WvxEtin5",
+                        "data": {
+                            "value": "冷静应对/意志对抗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_HCgX1otI_7IHqV4N9EHwpR0hO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7U8le4YnVuLz2iT",
+                        "data": {
+                            "value": "中"
                         },
                         "targetUid": ""
                     }
@@ -12300,6 +12582,190 @@
                             "value": "安静/投入"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_lIQxKdtZ4sd0wCGF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_znYnM4WSZ84coqg",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第三轮，鹿屿担任EE对阵林巧担任ER。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_HbEIJQnd7kOpdnPJ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_nljBv0p1wphteTr",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ZyKU7dyHrTAtloAF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8Vk2VR9Rqzr3IQx",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_rzF6bVNTEtKJHJ9y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6SVcm5GFhe2ryPy",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第三轮，林巧担任ER对阵鹿屿担任EE。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Iawg22yUhPvbUT45",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_R958yx4VjaiJ0YA",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_uxD1IAd2Q3APzcyd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_K7D3IrNJgW14mSF",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_eNwAiS7kqTLOw7j2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gBi2wu4YMEuTeQZ",
+                        "data": {
+                            "value": "高傲/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_LsrGorvhL60PoZz6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ud92YIF3SGf3dKt",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_VIyiWIbTVsCxxoXK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B3xbfHL7aJM1HQ6",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_7JEMHEuUYKagsV4m",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3iV1aen2G6BFssb",
+                        "data": {
+                            "value": "在嘉世俱乐部后台准备室被沈梦告知将作为嘉世第三轮比赛的EE，对阵喵乐园的林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_v8pL2x2tlOkd5XsQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_otkF20EOrPVoFWt",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_2V1iDgSa4sUh4Ofm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Iik5hQ1nNAAdQhm",
+                        "data": {
+                            "value": "嘉世俱乐部后台准备室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_k7OzeO0UiihC4qaU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yN0b8YGwjjTFTDd",
+                        "data": {
+                            "value": "沉重/坚定"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_OD28EsBZ7VYdQRJJ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_17oKO7fgxR9Ud0t",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_JY86DxkJYi2zbFbd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tDctXj5a8Mf1FJJ",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_FGqK56yeqMmFWZkS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AB05Su52wFia6G3",
+                        "data": {
+                            "value": "在TL感官刑场作为ER对阵鹿屿，展开进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_gEYOKrU2ln9WGnyV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EqfwfKIu6L3XwGg",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_hu4QSxLxeitVakmu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5PqrfPwtKSjmbBT",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_oUDzqJdFaKf5CfS9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SEX5RK6106BYc7b",
+                        "data": {
+                            "value": "高傲/自信"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -12497,7 +12963,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748742955531,
+    "date_last_chat": 1748744176916,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
