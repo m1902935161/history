@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_bhhX9z1RLEeADN1F",
-                        "cell_QR9YTYe4_x1389E42sikJdQfP"
+                        "cell_QR9YTYe4_64b4bWl4pmZJsJk3",
+                        "cell_QR9YTYe4_lNBAjHYfVU1OUVq7"
                     ]
                 ],
                 "cellHistory": [
@@ -1085,6 +1085,26 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "唐柔/许凤萱/肖甜/沈梦辰/许凰音/林巧/嘉世工作人员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_64b4bWl4pmZJsJk3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_lNBAjHYfVU1OUVq7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱/肖甜/沈梦辰/许凰音/林巧"
                         },
                         "targetUid": ""
                     }
@@ -8140,26 +8160,42 @@
                     [
                         "cell_ayDwL85N_sIrBO7KwGMMRWAxs",
                         "cell_ayDwL85N_X57aYUn2v70eDm8J",
-                        "cell_ayDwL85N_CbuXA3bkAaTKKksK",
+                        "cell_ayDwL85N_wEIxeIZ66M21I84s",
                         "cell_ayDwL85N_zdY2f3ocwPmpHF9S",
                         "cell_ayDwL85N_ceipxZomGCuGvlwU",
-                        "cell_ayDwL85N_i8kF4ge8ETtYCLJ9"
+                        "cell_ayDwL85N_gWUNsXgUnYnyE1E8"
                     ],
                     [
-                        "cell_ayDwL85N_KN86FA6WeBFSjSpr",
-                        "cell_ayDwL85N_eWY0i3IGwWI3MIXI",
-                        "cell_ayDwL85N_t5exNhWKk2PZLKMN",
-                        "cell_ayDwL85N_hE8B73IQjPo5Ys7V",
-                        "cell_ayDwL85N_luBaSd8nKLxP2rVC",
-                        "cell_ayDwL85N_BfNoPjrueWuxGLmt"
+                        "cell_ayDwL85N_apCBu8e0zU2VIxVx",
+                        "cell_ayDwL85N_hayhGDCls5wkzwsd",
+                        "cell_ayDwL85N_Uh51MCHDDUU9qj5u",
+                        "cell_ayDwL85N_CJL7QfblSJ4tVajg",
+                        "cell_ayDwL85N_ZXMYNEYxoW92kU3F",
+                        "cell_ayDwL85N_se8Rk3SJg4v3DNc1"
                     ],
                     [
-                        "cell_ayDwL85N_3Fbkrit8eOnAgMbk",
-                        "cell_ayDwL85N_UjE24aAwZMV25ZtO",
-                        "cell_ayDwL85N_oeOEEAa3ED3QhYWe",
-                        "cell_ayDwL85N_pvaKyOUF4gErLj6T",
-                        "cell_ayDwL85N_HvsFkr814eUjJDKy",
-                        "cell_ayDwL85N_QVVf8naxZO7Rw9M5"
+                        "cell_ayDwL85N_9GkbQaV82Bh8ZDgf",
+                        "cell_ayDwL85N_WDR2mn7dfZca5924",
+                        "cell_ayDwL85N_gwzlD0uBynQnO0Xn",
+                        "cell_ayDwL85N_EvJ5o4YBSHdriWgk",
+                        "cell_ayDwL85N_C5OvEwjwwotGubbv",
+                        "cell_ayDwL85N_zPpo8CUm2EeNxqNF"
+                    ],
+                    [
+                        "cell_ayDwL85N_rzziEdrF2fGKe3zJ",
+                        "cell_ayDwL85N_ZQUkbhzAFrlrDwHy",
+                        "cell_ayDwL85N_VoVHdOcEmF7WWxIb",
+                        "cell_ayDwL85N_Ldim83kY4xquU8xu",
+                        "cell_ayDwL85N_PD9k6TctUtpV20NJ",
+                        "cell_ayDwL85N_C2f5rFVohmk7yFTZ"
+                    ],
+                    [
+                        "cell_ayDwL85N_hJ1yvUqtiAJ0Pbwz",
+                        "cell_ayDwL85N_SsOfXEAmG9A6Lv5F",
+                        "cell_ayDwL85N_CwfE9NDzYlKYkI7J",
+                        "cell_ayDwL85N_OdZwXabpB4WVqa2g",
+                        "cell_ayDwL85N_M8UoGfpbYBUHMl1H",
+                        "cell_ayDwL85N_MGl86zG0evzoC0RR"
                     ]
                 ],
                 "cellHistory": [
@@ -11360,6 +11396,258 @@
                             "value": "屈辱/痛苦/崩溃"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_wEIxeIZ66M21I84s",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3wNrQVSZDTARNwu",
+                        "data": {
+                            "value": "在TL感官刑场被喵乐园五人处刑，身体被极致挠痒至失禁、昏厥，被核心强制唤醒，最终被抬离刑场。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_gWUNsXgUnYnyE1E8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_a0rOYeDvGj1Zc1n",
+                        "data": {
+                            "value": "羞耻/屈辱/崩溃"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_apCBu8e0zU2VIxVx",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_4rNmfMc4lcqlRZF",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_hayhGDCls5wkzwsd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iKGYpf7rAa89lP1",
+                        "data": {
+                            "value": "肖甜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Uh51MCHDDUU9qj5u",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_z2GtEswxa7XlSNF",
+                        "data": {
+                            "value": "在TL感官刑场对唐柔进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CJL7QfblSJ4tVajg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SIZGc003IPaeSDE",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ZXMYNEYxoW92kU3F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_W8EGG8QnICGfIUX",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_se8Rk3SJg4v3DNc1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_z57GDU3rQ6ZYAj5",
+                        "data": {
+                            "value": "兴奋/报复"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_9GkbQaV82Bh8ZDgf",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_7q7abORQRD1cjHm",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_WDR2mn7dfZca5924",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GpR5l3HBXbFI2Ig",
+                        "data": {
+                            "value": "沈梦辰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_gwzlD0uBynQnO0Xn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CUAwvz3hBe4R1qh",
+                        "data": {
+                            "value": "在TL感官刑场对唐柔进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_EvJ5o4YBSHdriWgk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fUJj9SLgUL3Nprw",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_C5OvEwjwwotGubbv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GpoYLr6EDicxaWJ",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_zPpo8CUm2EeNxqNF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oXHUVfbAez2kOL7",
+                        "data": {
+                            "value": "严肃/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_rzziEdrF2fGKe3zJ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Qsq3wwlDOz0020J",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ZQUkbhzAFrlrDwHy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_c94nTbuZsFae3qO",
+                        "data": {
+                            "value": "许凰音"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_VoVHdOcEmF7WWxIb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4TUxZbqy3s0ieIr",
+                        "data": {
+                            "value": "在TL感官刑场对唐柔进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Ldim83kY4xquU8xu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xP6Qtkt55VNTIL5",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_PD9k6TctUtpV20NJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_C6C7nUPNkrgH1km",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_C2f5rFVohmk7yFTZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_OxSxKKaBWbBiqUx",
+                        "data": {
+                            "value": "冷静/配合"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_hJ1yvUqtiAJ0Pbwz",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_JbubBGtJksrnFRj",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_SsOfXEAmG9A6Lv5F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Oc7rPVVLdlpVAk1",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CwfE9NDzYlKYkI7J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vdPWYDBGC1NjCmy",
+                        "data": {
+                            "value": "在TL感官刑场对唐柔进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_OdZwXabpB4WVqa2g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vsdhIGWIYvrKTYE",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_M8UoGfpbYBUHMl1H",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lAFjKHu0k6OgXmr",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_MGl86zG0evzoC0RR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_L1Dx68fpcERrXLZ",
+                        "data": {
+                            "value": "安静/投入"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -11557,7 +11845,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748742300531,
+    "date_last_chat": 1748742661699,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
