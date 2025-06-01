@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_Kt39Satfd2H1ubwz",
-                        "cell_QR9YTYe4_9A5Dl1cKWmryM8gq"
+                        "cell_QR9YTYe4_CUujdLEe87knzo3N",
+                        "cell_QR9YTYe4_fPmTfa1rO3GgpCQP"
                     ]
                 ],
                 "cellHistory": [
@@ -847,6 +847,36 @@
                             "value": "唐柔/许凤萱"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_RYd64YlS5fLpNM4p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_mpH6kLUa2WVuugtX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TicklingLove感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_fPmTfa1rO3GgpCQP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -1022,6 +1052,17 @@
                         "cell_KvpkieXg_tVP2b2NbL2wXLePN",
                         "cell_KvpkieXg_3t1wrNkbxDRR8XSy",
                         "cell_KvpkieXg_0Ohd0sULNznsdxfB"
+                    ],
+                    [
+                        "cell_KvpkieXg_erHZPuuPNu3OI3xt",
+                        "cell_KvpkieXg_8Ktpz1rMzwIZtF83",
+                        "cell_KvpkieXg_2qUtphQoeamYU3jv",
+                        "cell_KvpkieXg_nQIsZAMuqsshsaG0",
+                        "cell_KvpkieXg_gKRZ9mdaF2gsGWFT",
+                        "cell_KvpkieXg_yxTa3RN7iwyK4Rs4",
+                        "cell_KvpkieXg_P2waOEddZqJjdrIL",
+                        "cell_KvpkieXg_aBzzrZJQkTkS60W2",
+                        "cell_KvpkieXg_tACmsajSgjayavSG"
                     ]
                 ],
                 "cellHistory": [
@@ -5756,6 +5797,182 @@
                             "value": "高傲/独立/不屈不挠/极度好胜/内心深处隐藏着对现状的无奈和脆弱"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_5fPlGP2JGizLMeVX",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_aSlEQ25Al6r2PxR",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_ydKHFGqyNrDlDEH8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ggvJ08DduKOBqiW",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_K3EGzXoMNiHzxEcH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QuqvO32w3ecLobp",
+                        "data": {
+                            "value": "高挑纤瘦/乌黑长发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_6dqnLDCwny5vnRX2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_co1AMOexoejJbdI",
+                        "data": {
+                            "value": "冷静/内敛/坚韧/心思缜密"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_80YttJl4MTL3nop7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8qsggjjlpTEyTlJ",
+                        "data": {
+                            "value": "TL选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_jsvY6iteHCmzvdp3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Vyckj0770oTYgjo",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_5gM540WhDxb83OJw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_W04Bc0W9zEkuNrg",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_xAWb9LZmpBiuqg7W",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XjoCQndG8Q4GyTn",
+                        "data": {
+                            "value": "喵乐园俱乐部专属房间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_oaXPKnydNQLfWJW0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SV2nmI4wIFRirtQ",
+                        "data": {
+                            "value": "喵乐园选手/TL核心名称：韧性之纱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_erHZPuuPNu3OI3xt",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_0ebqxRs1ny8JgbI",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_8Ktpz1rMzwIZtF83",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Wppf3L5uUP8PG5j",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_2qUtphQoeamYU3jv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_O6yvyLHmYJ358Kd",
+                        "data": {
+                            "value": "高挑纤瘦/乌黑长发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_nQIsZAMuqsshsaG0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tzlMg9fRGYMHfzT",
+                        "data": {
+                            "value": "冷静/内敛/坚韧/心思缜密"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_gKRZ9mdaF2gsGWFT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QmHSSVCnuMn08bS",
+                        "data": {
+                            "value": "TL选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_yxTa3RN7iwyK4Rs4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JSiOBiEyzG7RLcy",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_P2waOEddZqJjdrIL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ga94GnXePCNlQU7",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_aBzzrZJQkTkS60W2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2O09hYkuC5ePkgf",
+                        "data": {
+                            "value": "喵乐园俱乐部专属房间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_KvpkieXg_tACmsajSgjayavSG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JACGxnAp3y0iivG",
+                        "data": {
+                            "value": "喵乐园选手/TL核心名称：韧性之纱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7666,10 +7883,10 @@
                     [
                         "cell_ayDwL85N_J518PQXdAThKzQPi",
                         "cell_ayDwL85N_Twz4Yb1dbjjuBl79",
-                        "cell_ayDwL85N_4hbKs8FS1Mejw9C1",
+                        "cell_ayDwL85N_QVbWNqIGewesBdwT",
                         "cell_ayDwL85N_9oCiYtpfAHSVIiZv",
                         "cell_ayDwL85N_yVyYvVOnmuRMJEG2",
-                        "cell_ayDwL85N_zHIwqhaREoLFplVm"
+                        "cell_ayDwL85N_QP32yyZdas5mDjwP"
                     ],
                     [
                         "cell_ayDwL85N_SG6HbCjLpj8bNof6",
@@ -7686,6 +7903,14 @@
                         "cell_ayDwL85N_mQf43ssAuctPBOb2",
                         "cell_ayDwL85N_Vnf3KbhRwTvEoS8R",
                         "cell_ayDwL85N_WyJDcUKoPpuXkM52"
+                    ],
+                    [
+                        "cell_ayDwL85N_DfDtqdKlzWEQ1grZ",
+                        "cell_ayDwL85N_jmUKuN7etNVrygfh",
+                        "cell_ayDwL85N_sxeg3N6rRZvCPHic",
+                        "cell_ayDwL85N_HV8nw05Sz4LtSEF8",
+                        "cell_ayDwL85N_tTTpUVKCAZUuRwRq",
+                        "cell_ayDwL85N_dchp6LSBrYIATBL3"
                     ]
                 ],
                 "cellHistory": [
@@ -10078,6 +10303,182 @@
                             "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”攻击，崩溃值快速积累，导致袜子被剥离。唐柔将对许凤萱裸露的双脚发动“掠夺之欲”技能。而后许凤萱发动“魅影舞步”躲避唐柔进攻，触发换位机制。唐柔的“破碎之盾”被迫发动，许凤萱掌控局势。"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_pNVuRlVNGrEHsmRg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”攻击，崩溃值快速积累，导致袜子被剥离。唐柔将对许凤萱裸露的双脚发动“掠夺之欲”技能。许凤萱启动“魅影舞步”躲避唐柔“掠夺之欲”的攻击，换位机制触发，唐柔成为EE，许凤萱成为ER。唐柔的“破碎之盾”强制发动，身体敏感度快速提升，许凤萱的能力对她形成克制，导致其第一次衣物被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_uKOUBcX2ctNI1qzx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sPqFLGkVqRzihaM",
+                        "data": {
+                            "value": "高傲/侵略性/期待/不甘/震惊/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_aouGqPb3XAUZtP5I",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_nugpo9F5afg3Pza",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_4meuzyMP5IViuooA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wQENpREHeQZdu0h",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Gq9dNcXpOjMRuUoS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KA6xOz89x9whscs",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第二轮，唐柔担任EE。她的“破碎之盾”强制发动，身体敏感度快速提升。许凤萱的能力对她形成克制，导致她第一次衣物被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CoIJkUUlwJh1LJww",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cKXx8P3TJ0673nI",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_a997gjQPx27SEe9p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_14n2kwl9oQxbdpK",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_cJGKhT0aVkNkHPDn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_r7KuygrFEqVVd3B",
+                        "data": {
+                            "value": "高傲/不甘/被动/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_TcGjI1zI43ufRZVu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”攻击，崩溃值快速积累，导致袜子被剥离。唐柔将对许凤萱裸露的双脚发动“掠夺之欲”技能，之后许凤萱启动“魅影舞步”躲避唐柔“掠夺之欲”的攻击，换位机制触发，唐柔被固定在刑床，许凤萱作为ER对她发动攻势。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_6P6qXqTlxHUmUb1p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AGGfCZQiIT7rS9b",
+                        "data": {
+                            "value": "在TicklingLove感官刑场，许凤萱启动“魅影舞步”躲避唐柔“掠夺之欲”的攻击，换位机制触发，许凤萱作为ER对唐柔发动攻势。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_QVbWNqIGewesBdwT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”攻击，崩溃值快速积累，导致袜子被剥离。唐柔将对许凤萱裸露的双脚发动“掠夺之欲”技能。许凤萱启动“魅影舞步”躲避唐柔“掠夺之欲”的攻击，换位机制触发，唐柔成为EE，许凤萱成为ER。唐柔的“破碎之盾”强制发动，身体敏感度快速提升，许凤萱的能力对她形成克制，导致其第一次衣物被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_QP32yyZdas5mDjwP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sPqFLGkVqRzihaM",
+                        "data": {
+                            "value": "高傲/侵略性/期待/不甘/震惊/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_DfDtqdKlzWEQ1grZ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_vLgXRe9HrCJImFF",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_jmUKuN7etNVrygfh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_OOd0m2ST5FFcElW",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_sxeg3N6rRZvCPHic",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Og7zrccCJODFEw7",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第二轮，唐柔担任EE。她的“破碎之盾”强制发动，身体敏感度快速提升。许凤萱的能力对她形成克制，导致她第一次衣物被剥离。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_HV8nw05Sz4LtSEF8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LT2WcdWBCXQCjX4",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_tTTpUVKCAZUuRwRq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dSbeDYuPtKONn2y",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_dchp6LSBrYIATBL3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VtnimRxWfnqW3Rm",
+                        "data": {
+                            "value": "高傲/不甘/被动/屈辱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -10275,7 +10676,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748738728948,
+    "date_last_chat": 1748739079139,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
