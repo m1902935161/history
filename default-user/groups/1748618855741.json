@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_p0dFBD6PIufU6eEa",
-                        "cell_QR9YTYe4_Ib12T0uPOlbsAjch"
+                        "cell_QR9YTYe4_TmvccrSCyR19yk66",
+                        "cell_QR9YTYe4_ZQxJdYZ4vjjezd5T"
                     ]
                 ],
                 "cellHistory": [
@@ -1330,6 +1330,26 @@
                     },
                     {
                         "uid": "cell_QR9YTYe4_Ib12T0uPOlbsAjch",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "沈梦/安雅/鹿屿/唐柔/凛霜/沈欣淼"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_TmvccrSCyR19yk66",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "嘉世俱乐部后台准备室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_ZQxJdYZ4vjjezd5T",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
@@ -8750,10 +8770,18 @@
                     [
                         "cell_ayDwL85N_BB1lP1vTiaOieJgh",
                         "cell_ayDwL85N_hyQH7Q62BTNDELZz",
-                        "cell_ayDwL85N_CgzViGWNidCFVLDV",
+                        "cell_ayDwL85N_Y6cJ83BP2Fk9eVcM",
                         "cell_ayDwL85N_WpqSawm9aP3DtFg4",
                         "cell_ayDwL85N_hWJ4GeFBrxwVhpsT",
                         "cell_ayDwL85N_rbsEpx6HzbIMe934"
+                    ],
+                    [
+                        "cell_ayDwL85N_jyz4MvVJQbsuXIXs",
+                        "cell_ayDwL85N_gQMSrLXN7FzJXB3x",
+                        "cell_ayDwL85N_x8rWvibxfEqLNAo5",
+                        "cell_ayDwL85N_A9xbtcImUhOPLv71",
+                        "cell_ayDwL85N_ToLlGA5dMcRKLOhI",
+                        "cell_ayDwL85N_5cDObum3Fp6S4T0e"
                     ]
                 ],
                 "cellHistory": [
@@ -13470,6 +13498,64 @@
                             "value": "鹿屿在感官刑场遭受林巧挠痒，阴茎勃起并被林巧快速剥离衣物至全裸，伴随着疯狂大笑，随后进入感官处刑阶段，喵乐园全员登场对其进行挠痒。最终被抬离刑场。"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_jyz4MvVJQbsuXIXs",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_10a8E6RjHGzSCRZ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_gQMSrLXN7FzJXB3x",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RActtIVr0VGixB6",
+                        "data": {
+                            "value": "沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_x8rWvibxfEqLNAo5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Fmg9vhFSOU0aZ5s",
+                        "data": {
+                            "value": "嘉世对阵喵乐园TL比赛第三轮，嘉世派出凛霜担任ER对阵许凤萱担任EE。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_A9xbtcImUhOPLv71",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GPjJi9sUG9sbgIW",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ToLlGA5dMcRKLOhI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CTzSYfQIuTkIyeS",
+                        "data": {
+                            "value": "嘉世俱乐部后台准备室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_5cDObum3Fp6S4T0e",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gDGDPl0rGBgE0QY",
+                        "data": {
+                            "value": "自信/冷静"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13668,7 +13754,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748750478701,
+    "date_last_chat": 1748750738668,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
