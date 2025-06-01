@@ -10,13 +10,13 @@
         "【嘉世】沈欣淼.png",
         "【嘉世】凛霜.png",
         "【嘉世】安雅.png",
+        "【嘉世】鹿屿.png",
         "【极乐经纪人】凛.png",
         "【感官至上经纪人】罗莎.png",
         "【感官至上】苏瑶瑶.png",
         "【感官至上】苏闪闪.png",
         "【喵乐园】许凰音.png",
         "【喵乐园】许凤萱.png",
-        "【嘉世】鹿屿.png",
         "【喵乐园】林巧.png"
     ],
     "avatar_url": "/thumbnail?type=avatar&file=%E9%AD%85%E9%AD%94%E5%9E%8BAI%E5%88%9B%E4%BD%9C%E5%B7%A5%E5%85%B7.png",
@@ -1230,6 +1230,16 @@
                     },
                     {
                         "uid": "cell_QR9YTYe4_dFTDWFu2QrPRMK6L",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "林巧/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_MsMpCgyMBITRtn8l",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
@@ -8590,10 +8600,10 @@
                     [
                         "cell_ayDwL85N_BB1lP1vTiaOieJgh",
                         "cell_ayDwL85N_hyQH7Q62BTNDELZz",
-                        "cell_ayDwL85N_tdfYPZx8F1kHr6VJ",
+                        "cell_ayDwL85N_SkqWKSKc46b1bkFo",
                         "cell_ayDwL85N_WpqSawm9aP3DtFg4",
                         "cell_ayDwL85N_hWJ4GeFBrxwVhpsT",
-                        "cell_ayDwL85N_gykZ9qITbeundnce"
+                        "cell_ayDwL85N_dBzmt4IXuwGUrvcE"
                     ]
                 ],
                 "cellHistory": [
@@ -12938,6 +12948,36 @@
                             "value": "鹿屿在感官刑场遭受林巧挠痒，阴茎勃起并被林巧快速剥离衣物至全裸。"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_RegHVARuytz1VBIl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N0MNGmstbcs0UrR",
+                        "data": {
+                            "value": "鹿屿在TL感官刑场遭受林巧挠痒，阴茎勃起并被林巧快速剥离衣物至仅剩阴茎防护。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_SkqWKSKc46b1bkFo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N0MNGmstbcs0UrR",
+                        "data": {
+                            "value": "鹿屿在感官刑场遭受林巧挠痒，阴茎勃起并被林巧快速剥离衣物至仅剩阴茎护套，伴随着疯狂大笑。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_dBzmt4IXuwGUrvcE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uWocW8ZKiN3w1uM",
+                        "data": {
+                            "value": "羞耻/挣扎/崩溃"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13135,7 +13175,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748748536522,
+    "date_last_chat": 1748748919891,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
