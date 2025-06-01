@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_CUujdLEe87knzo3N",
-                        "cell_QR9YTYe4_S95B2bY2yDz2oEAZ"
+                        "cell_QR9YTYe4_Kt39Satfd2H1ubwz",
+                        "cell_QR9YTYe4_9A5Dl1cKWmryM8gq"
                     ]
                 ],
                 "cellHistory": [
@@ -820,6 +820,26 @@
                     },
                     {
                         "uid": "cell_QR9YTYe4_S95B2bY2yDz2oEAZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_Kt39Satfd2H1ubwz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TicklingLove感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_9A5Dl1cKWmryM8gq",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
@@ -7646,7 +7666,7 @@
                     [
                         "cell_ayDwL85N_J518PQXdAThKzQPi",
                         "cell_ayDwL85N_Twz4Yb1dbjjuBl79",
-                        "cell_ayDwL85N_yKrm6j8osDaGV4ES",
+                        "cell_ayDwL85N_4hbKs8FS1Mejw9C1",
                         "cell_ayDwL85N_9oCiYtpfAHSVIiZv",
                         "cell_ayDwL85N_yVyYvVOnmuRMJEG2",
                         "cell_ayDwL85N_zHIwqhaREoLFplVm"
@@ -7666,14 +7686,6 @@
                         "cell_ayDwL85N_mQf43ssAuctPBOb2",
                         "cell_ayDwL85N_Vnf3KbhRwTvEoS8R",
                         "cell_ayDwL85N_WyJDcUKoPpuXkM52"
-                    ],
-                    [
-                        "cell_ayDwL85N_FQrc4DWDdNVB0mnF",
-                        "cell_ayDwL85N_55R4rLEWb9rFZ77f",
-                        "cell_ayDwL85N_GO8YhbGZvDb7MWIC",
-                        "cell_ayDwL85N_rzSYxPyVUb4XYZCC",
-                        "cell_ayDwL85N_zKEHK2zYonfqWZs9",
-                        "cell_ayDwL85N_bZY6nG11VDdK6b4C"
                     ]
                 ],
                 "cellHistory": [
@@ -10056,6 +10068,16 @@
                             "value": "羞耻/崩溃"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_4hbKs8FS1Mejw9C1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”攻击，崩溃值快速积累，导致袜子被剥离。唐柔将对许凤萱裸露的双脚发动“掠夺之欲”技能。而后许凤萱发动“魅影舞步”躲避唐柔进攻，触发换位机制。唐柔的“破碎之盾”被迫发动，许凤萱掌控局势。"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -10253,7 +10275,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748738488766,
+    "date_last_chat": 1748738728948,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
