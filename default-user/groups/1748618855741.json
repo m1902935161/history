@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_sYkDhLBPTt8SB5rG",
-                        "cell_QR9YTYe4_noNzrcd0TlfyaaEj"
+                        "cell_QR9YTYe4_46yRVBYg58GdKYp8",
+                        "cell_QR9YTYe4_70AhzvPbBWJEwiNk"
                     ]
                 ],
                 "cellHistory": [
@@ -1205,6 +1205,26 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "鹿屿/沈梦/安雅/凛霜/沈欣淼"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_46yRVBYg58GdKYp8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_70AhzvPbBWJEwiNk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "林巧/鹿屿"
                         },
                         "targetUid": ""
                     }
@@ -8548,6 +8568,22 @@
                         "cell_ayDwL85N_06w8Ov3TM6uuhiKP",
                         "cell_ayDwL85N_zmGJIyQFKwjX4IcT",
                         "cell_ayDwL85N_Agpu49VX4bgjoyG4"
+                    ],
+                    [
+                        "cell_ayDwL85N_ezwIhgKNlgWLRUVu",
+                        "cell_ayDwL85N_yZbfm3bhrgIMcc2L",
+                        "cell_ayDwL85N_NUlsnrs71N8UUwFS",
+                        "cell_ayDwL85N_CQC29Nv5szc1ePAd",
+                        "cell_ayDwL85N_y87GndhS8c7FSaeV",
+                        "cell_ayDwL85N_maOmi8N2JG8N5PUE"
+                    ],
+                    [
+                        "cell_ayDwL85N_BB1lP1vTiaOieJgh",
+                        "cell_ayDwL85N_hyQH7Q62BTNDELZz",
+                        "cell_ayDwL85N_GxbEUTnWhp5uvIly",
+                        "cell_ayDwL85N_WpqSawm9aP3DtFg4",
+                        "cell_ayDwL85N_hWJ4GeFBrxwVhpsT",
+                        "cell_ayDwL85N_gykZ9qITbeundnce"
                     ]
                 ],
                 "cellHistory": [
@@ -12766,6 +12802,122 @@
                             "value": "高傲/自信"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ezwIhgKNlgWLRUVu",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_W8MTxFkV2biNgab",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_yZbfm3bhrgIMcc2L",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wzgtt5hFTVt48xz",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_NUlsnrs71N8UUwFS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wVyZ3A1JozwVoQp",
+                        "data": {
+                            "value": "在TL感官刑场对鹿屿进行挠痒，展现“玉足女皇”的进攻模式。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CQC29Nv5szc1ePAd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cDJTAroI5JxchZO",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_y87GndhS8c7FSaeV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_P9nS1eFjLV6SCUC",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_maOmi8N2JG8N5PUE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xX9M1BGQvepj5CZ",
+                        "data": {
+                            "value": "优雅/自信/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_BB1lP1vTiaOieJgh",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_lFt543w0Pv4x31Q",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_hyQH7Q62BTNDELZz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NtIwuEPBiBNddGP",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_GxbEUTnWhp5uvIly",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N0MNGmstbcs0UrR",
+                        "data": {
+                            "value": "在TL感官刑场遭受林巧挠痒。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_WpqSawm9aP3DtFg4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_medQO8ov2xHulzo",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_hWJ4GeFBrxwVhpsT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oLSaQ5OQHkCFXvZ",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_gykZ9qITbeundnce",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uWocW8ZKiN3w1uM",
+                        "data": {
+                            "value": "平静/抵御"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -12963,7 +13115,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748744176916,
+    "date_last_chat": 1748744229610,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
