@@ -49,7 +49,7 @@
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
                         "cell_QR9YTYe4_46yRVBYg58GdKYp8",
-                        "cell_QR9YTYe4_NJVIxu9PXIopc31z"
+                        "cell_QR9YTYe4_Z1rQdVwXtRcqw9zm"
                     ]
                 ],
                 "cellHistory": [
@@ -1265,6 +1265,26 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "林巧/肖甜/沈梦辰/许凰音/许凤萱/沈梦/嘉世工作人员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_g8iBSjMq76WshM8g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "林巧/鹿屿/肖甜/沈梦辰/许凰音/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_Z1rQdVwXtRcqw9zm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "林巧/鹿屿/肖甜/沈梦辰/许凰音/许凤萱/林巧"
                         },
                         "targetUid": ""
                     }
@@ -8620,18 +8640,18 @@
                     [
                         "cell_ayDwL85N_BB1lP1vTiaOieJgh",
                         "cell_ayDwL85N_hyQH7Q62BTNDELZz",
-                        "cell_ayDwL85N_fKIi8eVrRMV3U739",
+                        "cell_ayDwL85N_SkqWKSKc46b1bkFo",
                         "cell_ayDwL85N_WpqSawm9aP3DtFg4",
                         "cell_ayDwL85N_hWJ4GeFBrxwVhpsT",
-                        "cell_ayDwL85N_YW4CchSlDtiCULoA"
+                        "cell_ayDwL85N_dBzmt4IXuwGUrvcE"
                     ],
                     [
-                        "cell_ayDwL85N_d80fYXeoOUT6EnYa",
-                        "cell_ayDwL85N_mcmuVR3rZ1qp0ud5",
-                        "cell_ayDwL85N_IyBsn5iikARVFdL4",
-                        "cell_ayDwL85N_9b7ODIgSvAxHtCqo",
-                        "cell_ayDwL85N_f3V5VQPpmomJZFgL",
-                        "cell_ayDwL85N_w2VRuGXpaQ0Ni0D3"
+                        "cell_ayDwL85N_1qSEn12uxTxFqtzX",
+                        "cell_ayDwL85N_UbyJ4mime2GoNR8D",
+                        "cell_ayDwL85N_Ft9AsrjLN6XTBJW7",
+                        "cell_ayDwL85N_pns0U0RB1TbmIWJB",
+                        "cell_ayDwL85N_TDiztNIYkWFAU5wV",
+                        "cell_ayDwL85N_N4ifGNk8sgcIzRzt"
                     ]
                 ],
                 "cellHistory": [
@@ -13084,6 +13104,172 @@
                             "value": "满意"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_LIYR71fiFmbHmsti",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qR6cmfVAVEcQPqo",
+                        "data": {
+                            "value": "在TL感官刑场对鹿屿进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_fQsG5qph3fnUfpva",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5knM2rvmOjMe93S",
+                        "data": {
+                            "value": "在TL感官刑场对鹿屿进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_7YBqmFjUf4miIzq1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sKTUuV0C1sCmVoP",
+                        "data": {
+                            "value": "在TL感官刑场对鹿屿进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_uKgkyyHqXqMaEPNB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JaclhXxKDFw2vHg",
+                        "data": {
+                            "value": "在TL感官刑场对鹿屿进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_oOPPo6rVyILSWQtf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wVyZ3A1JozwVoQp",
+                        "data": {
+                            "value": "在TL感官刑场对鹿屿进行感官处刑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_CPy0LqY4x7U5QtdF",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ozY0jbvoyZLhOZu",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_N76wLoKjVa8xM4fQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hOiKBj8JqlT4Xbb",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_37PbNJGvCcwmzRfb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1UUt8NL6Pc99g9x",
+                        "data": {
+                            "value": "在TL感官刑场被喵乐园五人处刑，身体被极致挠痒至失禁、昏厥，被核心强制唤醒，最终被抬离刑场。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_31VcDZ4XSGmJfSB6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HUi6Hjx8wmN3QMy",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_eMlAhKBofSb3SQX7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GVGDbB7FM0nLb09",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_KEehSKCrsOdn3TqA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5ntRlOsANGkCxbk",
+                        "data": {
+                            "value": "羞耻/屈辱/崩溃"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_1qSEn12uxTxFqtzX",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_zzyoRg7aWw5zgFt",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_UbyJ4mime2GoNR8D",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KxKjRHGKW8wjPWX",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_Ft9AsrjLN6XTBJW7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tpKBqJEKg5AEiwH",
+                        "data": {
+                            "value": "在TL感官刑场被喵乐园五人处刑，TL核心强制发动敏感度飙升。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_pns0U0RB1TbmIWJB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9f8O1s7rXPFyiJU",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_TDiztNIYkWFAU5wV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8eMV7T87ISGGKhR",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_N4ifGNk8sgcIzRzt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tsbeFCl9Kmfkl3D",
+                        "data": {
+                            "value": "羞耻/挣扎/屈辱/崩溃"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13281,7 +13467,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748749279232,
+    "date_last_chat": 1748749398517,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
