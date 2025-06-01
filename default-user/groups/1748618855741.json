@@ -48,8 +48,8 @@
                         "cell_QR9YTYe4_IcOtrOUh8Dju2SQX",
                         "cell_QR9YTYe4_p8IRP5weMk4XC8CZ",
                         "cell_QR9YTYe4_eZFYJHZ1elFCKWFP",
-                        "cell_QR9YTYe4_L4XXB1i5xsDFwtrx",
-                        "cell_QR9YTYe4_7ZMkBAs2pLZ1tK59"
+                        "cell_QR9YTYe4_2IQAU3DFcS8b4hHR",
+                        "cell_QR9YTYe4_WFtW4dI0aXVk6ES0"
                     ]
                 ],
                 "cellHistory": [
@@ -885,6 +885,46 @@
                         "coordUid": "coo_NrLmHRRH9hHqu3f",
                         "data": {
                             "value": "唐柔/许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_S9Bn8695EpJQTCVV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_p36uoQoIyXbHFqwZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "许凤萱/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_2IQAU3DFcS8b4hHR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4b7aDwpFIQHSIwl",
+                        "data": {
+                            "value": "TL感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_QR9YTYe4_WFtW4dI0aXVk6ES0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NrLmHRRH9hHqu3f",
+                        "data": {
+                            "value": "许凤萱/唐柔"
                         },
                         "targetUid": ""
                     }
@@ -7882,7 +7922,7 @@
                     [
                         "cell_ayDwL85N_J518PQXdAThKzQPi",
                         "cell_ayDwL85N_Twz4Yb1dbjjuBl79",
-                        "cell_ayDwL85N_MNqyNA5nNpvUArFE",
+                        "cell_ayDwL85N_1blJF89LS6GmoVlY",
                         "cell_ayDwL85N_9oCiYtpfAHSVIiZv",
                         "cell_ayDwL85N_yVyYvVOnmuRMJEG2",
                         "cell_ayDwL85N_zHIwqhaREoLFplVm"
@@ -10464,6 +10504,26 @@
                             "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”及“掠夺之欲”攻击，崩溃值快速积累，导致袜子、裤子和上衣被剥离，只剩下胸罩和内裤。许凤萱被迫发动防守技能“魅影舞步”。"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_ONc6HcecGIVpDsib",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”及“掠夺之欲”攻击，崩溃值快速积累，导致袜子、裤子和上衣被剥离，只剩下胸罩和内裤。许凤萱被迫发动防守技能“魅影舞步”，并成功拖延至换位机制倒计时触发。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ayDwL85N_1blJF89LS6GmoVlY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF8SvPtO7QGyXRA",
+                        "data": {
+                            "value": "许凤萱在TicklingLove感官刑场遭受唐柔“极速锋芒”及“掠夺之欲”攻击，崩溃值快速积累，导致袜子、裤子和上衣被剥离，只剩下胸罩和内裤。许凤萱被迫发动防守技能“魅影舞步”，并成功拖延至换位机制倒计时触发。"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -10661,7 +10721,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748710803244.8105,
     "create_date": "2025-5-31 @17h 00m 03s 244ms",
-    "date_last_chat": 1748739350509,
+    "date_last_chat": 1748739665705,
     "chat_size": 440219,
     "past_metadata": {
         "": {}
