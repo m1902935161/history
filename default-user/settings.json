@@ -13,7 +13,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "User",
-    "active_character": null,
+    "active_character": "【极乐经纪人】凛.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1436,14 +1436,14 @@
         "【嘉世经纪人】沈梦.png": [],
         "【喵乐园经纪人】苏婉清.png": [],
         "【感官至上经纪人】罗莎.png": [],
-        "【极乐经纪人】凛.png": [],
         "【嘉世】凛霜.png": [],
         "【嘉世】安雅.png": [],
         "【喵乐园】沈梦辰.png": [],
         "【喵乐园】肖甜.png": [],
         "【嘉世】沈欣淼.png": [],
         "【感官至上】苏闪闪.png": [],
-        "【感官至上】苏瑶瑶.png": []
+        "【感官至上】苏瑶瑶.png": [],
+        "【感官至上】薇拉.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
