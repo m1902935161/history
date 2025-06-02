@@ -252,6 +252,16 @@
                             "value": "沈梦/唐柔/沈欣淼/凛霜/安雅/鹿屿/苏婉清/肖甜/沈梦辰/许凰音/许凤萱/林巧/音璃/汐音/薇拉/苏瑶瑶/苏闪闪/叶凌/罗莎"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_cGOurxRl_sqCTHCV3Gte2qn8d",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SQT4aIaagSPcpLP",
+                        "data": {
+                            "value": "沈梦/唐柔/沈欣淼/凛霜/安雅/鹿屿/苏婉清/肖甜/沈梦辰/许凰音/许凤萱/林巧/音璃/汐音/薇拉/苏瑶瑶/苏闪闪/叶凌/罗莎/观众"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -8054,6 +8064,64 @@
                             "value": "紧张/期待"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_aRZJII0W_z3QG2QaMROxm1rz8",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_HmoxAONt7oIOAmW",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_aRZJII0W_g8l96ktcgghYVX67",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_y0IMUlBcuMH0q1y",
+                        "data": {
+                            "value": "肖甜/安雅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_aRZJII0W_7kNqfAB2haV8Rimc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_X0aBRdQSCFL6FNp",
+                        "data": {
+                            "value": "安雅袜子被剥离"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_aRZJII0W_fRW7fwtluGE1BgOX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_C57ENE4p0pzx32t",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_aRZJII0W_44M88JvRfurOu3Aw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ajpNzW20cSH6TGz",
+                        "data": {
+                            "value": "感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_aRZJII0W_LvMr6eqI9Z63hzDw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JZ3PFJbTxRbB43t",
+                        "data": {
+                            "value": "兴奋/羞耻"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -8349,7 +8417,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748874921875,
+    "date_last_chat": 1748875275360,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
