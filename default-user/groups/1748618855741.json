@@ -52,7 +52,7 @@
                         "cell_jh9kl4nk_YwMawg39QJHyHcj3",
                         "cell_jh9kl4nk_NES4hoIf3o4dFjaS",
                         "cell_jh9kl4nk_wBehbl0jMzwZml1H",
-                        "cell_jh9kl4nk_l4PsnosTPJpo1GCp"
+                        "cell_jh9kl4nk_KGW1jTZuZ9N51oRO"
                     ]
                 ],
                 "cellHistory": [
@@ -1344,6 +1344,16 @@
                             "value": "沈梦/苏婉清/安雅/唐柔/许凤萱/嘉世替补/喵乐园替补"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_KGW1jTZuZ9N51oRO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "林巧/鹿屿"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -1486,7 +1496,7 @@
                         "cell_TIcKZQyg_t5bLorErp8Fd08Df",
                         "cell_TIcKZQyg_IVpSbGNeEONuh7tb",
                         "cell_TIcKZQyg_Eep0CYeCI6x7k7WG",
-                        "cell_TIcKZQyg_XyhmosnxvIfDw3YE"
+                        "cell_TIcKZQyg_qFjc69ZDj5DPabUc"
                     ],
                     [
                         "cell_TIcKZQyg_XecKOQTXvbRhwpqO",
@@ -1497,7 +1507,7 @@
                         "cell_TIcKZQyg_MlbZiB0dRoVqxZqU",
                         "cell_TIcKZQyg_Bh5zH0ccyZWDlNWn",
                         "cell_TIcKZQyg_TDCXDtOih0ZEO7dr",
-                        "cell_TIcKZQyg_eHbsaTT3hhgOoxDG"
+                        "cell_TIcKZQyg_DjhJ4VBDWvrSjk7T"
                     ]
                 ],
                 "cellHistory": [
@@ -25908,6 +25918,26 @@
                             "value": "嘉世EE/第三轮出场"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_DjhJ4VBDWvrSjk7T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3iW9wQVlvLKKORe",
+                        "data": {
+                            "value": "嘉世EE/第三轮出场/被固定/防守技能启动"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_qFjc69ZDj5DPabUc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qfY26Rfs1Zgfiv2",
+                        "data": {
+                            "value": "喵乐园ER/第三轮出场/已启动璞玉现世/已启动浮空舞步/已用脚趾攻击鹿屿"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -41460,7 +41490,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748882930391,
+    "date_last_chat": 1748883318414,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
