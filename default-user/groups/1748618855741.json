@@ -1465,7 +1465,7 @@
                         "cell_TIcKZQyg_FTYAM7yHo7S6WTFA",
                         "cell_TIcKZQyg_CgZZ3RIDan0dlZ8p",
                         "cell_TIcKZQyg_Y87XagNM6zQwTV4g",
-                        "cell_TIcKZQyg_Asfck1WXPcTOSc9J"
+                        "cell_TIcKZQyg_zkzcGpVPDgGee3Oq"
                     ],
                     [
                         "cell_TIcKZQyg_UNZ8C1ocPO7Cb6dh",
@@ -1476,7 +1476,7 @@
                         "cell_TIcKZQyg_ZwtIymNXGaEkBzct",
                         "cell_TIcKZQyg_I7HFkdPOyiR8fE0y",
                         "cell_TIcKZQyg_cT4PDqhcKLUQJKR8",
-                        "cell_TIcKZQyg_hjpvK7DfHSHQMOIA"
+                        "cell_TIcKZQyg_E4lyxdJt4FPpT5sa"
                     ]
                 ],
                 "cellHistory": [
@@ -24277,6 +24277,46 @@
                             "value": "嘉世进攻/第二轮进攻"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_JwXftRMJo8OS2x5X",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HnPRXNfZrtuly6i",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守/袜子已剥离"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_vn9wcZ3U49kfhUzn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XoOactDUNQIcuSf",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻/已造成袜子剥离"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_zkzcGpVPDgGee3Oq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HnPRXNfZrtuly6i",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守/已启动魅影舞步"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_E4lyxdJt4FPpT5sa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XoOactDUNQIcuSf",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -36177,6 +36217,14 @@
                         "cell_yuwoU2jj_xIgzKfYzKtkG8rur",
                         "cell_yuwoU2jj_dp0mNzbWAFKmbLWW",
                         "cell_yuwoU2jj_WErKHxuiCPbDYApB"
+                    ],
+                    [
+                        "cell_yuwoU2jj_9F6lDEfzwuuQh7Y3",
+                        "cell_yuwoU2jj_e4LxFNtHfsocGb0g",
+                        "cell_yuwoU2jj_MSzE3zbY1BnpjUuY",
+                        "cell_yuwoU2jj_6ouyrRZpAs2SOaM6",
+                        "cell_yuwoU2jj_1yDtlkNvi62DNN5F",
+                        "cell_yuwoU2jj_3VkL0BeejWNa3I1J"
                     ]
                 ],
                 "cellHistory": [
@@ -38505,6 +38553,122 @@
                             "value": "紧张/期待"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_hOuaaidDJS7uGz5T",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_uWWZ823SHyXMIaE",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Ez5x9rs180TzHxtr",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TcQdF3fBko6Jg67",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_mCKZmLtA3mhXGk1R",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_L4TWz1zH5ztwhez",
+                        "data": {
+                            "value": "袜子被唐柔剥离"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_fNvgd6F6zGfZQuyH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7TkkRXaWOG5pwKr",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_dQxWmCKh5B0hhkOW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bO0hrTP1p0VrvhL",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_rqBj94Zg6BlGVwbs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_E0CSyAFHtgXhfcA",
+                        "data": {
+                            "value": "痛苦/羞耻/决心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_9F6lDEfzwuuQh7Y3",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_9Xzl47R3kN07Vqh",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_e4LxFNtHfsocGb0g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N4nCNoLHBJIJbdI",
+                        "data": {
+                            "value": "许凤萱/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_MSzE3zbY1BnpjUuY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_y7I53lb6refB4v1",
+                        "data": {
+                            "value": "袜子被唐柔剥离/许凤萱启动魅影舞步"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_6ouyrRZpAs2SOaM6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uPhWjyk7cRWSdiv",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_1yDtlkNvi62DNN5F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7DJuJHdp45fqhiT",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_3VkL0BeejWNa3I1J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bDVGCXF25yPhtOs",
+                        "data": {
+                            "value": "无助/决绝"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -38821,7 +38985,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748880014578,
+    "date_last_chat": 1748880378204,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
