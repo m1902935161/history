@@ -12,7 +12,7 @@
         "GroupMembers_PerPage": "25"
     },
     "currentVersion": "1.13.0",
-    "username": "User",
+    "username": "旁白",
     "active_character": null,
     "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
@@ -336,13 +336,13 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "User",
+            "user-default.png": "旁白",
             "1748615399965-.png": "相遇"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "旁白，起到推进剧情的作用。会根据旁白的信息生成相应的内容",
                 "position": 0
             },
             "1748615399965-.png": {
@@ -353,7 +353,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "",
+        "persona_description": "旁白，起到推进剧情的作用。会根据旁白的信息生成相应的内容",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
