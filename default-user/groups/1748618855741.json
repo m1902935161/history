@@ -52,7 +52,7 @@
                         "cell_jh9kl4nk_YwMawg39QJHyHcj3",
                         "cell_jh9kl4nk_NES4hoIf3o4dFjaS",
                         "cell_jh9kl4nk_wBehbl0jMzwZml1H",
-                        "cell_jh9kl4nk_VAZZfwvrj8oMxP7B"
+                        "cell_jh9kl4nk_l4PsnosTPJpo1GCp"
                     ]
                 ],
                 "cellHistory": [
@@ -1264,6 +1264,76 @@
                             "value": "沈梦/肖甜/安雅/唐柔/沈欣淼/凛霜/鹿屿"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_HMFRJzg8nBfK3ziq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/安雅/唐柔/许凤萱/嘉世替补/喵乐园替补"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_VIODv6bj2F2Q6nI1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/沈梦辰/许凰音/许凤萱/林巧/安雅/沈欣淼/凛霜/鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_paotA4H5Kqa2VYIB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/安雅/唐柔/许凤萱/嘉世替补/喵乐园替补"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_hC1RSAQftp0H4PBl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/沈梦辰/许凰音/许凤萱/林巧/安雅/沈欣淼/凛霜/鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_WqxTJKN7olWfzTLP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/安雅/唐柔/许凤萱/嘉世替补/喵乐园替补"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_FP1Y5bIaB1peQG46",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/沈梦辰/许凰音/许凤萱/林巧/安雅/沈欣淼/凛霜/鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_l4PsnosTPJpo1GCp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kw0NdzaXDGXxOZr",
+                        "data": {
+                            "value": "沈梦/苏婉清/安雅/唐柔/许凤萱/嘉世替补/喵乐园替补"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -1385,6 +1455,28 @@
                         "cell_TIcKZQyg_OTD5ZIOr3PFv59eA",
                         "cell_TIcKZQyg_18MRkgKYEECrhQDq",
                         "cell_TIcKZQyg_t4tpEqBqW9GSW6I9"
+                    ],
+                    [
+                        "cell_TIcKZQyg_vdZ7H7Knhi6AOtTu",
+                        "cell_TIcKZQyg_aoruUsq759ZFdftl",
+                        "cell_TIcKZQyg_OL5Oo2nvgMg4cX3T",
+                        "cell_TIcKZQyg_WWxAuLvms2QQXvHb",
+                        "cell_TIcKZQyg_EGsoZikGMS7P7H0F",
+                        "cell_TIcKZQyg_FTYAM7yHo7S6WTFA",
+                        "cell_TIcKZQyg_CgZZ3RIDan0dlZ8p",
+                        "cell_TIcKZQyg_Y87XagNM6zQwTV4g",
+                        "cell_TIcKZQyg_Asfck1WXPcTOSc9J"
+                    ],
+                    [
+                        "cell_TIcKZQyg_UNZ8C1ocPO7Cb6dh",
+                        "cell_TIcKZQyg_yTQ3xwhLmAUqDrdp",
+                        "cell_TIcKZQyg_dep8snZyuGiWSOZw",
+                        "cell_TIcKZQyg_5QUi9ggWpVz6uuQb",
+                        "cell_TIcKZQyg_etYffn6DxncxHvcN",
+                        "cell_TIcKZQyg_ZwtIymNXGaEkBzct",
+                        "cell_TIcKZQyg_I7HFkdPOyiR8fE0y",
+                        "cell_TIcKZQyg_cT4PDqhcKLUQJKR8",
+                        "cell_TIcKZQyg_hjpvK7DfHSHQMOIA"
                     ]
                 ],
                 "cellHistory": [
@@ -23169,6 +23261,1022 @@
                             "value": "嘉世进攻/感官处刑中"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_jKUK1qUvVOhTJ82n",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_lfd19ZgeWuervG8",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_zZzhlRWumhEtrJgz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xqmLr8W1KfTrWCd",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_qNNpD5tOeLgym8nN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_E3c4vm9Wjff5Y5j",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_fOfn5qBhAhQ6BTh2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EVwdupZ5vk7M35s",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_i7GSMHlI8ymX6hDQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pn4OYebrf3V3wlW",
+                        "data": {
+                            "value": "喵乐园选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_gXyOTE1SIVMKxVJx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_toI9xnD2evsf5tY",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_uId6j14x8OiYmbSR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UWOjm3GyQsZMs1o",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_JhTJPjD3mqf3UAUq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cnDazKItv7XufpL",
+                        "data": {
+                            "value": "喵乐园俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_JM9zjbt5yuNRELvM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uOdHHjjpHkyWcSE",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ROTCOfXkY4P6RqIB",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_D3kb0ztzUA6wbTG",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_O9AiH9IrqHj99NUb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LoL1Y2s3nan7IoP",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_gSSano14t2O1JKCS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1E7icB9R5AAXsP1",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_1g7BdMBOyA1VRAjz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BRQgfoLlIyqx88Z",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_8aIVaIm5lkl33VdY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cN7Wc1vNC10UZaT",
+                        "data": {
+                            "value": "嘉世选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_iss3Bst9tvBJ7bdm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_A8nglWGkGIhgQI2",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_RHR7Ljg5VZYzBjuI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_V2DqEFpJQJB0Zyc",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_gFLLpEmGvllXO06z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rFsNp5LM8uDZt0p",
+                        "data": {
+                            "value": "嘉世俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_qdsaezLg3fXLC2ui",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_k8FcfOe1iWshOQd",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_3vQHprRo0oedTqNE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iUx2rYWarYVkciX",
+                        "data": {
+                            "value": "备战区/TL核心警报触发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_x7IkKDykkkwGoRoP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7k9fJlWGbWbvXEs",
+                        "data": {
+                            "value": "备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ejzVmAdVJ4VPJZvb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CMnOGiJxHC0NFL8",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_BMBSBUsLwqcY0KqH",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_GHcullAHY9sO83D",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_w44xvZQIDNkfIGTu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_OMmeWkZ8JhfCFl4",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_q4UnlAxpZb8AnDCh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1z5fzhgNMwBETyA",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_bSA1UvqQdOVjHzwa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8RRHQrk5t63wyTq",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ezzo3uVS4KQYoJMH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mhFbBnTJPFMi8n9",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_V8KAYFr96yupUCtz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5Obz4AgMqxkI1iw",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_EEUCOWDWGIb1MhNP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HR8F78BGTG9TquQ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Wqo38q2XCIxVIhS5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JpPzI8DngBp819D",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_nBF5UL5CccHOYqYl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YpVWaXHF95ioE0t",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Ov44g6Di9eLr5co1",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_UYIQUz4JM1iPcra",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_F5zeugOcw1uNr6bC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1BNXpdjK3eFsv1m",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_C316Gk7NONY4PDmU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WczVzhmeYJWU6py",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Q0XEtpPbl2IfIIx4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4JjhgyssUjGcXlq",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_6r9ENaHrIXDY60Zs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RKBrWuJfgWMz2zr",
+                        "data": {
+                            "value": "喵乐园选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_VFTWDTI5egqzXDzA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7oBLy5f2ILZkVNg",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_F0JrxuOskb9NWOpU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_j3B5ZOWjfagpAXx",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_k3JpvJgsNTjxMWVQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3Ulr3yZlwkaa19a",
+                        "data": {
+                            "value": "喵乐园俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_q85wfW2WkIAaQ4bQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TWn8afYAHSL12aT",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Lw0GLaLZ6JvT0fDI",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_wsrF52wkm17RHj8",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_pYWR8yCW4wMgXaQj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_u8SZbaAWUPzrwTR",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_7HvbJtoGasjesBsp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hii30ZcvDLzrLZl",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_CK8dC30hssowS1Ff",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JVzy2bFbc0ynqfJ",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_y7h4sYIF8PUlB8iS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_F5sBnuItYDF9V0m",
+                        "data": {
+                            "value": "嘉世选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_zf6qSi3BrhSBqY8I",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PBpLmXW2NPN1P0D",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_DPIodNBUzqFD2zZh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_p2RfDTZYuLxw5vf",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_M38jFsQNEgjjq2K0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dvj3PUyBjbM3utQ",
+                        "data": {
+                            "value": "嘉世俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_QJk13fPADpo6sux7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AVaXQ60vbW0Oqlw",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_TrURPKtpUukysv9Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iUx2rYWarYVkciX",
+                        "data": {
+                            "value": "备战区/TL核心警报触发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_fLBSeVz4dHK4ZUk1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7k9fJlWGbWbvXEs",
+                        "data": {
+                            "value": "备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_KuxOdRILLV6Dxd9F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CMnOGiJxHC0NFL8",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_zuLmIq12Xwayltzl",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_EWXySXwWrTDa1jD",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_t7UPMg6AAppxPace",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LfQgtE2aQzHuOHZ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_VN49t9NU9PVYAp1E",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_c6AwOAVuG4xvYoF",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_5iBItyUhp0T8F9yn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RSaCCA7SAbt610n",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_X3Zto6IXBOYvgqE1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_k9629kXW3xHhie4",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_sUwB0eCbvJHLMU1t",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lLHeoxJpa3s1yzR",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_SLPenfME88omszln",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8ANFYxwrsMDQ6AA",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_tEO3IT4sqUYpshD0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3gQyEMqaYMa3Mc9",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Mj24XaWlyIVPnmfL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IVPXYvgNsgNwJ0X",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ZbwfKIdZ0m4Zt9HJ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_91qaU4a2VhNWZOv",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_eR49n99ovO5IqoeV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LFJGdZEWOmO2lMr",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ZPrBhQnYcv4ZXSsy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_e7nIo4h3qQu7NhV",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_vDkb41yr5qnpD6Bc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MgNflu1iALQGCSr",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_KVCNdByJ0Nf47rKp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BGxUnLghtelvdEC",
+                        "data": {
+                            "value": "喵乐园选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_vZNhiYE4hEp3sPgh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8KYV5SOifgQdyXH",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_dRvho4VuZdqSuZDp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IRDD8DRtYUIgwuu",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_iR5P3yMRijkrZEXR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CCAYwplfWHtmPqy",
+                        "data": {
+                            "value": "喵乐园俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_iuT4jiUChzwzifuW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1qkFTVXsbRyYhSK",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_bjjeJWHeeDmuliRe",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_lkn57RcwfiZpSlU",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_JtyM7TX9cGlQJl9X",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bLG6nWddZizm6Tu",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_7MG74axDcG03gN3t",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ekg7kpMT53oZVCn",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Ab56Cbzg0DicH0oa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iK6eiQEKRpkYTGG",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_IOHUDH7FllhRxBgU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_E4lJoS92G7j6zuY",
+                        "data": {
+                            "value": "嘉世选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_1AUB4UXiYz5tXaDb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XEqKoQXehFPQ2Ak",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_mK2J7ItFlozdOn0T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hFJhIdGBEzZDBEC",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_xFwHk1zb5HP98Fph",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wDjV4snWTQSmy2I",
+                        "data": {
+                            "value": "嘉世俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_UtGPoivJLOlfcvv7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8vVuxtauiix4Avz",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_AwofAN4tcIA6l8lw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iUx2rYWarYVkciX",
+                        "data": {
+                            "value": "备战区/TL核心警报触发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_sIAQAf6Ng4Mi6oWK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7k9fJlWGbWbvXEs",
+                        "data": {
+                            "value": "备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ewa3FqQZM3v9WQra",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CMnOGiJxHC0NFL8",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_yF7zED3VCmQctB84",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_D6lGhVQDDgqDqnP",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ykSaF6TV5PBpb5xA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GUwPu9M4z3F5g2U",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Fq7EX55NN1aI0eUM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fkSoWkObUYybEJF",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_BR5RAe1hexRpUorC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_saZ7HSs6u5piH1E",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_2XQLWBm2XORu3dU6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6TTsp1QCGRR8zWt",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_v0HyydjQ6lgGdZjX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_w7q77N0yitzFqtu",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_aXP34WBTketnyNJS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_K4z47r23xtwb2RR",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ItxbU7KrnRKowDZK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4JGs4NzlZdSaWdW",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_uNQWOy0iaZdTE973",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lKSEIDnmSTAzbgH",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_vdZ7H7Knhi6AOtTu",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_9WzG5dZDyM6GH9D",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_aoruUsq759ZFdftl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UsVXeOLlvowz3qN",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_OL5Oo2nvgMg4cX3T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3SuWImfty4NY7HK",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_WWxAuLvms2QQXvHb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4sHUJllvJvj1ES6",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_EGsoZikGMS7P7H0F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_f4sh86YCSGcWnBH",
+                        "data": {
+                            "value": "喵乐园选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_FTYAM7yHo7S6WTFA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_q8MxVkNCHiBQCGX",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_CgZZ3RIDan0dlZ8p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_f5unKmYOnMb6FPW",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Y87XagNM6zQwTV4g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5t0b2cqMzJQtafV",
+                        "data": {
+                            "value": "喵乐园俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_Asfck1WXPcTOSc9J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HnPRXNfZrtuly6i",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_UNZ8C1ocPO7Cb6dh",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Lzy3XpVEKX01OOf",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_yTQ3xwhLmAUqDrdp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VmNx7evtpvjTVDx",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_dep8snZyuGiWSOZw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_astZ0bjSxgLVH0F",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_5QUi9ggWpVz6uuQb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9vexCCS8Fm1zXj6",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_etYffn6DxncxHvcN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JOUFB9JkTsAPjn7",
+                        "data": {
+                            "value": "嘉世选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_ZwtIymNXGaEkBzct",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzEFGkVFa4GKy6C",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_I7HFkdPOyiR8fE0y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jscpXdppEgmWLwc",
+                        "data": {
+                            "value": "不详"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_cT4PDqhcKLUQJKR8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8lOhr8nkEt8cYgj",
+                        "data": {
+                            "value": "嘉世俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_hjpvK7DfHSHQMOIA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XoOactDUNQIcuSf",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -35053,6 +36161,22 @@
                         "cell_yuwoU2jj_spCQRfwVuxN555Nt",
                         "cell_yuwoU2jj_PYs5jKwPpLrXt9Fr",
                         "cell_yuwoU2jj_dUbrdhO8B7hCMUKW"
+                    ],
+                    [
+                        "cell_yuwoU2jj_oTczHbByKzV292uu",
+                        "cell_yuwoU2jj_t38Td7tOQsHgrUEo",
+                        "cell_yuwoU2jj_qe8LnCz9tVWYjJfK",
+                        "cell_yuwoU2jj_H7WRKrpRwNsh02ue",
+                        "cell_yuwoU2jj_M6OQnXp3wGF6Kto0",
+                        "cell_yuwoU2jj_TewTsS4dPIpstfud"
+                    ],
+                    [
+                        "cell_yuwoU2jj_CiJFBsykEknAzYTX",
+                        "cell_yuwoU2jj_7kxBVJlmIM4EgYwV",
+                        "cell_yuwoU2jj_PnzNpE9UWG9ajTzE",
+                        "cell_yuwoU2jj_xIgzKfYzKtkG8rur",
+                        "cell_yuwoU2jj_dp0mNzbWAFKmbLWW",
+                        "cell_yuwoU2jj_WErKHxuiCPbDYApB"
                     ]
                 ],
                 "cellHistory": [
@@ -36569,6 +37693,818 @@
                             "value": "屈辱/崩溃"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_qyj0inuFDXHbz3pZ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_3hrqCfCQrf2pOOV",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_3BSyDI7NrhOQ5Pm8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_neXCHtaMgmWfh1S",
+                        "data": {
+                            "value": "肖甜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_IhErmXrkA1apdUVw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gifX9T8fRRVZ04g",
+                        "data": {
+                            "value": "感官处刑结束/被抬回备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_2Ggs39vAgJnLVm4V",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Bku5Uf2Ro9HAlDF",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_r0uA25feheC4ULpQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6VLwlG9sIWVEAFz",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_4YviOlKUUPqw1xK3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_relgYxLK56VIquL",
+                        "data": {
+                            "value": "痛苦/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_MqffdmGQYWWzT8Yx",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_7jG3TfzOAKCI2ZN",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_NFZX743FUEKyYlc0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_G7qji5HogRYgYV0",
+                        "data": {
+                            "value": "苏婉清/沈梦/许凤萱/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_HBJKpQkZAsRE9za0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lKkJSUpB6YJYp3T",
+                        "data": {
+                            "value": "第二轮比赛开始/许凤萱vs唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_taNshQMtoowVv2Df",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9eqV2UNQbj394R",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_ghfwh82rrhxmpIHc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eMXpPYI3TVM8nwP",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_2flPFBgkf2Quhci0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aZdC4hxG2hJspnN",
+                        "data": {
+                            "value": "紧张/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_41rUjvVI3FhOviuF",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_KcTNjf6pYx6kIbT",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_z64TXD2xDUNnf4bF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8d44ztKfC01ECtV",
+                        "data": {
+                            "value": "苏婉清"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_ir9JXwarYmI3E0Pa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZNEhbIqRTeuDgyk",
+                        "data": {
+                            "value": "肖甜TL核心警报触发，退赛"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Shb3WmQIXoIgKDWB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1961M1j773JBCEs",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_PRFdsRjPR9ZBFvzV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_J0MfynqLzk7ccDd",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_1KC6fYS1ggu8RQ3b",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JtoC2uv2TJpjZDc",
+                        "data": {
+                            "value": "担忧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Ad1diQWy1hkzDpcN",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_T8m81PqWqvATfk5",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_2yfSuEmJW6qrmeps",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pH19jvIKDIsxpum",
+                        "data": {
+                            "value": "苏婉清/沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_yNMwMNMFpEG6cxB8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uxILTd80ChRgbDA",
+                        "data": {
+                            "value": "第二轮比赛选手确定"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_zN4m05mf8U2ICwbk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JHAxAeo7SPEko2F",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_T3kmMPAzELFUhZBu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EIxVFwQVfLhBR8H",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_myfdo5YphcVyuhJU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gid2di8iWxkfCuA",
+                        "data": {
+                            "value": "决心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_bIfQTSN2nwwIeE62",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_TaoTN18GQ53TH3G",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_xmmRp9FiH7AyDcqO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HjwFdmJvaJcbJQE",
+                        "data": {
+                            "value": "肖甜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_CoOiyC034sKfuaIc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tJKaftO3RPG3Hli",
+                        "data": {
+                            "value": "感官处刑结束/被抬回备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Rh9RmcK64qpLTFBZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PffPpwdlKz5y8xf",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_2ZWjT5ULvMQt00s5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zlCAAIMxEkIkcJp",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_kWeJWn2uYWWgGDu2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_g3m0yiQTuUq2iT8",
+                        "data": {
+                            "value": "痛苦/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_4AznA6WzhFf2NyrN",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_kg9hapJPj6eEcTI",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_VyF70nqXQFe07JzO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_23tE99TtuhCgVbp",
+                        "data": {
+                            "value": "苏婉清/沈梦/许凤萱/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_LK23H0wCKORDoZDV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QathOISPtxU7uyo",
+                        "data": {
+                            "value": "第二轮比赛开始/许凤萱vs唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_xgkuqRXNp94xU7U8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RQqVL5OzocHu3ST",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_kbW99A5cTarEQP4z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3AAmcp7p5tp4X2v",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_3gbD2kAfBKIETiwz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yoZaaD3yqYfRSD6",
+                        "data": {
+                            "value": "紧张/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_PR8h81x6KqGOwdT8",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_fsT3XCzzU2eQa9a",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_7q9an1rQKzeMVoog",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_of3LRjpYnDeZNtl",
+                        "data": {
+                            "value": "苏婉清"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_KyiGwxv0vwOYtSnq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nFIm8Ei5txq1D8n",
+                        "data": {
+                            "value": "肖甜TL核心警报触发，退赛"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_dOrtkSybW0KlcrMp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_81ENKpszG8IVUcC",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_jy16yXYoERQAuObn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HtCzD0M2QPe8b3p",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_E4HfOGHDQUPt5Can",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6LTibw0zaIbxqTh",
+                        "data": {
+                            "value": "担忧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_wxg0MW1d9jgidJfL",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_WNDV4wXIeDStgtN",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_o5geYpS9y8OILmLG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Ni0npICEz095LUz",
+                        "data": {
+                            "value": "苏婉清/沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_YwGgiF9FbmWjfzXL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_z8pCoPidE6XjOke",
+                        "data": {
+                            "value": "第二轮比赛选手确定"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_8xaj5w2FfmS3PnWZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8hhQ5KA1LypPbPa",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_l2CPVLUEvKAu255G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BP7IkbxsIBvufA3",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Qqoa3ljTXbIURuWH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2bfnkSaboo8vgZP",
+                        "data": {
+                            "value": "决心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_TtIFPjBxlPSPS5uh",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_E6pPXLIW0KWp2ZL",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_2qoFUeoY6x3StGd5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DXiCCzKXi6WPUHH",
+                        "data": {
+                            "value": "肖甜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_xmocy1u5kXhriWYj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IFshd8DFF8IMt99",
+                        "data": {
+                            "value": "感官处刑结束/被抬回备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Z6rTB4jtxKZAQsQv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kgteFWEkwGBx1xZ",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_9C2e8hR0CCEwK33i",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Aodo1eP1Sky7xK2",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_4fDkarnEk6m79P5C",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IR3brlNmjdYzbMv",
+                        "data": {
+                            "value": "痛苦/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Lf5l1ODU9KfkHHQc",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_pNMGQINeGKNVM0K",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_hbfKFBgfDfsecIvO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wFv7EcZFMtRGmni",
+                        "data": {
+                            "value": "苏婉清/沈梦/许凤萱/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_oMQNll9nem1QU6pE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AWcExVPg7ujJwrE",
+                        "data": {
+                            "value": "第二轮比赛开始/许凤萱vs唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_rpDolLNlO29OJU9Z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XTOsq9qXUPsqYob",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_OzkrYR4sfoVvl6Sb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lPUiN422rl8z5rg",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_2vOO2XldknXzz2Ec",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_w2tTtowh6kpf6ff",
+                        "data": {
+                            "value": "紧张/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_XExOR8C5jwKfVvrP",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_yyMTTyAzzRgWuHg",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_MlotrAqFsCCy8gjg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8SyJOZZE1lgVkd1",
+                        "data": {
+                            "value": "苏婉清"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_c56kTqp47hE2PdMg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hO8sVMj3eHOEj9A",
+                        "data": {
+                            "value": "肖甜TL核心警报触发，退赛"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_pDmS1lQUR640QWae",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N2uDWwVvESMlkLR",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_6vsKbTo6eUrhofXi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AnYJHnYjpA7rKB4",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_yv8BgOZmUfm5nlpL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ANeOhhZQNkj3mjH",
+                        "data": {
+                            "value": "担忧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_GFOvRL9uHaBkdRdM",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_E1dULX5lhrntXoh",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_DNvN8IklvDsn9aOk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2vQxn2CmeauLIai",
+                        "data": {
+                            "value": "苏婉清/沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_MFZhwgBQDMvBvgu6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0OWcl50L9hedZ2x",
+                        "data": {
+                            "value": "第二轮比赛选手确定"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_xTBWpM2g6cWnlKQE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_waPavrANOh4dAkr",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_jZeWOAmU5Cino3MN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6VbBRpBnItYDTKf",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_aPgwjMBqCQk0EHlI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7480jT3F3IzSffm",
+                        "data": {
+                            "value": "决心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_oTczHbByKzV292uu",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_KiGoDj8Nde6uEK7",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_t38Td7tOQsHgrUEo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MuIYkjT7TZXaNLz",
+                        "data": {
+                            "value": "肖甜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_qe8LnCz9tVWYjJfK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6BE2YR70ImfLjYN",
+                        "data": {
+                            "value": "感官处刑结束/被抬回备战区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_H7WRKrpRwNsh02ue",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nFrNtIUiKsfCcrz",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_M6OQnXp3wGF6Kto0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MCgzGlLS7B6gncN",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_TewTsS4dPIpstfud",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_n6Ya5Vds6qv9Ajd",
+                        "data": {
+                            "value": "痛苦/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_CiJFBsykEknAzYTX",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_TU0pdvIgXQdGcik",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_7kxBVJlmIM4EgYwV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_r60bA7ffMEdLnzE",
+                        "data": {
+                            "value": "苏婉清/沈梦/许凤萱/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_PnzNpE9UWG9ajTzE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GxWEzOdlIKo31EQ",
+                        "data": {
+                            "value": "第二轮比赛开始/许凤萱vs唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_xIgzKfYzKtkG8rur",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Y1jV27YPwRAwSEp",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_dp0mNzbWAFKmbLWW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SBUG6einl7JVDtZ",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_WErKHxuiCPbDYApB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_X86o5LEQ4ns0Kb5",
+                        "data": {
+                            "value": "紧张/期待"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -36885,7 +38821,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748879488589,
+    "date_last_chat": 1748879786529,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
