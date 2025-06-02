@@ -50,9 +50,9 @@
                     [
                         "cell_jh9kl4nk_frhCipH9ppHjojQU",
                         "cell_jh9kl4nk_A6JhaNaqqAIqq9MV",
-                        "cell_jh9kl4nk_O0CMohnyUCZfKyMG",
-                        "cell_jh9kl4nk_MlE8NQS2Xf0t25W1",
-                        "cell_jh9kl4nk_nLtKMNL0GKx5VMps"
+                        "cell_jh9kl4nk_qBu8jBywFgqRSQU3",
+                        "cell_jh9kl4nk_zN66ttGETHM9Nijl",
+                        "cell_jh9kl4nk_4QQVGCYDUGlWRWGu"
                     ]
                 ],
                 "cellHistory": [
@@ -154,6 +154,36 @@
                         "coordUid": "coo_40LmmbVRCdbghTS",
                         "data": {
                             "value": "沈梦/安雅/肖甜/苏婉清/唐柔/沈欣淼/凛霜/鹿屿/沈梦辰/许凰音/许凤萱/林巧/音璃/汐音/薇拉/苏瑶瑶/苏闪闪/罗莎/叶凌"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_qBu8jBywFgqRSQU3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0PEbvxopGeCSdVB",
+                        "data": {
+                            "value": "比赛进行中"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_zN66ttGETHM9Nijl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_m02edZWpxKEI0DJ",
+                        "data": {
+                            "value": "新伊甸TL比赛感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jh9kl4nk_4QQVGCYDUGlWRWGu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_40LmmbVRCdbghTS",
+                        "data": {
+                            "value": "肖甜/安雅"
                         },
                         "targetUid": ""
                     }
@@ -3462,6 +3492,14 @@
                         "cell_yuwoU2jj_Eb6sL8NZGy0g28Fz",
                         "cell_yuwoU2jj_JNzNiqDRRwrzCF2b",
                         "cell_yuwoU2jj_v042brb1uOuh1E48"
+                    ],
+                    [
+                        "cell_yuwoU2jj_kVV1qReQGpu0hg2a",
+                        "cell_yuwoU2jj_cfCm8DXeJpwLsiSl",
+                        "cell_yuwoU2jj_Z11oJIMAaq7N4Cdk",
+                        "cell_yuwoU2jj_ggvHuwJpS5PmWQCk",
+                        "cell_yuwoU2jj_HqwrPTAI915NhuZq",
+                        "cell_yuwoU2jj_QfIgb0pmRSK3pGHk"
                     ]
                 ],
                 "cellHistory": [
@@ -3584,6 +3622,64 @@
                         "coordUid": "coo_gThzBVcQJL0DjGd",
                         "data": {
                             "value": "期待/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_kVV1qReQGpu0hg2a",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_GeGUBaKyXga2Y2F",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_cfCm8DXeJpwLsiSl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AcH7QKgnQRsLgvy",
+                        "data": {
+                            "value": "肖甜/安雅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Z11oJIMAaq7N4Cdk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zOJhYozvu05DCgD",
+                        "data": {
+                            "value": "安雅袜子剥离/肖甜使用口球"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_ggvHuwJpS5PmWQCk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GapU49xbFHOxVJF",
+                        "data": {
+                            "value": "比赛开始"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_HqwrPTAI915NhuZq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_n5Kl4I8QiK86qJD",
+                        "data": {
+                            "value": "新伊甸TL比赛感官刑场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_QfIgb0pmRSK3pGHk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Qwj4E14IRdiDIY6",
+                        "data": {
+                            "value": "兴奋/满意"
                         },
                         "targetUid": ""
                     }
@@ -3737,7 +3833,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748875577072,
+    "date_last_chat": 1748875869811,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
