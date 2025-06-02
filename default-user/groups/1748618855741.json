@@ -2,6 +2,8 @@
     "id": "1748618855741",
     "name": "TL",
     "members": [
+        "【感官至上】音璃.png",
+        "【感官至上】汐音.png",
         "【极乐经纪人】叶凌.png",
         "【感官至上】薇拉.png",
         "【喵乐园经纪人】苏婉清.png",
@@ -32,7 +34,14 @@
         "note_interval": 1,
         "note_position": 1,
         "note_depth": 4,
-        "note_role": 0
+        "note_role": 0,
+        "tainted": true,
+        "chat_id_hash": 1978784915110793,
+        "timedWorldInfo": {
+            "sticky": {},
+            "cooldown": {}
+        },
+        "lastInContextMessageId": 0
     },
     "fav": false,
     "chat_id": "2025-05-31@00h24m04s",
@@ -42,9 +51,9 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1748760615341.9856,
-    "create_date": "2025-6-1 @06h 50m 15s 341ms",
-    "date_last_chat": 1748760613417.9966,
+    "date_added": 1748841211217.5278,
+    "create_date": "2025-6-2 @05h 13m 31s 217ms",
+    "date_last_chat": 1748860366186,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
