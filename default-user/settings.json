@@ -14,7 +14,7 @@
     "currentVersion": "1.13.0",
     "username": "旁白",
     "active_character": null,
-    "active_group": "1748618855741",
+    "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -342,7 +342,7 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "旁白，起到推进剧情的作用。会根据旁白的信息生成相应的内容",
+                "description": "旁白，起到推进剧情的作用。会提前说出接下来要发生的剧情，然后角色们需要根据旁白的信息生成相应的内容",
                 "position": 0
             },
             "1748615399965-.png": {
@@ -353,7 +353,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "旁白，起到推进剧情的作用。会根据旁白的信息生成相应的内容",
+        "persona_description": "旁白，起到推进剧情的作用。会提前说出接下来要发生的剧情，然后角色们需要根据旁白的信息生成相应的内容",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
