@@ -1465,7 +1465,7 @@
                         "cell_TIcKZQyg_FTYAM7yHo7S6WTFA",
                         "cell_TIcKZQyg_CgZZ3RIDan0dlZ8p",
                         "cell_TIcKZQyg_Y87XagNM6zQwTV4g",
-                        "cell_TIcKZQyg_a5JQCBy3hjw9o6M3"
+                        "cell_TIcKZQyg_h6119bVm88t46VsI"
                     ],
                     [
                         "cell_TIcKZQyg_UNZ8C1ocPO7Cb6dh",
@@ -1476,7 +1476,7 @@
                         "cell_TIcKZQyg_ZwtIymNXGaEkBzct",
                         "cell_TIcKZQyg_I7HFkdPOyiR8fE0y",
                         "cell_TIcKZQyg_cT4PDqhcKLUQJKR8",
-                        "cell_TIcKZQyg_A9yy5c8lrsZ7pJe9"
+                        "cell_TIcKZQyg_DN277yll6cibSCOR"
                     ]
                 ],
                 "cellHistory": [
@@ -24357,6 +24357,46 @@
                             "value": "嘉世进攻/第二轮进攻/已发动核心冲击（未命中）/极速锋芒和掠夺之欲效果消失/能量不足/换位即将触发"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_NtBRuomyVQTN83tJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HnPRXNfZrtuly6i",
+                        "data": {
+                            "value": "喵乐园防守/第二轮防守/已启动魅影舞步/袜子被剥离/裤子和上衣被剥离/成功闪避核心冲击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_FfeFrzhfpoDTsnZx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XoOactDUNQIcuSf",
+                        "data": {
+                            "value": "嘉世进攻/第二轮进攻/已启动极速锋芒/已发动掠夺之欲/已发动核心冲击/能量枯竭"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_h6119bVm88t46VsI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HnPRXNfZrtuly6i",
+                        "data": {
+                            "value": "喵乐园进攻/第二轮进攻/已启动魅影舞步/袜子被剥离/裤子和上衣被剥离/成功闪避核心冲击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_DN277yll6cibSCOR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XoOactDUNQIcuSf",
+                        "data": {
+                            "value": "嘉世防守/第二轮防守/已启动破碎之盾/能量枯竭/被固定"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -24413,18 +24453,18 @@
                         "cell_iYMoP4qw_CpwbL4fkQqWbk8LR"
                     ],
                     [
-                        "cell_iYMoP4qw_lVpgwk8eKPjFVIwl",
-                        "cell_iYMoP4qw_sebYj1rP5zwbsou6",
-                        "cell_iYMoP4qw_W7kABviaNBW9vZFO",
-                        "cell_iYMoP4qw_e4xXJvkTEFpxwzMw",
-                        "cell_iYMoP4qw_E3ODCYclYVMA6imD"
+                        "cell_iYMoP4qw_S2Yb9KAIZMmBZG7a",
+                        "cell_iYMoP4qw_jgm4gt47QgKh5z1b",
+                        "cell_iYMoP4qw_tELULzMkfcLUYqAW",
+                        "cell_iYMoP4qw_4CfIGGZm6CaRgQkf",
+                        "cell_iYMoP4qw_oaOLc3awQz0yc7zZ"
                     ],
                     [
-                        "cell_iYMoP4qw_kQV7IaopMRkWhqZ8",
-                        "cell_iYMoP4qw_HcWG5rZjsVi1x5c6",
-                        "cell_iYMoP4qw_EvvXfPq514Z24v4E",
-                        "cell_iYMoP4qw_uQbe7SpTaQiTpkmC",
-                        "cell_iYMoP4qw_AtwUK0uHBBNPvbhf"
+                        "cell_iYMoP4qw_jKXb3bVni3pqnwjQ",
+                        "cell_iYMoP4qw_D9BK1Nix0c20VDiz",
+                        "cell_iYMoP4qw_CByGc3ihymsfmKEI",
+                        "cell_iYMoP4qw_X8SYPn9GuvJWMXF7",
+                        "cell_iYMoP4qw_qwWmvYHbRUgecRI0"
                     ]
                 ],
                 "cellHistory": [
@@ -36089,6 +36129,102 @@
                             "value": "低"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_S2Yb9KAIZMmBZG7a",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_S8w67locy1zAMJR",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_jgm4gt47QgKh5z1b",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Gy0gHPAG7ldU0iQ",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_tELULzMkfcLUYqAW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hBXV6S32TvHCzAN",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_4CfIGGZm6CaRgQkf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eE3Qd3zwZOfjSLn",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_oaOLc3awQz0yc7zZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vkxIPNXYcllgQyE",
+                        "data": {
+                            "value": "低"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_jKXb3bVni3pqnwjQ",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_BWeWzyJPzLSPJ9r",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_D9BK1Nix0c20VDiz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1OKRC4t7cRzL4my",
+                        "data": {
+                            "value": "许凤萱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_CByGc3ihymsfmKEI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gZZjeFEs5fVNJfg",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_X8SYPn9GuvJWMXF7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aTXNvGJUocGxwuE",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_iYMoP4qw_qwWmvYHbRUgecRI0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JfzC2qU1sxbtt5R",
+                        "data": {
+                            "value": "低"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -36261,10 +36397,10 @@
                     [
                         "cell_yuwoU2jj_9F6lDEfzwuuQh7Y3",
                         "cell_yuwoU2jj_e4LxFNtHfsocGb0g",
-                        "cell_yuwoU2jj_3SebYi6bNlvurtq1",
+                        "cell_yuwoU2jj_FkesGJdk7fqsA521",
                         "cell_yuwoU2jj_6ouyrRZpAs2SOaM6",
                         "cell_yuwoU2jj_1yDtlkNvi62DNN5F",
-                        "cell_yuwoU2jj_GbURPyrbzFopw9Pq"
+                        "cell_yuwoU2jj_KRIejucaYm6mGQke"
                     ]
                 ],
                 "cellHistory": [
@@ -38787,6 +38923,46 @@
                             "value": "凝重/惊险"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_BP6SqxslMwHt11I7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_y7I53lb6refB4v1",
+                        "data": {
+                            "value": "袜子、裤子和上衣被唐柔剥离/许凤萱启动魅影舞步/遭受掠夺之欲攻击/成功闪避核心冲击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_nlJJJraF9sPgX7cK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bDVGCXF25yPhtOs",
+                        "data": {
+                            "value": "痛苦/无助/羞耻/解脱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_FkesGJdk7fqsA521",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_y7I53lb6refB4v1",
+                        "data": {
+                            "value": "袜子、裤子和上衣被唐柔剥离/许凤萱启动魅影舞步/遭受掠夺之欲攻击/成功闪避核心冲击/成为进攻方"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_KRIejucaYm6mGQke",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bDVGCXF25yPhtOs",
+                        "data": {
+                            "value": "痛苦/无助/羞耻/解脱/兴奋"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -39103,7 +39279,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748881589074,
+    "date_last_chat": 1748881832592,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
