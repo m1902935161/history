@@ -1544,7 +1544,7 @@
                         "cell_TIcKZQyg_QQnj4UkLIpzUtOg4",
                         "cell_TIcKZQyg_HdH4V6UBzGugNQ5D",
                         "cell_TIcKZQyg_9DTvsKeC5ldrxrJ3",
-                        "cell_TIcKZQyg_d7qWndsfil78jn5K"
+                        "cell_TIcKZQyg_bBOspFjIlAX2DCf0"
                     ],
                     [
                         "cell_TIcKZQyg_vdZ7H7Knhi6AOtTu",
@@ -1555,7 +1555,7 @@
                         "cell_TIcKZQyg_FTYAM7yHo7S6WTFA",
                         "cell_TIcKZQyg_CgZZ3RIDan0dlZ8p",
                         "cell_TIcKZQyg_Y87XagNM6zQwTV4g",
-                        "cell_TIcKZQyg_toVD7pDVxgQSbbtQ"
+                        "cell_TIcKZQyg_3QP6nAbjw10bct3k"
                     ],
                     [
                         "cell_TIcKZQyg_dqqJhF8M2SH0gcIr",
@@ -26844,6 +26844,26 @@
                             "value": "喵乐园选手/比赛场上/第四轮EE/只剩内衣内裤/受真言审判影响/被迫说出弱点/受弱点刺探攻击/崩溃值快速累积/启动魅影舞步"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_3QP6nAbjw10bct3k",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HnPRXNfZrtuly6i",
+                        "data": {
+                            "value": "喵乐园选手/比赛场上/第四轮EE/只剩内衣内裤/受真言审判影响/被迫说出羞耻言语/受弱点刺探攻击/崩溃值快速累积/启动魅影舞步/成功闪避攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_TIcKZQyg_bBOspFjIlAX2DCf0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nRmm922IUMVjWXC",
+                        "data": {
+                            "value": "嘉世选手/比赛场上/第四轮ER/已启动真言审判/已启动弱点刺探"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -39454,6 +39474,14 @@
                         "cell_yuwoU2jj_wB7AcV6mmEgUgcqd",
                         "cell_yuwoU2jj_hYaAE65z0WpxxEU5",
                         "cell_yuwoU2jj_X9kMnzY4YJlKcp5K"
+                    ],
+                    [
+                        "cell_yuwoU2jj_Y87vz4RWb5haXpj0",
+                        "cell_yuwoU2jj_1SMW4GJpiZ2Z9Zkp",
+                        "cell_yuwoU2jj_tkv6QbFA5MHJK1RU",
+                        "cell_yuwoU2jj_JdrF2cx3iLQYold9",
+                        "cell_yuwoU2jj_vxOynJTgB4WOuSOn",
+                        "cell_yuwoU2jj_9MrBouuiTLan2u0Y"
                     ]
                 ],
                 "cellHistory": [
@@ -42886,6 +42914,64 @@
                             "value": "紧张"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_Y87vz4RWb5haXpj0",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_tRGO1FqP89EPWKy",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_1SMW4GJpiZ2Z9Zkp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Ow9UzG912BLuGLV",
+                        "data": {
+                            "value": "许凤萱/凛霜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_tkv6QbFA5MHJK1RU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SaJcIaP71Kq0CYu",
+                        "data": {
+                            "value": "许凤萱受真言审判说出羞耻言语/成功闪避攻击/换位机制即将触发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_JdrF2cx3iLQYold9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B5YcQIZ3aG2ZbpI",
+                        "data": {
+                            "value": "今日"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_vxOynJTgB4WOuSOn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rCYpWj7AS96XgaG",
+                        "data": {
+                            "value": "TicklingLove竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_yuwoU2jj_9MrBouuiTLan2u0Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Sj0VXXFo9F0VOfK",
+                        "data": {
+                            "value": "羞耻/痛苦/挣扎"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -43202,7 +43288,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1748841211217.5278,
     "create_date": "2025-6-2 @05h 13m 31s 217ms",
-    "date_last_chat": 1748886000440,
+    "date_last_chat": 1748886255303,
     "chat_size": 892575,
     "past_metadata": {
         "": {}
