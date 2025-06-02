@@ -13,8 +13,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "User",
-    "active_character": "【极乐经纪人】凛.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1443,7 +1443,8 @@
         "【嘉世】沈欣淼.png": [],
         "【感官至上】苏闪闪.png": [],
         "【感官至上】苏瑶瑶.png": [],
-        "【感官至上】薇拉.png": []
+        "【感官至上】薇拉.png": [],
+        "【极乐经纪人】叶凌.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
