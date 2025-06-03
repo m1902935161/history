@@ -192,7 +192,7 @@
         "trusted_workers_only": false
     },
     "power_user": {
-        "charListGrid": false,
+        "charListGrid": true,
         "tokenizer": 99,
         "token_padding": 64,
         "collapse_newlines": false,
