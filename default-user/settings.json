@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1446,7 +1446,8 @@
         "【感官至上】薇拉.png": [],
         "【极乐经纪人】叶凌.png": [],
         "【感官至上】音璃.png": [],
-        "【感官至上】汐音.png": []
+        "【感官至上】汐音.png": [],
+        "【极乐】尤娜.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
