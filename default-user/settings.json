@@ -13,7 +13,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "【极乐】尤娜.png",
+    "active_character": "【极乐】绮罗.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1446,7 +1446,8 @@
         "【感官至上】薇拉.png": [],
         "【极乐经纪人】叶凌.png": [],
         "【感官至上】音璃.png": [],
-        "【感官至上】汐音.png": []
+        "【感官至上】汐音.png": [],
+        "【极乐】绮罗.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
