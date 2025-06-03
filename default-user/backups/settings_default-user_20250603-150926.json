@@ -12,12 +12,12 @@
         "GroupMembers_PerPage": "25"
     },
     "currentVersion": "1.13.0",
-    "username": "相遇",
+    "username": "旁白",
     "active_character": null,
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
-    "user_avatar": "1748615399965-.png",
+    "user_avatar": "user-default.png",
     "amount_gen": 350,
     "max_context": 8192,
     "main_api": "openai",
@@ -336,13 +336,13 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "User",
+            "user-default.png": "旁白",
             "1748615399965-.png": "相遇"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "旁白，起到推进剧情的作用。会提前说出接下来要发生的剧情，然后角色们需要根据旁白的信息生成相应的内容",
                 "position": 0
             },
             "1748615399965-.png": {
@@ -353,7 +353,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "",
+        "persona_description": "旁白，起到推进剧情的作用。会提前说出接下来要发生的剧情，然后角色们需要根据旁白的信息生成相应的内容",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
@@ -1436,14 +1436,19 @@
         "【嘉世经纪人】沈梦.png": [],
         "【喵乐园经纪人】苏婉清.png": [],
         "【感官至上经纪人】罗莎.png": [],
-        "【极乐经纪人】凛.png": [],
         "【嘉世】凛霜.png": [],
         "【嘉世】安雅.png": [],
         "【喵乐园】沈梦辰.png": [],
         "【喵乐园】肖甜.png": [],
         "【嘉世】沈欣淼.png": [],
         "【感官至上】苏闪闪.png": [],
-        "【感官至上】苏瑶瑶.png": []
+        "【感官至上】苏瑶瑶.png": [],
+        "【感官至上】薇拉.png": [],
+        "【极乐经纪人】叶凌.png": [],
+        "【感官至上】音璃.png": [],
+        "【感官至上】汐音.png": [],
+        "【极乐】绮罗.png": [],
+        "【极乐】艾莉丝.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3130,7 +3135,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "gemini-2.5-flash-preview-05-20",
+        "custom_model": "gemini-2.5-flash-preview-04-17",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
