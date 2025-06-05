@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -12,8 +12,8 @@
         "GroupMembers_PerPage": "25"
     },
     "currentVersion": "1.13.0",
-    "username": "User",
-    "active_character": null,
+    "username": "旁白",
+    "active_character": "魅魔型AI创作工具.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -192,7 +192,7 @@
         "trusted_workers_only": false
     },
     "power_user": {
-        "charListGrid": false,
+        "charListGrid": true,
         "tokenizer": 99,
         "token_padding": 64,
         "collapse_newlines": false,
@@ -336,13 +336,13 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "User",
+            "user-default.png": "旁白",
             "1748615399965-.png": "相遇"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "旁白，起到推进剧情的作用。会提前说出接下来要发生的剧情，然后角色们需要根据旁白的信息生成相应的内容",
                 "position": 0
             },
             "1748615399965-.png": {
@@ -353,7 +353,7 @@
                 "lorebook": ""
             }
         },
-        "persona_description": "",
+        "persona_description": "旁白，起到推进剧情的作用。会提前说出接下来要发生的剧情，然后角色们需要根据旁白的信息生成相应的内容",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
@@ -1428,22 +1428,7 @@
         "null": [],
         "魅魔型AI创作工具.png": [],
         "1748618855741": [],
-        "【喵乐园】林巧.png": [],
-        "【嘉世】鹿屿.png": [],
-        "【喵乐园】许凰音.png": [],
-        "【喵乐园】许凤萱.png": [],
-        "【嘉世】唐柔.png": [],
-        "【嘉世经纪人】沈梦.png": [],
-        "【喵乐园经纪人】苏婉清.png": [],
-        "【感官至上经纪人】罗莎.png": [],
-        "【极乐经纪人】凛.png": [],
-        "【嘉世】凛霜.png": [],
-        "【嘉世】安雅.png": [],
-        "【喵乐园】沈梦辰.png": [],
-        "【喵乐园】肖甜.png": [],
-        "【嘉世】沈欣淼.png": [],
-        "【感官至上】苏闪闪.png": [],
-        "【感官至上】苏瑶瑶.png": []
+        "【光影】刘恋.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3130,7 +3115,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "gemini-2.5-flash-preview-05-20",
+        "custom_model": "gemini-2.5-flash-preview-04-17",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
