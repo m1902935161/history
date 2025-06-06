@@ -13,7 +13,7 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
+    "active_character": "【潮汐】凌汐.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
@@ -1438,7 +1438,8 @@
         "【潮汐】夏琳.png": [],
         "【潮汐】林巧.png": [],
         "【极光】苏闪闪.png": [],
-        "【极光】沈棠.png": []
+        "【极光】沈棠.png": [],
+        "【潮汐】凌汐.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
