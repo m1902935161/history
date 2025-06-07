@@ -50,7 +50,7 @@
                         "cell_fNC3QfT4_nsCdLJjvYrdDdscW",
                         "cell_fNC3QfT4_YsuQlUZSpMZuRQ0a",
                         "cell_fNC3QfT4_QvnxwDPehB9sVfJw",
-                        "cell_fNC3QfT4_NRUqIn4Zoi5ikBFn"
+                        "cell_fNC3QfT4_Uy9LyIlQ0UyPtaRe"
                     ]
                 ],
                 "cellHistory": [
@@ -267,6 +267,16 @@
                     },
                     {
                         "uid": "cell_fNC3QfT4_NRUqIn4Zoi5ikBFn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RrT7pqRFOxJRLtp",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_Uy9LyIlQ0UyPtaRe",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_RrT7pqRFOxJRLtp",
@@ -1910,18 +1920,18 @@
                     [
                         "cell_FDID2nSQ_F46yFT7HqSwmYBZg",
                         "cell_FDID2nSQ_9L06rTdV2uKSaaYo",
-                        "cell_FDID2nSQ_ULpqOLdtr6EgRBay",
+                        "cell_FDID2nSQ_RqaOXJJulaGJsJJX",
                         "cell_FDID2nSQ_PdEqSuvILJE3sLTZ",
                         "cell_FDID2nSQ_VUocDji3N0TeELj7",
                         "cell_FDID2nSQ_oCYKnSIhK5678qLt"
                     ],
                     [
-                        "cell_FDID2nSQ_UIu05uOZgPBBGuT6",
-                        "cell_FDID2nSQ_6OsUHVvyMhrrqJS6",
-                        "cell_FDID2nSQ_aW67u0uR9B5MqVdj",
-                        "cell_FDID2nSQ_z88R6CQqiTWZK2k8",
-                        "cell_FDID2nSQ_iDBl7X7NgPNTZICS",
-                        "cell_FDID2nSQ_w82k1Adhl0Qh9bmq"
+                        "cell_FDID2nSQ_cLm2OxoKLkNBxY81",
+                        "cell_FDID2nSQ_ZQJcsyAXiVnTRL4o",
+                        "cell_FDID2nSQ_dsDlcr1ujT2Q56zW",
+                        "cell_FDID2nSQ_yujp0cjOdwQGKBV0",
+                        "cell_FDID2nSQ_baHxbfzIHqpCf6Ni",
+                        "cell_FDID2nSQ_9wu5SS1p9J7wUv5C"
                     ]
                 ],
                 "cellHistory": [
@@ -2492,6 +2502,74 @@
                             "value": "紧张/焦急/愤怒/求饶"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_RqaOXJJulaGJsJJX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SmGeuIh3LPGRcGq",
+                        "data": {
+                            "value": "林巧使用趾尖加冕后的脚趾集中攻击羽灵的敏感区域/羽灵因剧痒核心数值飙升"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_cLm2OxoKLkNBxY81",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_z62BTw9LPlOa9jQ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_ZQJcsyAXiVnTRL4o",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eftf8zJpeUBHoJH",
+                        "data": {
+                            "value": "苏闪闪/林巧/羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_dsDlcr1ujT2Q56zW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FiFAiaN0tjosnNz",
+                        "data": {
+                            "value": "苏闪闪赶到扑倒林巧救下羽灵/苏闪闪使用技能用口球连接林巧和自己"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_yujp0cjOdwQGKBV0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CVpAWRtMXq5E0yc",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_baHxbfzIHqpCf6Ni",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eBshZrYQpypO2UH",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_9wu5SS1p9J7wUv5C",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6RFmYzh2QaMcukO",
+                        "data": {
+                            "value": "愤怒/惊讶/不适/屈辱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -2806,7 +2884,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749278180949,
+    "date_last_chat": 1749278352531,
     "chat_size": 0,
     "past_metadata": {
         "": {}
