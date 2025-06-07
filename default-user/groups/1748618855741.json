@@ -50,7 +50,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_YRixHMU72t8xJ3Bx",
-                        "cell_9jUXcRBd_NwHHvmRraWqke22f"
+                        "cell_9jUXcRBd_PdPmM4I1UYz8Sa42"
                     ]
                 ],
                 "cellHistory": [
@@ -361,6 +361,16 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_NwHHvmRraWqke22f",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_PdPmM4I1UYz8Sa42",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
@@ -6854,6 +6864,22 @@
                         "cell_3KbXcTSB_9kBkleqiKrQh2zRo",
                         "cell_3KbXcTSB_tSvXdyWguGJOed1Z",
                         "cell_3KbXcTSB_57rzUM1Fz4HO4Sg8"
+                    ],
+                    [
+                        "cell_3KbXcTSB_YnxJ6PbyjEfZMA1w",
+                        "cell_3KbXcTSB_DKWVCMW7tFScCTqY",
+                        "cell_3KbXcTSB_MHXR0mZrPVcxuIKu",
+                        "cell_3KbXcTSB_QekXQqsDsCsSTi48",
+                        "cell_3KbXcTSB_dV4L9W454KZpgk3J",
+                        "cell_3KbXcTSB_ehpVaiX9vhbq6SZK"
+                    ],
+                    [
+                        "cell_3KbXcTSB_sIaQ172MJFjjXyqY",
+                        "cell_3KbXcTSB_TQn8ZshVFl2cHAxd",
+                        "cell_3KbXcTSB_52S4cYMe3ojOpdIj",
+                        "cell_3KbXcTSB_dmCyQPG1zCzfIZaf",
+                        "cell_3KbXcTSB_1K2oDZj77mw8DfoW",
+                        "cell_3KbXcTSB_6nyKEePVSgHAcGwi"
                     ]
                 ],
                 "cellHistory": [
@@ -7384,6 +7410,180 @@
                             "value": "惊讶/痒痛/挣扎/不安"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6eSNM3zCTjx15L0g",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_TNx4LUn4kaNMFK5",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gvn3hhXeHTLBkXA5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8J7XxQh88tSfimD",
+                        "data": {
+                            "value": "羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_T9zg1UFn850WeI5I",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YzCdFCrPaJtMrdM",
+                        "data": {
+                            "value": "被潮汐队三人围攻并剥鞋搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_BsiHjLXUwmMogMeV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qylKnRpVtC7kyYF",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sm4MY3836anNlv0X",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3xswrMPLJHKZAw7",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_26MIv0pBJ1CuzFCA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_De2L7mXi37pi313",
+                        "data": {
+                            "value": "极度痒痛/崩溃/求饶"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YnxJ6PbyjEfZMA1w",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_wcC257sFzOvsk4p",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DKWVCMW7tFScCTqY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HKrgliTgmuoQxbB",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MHXR0mZrPVcxuIKu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4IfQUK3PL5DV5u0",
+                        "data": {
+                            "value": "对羽灵发动攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QekXQqsDsCsSTi48",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uLcw2HFSPzV7gJs",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_dV4L9W454KZpgk3J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_O4XEnSthlgcbjch",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ehpVaiX9vhbq6SZK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_w6fr3U4W7uvBfrf",
+                        "data": {
+                            "value": "施虐欲/享受"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sIaQ172MJFjjXyqY",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Y0d51QLnQnve00A",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TQn8ZshVFl2cHAxd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mYwzQKDvEnXCeRf",
+                        "data": {
+                            "value": "夏琳/凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_52S4cYMe3ojOpdIj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ss7CDpGYXJSmMNJ",
+                        "data": {
+                            "value": "抓挠羽灵脚底"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_dmCyQPG1zCzfIZaf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vym1Xali9ZgT9fs",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1K2oDZj77mw8DfoW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Hsdlfk5FQmGfIrB",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6nyKEePVSgHAcGwi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_77myUDeUqMpZYJh",
+                        "data": {
+                            "value": "攻击性/专注"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7533,7 +7733,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749285988183.9146,
     "create_date": "2025-6-7 @08h 46m 28s 183ms",
-    "date_last_chat": 1749290983710,
+    "date_last_chat": 1749291275499,
     "chat_size": 5668,
     "past_metadata": {
         "": {}
