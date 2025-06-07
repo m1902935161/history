@@ -50,8 +50,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_aFggxGKTZlxFpf5f",
-                        "cell_9jUXcRBd_IiODEWFxMiHFpbKK"
+                        "cell_9jUXcRBd_WFxxOQDKTa529okE",
+                        "cell_9jUXcRBd_cHRsRQkMtPhewoAw"
                     ]
                 ],
                 "cellHistory": [
@@ -612,6 +612,26 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_IiODEWFxMiHFpbKK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/羽灵/沈棠/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_WFxxOQDKTa529okE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_cHRsRQkMtPhewoAw",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
@@ -7269,10 +7289,10 @@
                     [
                         "cell_3KbXcTSB_dokvVXNv0XghXuD2",
                         "cell_3KbXcTSB_hdwoFCJSbV2vE2OH",
-                        "cell_3KbXcTSB_4VzF1cBKyooNaUDN",
+                        "cell_3KbXcTSB_orVeQUZgTVjFvGk2",
                         "cell_3KbXcTSB_N79NXIRt2nwF1n5p",
                         "cell_3KbXcTSB_JZcuRR7VViyrt3Bf",
-                        "cell_3KbXcTSB_x2Coiw3L1B6Pv0UT"
+                        "cell_3KbXcTSB_lUG35VwcRHasCpaN"
                     ],
                     [
                         "cell_3KbXcTSB_FCz6GqBy1doqE8E7",
@@ -7289,6 +7309,38 @@
                         "cell_3KbXcTSB_vAjLgFOQjml3DgQN",
                         "cell_3KbXcTSB_VwxJQIHp3aphafsC",
                         "cell_3KbXcTSB_acpVlHpwlSceaU9I"
+                    ],
+                    [
+                        "cell_3KbXcTSB_1zvTIEK8UwVpyqYM",
+                        "cell_3KbXcTSB_kgmi9ufEAcpgKbZ4",
+                        "cell_3KbXcTSB_ZyVEUkYxB5aVY509",
+                        "cell_3KbXcTSB_3c3RVp2HYLYPUopi",
+                        "cell_3KbXcTSB_VIf6N3AFdLrTiOR4",
+                        "cell_3KbXcTSB_pcpQtzkJReKkHWYV"
+                    ],
+                    [
+                        "cell_3KbXcTSB_CD4oxNz4Q2sDQNs5",
+                        "cell_3KbXcTSB_aUpFFhsCkQmidkRY",
+                        "cell_3KbXcTSB_ZtUB9NKJM14vnqLQ",
+                        "cell_3KbXcTSB_U69tJN7FPb1PqlHa",
+                        "cell_3KbXcTSB_Yj3jJVeahgTVpqSj",
+                        "cell_3KbXcTSB_gMDvplzmKsCqK82Y"
+                    ],
+                    [
+                        "cell_3KbXcTSB_PbA71MalrjQXMezM",
+                        "cell_3KbXcTSB_LJTYtQeMfYE51Sc1",
+                        "cell_3KbXcTSB_o1a1eZtZfwnXexF2",
+                        "cell_3KbXcTSB_Zo4fKMQzh04CNMXc",
+                        "cell_3KbXcTSB_QtGre1lOHSvzntAg",
+                        "cell_3KbXcTSB_KWFPUH27r8QKVbA1"
+                    ],
+                    [
+                        "cell_3KbXcTSB_9YVecpSUY4yriM8x",
+                        "cell_3KbXcTSB_EsFtm86EwpWljn36",
+                        "cell_3KbXcTSB_HuWkz1b3carOLN5F",
+                        "cell_3KbXcTSB_9g6dJIlla1R20CMo",
+                        "cell_3KbXcTSB_EVFpsYMrc6tEQO17",
+                        "cell_3KbXcTSB_djXieqKVj15n8VHS"
                     ]
                 ],
                 "cellHistory": [
@@ -10283,6 +10335,258 @@
                             "value": "急切/支援"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_orVeQUZgTVjFvGk2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2SpemDmzm9U2hKQ",
+                        "data": {
+                            "value": "被凌汐深渊禁锢/被凌汐夏琳联合攻击/TL核心套装强制解除/裸体被挠/队友赶到/被束缚裸体旁观"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lUG35VwcRHasCpaN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5kAsF3RGiVQlNNM",
+                        "data": {
+                            "value": "痛苦/无助/羞耻/崩溃/解脱/不安"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1zvTIEK8UwVpyqYM",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_KjdWL7oXitnGlBO",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kgmi9ufEAcpgKbZ4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jCtOIr1AgR8RGWC",
+                        "data": {
+                            "value": "苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ZyVEUkYxB5aVY509",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IMXzbN1VTWBILdZ",
+                        "data": {
+                            "value": "与夏琳进行近身对抗/利用敏感脉冲积累欢愉储备"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3c3RVp2HYLYPUopi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pt7CEpPuGrXCGS7",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_VIf6N3AFdLrTiOR4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DaPVdnXuCskSKmK",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_pcpQtzkJReKkHWYV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Bmxf9W9MbkLXRSS",
+                        "data": {
+                            "value": "专注/承受/积累"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_CD4oxNz4Q2sDQNs5",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Bj2mRRU0NbqViXu",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_aUpFFhsCkQmidkRY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rcwxMH8f6DY6ZGm",
+                        "data": {
+                            "value": "夏琳"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ZtUB9NKJM14vnqLQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tFPamJvq2AKt5IE",
+                        "data": {
+                            "value": "与苏闪闪进行近身对抗/利用速度进行高频攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_U69tJN7FPb1PqlHa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6hhthLBwYOzKztP",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Yj3jJVeahgTVpqSj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NyFM88LSCc3IYI5",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gMDvplzmKsCqK82Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jZ2rJGmV8IiKF9r",
+                        "data": {
+                            "value": "攻击性/得意"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_PbA71MalrjQXMezM",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_G70RIrrVOAZ1rhK",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LJTYtQeMfYE51Sc1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xh0R7hFxEJ7nRiQ",
+                        "data": {
+                            "value": "沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_o1a1eZtZfwnXexF2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JdhCVRqL8aU46p9",
+                        "data": {
+                            "value": "与凌汐进行近身对抗/利用位移进行周旋"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Zo4fKMQzh04CNMXc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DHgNweO9nSliJ1y",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QtGre1lOHSvzntAg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WtxtCHGj0wxE0fo",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_KWFPUH27r8QKVbA1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bYplxYuoOMQeuPp",
+                        "data": {
+                            "value": "优雅/周旋"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9YVecpSUY4yriM8x",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_nbB5oEJvxqO6tca",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EsFtm86EwpWljn36",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hVbF0wPhf7KZ3aB",
+                        "data": {
+                            "value": "凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_HuWkz1b3carOLN5F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ixByTUYKKySETaD",
+                        "data": {
+                            "value": "与沈棠进行近身对抗/利用精准控制进行试探"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9g6dJIlla1R20CMo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0QHnWTgVzFs8jnU",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EVFpsYMrc6tEQO17",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oQFocVdhu6n9Qbe",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_djXieqKVj15n8VHS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SdXziZTBZvCT1fo",
+                        "data": {
+                            "value": "冷静/试探"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -10432,7 +10736,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749293960366.087,
     "create_date": "2025-6-7 @10h 59m 20s 366ms",
-    "date_last_chat": 1749309907924,
+    "date_last_chat": 1749310269112,
     "chat_size": 329552,
     "past_metadata": {
         "": {}
