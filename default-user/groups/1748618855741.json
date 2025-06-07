@@ -49,8 +49,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_P7GLQcJLlSblyjJI",
-                        "cell_9jUXcRBd_ZEPze3neaCsw0dVR"
+                        "cell_9jUXcRBd_YRixHMU72t8xJ3Bx",
+                        "cell_9jUXcRBd_cLUtz64Bo2rb3Z4U"
                     ]
                 ],
                 "cellHistory": [
@@ -6836,14 +6836,6 @@
                         "cell_3KbXcTSB_ELFlSbrsEU6SHqfd",
                         "cell_3KbXcTSB_wkkdJEaJcq53HKNL",
                         "cell_3KbXcTSB_p8IKGlcSFz73X84D"
-                    ],
-                    [
-                        "cell_3KbXcTSB_QgnKXq5bxAYcmqbY",
-                        "cell_3KbXcTSB_klo0dT6pwGLnzbFn",
-                        "cell_3KbXcTSB_8oqplbmSYsCZXIec",
-                        "cell_3KbXcTSB_gPXtHykZWFFTxw0b",
-                        "cell_3KbXcTSB_5juAUhi6cjiKwQOO",
-                        "cell_3KbXcTSB_ZGm81XQKrqdeAnhS"
                     ]
                 ],
                 "cellHistory": [
@@ -7465,7 +7457,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749285988183.9146,
     "create_date": "2025-6-7 @08h 46m 28s 183ms",
-    "date_last_chat": 1749290178594,
+    "date_last_chat": 1749290458961,
     "chat_size": 5668,
     "past_metadata": {
         "": {}
