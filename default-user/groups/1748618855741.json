@@ -1858,7 +1858,7 @@
                     [
                         "cell_FDID2nSQ_iCuo832Yy4speMjH",
                         "cell_FDID2nSQ_XhLf8LLqjKJbtnxA",
-                        "cell_FDID2nSQ_sMbelOtKFcghBKaA",
+                        "cell_FDID2nSQ_8ZtLauMWosorOpuZ",
                         "cell_FDID2nSQ_ES7Z7io7khunhBIm",
                         "cell_FDID2nSQ_L5LfeVtfmLrXKDny",
                         "cell_FDID2nSQ_VvdbizDWjIrvWLO5"
@@ -1870,6 +1870,14 @@
                         "cell_FDID2nSQ_I0aCOHCD9CNuobTC",
                         "cell_FDID2nSQ_6ADPfaT9nEa07NMq",
                         "cell_FDID2nSQ_lc5xXJO8ZGexUZxv"
+                    ],
+                    [
+                        "cell_FDID2nSQ_tsxbO5sTBPxT2SnH",
+                        "cell_FDID2nSQ_veACO3VhhSejJvg7",
+                        "cell_FDID2nSQ_q5equdzTmBXbLmLe",
+                        "cell_FDID2nSQ_3mygVf48OIUV5gNk",
+                        "cell_FDID2nSQ_YcWDCOQQ9fkOVr0c",
+                        "cell_FDID2nSQ_lIl0NQElFdUb0I7K"
                     ]
                 ],
                 "cellHistory": [
@@ -2176,6 +2184,74 @@
                         "coordUid": "coo_0eR9tp2n0OhAS1n",
                         "data": {
                             "value": "专注/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_8ZtLauMWosorOpuZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jOSxdPcKwZcNfeB",
+                        "data": {
+                            "value": "林巧发动女皇的解放并展现高傲/羽灵使用流光瞬影突破包围"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_tsxbO5sTBPxT2SnH",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_yOpjjynhU0sRkfz",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_veACO3VhhSejJvg7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_x8drWtrCyrwbY2U",
+                        "data": {
+                            "value": "夏琳/羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_q5equdzTmBXbLmLe",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pJWx3IwHC5XCfzo",
+                        "data": {
+                            "value": "夏琳使用湍流踏浪追击羽灵并开始挠痒攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_3mygVf48OIUV5gNk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fOlnVJmDItdRket",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_YcWDCOQQ9fkOVr0c",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hebJspuykTCE2GI",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_lIl0NQElFdUb0I7K",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zkOkRJImvzs9VpL",
+                        "data": {
+                            "value": "兴奋/刺激"
                         },
                         "targetUid": ""
                     }
@@ -2492,7 +2568,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749277144284,
+    "date_last_chat": 1749277497392,
     "chat_size": 0,
     "past_metadata": {
         "": {}
