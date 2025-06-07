@@ -50,7 +50,7 @@
                         "cell_fNC3QfT4_nsCdLJjvYrdDdscW",
                         "cell_fNC3QfT4_YsuQlUZSpMZuRQ0a",
                         "cell_fNC3QfT4_QvnxwDPehB9sVfJw",
-                        "cell_fNC3QfT4_pzgGIAXHMV3Bs91L"
+                        "cell_fNC3QfT4_Uy9LyIlQ0UyPtaRe"
                     ]
                 ],
                 "cellHistory": [
@@ -1946,26 +1946,10 @@
                     [
                         "cell_FDID2nSQ_0RMYNku4ZEVUMieO",
                         "cell_FDID2nSQ_tiJmOSIGcXzYLTMV",
-                        "cell_FDID2nSQ_a3d3OgJjUk66GZPn",
+                        "cell_FDID2nSQ_zlOZ2NvWfOcq1Kcd",
                         "cell_FDID2nSQ_g2LeTD8tdwL9F683",
                         "cell_FDID2nSQ_LtD5IBHhEIcfGVrb",
                         "cell_FDID2nSQ_kabkVbDMywapNGhM"
-                    ],
-                    [
-                        "cell_FDID2nSQ_DGKPVNbKzOS8MZrL",
-                        "cell_FDID2nSQ_LOvOlQtgbY0pHYRd",
-                        "cell_FDID2nSQ_6KsYsvqzV7GNUbxq",
-                        "cell_FDID2nSQ_qHmtqd52liw2OCu9",
-                        "cell_FDID2nSQ_Il45NBOAr4XG8POg",
-                        "cell_FDID2nSQ_JHDS4KbN4dXUtPYh"
-                    ],
-                    [
-                        "cell_FDID2nSQ_KueeX64bnSCCsbHm",
-                        "cell_FDID2nSQ_hlhFwvWNrSQrJn16",
-                        "cell_FDID2nSQ_iZLvXAixKgjC6onQ",
-                        "cell_FDID2nSQ_wnMjtU1J43cEdePG",
-                        "cell_FDID2nSQ_hcrzThpLLfdSr4AI",
-                        "cell_FDID2nSQ_sjwPq5xLCpg6sjiJ"
                     ]
                 ],
                 "cellHistory": [
@@ -2798,6 +2782,132 @@
                             "value": "紧张/爆发/混乱"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_bYWSOE8FsohtFCfo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3Ep4SOU3rrzjFwU",
+                        "data": {
+                            "value": "林巧使用防御模式技能免疫苏闪闪挠痒攻击/苏闪闪受困于束缚之吻的口球痒感和被动挤压"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_1bcq8EZfQ4y72PlL",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ERVfmUwjQiQIIKi",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_dm9QWV89vrgcn981",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tFVTT3WLsSgruLc",
+                        "data": {
+                            "value": "苏闪闪/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_Qp0zR1tBqXFXVspQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Vs4siOgAAYza6me",
+                        "data": {
+                            "value": "苏闪闪挣脱束缚之吻/林巧使用玉足奖励踢飞苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_F1CuxeV4C3y77JZF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RBXfaLJ1B35gSOW",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_JAXQ2lnjwo8ggPR0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PFxbtlTP1Tb5PsO",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_TQftSDhg1zOA0gaa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3utNJcX8UuSczUe",
+                        "data": {
+                            "value": "愤怒/决心/屈辱/不甘"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_tdnPtJfWDBuYaN5f",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_5VOlKoyD4P8R40Y",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_GFrrH4qVGA4wsqXf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_h6BaRB53URXhh7H",
+                        "data": {
+                            "value": "羽灵/苏闪闪/沈棠/林巧/夏琳/凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_g7OwY4Tkj27F50KD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_R3reR2UboygXnd0",
+                        "data": {
+                            "value": "极光和潮汐六名选手同时发动技能/第一波团战爆发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_SbaOblCgG2OpW6X3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vmzW7Us8wtlBwwX",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_znQFSt9JkzWi3t0Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MwnhIHKNt2QLZqq",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_yLKGev961erIGyan",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uLSfMM9h8fkGwlz",
+                        "data": {
+                            "value": "紧张/激烈/战意/混乱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -3112,7 +3222,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749284079835,
+    "date_last_chat": 1749284470650,
     "chat_size": 0,
     "past_metadata": {
         "": {}
