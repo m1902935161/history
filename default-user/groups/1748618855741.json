@@ -49,8 +49,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_rEDH7bJjVlYoxSNz",
-                        "cell_9jUXcRBd_K9eI8iJfepwA5XYV"
+                        "cell_9jUXcRBd_YRixHMU72t8xJ3Bx",
+                        "cell_9jUXcRBd_cLUtz64Bo2rb3Z4U"
                     ]
                 ],
                 "cellHistory": [
@@ -291,6 +291,26 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_K9eI8iJfepwA5XYV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "凛霜/温雅/夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_YRixHMU72t8xJ3Bx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛场地（丛林与矮山）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_cLUtz64Bo2rb3Z4U",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
@@ -6760,6 +6780,14 @@
                         "cell_3KbXcTSB_cf5B4VwWK2HLYivO",
                         "cell_3KbXcTSB_07rs3O4KyQXGgSA7",
                         "cell_3KbXcTSB_tPRHvEA77UMFE352"
+                    ],
+                    [
+                        "cell_3KbXcTSB_j8VfkzSivILZpvba",
+                        "cell_3KbXcTSB_vKDOxDLOC9N9iX2Y",
+                        "cell_3KbXcTSB_DQ9ug7h4V28ok6WL",
+                        "cell_3KbXcTSB_AyYtSYnHpruLfPgt",
+                        "cell_3KbXcTSB_DcpPS0Nbbbo4kDGa",
+                        "cell_3KbXcTSB_pAoW9j5Ug6TjFNWR"
                     ]
                 ],
                 "cellHistory": [
@@ -7000,6 +7028,64 @@
                             "value": "期待/紧张"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_j8VfkzSivILZpvba",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_RreWrassdLJg33R",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vKDOxDLOC9N9iX2Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gw2N9tSIxebgDPp",
+                        "data": {
+                            "value": "羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DQ9ug7h4V28ok6WL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rkBVKDaR1c4VSgV",
+                        "data": {
+                            "value": "发现潮汐三人并决定突袭"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_AyYtSYnHpruLfPgt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9BBq1TshzyXQ3li",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DcpPS0Nbbbo4kDGa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_l1tSCR7onTnrLWZ",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_pAoW9j5Ug6TjFNWR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kXU9mvIADohYDb2",
+                        "data": {
+                            "value": "兴奋/战意"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7149,7 +7235,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749285988183.9146,
     "create_date": "2025-6-7 @08h 46m 28s 183ms",
-    "date_last_chat": 1749288166031,
+    "date_last_chat": 1749288609400,
     "chat_size": 5668,
     "past_metadata": {
         "": {}
