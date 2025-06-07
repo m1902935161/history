@@ -13,8 +13,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": null,
-    "active_group": "1748618855741",
+    "active_character": "【星辰经纪人】露娜·星野.png",
+    "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1440,7 +1440,9 @@
         "【极光】苏闪闪.png": [],
         "【极光】沈棠.png": [],
         "【潮汐】凌汐.png": [],
-        "【光影】曦月.png": []
+        "【光影】曦月.png": [],
+        "【光影经纪人】薇尔莉特·克莱因.png": [],
+        "【星辰经纪人】露娜·星野.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
