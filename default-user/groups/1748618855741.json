@@ -51,7 +51,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_aFggxGKTZlxFpf5f",
-                        "cell_9jUXcRBd_k6HU3dtoGVc614f9"
+                        "cell_9jUXcRBd_pbtaRtijqDidF9wa"
                     ]
                 ],
                 "cellHistory": [
@@ -577,6 +577,16 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "夏琳/凌汐/林巧/羽灵/沈棠/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_pbtaRtijqDidF9wa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "林巧/苏闪闪"
                         },
                         "targetUid": ""
                     }
@@ -7125,18 +7135,18 @@
                     [
                         "cell_3KbXcTSB_MtULXgG8vO66xSCu",
                         "cell_3KbXcTSB_W50l0XwodycyX2da",
-                        "cell_3KbXcTSB_c3DiKdVthcDblR8Z",
+                        "cell_3KbXcTSB_WemGm3FJ29nPHrSu",
                         "cell_3KbXcTSB_Ic6197PrWes9Btp0",
                         "cell_3KbXcTSB_ixa1WCClG6mexgar",
-                        "cell_3KbXcTSB_Ngs6fCzvmtBe9JFF"
+                        "cell_3KbXcTSB_9UFjd6ehvjleobnd"
                     ],
                     [
                         "cell_3KbXcTSB_vkoAjbBzsnAjq1Dc",
                         "cell_3KbXcTSB_mS5VC1wDb9YI5GFx",
-                        "cell_3KbXcTSB_Vf6euIJDqz1uFVNd",
+                        "cell_3KbXcTSB_uxgEd4gZbefuVVAC",
                         "cell_3KbXcTSB_SI6X9GznOf6Qg3CI",
                         "cell_3KbXcTSB_wOYc7MqCkw8xA5vx",
-                        "cell_3KbXcTSB_b5hO506sqwv5jIQi"
+                        "cell_3KbXcTSB_MZgKaUGUv452yGC2"
                     ],
                     [
                         "cell_3KbXcTSB_l4FOSsFNNW0B3Ik2",
@@ -7205,10 +7215,10 @@
                     [
                         "cell_3KbXcTSB_34KV9PbTOPJP6WpM",
                         "cell_3KbXcTSB_cKO8ml1NYR095wIB",
-                        "cell_3KbXcTSB_Cn4laafTNM3vaIv0",
+                        "cell_3KbXcTSB_7hpk986rs7ow3MXt",
                         "cell_3KbXcTSB_w01v7pjor3UZCkmJ",
                         "cell_3KbXcTSB_WgAlNyCEcE6xreoC",
-                        "cell_3KbXcTSB_razYcJtRuKbYatTD"
+                        "cell_3KbXcTSB_WBkFSTuySMe9iwKk"
                     ],
                     [
                         "cell_3KbXcTSB_RDKAUukPSOBv5MMF",
@@ -7217,6 +7227,14 @@
                         "cell_3KbXcTSB_pz8PUqMp9C78d5cx",
                         "cell_3KbXcTSB_7mnIKlx3ZKYySZnk",
                         "cell_3KbXcTSB_HS8VcWpPQBhDnxtJ"
+                    ],
+                    [
+                        "cell_3KbXcTSB_j1Cj3GI97oSCMXIC",
+                        "cell_3KbXcTSB_GQ0WVBB5L038JKgc",
+                        "cell_3KbXcTSB_n0klUDvDDgEPej0W",
+                        "cell_3KbXcTSB_AeLqaI4rmPbJXkoK",
+                        "cell_3KbXcTSB_u0zhGTDtobWtbPhT",
+                        "cell_3KbXcTSB_wiaG7jsyu6VEctID"
                     ]
                 ],
                 "cellHistory": [
@@ -9841,6 +9859,124 @@
                             "value": "等待/战意"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_WemGm3FJ29nPHrSu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MdRYw2SzrpFA2cn",
+                        "data": {
+                            "value": "凉鞋被脱/王权不朽触发/被苏闪闪攻击脚底/失禁/濒临崩溃/成功发动强化玉足奖励/被沈棠绝对舞池锁定"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9UFjd6ehvjleobnd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mydHLMxSOLgsUhV",
+                        "data": {
+                            "value": "屈辱/痛苦/失控/反击/急于撤离/绝望"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_uxgEd4gZbefuVVAC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oyOu7fi6V0Lh2zY",
+                        "data": {
+                            "value": "被林巧的强化玉足奖励踢飞/恢复并埋伏/攻击林巧脚底/将欢愉储备倾泻至林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MZgKaUGUv452yGC2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GRydbeZRhusggly",
+                        "data": {
+                            "value": "震惊/疼痛/麻痒/期待/兴奋/掌控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7hpk986rs7ow3MXt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_j1wrOjBUzn3GkG2",
+                        "data": {
+                            "value": "被沈棠绝对舞池锁定/身体被强制操控摆出屈辱姿态"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_WBkFSTuySMe9iwKk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KIwgZ92bpgWtmmp",
+                        "data": {
+                            "value": "震惊/屈辱/愤怒/绝望"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_j1Cj3GI97oSCMXIC",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_oE7eaqouDI5aZJ0",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GQ0WVBB5L038JKgc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ogLkysZpl0FILLO",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_n0klUDvDDgEPej0W",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MutUjYZYiw16aBD",
+                        "data": {
+                            "value": "TL核心套装强制解除/裸体暴露/失禁/被淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_AeLqaI4rmPbJXkoK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qoPtmaGqunpaPHO",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_u0zhGTDtobWtbPhT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7fZM443dnmuf51P",
+                        "data": {
+                            "value": "TL比赛场地（全息舞台）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_wiaG7jsyu6VEctID",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Rx4d8ydBuwPASxp",
+                        "data": {
+                            "value": "崩溃/屈辱/失控/绝望"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -9990,7 +10126,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749293960366.087,
     "create_date": "2025-6-7 @10h 59m 20s 366ms",
-    "date_last_chat": 1749308267200,
+    "date_last_chat": 1749308677733,
     "chat_size": 329552,
     "past_metadata": {
         "": {}
