@@ -49,8 +49,8 @@
                         "cell_fNC3QfT4_cSX43RZWPlGheBqw",
                         "cell_fNC3QfT4_nsCdLJjvYrdDdscW",
                         "cell_fNC3QfT4_YsuQlUZSpMZuRQ0a",
-                        "cell_fNC3QfT4_qUtETe5k6CF4Tsz9",
-                        "cell_fNC3QfT4_SAhwq9LCzBOgC1R5"
+                        "cell_fNC3QfT4_QvnxwDPehB9sVfJw",
+                        "cell_fNC3QfT4_udd6zyjk8RHqjy2g"
                     ]
                 ],
                 "cellHistory": [
@@ -172,6 +172,66 @@
                         "coordUid": "coo_RrT7pqRFOxJRLtp",
                         "data": {
                             "value": "羽灵/苏闪闪/沈棠/夏琳/凌汐/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_vcUATXChj4Cj1AYV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_l6wQWpqvxOKEMQL",
+                        "data": {
+                            "value": "冰封峡谷"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_dRs9znl1z5dlvKEq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_l6wQWpqvxOKEMQL",
+                        "data": {
+                            "value": "冰封峡谷"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_Pv3mKeSbokuJP1Of",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RrT7pqRFOxJRLtp",
+                        "data": {
+                            "value": "羽灵/苏闪闪/沈棠/夏琳/凌汐/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_jaLhJnvONhUIgmbG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_l6wQWpqvxOKEMQL",
+                        "data": {
+                            "value": "冰封峡谷"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_QvnxwDPehB9sVfJw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_l6wQWpqvxOKEMQL",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_udd6zyjk8RHqjy2g",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RrT7pqRFOxJRLtp",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
                         },
                         "targetUid": ""
                     }
@@ -1766,6 +1826,14 @@
                         "cell_FDID2nSQ_mQuDp9QdMilQ8J7w",
                         "cell_FDID2nSQ_5TGjKE8W7uEZg08F",
                         "cell_FDID2nSQ_SuMFdwDMH5XPlYVb"
+                    ],
+                    [
+                        "cell_FDID2nSQ_0CFDWd05w6XaZcbe",
+                        "cell_FDID2nSQ_qVgshQglSZmrLx2u",
+                        "cell_FDID2nSQ_psbzpo2onRlEXR10",
+                        "cell_FDID2nSQ_yxc6MTK45W88dWc3",
+                        "cell_FDID2nSQ_RPUDXK0KMWZtfXkE",
+                        "cell_FDID2nSQ_kBxOwXrkZlfg6qHY"
                     ]
                 ],
                 "cellHistory": [
@@ -1888,6 +1956,64 @@
                         "coordUid": "coo_lOV82svRGiF6EFl",
                         "data": {
                             "value": "专注/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_0CFDWd05w6XaZcbe",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_UZha6dvS1271kCO",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_qVgshQglSZmrLx2u",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6s2U2BoUyKxayQ0",
+                        "data": {
+                            "value": "羽灵/苏闪闪/沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_psbzpo2onRlEXR10",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3knGvOU79BZQk6J",
+                        "data": {
+                            "value": "极光队分头行动搜索潮汐队"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_yxc6MTK45W88dWc3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0MWZMcSQnU2oNZa",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_RPUDXK0KMWZtfXkE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qI7fvnRwkg0vQqI",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_kBxOwXrkZlfg6qHY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QEta8Ur5HWxHvEs",
+                        "data": {
+                            "value": "期待/专注"
                         },
                         "targetUid": ""
                     }
@@ -2204,7 +2330,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749276349674,
+    "date_last_chat": 1749276601303,
     "chat_size": 0,
     "past_metadata": {
         "": {}
