@@ -50,7 +50,7 @@
                         "cell_fNC3QfT4_nsCdLJjvYrdDdscW",
                         "cell_fNC3QfT4_YsuQlUZSpMZuRQ0a",
                         "cell_fNC3QfT4_QvnxwDPehB9sVfJw",
-                        "cell_fNC3QfT4_4IuCtFgX4W7IDJLA"
+                        "cell_fNC3QfT4_NRUqIn4Zoi5ikBFn"
                     ]
                 ],
                 "cellHistory": [
@@ -262,6 +262,16 @@
                         "coordUid": "coo_RrT7pqRFOxJRLtp",
                         "data": {
                             "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠/潮汐队员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_NRUqIn4Zoi5ikBFn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RrT7pqRFOxJRLtp",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
                         },
                         "targetUid": ""
                     }
@@ -1892,10 +1902,26 @@
                     [
                         "cell_FDID2nSQ_YeMZ0rabHUnfisDO",
                         "cell_FDID2nSQ_ULhjUa2eWmyBoa2M",
-                        "cell_FDID2nSQ_Kyampn7EBASS5lIy",
+                        "cell_FDID2nSQ_Ta5VAGZhayRF2arJ",
                         "cell_FDID2nSQ_CSoDtGXQ1W5ewufd",
                         "cell_FDID2nSQ_2MeXG2VnFOjpTELu",
                         "cell_FDID2nSQ_Y8VCIe3pDEVnXf0L"
+                    ],
+                    [
+                        "cell_FDID2nSQ_F46yFT7HqSwmYBZg",
+                        "cell_FDID2nSQ_9L06rTdV2uKSaaYo",
+                        "cell_FDID2nSQ_ULpqOLdtr6EgRBay",
+                        "cell_FDID2nSQ_PdEqSuvILJE3sLTZ",
+                        "cell_FDID2nSQ_VUocDji3N0TeELj7",
+                        "cell_FDID2nSQ_oCYKnSIhK5678qLt"
+                    ],
+                    [
+                        "cell_FDID2nSQ_UIu05uOZgPBBGuT6",
+                        "cell_FDID2nSQ_6OsUHVvyMhrrqJS6",
+                        "cell_FDID2nSQ_aW67u0uR9B5MqVdj",
+                        "cell_FDID2nSQ_z88R6CQqiTWZK2k8",
+                        "cell_FDID2nSQ_iDBl7X7NgPNTZICS",
+                        "cell_FDID2nSQ_w82k1Adhl0Qh9bmq"
                     ]
                 ],
                 "cellHistory": [
@@ -2330,6 +2356,142 @@
                             "value": "紧张/焦急/痒/求饶/大笑"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_Ta5VAGZhayRF2arJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GZNmblk5eeBwD0g",
+                        "data": {
+                            "value": "羽灵被潮汐三人围攻倒地求饶"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_F46yFT7HqSwmYBZg",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_GeKPRlgPRtEHUzx",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_9L06rTdV2uKSaaYo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EA7dDc6I9IJqhof",
+                        "data": {
+                            "value": "林巧/羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_PQhFBY6ES3GFh0Ym",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SmGeuIh3LPGRcGq",
+                        "data": {
+                            "value": "林巧使用趾尖加冕后的脚趾集中攻击羽灵的敏感区域/羽灵因剧痒核心数值飙升"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_PdEqSuvILJE3sLTZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iQXkYyZ0hEJcXbs",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_VUocDji3N0TeELj7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mzen4MHkNoQ2Heb",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_oCYKnSIhK5678qLt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_illw8dlNY5OTu05",
+                        "data": {
+                            "value": "兴奋/狂喜/痛苦/绝望"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_ULpqOLdtr6EgRBay",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SmGeuIh3LPGRcGq",
+                        "data": {
+                            "value": "林巧使用趾尖加冕后的脚趾集中攻击羽灵的敏感区域/羽灵因剧痒核心数值飙升"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_UIu05uOZgPBBGuT6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_J5YFODOQthzg40J",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_6OsUHVvyMhrrqJS6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TxPlfDwtdcmQ5Di",
+                        "data": {
+                            "value": "苏闪闪/沈棠/羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_aW67u0uR9B5MqVdj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LOSHhFO42SZYAA5",
+                        "data": {
+                            "value": "极光支援苏闪闪和沈棠赶到/苏闪闪对林巧使用控制技能/沈棠和苏闪闪救下羽灵并撤退"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_z88R6CQqiTWZK2k8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TWxngOarQLjOFWX",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_iDBl7X7NgPNTZICS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CEw0Kfx1pqTuzfv",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_w82k1Adhl0Qh9bmq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tdSwxnTkM0buyBp",
+                        "data": {
+                            "value": "紧张/焦急/愤怒/求饶"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -2644,7 +2806,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749277872082,
+    "date_last_chat": 1749278180949,
     "chat_size": 0,
     "past_metadata": {
         "": {}
