@@ -1928,10 +1928,18 @@
                     [
                         "cell_FDID2nSQ_cLm2OxoKLkNBxY81",
                         "cell_FDID2nSQ_ZQJcsyAXiVnTRL4o",
-                        "cell_FDID2nSQ_dsDlcr1ujT2Q56zW",
+                        "cell_FDID2nSQ_E3qn842WxJGzy1JO",
                         "cell_FDID2nSQ_yujp0cjOdwQGKBV0",
                         "cell_FDID2nSQ_baHxbfzIHqpCf6Ni",
                         "cell_FDID2nSQ_9wu5SS1p9J7wUv5C"
+                    ],
+                    [
+                        "cell_FDID2nSQ_0RMYNku4ZEVUMieO",
+                        "cell_FDID2nSQ_tiJmOSIGcXzYLTMV",
+                        "cell_FDID2nSQ_zlOZ2NvWfOcq1Kcd",
+                        "cell_FDID2nSQ_g2LeTD8tdwL9F683",
+                        "cell_FDID2nSQ_LtD5IBHhEIcfGVrb",
+                        "cell_FDID2nSQ_kabkVbDMywapNGhM"
                     ]
                 ],
                 "cellHistory": [
@@ -2570,6 +2578,74 @@
                             "value": "愤怒/惊讶/不适/屈辱"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_E3qn842WxJGzy1JO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FiFAiaN0tjosnNz",
+                        "data": {
+                            "value": "苏闪闪赶到扑倒林巧救下羽灵/苏闪闪使用技能用口球连接林巧和自己"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_0RMYNku4ZEVUMieO",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_YYqNFP4e8bUcSUG",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_tiJmOSIGcXzYLTMV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KUyaUZP7AZ53kcU",
+                        "data": {
+                            "value": "苏闪闪/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_zlOZ2NvWfOcq1Kcd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3Ep4SOU3rrzjFwU",
+                        "data": {
+                            "value": "林巧使用防御模式技能免疫苏闪闪挠痒攻击/苏闪闪受困于束缚之吻的口球痒感和被动挤压"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_g2LeTD8tdwL9F683",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6ljqZZzgh4HVFMU",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_LtD5IBHhEIcfGVrb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5w5ayL7shuMcPg0",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_kabkVbDMywapNGhM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sjb469EsiAnhwUZ",
+                        "data": {
+                            "value": "愤怒/困惑/痛苦/屈辱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -2884,7 +2960,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749278352531,
+    "date_last_chat": 1749278656456,
     "chat_size": 0,
     "past_metadata": {
         "": {}
