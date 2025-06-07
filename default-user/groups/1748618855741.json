@@ -49,8 +49,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_UmIa0phDqLjCo7Gl",
-                        "cell_9jUXcRBd_XZy9wSsfInlHJtcY"
+                        "cell_9jUXcRBd_YRixHMU72t8xJ3Bx",
+                        "cell_9jUXcRBd_cLUtz64Bo2rb3Z4U"
                     ]
                 ],
                 "cellHistory": [
@@ -6810,12 +6810,12 @@
                         "cell_3KbXcTSB_pAoW9j5Ug6TjFNWR"
                     ],
                     [
-                        "cell_3KbXcTSB_7OKsUNcxXYsKHjUW",
-                        "cell_3KbXcTSB_gNkmCahtH0QWA0C5",
-                        "cell_3KbXcTSB_3MLsnD3Tp9OOrTE9",
-                        "cell_3KbXcTSB_ZM3RHHos5eHphUU2",
-                        "cell_3KbXcTSB_XVmTMzbqu6au57gr",
-                        "cell_3KbXcTSB_5hefbZGrSwDCbjJZ"
+                        "cell_3KbXcTSB_MC3Y0kixzH79fcVf",
+                        "cell_3KbXcTSB_lw233aMliOZWA6is",
+                        "cell_3KbXcTSB_UXghPe4TMqGFufZ8",
+                        "cell_3KbXcTSB_ELFlSbrsEU6SHqfd",
+                        "cell_3KbXcTSB_wkkdJEaJcq53HKNL",
+                        "cell_3KbXcTSB_p8IKGlcSFz73X84D"
                     ]
                 ],
                 "cellHistory": [
@@ -7172,6 +7172,64 @@
                             "value": "兴奋/战意"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MC3Y0kixzH79fcVf",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_BpmBHNF6mnHhA0Y",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lw233aMliOZWA6is",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xuoch908PPGeMbN",
+                        "data": {
+                            "value": "夏琳"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UXghPe4TMqGFufZ8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cPwFjfzsF1HzSou",
+                        "data": {
+                            "value": "追击羽灵并发动终极技能"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ELFlSbrsEU6SHqfd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lkUG72dUL3tNNU7",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_wkkdJEaJcq53HKNL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TwzijpHVJh32cfI",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_p8IKGlcSFz73X84D",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_i6AcvKYYGyMvAeT",
+                        "data": {
+                            "value": "兴奋/攻击性"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7321,7 +7379,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749285988183.9146,
     "create_date": "2025-6-7 @08h 46m 28s 183ms",
-    "date_last_chat": 1749289257106,
+    "date_last_chat": 1749289372772,
     "chat_size": 5668,
     "past_metadata": {
         "": {}
