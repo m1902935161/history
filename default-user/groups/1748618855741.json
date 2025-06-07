@@ -50,7 +50,7 @@
                         "cell_fNC3QfT4_nsCdLJjvYrdDdscW",
                         "cell_fNC3QfT4_YsuQlUZSpMZuRQ0a",
                         "cell_fNC3QfT4_QvnxwDPehB9sVfJw",
-                        "cell_fNC3QfT4_udd6zyjk8RHqjy2g"
+                        "cell_fNC3QfT4_BYMmAeKZlV0F7Wal"
                     ]
                 ],
                 "cellHistory": [
@@ -232,6 +232,16 @@
                         "coordUid": "coo_RrT7pqRFOxJRLtp",
                         "data": {
                             "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_fNC3QfT4_BYMmAeKZlV0F7Wal",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RrT7pqRFOxJRLtp",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠/潮汐队员"
                         },
                         "targetUid": ""
                     }
@@ -1834,6 +1844,14 @@
                         "cell_FDID2nSQ_yxc6MTK45W88dWc3",
                         "cell_FDID2nSQ_RPUDXK0KMWZtfXkE",
                         "cell_FDID2nSQ_kBxOwXrkZlfg6qHY"
+                    ],
+                    [
+                        "cell_FDID2nSQ_iCuo832Yy4speMjH",
+                        "cell_FDID2nSQ_XhLf8LLqjKJbtnxA",
+                        "cell_FDID2nSQ_0b0d9prLmGH1PiP5",
+                        "cell_FDID2nSQ_ES7Z7io7khunhBIm",
+                        "cell_FDID2nSQ_L5LfeVtfmLrXKDny",
+                        "cell_FDID2nSQ_VvdbizDWjIrvWLO5"
                     ]
                 ],
                 "cellHistory": [
@@ -2014,6 +2032,64 @@
                         "coordUid": "coo_QEta8Ur5HWxHvEs",
                         "data": {
                             "value": "期待/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_iCuo832Yy4speMjH",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_HRzKxPfeg6KWe4m",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_XhLf8LLqjKJbtnxA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EGJSAGGVXxmEV8z",
+                        "data": {
+                            "value": "羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_0b0d9prLmGH1PiP5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jOSxdPcKwZcNfeB",
+                        "data": {
+                            "value": "发现潮汐队并使用燕返撩空突袭林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_ES7Z7io7khunhBIm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DgRTJup7gQBuRW2",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_L5LfeVtfmLrXKDny",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wpOfr59ZPnMUP9J",
+                        "data": {
+                            "value": "冰封峡谷(TL比赛地图)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_FDID2nSQ_VvdbizDWjIrvWLO5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Pad7F4ovzhmv1Yd",
+                        "data": {
+                            "value": "兴奋/得意"
                         },
                         "targetUid": ""
                     }
@@ -2330,7 +2406,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749127757274.7173,
     "create_date": "2025-6-5 @12h 49m 17s 274ms",
-    "date_last_chat": 1749276601303,
+    "date_last_chat": 1749276878845,
     "chat_size": 0,
     "past_metadata": {
         "": {}
