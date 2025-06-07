@@ -50,8 +50,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_vkvocu8lPOcHiYCM",
-                        "cell_9jUXcRBd_8Sv0eNdta6VbZ7Vz"
+                        "cell_9jUXcRBd_LCC9WkiDVtrrpgug",
+                        "cell_9jUXcRBd_LehtrezwpEYO4OjW"
                     ]
                 ],
                 "cellHistory": [
@@ -517,6 +517,26 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_LCC9WkiDVtrrpgug",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛场地（丛林与矮山）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_LehtrezwpEYO4OjW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧"
                         },
                         "targetUid": ""
                     }
@@ -7065,34 +7085,34 @@
                     [
                         "cell_3KbXcTSB_MtULXgG8vO66xSCu",
                         "cell_3KbXcTSB_W50l0XwodycyX2da",
-                        "cell_3KbXcTSB_cEBto0Mb2oWl3BYV",
+                        "cell_3KbXcTSB_c3DiKdVthcDblR8Z",
                         "cell_3KbXcTSB_Ic6197PrWes9Btp0",
                         "cell_3KbXcTSB_ixa1WCClG6mexgar",
-                        "cell_3KbXcTSB_QVxh0V5Z2amkNLnC"
+                        "cell_3KbXcTSB_Ngs6fCzvmtBe9JFF"
                     ],
                     [
                         "cell_3KbXcTSB_vkoAjbBzsnAjq1Dc",
                         "cell_3KbXcTSB_mS5VC1wDb9YI5GFx",
-                        "cell_3KbXcTSB_XPMcH4PUX2Gdi4HY",
+                        "cell_3KbXcTSB_Vf6euIJDqz1uFVNd",
                         "cell_3KbXcTSB_SI6X9GznOf6Qg3CI",
                         "cell_3KbXcTSB_wOYc7MqCkw8xA5vx",
-                        "cell_3KbXcTSB_L2Vqeom6C0GSVMHR"
+                        "cell_3KbXcTSB_b5hO506sqwv5jIQi"
                     ],
                     [
                         "cell_3KbXcTSB_l4FOSsFNNW0B3Ik2",
                         "cell_3KbXcTSB_QWcaUU73bU2ui4ik",
-                        "cell_3KbXcTSB_6HmUboxfjImo90lR",
+                        "cell_3KbXcTSB_lZGLdAf0x7szi1H6",
                         "cell_3KbXcTSB_ZJ82xY15eabN0rhz",
                         "cell_3KbXcTSB_3kQ81bOMDLdlxoWk",
-                        "cell_3KbXcTSB_aXOgogTc72cm90t6"
+                        "cell_3KbXcTSB_jVwK939t99iXhQJn"
                     ],
                     [
                         "cell_3KbXcTSB_pIYYKLn1cFUHNh67",
                         "cell_3KbXcTSB_8a7H59dD5OE048Ly",
-                        "cell_3KbXcTSB_celFeWWhDK9Tb8HL",
+                        "cell_3KbXcTSB_4f740opGTVrUgykV",
                         "cell_3KbXcTSB_2nBGyDyhSbsJUJz3",
                         "cell_3KbXcTSB_uvd2USeYfzz7GHL3",
-                        "cell_3KbXcTSB_YwMIR8MBZWj9f3Zc"
+                        "cell_3KbXcTSB_quCGc5dZeFGpUNcm"
                     ],
                     [
                         "cell_3KbXcTSB_WLHnSeGGsbF12fTq",
@@ -7103,52 +7123,12 @@
                         "cell_3KbXcTSB_CgTNCyrsvuvQOQ0h"
                     ],
                     [
-                        "cell_3KbXcTSB_hfz7pDOyofCqgexM",
-                        "cell_3KbXcTSB_4nlfi8DQydDgMeoC",
-                        "cell_3KbXcTSB_B12tUY4AHF5ptoJ7",
-                        "cell_3KbXcTSB_PF40OEOA2FXHbtch",
-                        "cell_3KbXcTSB_zLXStpZK2CLsif8r",
-                        "cell_3KbXcTSB_2D3D5dnL9CRZoC23"
-                    ],
-                    [
-                        "cell_3KbXcTSB_i5JZ9R1OVbtSdxcH",
-                        "cell_3KbXcTSB_mmKjtv1qizRyG7TI",
-                        "cell_3KbXcTSB_g1GuP32bItquLH6W",
-                        "cell_3KbXcTSB_CnXh34hs8FHag5TO",
-                        "cell_3KbXcTSB_UZJuHXC9ZBNmnlGG",
-                        "cell_3KbXcTSB_AU6PKTAgpY0h7xeH"
-                    ],
-                    [
-                        "cell_3KbXcTSB_iVvfNzUjsAmKBmRH",
-                        "cell_3KbXcTSB_zAV2hsCbLE1NYbi8",
-                        "cell_3KbXcTSB_G1kMP2akwgLflMK1",
-                        "cell_3KbXcTSB_pHRsXUM1oCfExDYY",
-                        "cell_3KbXcTSB_71uSLJ8WmvkKskDf",
-                        "cell_3KbXcTSB_ciwbnywoAp26woMQ"
-                    ],
-                    [
-                        "cell_3KbXcTSB_zx4PxiIr3ntghsi2",
-                        "cell_3KbXcTSB_ibANd4yLO8y1jXMW",
-                        "cell_3KbXcTSB_kdov7ABwWHj92poY",
-                        "cell_3KbXcTSB_mJ8QDKhdllGXxBsN",
-                        "cell_3KbXcTSB_qsUoSRf8LCfiicvb",
-                        "cell_3KbXcTSB_FEHfLoZuexJ8xjIh"
-                    ],
-                    [
-                        "cell_3KbXcTSB_JYQMiPUjuiSIvj3G",
-                        "cell_3KbXcTSB_L9cZxC2UWSrMjxIt",
-                        "cell_3KbXcTSB_Ae07JtnSF2TUMpy4",
-                        "cell_3KbXcTSB_ArKJJMMa7XVeZeBo",
-                        "cell_3KbXcTSB_C2RiTi4lttck7P5L",
-                        "cell_3KbXcTSB_9LJCW9wcmdgvxxlW"
-                    ],
-                    [
-                        "cell_3KbXcTSB_sLdgOGdCnnE8ujy7",
-                        "cell_3KbXcTSB_w7elvyYoyzZjpLlx",
-                        "cell_3KbXcTSB_mSsrd6bVSYOrRqaO",
-                        "cell_3KbXcTSB_89lckfBTATzmnCIk",
-                        "cell_3KbXcTSB_v5UKeKjlBPquD3Go",
-                        "cell_3KbXcTSB_sOvBSAmBd4OK4tyH"
+                        "cell_3KbXcTSB_E3gNy2eKRy7DfTh2",
+                        "cell_3KbXcTSB_H9UHoGYkNZwoGDgH",
+                        "cell_3KbXcTSB_UY78Jwk0iYAt7CDd",
+                        "cell_3KbXcTSB_LQnJJjN02Joxi4bE",
+                        "cell_3KbXcTSB_MHtJphIcHF7WBecQ",
+                        "cell_3KbXcTSB_tfxmvMVnKFkdtRTi"
                     ]
                 ],
                 "cellHistory": [
@@ -9019,6 +8999,64 @@
                             "value": "戒备/复仇"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_E3gNy2eKRy7DfTh2",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_LWWYUtXebGvxTe6",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_H9UHoGYkNZwoGDgH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cLcSMTi3QS2F9bu",
+                        "data": {
+                            "value": "潮汐队"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UY78Jwk0iYAt7CDd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_OGkSupJcorReP0Z",
+                        "data": {
+                            "value": "开始第二轮行动/林巧状态特殊化"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LQnJJjN02Joxi4bE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VUt741qYuFAc2QL",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MHtJphIcHF7WBecQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_j3naP0RSWxqcpxl",
+                        "data": {
+                            "value": "TL比赛场地（丛林与矮山）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tfxmvMVnKFkdtRTi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1uJcDUGITm2ZkLQ",
+                        "data": {
+                            "value": "战术执行/复仇"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -9168,7 +9206,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749293960366.087,
     "create_date": "2025-6-7 @10h 59m 20s 366ms",
-    "date_last_chat": 1749307197581,
+    "date_last_chat": 1749307489423,
     "chat_size": 329552,
     "past_metadata": {
         "": {}
