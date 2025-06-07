@@ -50,7 +50,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_YRixHMU72t8xJ3Bx",
-                        "cell_9jUXcRBd_cLUtz64Bo2rb3Z4U"
+                        "cell_9jUXcRBd_NwHHvmRraWqke22f"
                     ]
                 ],
                 "cellHistory": [
@@ -356,6 +356,16 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "凛霜/温雅/夏琳/凌汐/林巧/羽灵/苏闪闪/沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_NwHHvmRraWqke22f",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/羽灵"
                         },
                         "targetUid": ""
                     }
@@ -6836,6 +6846,14 @@
                         "cell_3KbXcTSB_ELFlSbrsEU6SHqfd",
                         "cell_3KbXcTSB_wkkdJEaJcq53HKNL",
                         "cell_3KbXcTSB_p8IKGlcSFz73X84D"
+                    ],
+                    [
+                        "cell_3KbXcTSB_vtCPBxxXNnoPAkxF",
+                        "cell_3KbXcTSB_tqcnqNue309q6Kqm",
+                        "cell_3KbXcTSB_TsYLo3BJT6asBof4",
+                        "cell_3KbXcTSB_9kBkleqiKrQh2zRo",
+                        "cell_3KbXcTSB_tSvXdyWguGJOed1Z",
+                        "cell_3KbXcTSB_57rzUM1Fz4HO4Sg8"
                     ]
                 ],
                 "cellHistory": [
@@ -7308,6 +7326,64 @@
                             "value": "挣扎/懊恼"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vtCPBxxXNnoPAkxF",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ONaNj4YKhBQoBxL",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tqcnqNue309q6Kqm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_63bNZBdizU9mi0f",
+                        "data": {
+                            "value": "羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TsYLo3BJT6asBof4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GY2mdONlw2NtzWz",
+                        "data": {
+                            "value": "被夏琳扑倒并被潮汐队三人围困"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9kBkleqiKrQh2zRo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UXdkXLaCoHioD3b",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tSvXdyWguGJOed1Z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HFfBeRJbpTST6DS",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_57rzUM1Fz4HO4Sg8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GBAsrJBig6F7Vh6",
+                        "data": {
+                            "value": "惊讶/痒痛/挣扎/不安"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7457,7 +7533,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749285988183.9146,
     "create_date": "2025-6-7 @08h 46m 28s 183ms",
-    "date_last_chat": 1749290458961,
+    "date_last_chat": 1749290739877,
     "chat_size": 5668,
     "past_metadata": {
         "": {}
