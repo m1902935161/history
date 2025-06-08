@@ -53,7 +53,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_aFggxGKTZlxFpf5f",
-                        "cell_9jUXcRBd_CuVtULTZAaYKQFvA"
+                        "cell_9jUXcRBd_VErWkrb1a8cRWg3L"
                     ]
                 ],
                 "cellHistory": [
@@ -689,6 +689,36 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "夏琳/凌汐/羽灵/沈棠/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_cQbjNJOuvYOb8kX2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/羽灵/沈棠/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_t1MLUc88dh6W83Qv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/羽灵/沈棠/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_VErWkrb1a8cRWg3L",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/苏闪闪/羽灵/沈棠"
                         },
                         "targetUid": ""
                     }
@@ -7373,10 +7403,10 @@
                     [
                         "cell_3KbXcTSB_xw5BLWtIwwWwPjCS",
                         "cell_3KbXcTSB_AxdABJ0cDzhXjddh",
-                        "cell_3KbXcTSB_rnowloCi4optNsQn",
+                        "cell_3KbXcTSB_GdtxsAZgMTC6a5ub",
                         "cell_3KbXcTSB_P4JKxGG5hUK4KKRd",
                         "cell_3KbXcTSB_Yd40AEWrY1E0mseD",
-                        "cell_3KbXcTSB_HW73xBj7oFo8B5dj"
+                        "cell_3KbXcTSB_JGqXjmgQPGYMq9hq"
                     ],
                     [
                         "cell_3KbXcTSB_ru8VoDz2X8Cj9hcB",
@@ -7413,10 +7443,42 @@
                     [
                         "cell_3KbXcTSB_1IoanHu94MNxyo4e",
                         "cell_3KbXcTSB_BLx8RLRPUoyYFyCs",
-                        "cell_3KbXcTSB_a4cJ1rwurYEoUzHg",
+                        "cell_3KbXcTSB_ypprsgnGMqgW0cLc",
                         "cell_3KbXcTSB_nmy2Al8OldNmXt26",
                         "cell_3KbXcTSB_M7uxYgYaFfc5o4HR",
-                        "cell_3KbXcTSB_fibqVOOrHMFC0HZu"
+                        "cell_3KbXcTSB_vIyEevGkZFmTmJjD"
+                    ],
+                    [
+                        "cell_3KbXcTSB_xzepX3osSC8w6CXe",
+                        "cell_3KbXcTSB_giMhGStfuffph9km",
+                        "cell_3KbXcTSB_O7eGgHuUCdWexFXK",
+                        "cell_3KbXcTSB_LFdKqkGgNiI91XVo",
+                        "cell_3KbXcTSB_QKJ3Z0HZIg1WJops",
+                        "cell_3KbXcTSB_f9KXjmvdsNpOF2Z5"
+                    ],
+                    [
+                        "cell_3KbXcTSB_SBNF5J4AAB4xfXli",
+                        "cell_3KbXcTSB_nRVmhtk1usXV3v36",
+                        "cell_3KbXcTSB_3M8dLkPlCA53Va3I",
+                        "cell_3KbXcTSB_UuUM34UfRgJ0QFdu",
+                        "cell_3KbXcTSB_GeCwy0rhA9kIcOEi",
+                        "cell_3KbXcTSB_8RMPgCvoVefuePvd"
+                    ],
+                    [
+                        "cell_3KbXcTSB_kK6lQiiG8pSYgySf",
+                        "cell_3KbXcTSB_p40XGhdeUgGuIpJJ",
+                        "cell_3KbXcTSB_0lshcNpVE3VQZIsf",
+                        "cell_3KbXcTSB_vbj1HvdWNCA0PwAG",
+                        "cell_3KbXcTSB_KLuojrBWjlJqLXlH",
+                        "cell_3KbXcTSB_soSpHJsDa3sB3x2D"
+                    ],
+                    [
+                        "cell_3KbXcTSB_OH4Ot1lpdVtbyZnz",
+                        "cell_3KbXcTSB_BMJVk9kawPGxrvTA",
+                        "cell_3KbXcTSB_BzhYgxKGkO4IlVJB",
+                        "cell_3KbXcTSB_1wXtMZ8jfXxyR8zy",
+                        "cell_3KbXcTSB_oWemWhetGWfrPOm9",
+                        "cell_3KbXcTSB_Pw7Uh03kK0jWBrwO"
                     ]
                 ],
                 "cellHistory": [
@@ -11553,6 +11615,768 @@
                             "value": "冷静/专注/优雅/冷静"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6t1iJD273S03Gekv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tpgt8eccOx7eufh",
+                        "data": {
+                            "value": "陷入近身肉搏僵局/抓住沈棠破绽并攻击脖颈/发动激流缠绕束缚沈棠脚踝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fS2MljxC7rmdB6X3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qLlwHTqAHrJfVIQ",
+                        "data": {
+                            "value": "冷静/专注/捕获"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_zqenIIVYaFuOiuQu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2SpemDmzm9U2hKQ",
+                        "data": {
+                            "value": "被凌汐深渊禁锢/被凌汐夏琳联合攻击/TL核心套装强制解除/裸体被挠/队友赶到/解除深渊禁锢但仍被控制/与沈棠一同被捆绑/被凌汐同时搔痒/被淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lh0AnTsCV8HLwy3w",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5kAsF3RGiVQlNNM",
+                        "data": {
+                            "value": "痛苦/无助/羞耻/崩溃/解脱/虚弱/不安/绝望"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_2oQDRw2V0bBq2YlR",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_MK7bR7qUmmduNLn",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TukSQosmSiRGt0l2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jSHMEgTajjAViOa",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fhXB0J8u88YfAt83",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UQg5RpnDiBps9GS",
+                        "data": {
+                            "value": "右脚脚踝被凌汐激流缠绕束缚/与凌汐陷入近身缠斗/被凌汐完全制服/TL核心套装强制解除/裸体被捆绑/与羽灵一同被搔痒/被淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_JPCaCEQA7i5VqJQg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_M2v8cPkp0N0o26r",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Ou3eNS8kBXiS9qwA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xyrq9ckTjD4fnt4",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_b1pfemtL1XAk9FIB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wwIclZo35rwBsc3",
+                        "data": {
+                            "value": "惊慌/受限/屈辱/痛苦/崩溃"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_emp07oDwDxEPdtqi",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_PoqK4ZAKGXgMBML",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_zOLZFz6R7sBcAl7K",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TGzsQSAEDZaDjCg",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_APgD8TYoSD0m0jWo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Wa0mVbRrOOjcWqR",
+                        "data": {
+                            "value": "被夏琳使用潮涌漩涡/因剧痒解除敏感脉冲/蜷缩抵抗搔痒/与夏琳近身缠斗/成功抓住夏琳并施展束缚之吻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_BtOPLbCGtbN1vWJB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AQTUqgwJqHnB54N",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YMPhFtesoJJyep63",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lxXbhGFvzRVOmhk",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fwsSDd4YjWbp4b5a",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oAfDzXOMNdArjT1",
+                        "data": {
+                            "value": "痛苦/失控/挣扎/不甘/兴奋/掌控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7WHT1F6HumXULe4x",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Gedvy3T0N0uNsNt",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_5FVjUPrs2UWW0enK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ORQWCXUo78EPjjc",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_V7NsJIl6N1MDPAc7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PciDtnLA2gc7z2V",
+                        "data": {
+                            "value": "与苏闪闪缠斗并进行搔痒攻击/被苏闪闪束缚之吻控制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FCZitolcLdwBJuuo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IGyXLvl8M7st3GV",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FV1zSBDYGN5lITl3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yHoZUt6rF9JFlOK",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_2hqz68tZDMtfOITY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1LWbzHlU2QKoFaa",
+                        "data": {
+                            "value": "攻击性/好胜/震惊/受限"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_WBgJDdFQ4rSlaP92",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_TaCOMEdkYdy3kXs",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_VcjQ0etGmvyeNi3s",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sR4M02fGqiLyoT4",
+                        "data": {
+                            "value": "沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_G41tFSId5DfmirCi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZOoemz8T32rByfo",
+                        "data": {
+                            "value": "右脚脚踝被凌汐激流缠绕束缚/与凌汐陷入近身缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GHq9016UfTKTiGiM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yEYvMs8Fhaum2mu",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_4JyCs540Hq0zGHrk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hxNOqhgcWZXgq3c",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_bW7X5TH0ds4fxkYK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XQIlDYtUj9jJNsP",
+                        "data": {
+                            "value": "惊慌/受限"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_wbomlu6zbSwUoxH7",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_cyd8EN1BDtMGUFG",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_VJv4Wfn1pZ64xl11",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vIoPYlG4gDC140D",
+                        "data": {
+                            "value": "凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_uBR1BAPaGlJMV3vf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BM3AVYA783fDkgu",
+                        "data": {
+                            "value": "完全制服沈棠/使其套装解体/将裸体沈棠与羽灵捆绑/同时搔痒二人/淘汰沈棠与羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_rQsWS69WgnbdKFXF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pcWWQXZ1TNZb6rx",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0Jn7Du8U1CoyRfTP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_O76feLtHdbZCh4w",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RAvPwGkJzeJoL4D0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yVo1Q1nvJmkqxoJ",
+                        "data": {
+                            "value": "冷静/掌控/胜利"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Z3jWPQRfw766aK6b",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_TAMrErTAx2ubd84",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_wWNIcx8R1gvASRHW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SCn6gfzkW1vUyJA",
+                        "data": {
+                            "value": "沈棠/羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cZOMGzKLDFdFUcBE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wrcbzjTMzWnpE4q",
+                        "data": {
+                            "value": "被凌汐同时搔痒并淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_rXMnh4gZySzdB5JG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EP9xZCYj2kCqADO",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_v6GxWmT0PlLKnXeR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AF9mAdfvp7cBPwF",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_glE9q8NhcCAHBvGe",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ELNw5bWaVAksGsG",
+                        "data": {
+                            "value": "痛苦/屈辱/淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NBOAIRlpy6RY6Jyr",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_fbRe9eN0iiBbMri",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DqiWLEWgpYQ1tUoa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nWVyiJtexfO2dvj",
+                        "data": {
+                            "value": "观众"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LV8MLIpgmEYlC1Na",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_km6ybqKgjsuVVdW",
+                        "data": {
+                            "value": "对潮汐队表现欢呼"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_hmskwGvqdyOUvtT8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCcCtNcZs53NaUy",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DhXo99JmLkwszwGp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Dx6AMD2jVVwaqkT",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6VHDAwOnNWBCiNFX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NfuZq3lLhJauhbF",
+                        "data": {
+                            "value": "兴奋/赞赏"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LamUYEMATOehmud7",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Lg1Aiy6U535rctf",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Hs3inKNwLxI2Vr49",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EXUbOfJq6ZOIEsU",
+                        "data": {
+                            "value": "凛霜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_K8s3EmCWaQJ4PcqI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QthNqI105XAA7Bz",
+                        "data": {
+                            "value": "赞赏凌汐并下达指令"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_JblDzid9ZxabIIrn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BxsDq14WFxJT44R",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vKUVVItsDe2M0nM8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xZQxdRYZwaejHBC",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cEZCtuw2bvHsSAMW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9ykXvymAB0EGiJk",
+                        "data": {
+                            "value": "满意/指挥"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GdtxsAZgMTC6a5ub",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NVZTuRKsrx6PJBm",
+                        "data": {
+                            "value": "与沈棠贴身肉搏/成功束缚沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_JGqXjmgQPGYMq9hq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BRabMaJQLThrvDH",
+                        "data": {
+                            "value": "冷静/专注/掌控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ypprsgnGMqgW0cLc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tpgt8eccOx7eufh",
+                        "data": {
+                            "value": "陷入近身肉搏僵局/凌汐成功束缚沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vIyEevGkZFmTmJjD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qLlwHTqAHrJfVIQ",
+                        "data": {
+                            "value": "冷静/专注/优雅/冷静/惊讶"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xzepX3osSC8w6CXe",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_W7stHzAOOvs42ZT",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_giMhGStfuffph9km",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UOGjodSvRQ5I0XO",
+                        "data": {
+                            "value": "沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_O7eGgHuUCdWexFXK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MnM0hTZmI0tn4qh",
+                        "data": {
+                            "value": "被凌汐束缚/被凌汐持续攻击/TL核心套装强制解除/裸体暴露"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LFdKqkGgNiI91XVo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wGg0q0AcUvCQqUv",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QKJ3Z0HZIg1WJops",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pYFEXO6kLUlMgpn",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_f9KXjmvdsNpOF2Z5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CDjPS7V9QhnRS6L",
+                        "data": {
+                            "value": "痛苦/屈辱/不甘"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_SBNF5J4AAB4xfXli",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_KM6uR9z36d5hlCy",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_nRVmhtk1usXV3v36",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9SD6ru1xKLu58p1",
+                        "data": {
+                            "value": "凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3M8dLkPlCA53Va3I",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_G0xk2tyfcWcxBJo",
+                        "data": {
+                            "value": "捆绑并淘汰沈棠与羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UuUM34UfRgJ0QFdu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0i5lQaDEc1wrcHZ",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GeCwy0rhA9kIcOEi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JOhbHDGL28qHxc1",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_8RMPgCvoVefuePvd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1lr6J3kTwWuJK2I",
+                        "data": {
+                            "value": "掌控/胜利"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kK6lQiiG8pSYgySf",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_0gTLAbJhk5xcscS",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_p40XGhdeUgGuIpJJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_n3kva803JJH9fD2",
+                        "data": {
+                            "value": "羽灵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0lshcNpVE3VQZIsf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xRVvJ09ORPIEso9",
+                        "data": {
+                            "value": "被凌汐捆绑并淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vbj1HvdWNCA0PwAG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lxQ14Gi55wDpG1H",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_KLuojrBWjlJqLXlH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HDKmeVXjfuFe66h",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_soSpHJsDa3sB3x2D",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Ucf7ATK3g5GjdVg",
+                        "data": {
+                            "value": "痛苦/无助/屈辱/淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_OH4Ot1lpdVtbyZnz",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_1hJ4rPEURWprna0",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_BMJVk9kawPGxrvTA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8X1Yhs23Hqtv5sE",
+                        "data": {
+                            "value": "沈棠"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_BzhYgxKGkO4IlVJB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wMnZV0BOfgQjewv",
+                        "data": {
+                            "value": "被凌汐捆绑并淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1wXtMZ8jfXxyR8zy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RoyQkVXY9seIOHZ",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_oWemWhetGWfrPOm9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5jdKKfD680f1gZ9",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Pw7Uh03kK0jWBrwO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9iqj9gqVZfoZbnR",
+                        "data": {
+                            "value": "痛苦/屈辱/不甘/淘汰"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -11702,7 +12526,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749345395873.894,
     "create_date": "2025-6-8 @01h 16m 35s 873ms",
-    "date_last_chat": 1749352867177,
+    "date_last_chat": 1749353195278,
     "chat_size": 641956,
     "past_metadata": {
         "": {}
