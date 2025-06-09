@@ -56,7 +56,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_aFggxGKTZlxFpf5f",
-                        "cell_9jUXcRBd_jaV38wRWtCHDIsUB"
+                        "cell_9jUXcRBd_uNFPtz2eNPf8qIGj"
                     ]
                 ],
                 "cellHistory": [
@@ -787,6 +787,16 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_jaV38wRWtCHDIsUB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_uNFPtz2eNPf8qIGj",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
@@ -7500,18 +7510,18 @@
                     [
                         "cell_3KbXcTSB_HvwcmBYidSwG9AK7",
                         "cell_3KbXcTSB_0eaJljJd8BMxmvAR",
-                        "cell_3KbXcTSB_nUWWJFzUilvhLvmQ",
+                        "cell_3KbXcTSB_YMYxVujb85n6gPsz",
                         "cell_3KbXcTSB_4LZQnVZnCjlGYJ4U",
                         "cell_3KbXcTSB_kbfh3t4ndDLPinTx",
-                        "cell_3KbXcTSB_XzbxblppVeePUWQe"
+                        "cell_3KbXcTSB_Y5qeh8Ftr13L79Fp"
                     ],
                     [
                         "cell_3KbXcTSB_dUj14AdOUwgMHhKJ",
                         "cell_3KbXcTSB_KtjZnVVx1O8bnrp5",
-                        "cell_3KbXcTSB_F5EonCssgiCzHxm8",
+                        "cell_3KbXcTSB_ezBTVgUJCoiE2kUQ",
                         "cell_3KbXcTSB_cDijHDitg1fZSdaT",
                         "cell_3KbXcTSB_RxsDFrBF0qwgpyOJ",
-                        "cell_3KbXcTSB_dIC5V2cs6KhYYAbh"
+                        "cell_3KbXcTSB_MxVU0ozZgjiW8HiX"
                     ],
                     [
                         "cell_3KbXcTSB_1IoanHu94MNxyo4e",
@@ -7554,12 +7564,20 @@
                         "cell_3KbXcTSB_Pw7Uh03kK0jWBrwO"
                     ],
                     [
-                        "cell_3KbXcTSB_I3MovaQP2DgekI9r",
-                        "cell_3KbXcTSB_DayQKTBNCaFZqDGj",
-                        "cell_3KbXcTSB_AAJ2e2AO8mf3xzjz",
-                        "cell_3KbXcTSB_gj2qYkT3vXkCH2qh",
-                        "cell_3KbXcTSB_gdcTdHsZmOYqKtCB",
-                        "cell_3KbXcTSB_jl04k1SobEcEzELU"
+                        "cell_3KbXcTSB_TUBbXWAuNPds8lFT",
+                        "cell_3KbXcTSB_Nl7VBo6d481hL6fO",
+                        "cell_3KbXcTSB_YcaFDqtiC2B25BIb",
+                        "cell_3KbXcTSB_y80c4XgqdPsSnEt1",
+                        "cell_3KbXcTSB_V6sjtl6xfjv0eEPl",
+                        "cell_3KbXcTSB_GNZUqBKNMrlXnagy"
+                    ],
+                    [
+                        "cell_3KbXcTSB_yks7CEFC5dIIWD8S",
+                        "cell_3KbXcTSB_ksZ7s7n5nAetgehX",
+                        "cell_3KbXcTSB_Fd4B0USXk953Cz23",
+                        "cell_3KbXcTSB_546XtpWBcAsCtrnD",
+                        "cell_3KbXcTSB_GMFKMrM5NciQoX9W",
+                        "cell_3KbXcTSB_7qisjy21BYN86L4Q"
                     ]
                 ],
                 "cellHistory": [
@@ -12730,6 +12748,142 @@
                             "value": "冷静/攻击性"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ezBTVgUJCoiE2kUQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tQvVuvgRhmRt4fq",
+                        "data": {
+                            "value": "被夏琳使用潮涌漩涡/因剧痒解除敏感脉冲/蜷缩抵抗搔痒/与夏琳近身缠斗/被夏琳挣脱束缚并攻击/被凌汐偷袭/欢愉储备快速充能/接近过载"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MxVU0ozZgjiW8HiX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_y0nB3fn0qAbaxaa",
+                        "data": {
+                            "value": "痛苦/失控/挣扎/不甘/承受/危险"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TUBbXWAuNPds8lFT",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_GTGten1onqUA8qg",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Nl7VBo6d481hL6fO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VxI0nxCCl90wTlz",
+                        "data": {
+                            "value": "夏琳"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YcaFDqtiC2B25BIb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gBgvCt7fDj6dhUk",
+                        "data": {
+                            "value": "挣脱苏闪闪束缚/对苏闪闪发动洪流绞杀"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_y80c4XgqdPsSnEt1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_If1s7k7OsXdvQIJ",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_V6sjtl6xfjv0eEPl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FLrii0k3BCl7ecY",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GNZUqBKNMrlXnagy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MnGJHVgOiiGrJAQ",
+                        "data": {
+                            "value": "攻击性/爆发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_yks7CEFC5dIIWD8S",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_PrHoFcDi9nA8J4J",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ksZ7s7n5nAetgehX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3qBya4Xu3Sqe3cd",
+                        "data": {
+                            "value": "凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Fd4B0USXk953Cz23",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_onZT9RFi7h5FTFg",
+                        "data": {
+                            "value": "偷袭苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_546XtpWBcAsCtrnD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GptrVoa4sw3kGVS",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GMFKMrM5NciQoX9W",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XUd1PwbyFz9aibn",
+                        "data": {
+                            "value": "TL比赛场地（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7qisjy21BYN86L4Q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fiyL19NUFjt8AMB",
+                        "data": {
+                            "value": "冷静/攻击"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -12879,7 +13033,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749480432883.4026,
     "create_date": "2025-6-9 @14h 47m 12s 883ms",
-    "date_last_chat": 1749481278843,
+    "date_last_chat": 1749481332901,
     "chat_size": 756517,
     "past_metadata": {
         "": {}
