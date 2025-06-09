@@ -10,7 +10,7 @@
         "【极光】许晴.png",
         "【星辰经纪人】露娜.png",
         "【星辰】零.png",
-        "【星辰】莉利娅.png",
+        "【星辰】莉莉娅.png",
         "【星辰】艾莉丝.png",
         "【极光经纪人】温雅.png",
         "【极光】羽灵.png",
@@ -55,8 +55,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_REa5gjTvWWlcTd4p",
-                        "cell_9jUXcRBd_9V9CdW3DkzdYRQ6Z"
+                        "cell_9jUXcRBd_Aj96aXZN8T6W0Vkx",
+                        "cell_9jUXcRBd_PDhMln1IGEID8h4n"
                     ]
                 ],
                 "cellHistory": [
@@ -972,6 +972,26 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "零/莉莉娅/艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_Aj96aXZN8T6W0Vkx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_PDhMln1IGEID8h4n",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "唐柔/零/莉莉娅/艾莉丝/曦月/鹿屿"
                         },
                         "targetUid": ""
                     }
@@ -7806,6 +7826,30 @@
                         "cell_3KbXcTSB_yza4VmbYxDV8P5IW",
                         "cell_3KbXcTSB_vsI15hCXquBHzUoe",
                         "cell_3KbXcTSB_FNbM7FfHsOy1eLWa"
+                    ],
+                    [
+                        "cell_3KbXcTSB_dCqoHTGGV1X5TJkC",
+                        "cell_3KbXcTSB_1ldCH1qalzVbOJCs",
+                        "cell_3KbXcTSB_H5vHEIBmIh35KD60",
+                        "cell_3KbXcTSB_w6h8UM3znESXAd9G",
+                        "cell_3KbXcTSB_0DhRcWcJsXtBFkQ9",
+                        "cell_3KbXcTSB_VAsthVqLvUGmDGno"
+                    ],
+                    [
+                        "cell_3KbXcTSB_akLDSxy0mbH92Yrc",
+                        "cell_3KbXcTSB_3bRWyBvMpQgCGdQ7",
+                        "cell_3KbXcTSB_qtcHdBa4wwECWndz",
+                        "cell_3KbXcTSB_A0B5qzmy5ZdHxvyw",
+                        "cell_3KbXcTSB_z6jAGab5OP3GsUVF",
+                        "cell_3KbXcTSB_YPcMsLSCWYoZi6uq"
+                    ],
+                    [
+                        "cell_3KbXcTSB_DW7IlWkOvn096nlA",
+                        "cell_3KbXcTSB_diSeJa5N0Mj2dtxm",
+                        "cell_3KbXcTSB_gHOBSXjlwBslMqGf",
+                        "cell_3KbXcTSB_6WFYrANPUTOaRBWC",
+                        "cell_3KbXcTSB_f8Oue9waNKQJtTIu",
+                        "cell_3KbXcTSB_TLXenuciaNubThPb"
                     ]
                 ],
                 "cellHistory": [
@@ -14100,6 +14144,180 @@
                             "value": "冷静/高效"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_dCqoHTGGV1X5TJkC",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_cSSXB8n9eDHho6m",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1ldCH1qalzVbOJCs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9prdX8dmYi7RNlK",
+                        "data": {
+                            "value": "零"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_H5vHEIBmIh35KD60",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nHSuvsLCp2EPABD",
+                        "data": {
+                            "value": "影雀侦察无人机发现唐柔位置"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_w6h8UM3znESXAd9G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TbT2I3bI9NbSaCF",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0DhRcWcJsXtBFkQ9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0i4HuKAg1FVxGae",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_VAsthVqLvUGmDGno",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ljn3nVQBuIlK9V3",
+                        "data": {
+                            "value": "侦察"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_akLDSxy0mbH92Yrc",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_DPbKXTzuB7XnMya",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3bRWyBvMpQgCGdQ7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1ywwRDzgYtf8Ao1",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qtcHdBa4wwECWndz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B7aFeSDblaJ6AyV",
+                        "data": {
+                            "value": "前往包抄唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_A0B5qzmy5ZdHxvyw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_COFJUpVvUW1MPaY",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_z6jAGab5OP3GsUVF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8TYhOeS2qaNlj0A",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YPcMsLSCWYoZi6uq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jxHATFk7NfigFXs",
+                        "data": {
+                            "value": "战术执行/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DW7IlWkOvn096nlA",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_dZZOlZXvc2vjT0u",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_diSeJa5N0Mj2dtxm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B6dlNighchgYbM0",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gHOBSXjlwBslMqGf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vxEK5KaEJwh4fAv",
+                        "data": {
+                            "value": "位置被星辰侦察单位发现"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6WFYrANPUTOaRBWC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YHOux6RnAxow3IQ",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_f8Oue9waNKQJtTIu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oedhpovEXjVSXid",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TLXenuciaNubThPb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2oiUVuuaTKqCVrc",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -14247,10 +14465,10 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1749481335458.199,
-    "create_date": "2025-6-9 @15h 02m 15s 458ms",
-    "date_last_chat": 1749488275631,
-    "chat_size": 803367,
+    "date_added": 1749488713199.749,
+    "create_date": "2025-6-9 @17h 05m 13s 199ms",
+    "date_last_chat": 1749488796344,
+    "chat_size": 950806,
     "past_metadata": {
         "": {}
     }
