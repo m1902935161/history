@@ -55,8 +55,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_aFggxGKTZlxFpf5f",
-                        "cell_9jUXcRBd_2I3Mpyqqn8QDpz7o"
+                        "cell_9jUXcRBd_4zwHEIV87Jrea3RZ",
+                        "cell_9jUXcRBd_psfglYo1DUumGMDA"
                     ]
                 ],
                 "cellHistory": [
@@ -812,6 +812,46 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "夏琳/凌汐"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_Ufvh6bDQkiuzgMSX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛现场（后台）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_N9AdBNbg9nZbEKt5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/凛霜/温雅/羽灵/沈棠/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_4zwHEIV87Jrea3RZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_psfglYo1DUumGMDA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "夏琳/凌汐/林巧/凛霜"
                         },
                         "targetUid": ""
                     }
@@ -7596,6 +7636,22 @@
                         "cell_3KbXcTSB_FaVqYr7Bn1QjQVs5",
                         "cell_3KbXcTSB_Vest2ywCKCBlQc2h",
                         "cell_3KbXcTSB_KAKXXhnMs0QHEymc"
+                    ],
+                    [
+                        "cell_3KbXcTSB_dG9lhsIgZfOS1VbK",
+                        "cell_3KbXcTSB_GDh2hZWQDbGwRXQz",
+                        "cell_3KbXcTSB_tiGLsYZR3o2wlIS9",
+                        "cell_3KbXcTSB_HNjFVqTHGzKRORwl",
+                        "cell_3KbXcTSB_sKJeerc5RCvgkWj8",
+                        "cell_3KbXcTSB_cKLfMWGJ8TDkWJCp"
+                    ],
+                    [
+                        "cell_3KbXcTSB_mWW197D0rTMJcI2J",
+                        "cell_3KbXcTSB_o7xrVJwXCbgdviJR",
+                        "cell_3KbXcTSB_8XOXYXlD79gnzXv2",
+                        "cell_3KbXcTSB_I5cGQIMJ9lfRyQYy",
+                        "cell_3KbXcTSB_Oel8n2TjXWRRnhQy",
+                        "cell_3KbXcTSB_bAMvqbGkMsrnXjOr"
                     ]
                 ],
                 "cellHistory": [
@@ -13020,6 +13076,354 @@
                             "value": "痛苦/崩溃/淘汰"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kpkSVvSWLLGERSiz",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_MJ3Wqmy9OEL9nvQ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_p3m53n6Rr0MbiJf2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_q9u6tdvYsgYmPY8",
+                        "data": {
+                            "value": "潮汐队"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Er8q3ZinRCkrhwto",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5BMfCBexQol34aR",
+                        "data": {
+                            "value": "赢得本场TL比赛"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gmWUNunRN6E5O7dA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oIzGrRytfL7oyWR",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ZQ1gceNFNzKpo96q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jAnsv2PeWp9nEd8",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_czEk52mwdZAt3FsK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_skNez4lnP3N3zIl",
+                        "data": {
+                            "value": "胜利"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RXyH9rSOoBwveShm",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_mIqaTfUhh53l0fj",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ADvSgvf0637v9DRT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TrYsc2KwT6tuK04",
+                        "data": {
+                            "value": "TL官方"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_5lUx73CKZ0ycDSsc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qCQs07f0noaEIVx",
+                        "data": {
+                            "value": "播放本场比赛精彩回放及MVP信息"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LzG414c2HkYrd4Qo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MpiQMleBXpsO4rs",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1yBe21czRmE2aekf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zjZjxSpwGvxkaVV",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_8F5O2iAbETu8gVuz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B7YYKV7WizXccFf",
+                        "data": {
+                            "value": "热烈"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_K4ZvZp6TaMMW18rg",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Xr3tCIROoEJcyj2",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_SLwRUqY5WssOrUci",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_f3rdIWYejcY1MAn",
+                        "data": {
+                            "value": "潮汐队（林巧/夏琳/凌汐）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Ev0X77oBTlQ7g5OR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0lAxK4cobEA9Y3P",
+                        "data": {
+                            "value": "前往接受赛后采访"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_iWCsvwMjBJqAstEM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AaKByh7mGsVV4Mz",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_BVAY4MCXMIew5D1W",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tu026UFIKNhWPqU",
+                        "data": {
+                            "value": "TL比赛现场（后台）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_L8KkPhdw4LmTjnNH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_D7Vy429937dnIGJ",
+                        "data": {
+                            "value": "胜利/准备/期待"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_2xFVBBXxXbGfi2w7",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_K28CsbWb9UKjZs6",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QUkNNIi02PaWCSDX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ufBsCPfhDosRSAJ",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MSH9BEUz8IrR69NX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Z2o8nZCATL4WyHQ",
+                        "data": {
+                            "value": "换上俱乐部短袖衬衫和短裤/路过极光休息区进行挑衅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_4AwXiZglSVh7zjcp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FwbcwgEiSlo0EgO",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Z8BDsyh0M4AujCrB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ntYsE6IWBD6sOEn",
+                        "data": {
+                            "value": "TL比赛现场（后台）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tVVcTUj2cWc2L8Vq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_50AOlXYYNYXPus2",
+                        "data": {
+                            "value": "高傲/复仇/胜利"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_dG9lhsIgZfOS1VbK",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_IYTShdNcCTbUlku",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GDh2hZWQDbGwRXQz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zmL4V9aofwdDbrX",
+                        "data": {
+                            "value": "潮汐队"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tiGLsYZR3o2wlIS9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FXblgcHswRoLqSt",
+                        "data": {
+                            "value": "获胜并接受采访"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_HNjFVqTHGzKRORwl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8b3fnKqyTshB9Bw",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sKJeerc5RCvgkWj8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YlmZfc1fOHWdZqz",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cKLfMWGJ8TDkWJCp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IyhagnGwPuGKfnB",
+                        "data": {
+                            "value": "胜利/得意"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_mWW197D0rTMJcI2J",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_xw9uXhXgUsTNzf5",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_o7xrVJwXCbgdviJR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TQpx19SLctPfHJ7",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_8XOXYXlD79gnzXv2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4KuV8rouRJbDrtK",
+                        "data": {
+                            "value": "赛后挑衅极光休息区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_I5cGQIMJ9lfRyQYy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ThXAHYIH6p0iULb",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Oel8n2TjXWRRnhQy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tIRKXV0zanTEWc",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_bAMvqbGkMsrnXjOr",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qL4xZzZVsZdFFgy",
+                        "data": {
+                            "value": "复仇/高傲/挑衅"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13169,7 +13573,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749481335458.199,
     "create_date": "2025-6-9 @15h 02m 15s 458ms",
-    "date_last_chat": 1749483053156,
+    "date_last_chat": 1749486392548,
     "chat_size": 803367,
     "past_metadata": {
         "": {}
