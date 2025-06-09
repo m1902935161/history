@@ -55,8 +55,8 @@
                         "cell_9jUXcRBd_iPZALqJMNo9NhBm8",
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
-                        "cell_9jUXcRBd_uGOY2KKAcK233EF9",
-                        "cell_9jUXcRBd_J0m3T2uzKukYvbr1"
+                        "cell_9jUXcRBd_REa5gjTvWWlcTd4p",
+                        "cell_9jUXcRBd_9V9CdW3DkzdYRQ6Z"
                     ]
                 ],
                 "cellHistory": [
@@ -912,6 +912,46 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "沈梦/露娜/曦月/唐柔/鹿屿/刘恋/零/莉莉娅/艾莉丝/克拉拉"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_ovS0WXgvqdoeMjNL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛现场（经纪人席位）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_gjSepeCv1HNebySL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "沈梦/露娜/曦月/唐柔/鹿屿/刘恋/零/莉莉娅/艾莉丝/克拉拉"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_REa5gjTvWWlcTd4p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DzHhYMI9rRIokRF",
+                        "data": {
+                            "value": "TL比赛现场（通道）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_9V9CdW3DkzdYRQ6Z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "曦月/唐柔/鹿屿/沈梦/零/莉莉娅/艾莉丝/露娜"
                         },
                         "targetUid": ""
                     }
@@ -7738,6 +7778,14 @@
                         "cell_3KbXcTSB_pceK4chggBnlOo3R",
                         "cell_3KbXcTSB_zQ1n52NUBY5TCR63",
                         "cell_3KbXcTSB_bZCUnj2qrOTJ4xV3"
+                    ],
+                    [
+                        "cell_3KbXcTSB_eWtPDuyn49BT4aHo",
+                        "cell_3KbXcTSB_RebhYdoHokG1hguP",
+                        "cell_3KbXcTSB_EAekcus0OxPto2uc",
+                        "cell_3KbXcTSB_yza4VmbYxDV8P5IW",
+                        "cell_3KbXcTSB_vsI15hCXquBHzUoe",
+                        "cell_3KbXcTSB_FNbM7FfHsOy1eLWa"
                     ]
                 ],
                 "cellHistory": [
@@ -13800,6 +13848,122 @@
                             "value": "失落/不甘"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_5E6trA0sa7Ec5erI",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_J6NORndZsFRxWhR",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_CHdjb0INj0Ucu6wM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tWejZ7DXlCaxsbn",
+                        "data": {
+                            "value": "光影vs星辰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_G9BoXJWVv4zzQIv7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0aViqjZ7pd3qj6N",
+                        "data": {
+                            "value": "TL比赛准备"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cq2xLvbUEI8Wlv6s",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1aLi3Py3VRtkr4d",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_oJVRaLmXNW9RGrW9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EjLot8mjrAqoqJC",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_C8JUIwm2sJDZLh5O",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7nsUhHiuaRbd03T",
+                        "data": {
+                            "value": "期待/分析"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_eWtPDuyn49BT4aHo",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_WpbNWcpjrOxwDyy",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RebhYdoHokG1hguP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ygaRyO7cM0jijKV",
+                        "data": {
+                            "value": "光影vs星辰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EAekcus0OxPto2uc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XmSoHIU0gzecfCk",
+                        "data": {
+                            "value": "TL比赛准备"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_yza4VmbYxDV8P5IW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KBewzefEXumepQq",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vsI15hCXquBHzUoe",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0zN1IHFjJ546zvP",
+                        "data": {
+                            "value": "TL比赛现场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FNbM7FfHsOy1eLWa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NyA1pxAShlevZHy",
+                        "data": {
+                            "value": "期待/紧张"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -13949,7 +14113,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749481335458.199,
     "create_date": "2025-6-9 @15h 02m 15s 458ms",
-    "date_last_chat": 1749487590574,
+    "date_last_chat": 1749487724895,
     "chat_size": 803367,
     "past_metadata": {
         "": {}
