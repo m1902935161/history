@@ -18,8 +18,8 @@
         "【极光】苏闪闪.png",
         "【极光】沈棠.png",
         "【光影经纪人】沈梦.png",
-        "【光影】曦月.png",
         "【光影】唐柔.png",
+        "【光影】曦月.png",
         "【光影】鹿屿.png",
         "【光影】刘恋.png",
         "【潮汐经纪人】凛霜.png",
@@ -57,7 +57,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_Usj8LlOdGVw4X19i",
-                        "cell_9jUXcRBd_ceZ6eGS5HhB2gYaT"
+                        "cell_9jUXcRBd_GukRFc238OzWxpY6"
                     ]
                 ],
                 "cellHistory": [
@@ -1118,6 +1118,36 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_ceZ6eGS5HhB2gYaT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "唐柔/莉莉娅/艾莉丝/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_gssiGPyzEhCckx6v",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "唐柔/莉莉娅/艾莉丝/零/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_Whvg7R4ezaUjMvse",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "唐柔/莉莉娅/艾莉丝/零/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_GukRFc238OzWxpY6",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
@@ -8048,18 +8078,18 @@
                     [
                         "cell_3KbXcTSB_uNKnpY7XvYiSPwzv",
                         "cell_3KbXcTSB_jnA0ND2M6QlGPorf",
-                        "cell_3KbXcTSB_cY1nyqdwrQlNSaoO",
+                        "cell_3KbXcTSB_PbujXB2Z01DGloto",
                         "cell_3KbXcTSB_l5s9mRBTTGCNMLoi",
                         "cell_3KbXcTSB_d1t4QfF8GMTwDyu9",
-                        "cell_3KbXcTSB_bDbqalXI9dsyNDKp"
+                        "cell_3KbXcTSB_aCWKHyJH7Qqif2kz"
                     ],
                     [
                         "cell_3KbXcTSB_hICTJxL4vXv4ikqx",
                         "cell_3KbXcTSB_4PnpIuLZpCh1pAuS",
-                        "cell_3KbXcTSB_Zruqbf9bFRRP9rH7",
+                        "cell_3KbXcTSB_UHoOEGtAlxYiRG1j",
                         "cell_3KbXcTSB_8pklYjjREn0x2mEz",
                         "cell_3KbXcTSB_BtToXUbIlJc8s47u",
-                        "cell_3KbXcTSB_q4qON0FZxfvsytZo"
+                        "cell_3KbXcTSB_nauTj8CLEmZrw8zp"
                     ],
                     [
                         "cell_3KbXcTSB_8ceHq1u5cAzMhnxO",
@@ -8088,10 +8118,10 @@
                     [
                         "cell_3KbXcTSB_WZdGA8pnUScq13j9",
                         "cell_3KbXcTSB_lZuALq5RV9plWNpT",
-                        "cell_3KbXcTSB_HY5IhFkHwnRoIzzn",
+                        "cell_3KbXcTSB_kYniiIlAfByecyrF",
                         "cell_3KbXcTSB_7hYwPJcGEHRwlbaP",
                         "cell_3KbXcTSB_6qO6dyjPwBcvg61G",
-                        "cell_3KbXcTSB_3EX3uC8CAg2yQ5Hp"
+                        "cell_3KbXcTSB_svIlddt9M6ENS6m0"
                     ],
                     [
                         "cell_3KbXcTSB_MtoaRgJF8SVIf0P4",
@@ -8104,10 +8134,50 @@
                     [
                         "cell_3KbXcTSB_6n6lSYMwcOWtGYha",
                         "cell_3KbXcTSB_NfS0Yf9PToLJAHxc",
-                        "cell_3KbXcTSB_0ldW7cOs5IWceLsT",
+                        "cell_3KbXcTSB_lGAI6W2yHngabvge",
                         "cell_3KbXcTSB_LLSsOBBDhtdcFl95",
                         "cell_3KbXcTSB_W7KUcGWjEtyQe9kJ",
-                        "cell_3KbXcTSB_rS0tjbzkuTcqeoAW"
+                        "cell_3KbXcTSB_Ziyn9DikhB2EEB96"
+                    ],
+                    [
+                        "cell_3KbXcTSB_jfQB0hfbqDaHoWf4",
+                        "cell_3KbXcTSB_C7rmNfLOfIquOgwP",
+                        "cell_3KbXcTSB_eo9NWUBbxtSdeaD2",
+                        "cell_3KbXcTSB_0NrDM22p5LwSYJey",
+                        "cell_3KbXcTSB_4zxJFSQVZZZZ8C3F",
+                        "cell_3KbXcTSB_eR1vAhfr6StXpNxK"
+                    ],
+                    [
+                        "cell_3KbXcTSB_vhBVH493mSPqtjvK",
+                        "cell_3KbXcTSB_X7PukTBVGVI5kWjR",
+                        "cell_3KbXcTSB_nuBNX8uzuzr6Q4tB",
+                        "cell_3KbXcTSB_VKgFoGlb9SynRkus",
+                        "cell_3KbXcTSB_DV1M9JpQzOdV2xwd",
+                        "cell_3KbXcTSB_FTVRWquznlkveU5w"
+                    ],
+                    [
+                        "cell_3KbXcTSB_kHngdAxK8MS83Kdj",
+                        "cell_3KbXcTSB_o47j0EzJe5Xia9s1",
+                        "cell_3KbXcTSB_0TBUTUEMa28xMkNa",
+                        "cell_3KbXcTSB_TO0OQP8BaWXYyoPE",
+                        "cell_3KbXcTSB_LRxGtLwh7OoEv3hC",
+                        "cell_3KbXcTSB_FJTxZPn3jOAPYAsj"
+                    ],
+                    [
+                        "cell_3KbXcTSB_yuRe1oFbmUnunBKS",
+                        "cell_3KbXcTSB_bOrYLThFaoxNdef6",
+                        "cell_3KbXcTSB_j8fcfu7Wr0oSUoCN",
+                        "cell_3KbXcTSB_w5Ctvtwc82wOexf2",
+                        "cell_3KbXcTSB_1rAnIQ90GQE6Z8M7",
+                        "cell_3KbXcTSB_1WdShvzUPAoPb6kC"
+                    ],
+                    [
+                        "cell_3KbXcTSB_qPcBoGrEDIsXyUZ9",
+                        "cell_3KbXcTSB_mTC0PLlSxevxzhRg",
+                        "cell_3KbXcTSB_8zXrNJqXlhd8Acyv",
+                        "cell_3KbXcTSB_sWCRWTnbdxa0P9CY",
+                        "cell_3KbXcTSB_DLCLVfnJ3CgzbMyR",
+                        "cell_3KbXcTSB_fHqy9Dw0QEWtl1lA"
                     ]
                 ],
                 "cellHistory": [
@@ -16558,6 +16628,746 @@
                             "value": "疼痛/剧痒/挣扎"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_jcp0Wmgzpe3ZwIsW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zNAZY0LJRVnW2St",
+                        "data": {
+                            "value": "圣翼飞升俯冲支援唐柔/与唐柔汇合形成2v2局面/参与近身缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ebhMZi3PZBCk9zWJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aZHij3GLKv5DOxi",
+                        "data": {
+                            "value": "专注/支援/激烈"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7pftYIgKhR6eF4JN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7TOZjenLr3iB4Wa",
+                        "data": {
+                            "value": "被零狙击命中肋骨/单膝跪地/站起/发动幻痒之棘/躲避追击并利用地形隐藏/与曦月汇合/参与近身缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FsPGLTUSt5llk1Gk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RpBLzndMw6ijsey",
+                        "data": {
+                            "value": "剧痒/痛苦/受制/愤怒/抵抗/急切/激烈"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sVp9CvDkDqTJWvG6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Uspj6gIxRhIKo2E",
+                        "data": {
+                            "value": "与唐柔初次交锋/对唐柔使用身体咏叹（忧伤变奏曲）/追击唐柔/发动身体咏叹/参与近身缠斗/无法完成特定曲目"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Giw4g2hRZhNyRbyC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_t5Yr3KLqPOU3cjZ",
+                        "data": {
+                            "value": "冷静/艺术化/试探/追击/激烈/受挫"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_KmSc1skPLbkzoCpl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uUvIYSTaKfphaYP",
+                        "data": {
+                            "value": "与唐柔初次交锋/追击唐柔/参与近身缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_J9mmA3J2LQOAbqlg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VTvxGUSIBUY9Q3O",
+                        "data": {
+                            "value": "冷静/观察/追击/激烈"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_jfQB0hfbqDaHoWf4",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ukizNPf5ht2ZaSw",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_C7rmNfLOfIquOgwP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nhI8bgRzr0ovfMu",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/唐柔/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_eo9NWUBbxtSdeaD2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pcLCZ1wpfxEHoDx",
+                        "data": {
+                            "value": "四人近身缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0NrDM22p5LwSYJey",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RuQmfkWEh0rhBWY",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_4zxJFSQVZZZZ8C3F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FS6CCBtMeHVftXp",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_eR1vAhfr6StXpNxK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HyuqPMGVFe2CPs9",
+                        "data": {
+                            "value": "激烈/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RCoX8w4o9HaACIAo",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ziNg6dX1AdlmqH0",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0KuyFWvia6ld8wur",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NabFdy5IkoSu5Ci",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_L38CNWjpPfCnIvQ5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TxxXtTg77HIi22J",
+                        "data": {
+                            "value": "发动电光疾影攻击莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DR3tDri0NLXLpxgk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_entxz5DbxBhxqTX",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_aOd5RG6GoaXfgFGr",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QujvKboci42LIK0",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xULZMDVX2c8h2XZk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_b17fJfaje7SXZil",
+                        "data": {
+                            "value": "攻击性/愤怒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6RoO5DX0jHkPqLEM",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_iN05xgYGKZhdjlU",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_n9sYLe9sUJ9TW3eu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oLfuz6gig5BRNTK",
+                        "data": {
+                            "value": "曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3yzUBZA9uQKTKUu2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lVBTRB4pwoqzF9z",
+                        "data": {
+                            "value": "发动裁决之手攻击莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1vcySLrj7nD31ctT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vIRip36iBsMOwLF",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_APYF0zdwdtcWxPKT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rAlXxPkC9XuNtan",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_chlbfDhXQ45cWJPn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Yd36IY2vXHUNwIg",
+                        "data": {
+                            "value": "支援/攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xn0hP6DGZecUkw7p",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_zY6lK2CAYo8reND",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9nP0iBZ67V2hcggR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ztjP35sdRxZs61Y",
+                        "data": {
+                            "value": "莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YSmlJbX62SAfMKoA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_I29jIR37GkY8tPl",
+                        "data": {
+                            "value": "被唐柔电光疾影和曦月裁决之手联合攻击/瘫倒失控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sVep8SI7Dh0oJMkU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WL9SvIj78AcpuYr",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tPl9uxqCIaWjyV2J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_h7T6XW9Xbq0tQ5b",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_OcpOQHOwbwmAIVD2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UnyZTfLuQ34Htwa",
+                        "data": {
+                            "value": "剧痒/崩溃/失控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_2NBxmmi6FHsLUJOV",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_flew75UO03VyAYi",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Dhsv1FEI7XJFeiLt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fShdWcVYdRNkuRy",
+                        "data": {
+                            "value": "艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Ty9y39sR7i3Rtttf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jDY9qGDdZlN8lFH",
+                        "data": {
+                            "value": "扑倒唐柔/与唐柔进行缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YxFBLxvUtWIQJU5G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_nKwPxUhgmtYwzKA",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EBizUZ66KArzU7cf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qUJUbb3RwM1tJQF",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_F2LLUWY7y6A5tY8V",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2VMKFLfL6vlTzPK",
+                        "data": {
+                            "value": "反制/攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_uAW47MaE9V0rJ2u0",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_4rmyAprgRrNuVpM",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_zsosiQuc03wXFesI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qGz1BacF3VK8nr3",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_06DsT4aHYQPPMpUG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VauYXNnW83rvpln",
+                        "data": {
+                            "value": "被艾莉丝扑倒/被动技能敏锐绽放触发/剧烈挣扎/狂笑失控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9T4t6v0HJwa88KHw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kXJToIw9o24wbF9",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lpbmjmBANdwInpuU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mYemqYoYu1BstrN",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7RNdqT7E36NeAtLf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iSC6xOrvwebxZSB",
+                        "data": {
+                            "value": "剧痒/痛苦/失控/挣扎"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_PbujXB2Z01DGloto",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Uspj6gIxRhIKo2E",
+                        "data": {
+                            "value": "与唐柔初次交锋/对唐柔使用身体咏叹（忧伤变奏曲）/追击唐柔/发动身体咏叹/参与近身缠斗/无法完成特定曲目/被唐柔曦月联合攻击/身体瘫痪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_aCWKHyJH7Qqif2kz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_t5Yr3KLqPOU3cjZ",
+                        "data": {
+                            "value": "冷静/艺术化/试探/追击/激烈/受挫/崩溃"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kYniiIlAfByecyrF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7TOZjenLr3iB4Wa",
+                        "data": {
+                            "value": "被零狙击命中肋骨/单膝跪地/站起/发动幻痒之棘/躲避追击并利用地形隐藏/与曦月汇合/参与近身缠斗/发动电光疾影攻击莉莉娅/被艾莉丝扑倒/被压制/敏锐绽放触发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_svIlddt9M6ENS6m0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RpBLzndMw6ijsey",
+                        "data": {
+                            "value": "剧痒/痛苦/受制/愤怒/抵抗/急切/激烈/攻击性/痛苦/挣扎/失控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lGAI6W2yHngabvge",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zNAZY0LJRVnW2St",
+                        "data": {
+                            "value": "圣翼飞升俯冲支援唐柔/与唐柔汇合形成2v2局面/参与近身缠斗/发动裁决之手攻击莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Ziyn9DikhB2EEB96",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aZHij3GLKv5DOxi",
+                        "data": {
+                            "value": "专注/支援/激烈/攻击性"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UHoOEGtAlxYiRG1j",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uUvIYSTaKfphaYP",
+                        "data": {
+                            "value": "与唐柔初次交锋/追击唐柔/参与近身缠斗/扑倒唐柔/压制唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_nauTj8CLEmZrw8zp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VTvxGUSIBUY9Q3O",
+                        "data": {
+                            "value": "冷静/观察/追击/激烈/战术执行"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vhBVH493mSPqtjvK",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_cYpF5163NSSfwyt",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_X7PukTBVGVI5kWjR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NZGgACZHJPfEARF",
+                        "data": {
+                            "value": "唐柔/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_nuBNX8uzuzr6Q4tB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yQc9dTT1rlenIWK",
+                        "data": {
+                            "value": "联合进攻莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_VKgFoGlb9SynRkus",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZJHm8nkIx1wjLN8",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DV1M9JpQzOdV2xwd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HMUFyGXIbEjLubi",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FTVRWquznlkveU5w",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yOQVWUjiccXBKdk",
+                        "data": {
+                            "value": "攻击性/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kHngdAxK8MS83Kdj",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_bkRX6SnJuENI0pU",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_o47j0EzJe5Xia9s1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TA6LR6WfWX06Umx",
+                        "data": {
+                            "value": "莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0TBUTUEMa28xMkNa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JJEd3KbzRQEMBQB",
+                        "data": {
+                            "value": "被唐柔/曦月攻击/身体瘫痪/发出失控笑声/无法正常说话"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TO0OQP8BaWXYyoPE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6z8De5QFwkseulI",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_LRxGtLwh7OoEv3hC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sjhGNQDO1FTmLLv",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FJTxZPn3jOAPYAsj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0Lvb44Pe6H4v5RT",
+                        "data": {
+                            "value": "崩溃/失控"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_yuRe1oFbmUnunBKS",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_2T48y3psFjjmaAH",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_bOrYLThFaoxNdef6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_y42fkBS95Pzxusd",
+                        "data": {
+                            "value": "艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_j8fcfu7Wr0oSUoCN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MXPULla6DD3Crb1",
+                        "data": {
+                            "value": "扑倒唐柔/压制唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_w5Ctvtwc82wOexf2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EG3s0Tl6KkPcNo1",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1rAnIQ90GQE6Z8M7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_C1ruQhA9yAo4Gm0",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1WdShvzUPAoPb6kC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oei6Bw6BNd3S1zT",
+                        "data": {
+                            "value": "冷静/战术执行/攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qPcBoGrEDIsXyUZ9",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_vW1tLxevuUCDlZy",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_mTC0PLlSxevxzhRg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NoB7c8rDJ3G7c8p",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_8zXrNJqXlhd8Acyv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_u0kxBVQ6IaRHZ3Q",
+                        "data": {
+                            "value": "被艾莉丝扑倒/被压制/敏锐绽放触发/身体剧烈挣扎/发出失控笑声"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sWCRWTnbdxa0P9CY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8QqaAIJSjtyTysT",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DLCLVfnJ3CgzbMyR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VTwMm0Z24nQ6iys",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fHqy9Dw0QEWtl1lA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cbYyGCL0W1NJq8m",
+                        "data": {
+                            "value": "痛苦/挣扎/失控/屈辱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -16707,7 +17517,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749575581172.0076,
     "create_date": "2025-6-10 @17h 13m 01s 172ms",
-    "date_last_chat": 1749577224891,
+    "date_last_chat": 1749577596204,
     "chat_size": 1122019,
     "past_metadata": {
         "": {}
