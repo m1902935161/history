@@ -57,7 +57,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_Aj96aXZN8T6W0Vkx",
-                        "cell_9jUXcRBd_1CIH4CjWhf1x4JJ8"
+                        "cell_9jUXcRBd_ZYQbyfeH0giH2PVg"
                     ]
                 ],
                 "cellHistory": [
@@ -1013,6 +1013,16 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "唐柔/莉莉娅/艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_ZYQbyfeH0giH2PVg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "唐柔/莉莉娅/艾莉丝/零"
                         },
                         "targetUid": ""
                     }
@@ -7911,6 +7921,30 @@
                         "cell_3KbXcTSB_Nd034h3FJt3dAs2d",
                         "cell_3KbXcTSB_kEGS0CDBXz6Zoh9C",
                         "cell_3KbXcTSB_UZ96xOqenAO56s7W"
+                    ],
+                    [
+                        "cell_3KbXcTSB_8ZOX1xn3Mq9jGR7x",
+                        "cell_3KbXcTSB_u9jKjoKun5SgT48p",
+                        "cell_3KbXcTSB_NUJiKkbFW2yunqU9",
+                        "cell_3KbXcTSB_7uPuKi71fQX6WSjP",
+                        "cell_3KbXcTSB_fno1VN0PRkYhMn3T",
+                        "cell_3KbXcTSB_OPl7XyVEsYvw5FKy"
+                    ],
+                    [
+                        "cell_3KbXcTSB_WZdGA8pnUScq13j9",
+                        "cell_3KbXcTSB_lZuALq5RV9plWNpT",
+                        "cell_3KbXcTSB_MSafTYFZ34YlBYCn",
+                        "cell_3KbXcTSB_7hYwPJcGEHRwlbaP",
+                        "cell_3KbXcTSB_6qO6dyjPwBcvg61G",
+                        "cell_3KbXcTSB_NbucPSffzlE1KHPi"
+                    ],
+                    [
+                        "cell_3KbXcTSB_MtoaRgJF8SVIf0P4",
+                        "cell_3KbXcTSB_HvocNa7gt0oPJyHV",
+                        "cell_3KbXcTSB_qGArPW2BG57IUEQo",
+                        "cell_3KbXcTSB_ReSjYzWWDA3hHl3G",
+                        "cell_3KbXcTSB_wQdaowcYjailKkSI",
+                        "cell_3KbXcTSB_unUw1eoqoN9y9W9C"
                     ]
                 ],
                 "cellHistory": [
@@ -14669,6 +14703,180 @@
                             "value": "警惕/抵抗"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_8ZOX1xn3Mq9jGR7x",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_fNcqUdZK9LTbnty",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_u9jKjoKun5SgT48p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MWs46rItF7TcjPb",
+                        "data": {
+                            "value": "零"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NUJiKkbFW2yunqU9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uzQWDdIgznLxIfp",
+                        "data": {
+                            "value": "穿透感知狙击枪命中唐柔肋骨"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7uPuKi71fQX6WSjP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sU3QN8ROWiViru4",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fno1VN0PRkYhMn3T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xfamMehnj2X51Zq",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_OPl7XyVEsYvw5FKy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pZtLfR5E0jMMui1",
+                        "data": {
+                            "value": "精准/高效"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_WZdGA8pnUScq13j9",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_cBlDrss33Ufm5Py",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lZuALq5RV9plWNpT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2a1ng9LQwtWdTlw",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MSafTYFZ34YlBYCn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7TOZjenLr3iB4Wa",
+                        "data": {
+                            "value": "被零狙击命中肋骨/单膝跪地"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7hYwPJcGEHRwlbaP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lufiUw2FEb0T6VA",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_6qO6dyjPwBcvg61G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lI9hXH0ZsKtrv8i",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NbucPSffzlE1KHPi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RpBLzndMw6ijsey",
+                        "data": {
+                            "value": "剧痒/痛苦/受制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MtoaRgJF8SVIf0P4",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_viOSQJBUvYSm3kn",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_HvocNa7gt0oPJyHV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Z1uVXsfe5x17HFX",
+                        "data": {
+                            "value": "艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qGArPW2BG57IUEQo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qCjHimA6VoImoev",
+                        "data": {
+                            "value": "在唐柔身后生成拷问架"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ReSjYzWWDA3hHl3G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TRvQQgQfkXhCYUD",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_wQdaowcYjailKkSI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4Bus3ITOaTV55j7",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_unUw1eoqoN9y9W9C",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vzPSxl4AGjiRPaB",
+                        "data": {
+                            "value": "冷静/战术执行"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -14818,7 +15026,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749531346450.385,
     "create_date": "2025-6-10 @04h 55m 46s 450ms",
-    "date_last_chat": 1749575025885,
+    "date_last_chat": 1749575304946,
     "chat_size": 985302,
     "past_metadata": {
         "": {}
