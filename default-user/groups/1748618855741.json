@@ -57,7 +57,7 @@
                         "cell_9jUXcRBd_G5HakeVbNUnd0opi",
                         "cell_9jUXcRBd_rGNY3LzStjmdSMTJ",
                         "cell_9jUXcRBd_Usj8LlOdGVw4X19i",
-                        "cell_9jUXcRBd_gssiGPyzEhCckx6v"
+                        "cell_9jUXcRBd_kVMgdTB7MNBEHp9G"
                     ]
                 ],
                 "cellHistory": [
@@ -1153,6 +1153,16 @@
                         "coordUid": "coo_Q9rw6sSAS0XSEiV",
                         "data": {
                             "value": "唐柔/莉莉娅/艾莉丝/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_kVMgdTB7MNBEHp9G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "唐柔/莉莉娅/艾莉丝/零/曦月"
                         },
                         "targetUid": ""
                     }
@@ -8134,18 +8144,18 @@
                     [
                         "cell_3KbXcTSB_6n6lSYMwcOWtGYha",
                         "cell_3KbXcTSB_NfS0Yf9PToLJAHxc",
-                        "cell_3KbXcTSB_wZBJlDQ1U4HEAaWo",
+                        "cell_3KbXcTSB_I4YXPWWmXxWEbi6j",
                         "cell_3KbXcTSB_LLSsOBBDhtdcFl95",
                         "cell_3KbXcTSB_W7KUcGWjEtyQe9kJ",
-                        "cell_3KbXcTSB_hvyLni12n8aB9hay"
+                        "cell_3KbXcTSB_GAYtlKXN3wB2SGZC"
                     ],
                     [
                         "cell_3KbXcTSB_jfQB0hfbqDaHoWf4",
                         "cell_3KbXcTSB_C7rmNfLOfIquOgwP",
-                        "cell_3KbXcTSB_BPU7dzjinYYeV2gj",
+                        "cell_3KbXcTSB_EoFDMeXQwDoXOTgc",
                         "cell_3KbXcTSB_0NrDM22p5LwSYJey",
                         "cell_3KbXcTSB_4zxJFSQVZZZZ8C3F",
-                        "cell_3KbXcTSB_4EKEPaFRnBRr47xI"
+                        "cell_3KbXcTSB_noqoWPBi6XHFHePf"
                     ],
                     [
                         "cell_3KbXcTSB_mQ41spJZdsPok0FU",
@@ -8158,10 +8168,10 @@
                     [
                         "cell_3KbXcTSB_je61HaImv0nHLO5j",
                         "cell_3KbXcTSB_mcoqmetkynnmcoFP",
-                        "cell_3KbXcTSB_8fFtgpSHHiN0WABy",
+                        "cell_3KbXcTSB_kiisE0bxhCl5jFDY",
                         "cell_3KbXcTSB_xEiZ0RACc5O4tgsu",
                         "cell_3KbXcTSB_tE3sR99SxyM6PUud",
-                        "cell_3KbXcTSB_tnqXnHcettdu6KBt"
+                        "cell_3KbXcTSB_0EflBSP1Bhh9zGJR"
                     ],
                     [
                         "cell_3KbXcTSB_4npzA8dHWi02V8k0",
@@ -8178,6 +8188,14 @@
                         "cell_3KbXcTSB_kkL8K1iFdmDNm0DI",
                         "cell_3KbXcTSB_P4AZirbMcqG8Wbd5",
                         "cell_3KbXcTSB_faHPryDrZ0mdU0qe"
+                    ],
+                    [
+                        "cell_3KbXcTSB_YM4faKSN4pNFbMPs",
+                        "cell_3KbXcTSB_9t4JLfSNCdVxBygL",
+                        "cell_3KbXcTSB_rJBzu0nd0KvJ082r",
+                        "cell_3KbXcTSB_WJp3vCB9f8FvyDhG",
+                        "cell_3KbXcTSB_p8sWxUfamZBrPILy",
+                        "cell_3KbXcTSB_TfErrrBvxCSQJWNC"
                     ]
                 ],
                 "cellHistory": [
@@ -17680,6 +17698,124 @@
                             "value": "痛苦/失控/屈辱/愤怒"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EoFDMeXQwDoXOTgc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pcLCZ1wpfxEHoDx",
+                        "data": {
+                            "value": "四人近身缠斗/唐柔/曦月攻击莉莉娅/艾莉丝支援唐柔/零狙击曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_noqoWPBi6XHFHePf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HyuqPMGVFe2CPs9",
+                        "data": {
+                            "value": "激烈/专注/局势变化"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_I4YXPWWmXxWEbi6j",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zNAZY0LJRVnW2St",
+                        "data": {
+                            "value": "圣翼飞升俯冲支援唐柔/与唐柔汇合形成2v2局面/参与近身缠斗/联手攻击莉莉娅/被零狙击命中"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GAYtlKXN3wB2SGZC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aZHij3GLKv5DOxi",
+                        "data": {
+                            "value": "专注/支援/激烈/攻击性/合作/痛苦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kiisE0bxhCl5jFDY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SrVNwDnw0jui88g",
+                        "data": {
+                            "value": "被唐柔/曦月联合攻击/瘫倒失控/被零支援获得机会"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0EflBSP1Bhh9zGJR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B3OFCrQe7FAXNfc",
+                        "data": {
+                            "value": "痛苦/失控/崩溃/转机"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YM4faKSN4pNFbMPs",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_p0RUiBh0AZQO4mO",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9t4JLfSNCdVxBygL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7Z0rc7jZzCuldCL",
+                        "data": {
+                            "value": "零"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_rJBzu0nd0KvJ082r",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SkHNnnL3Jyb68iN",
+                        "data": {
+                            "value": "重新部署狙击点/连续狙击曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_WJp3vCB9f8FvyDhG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Ei38Khvjfy2vgxO",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_p8sWxUfamZBrPILy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_JbGZiasYbNvYrdQ",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TfErrrBvxCSQJWNC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dlWaKFCm7fNANoo",
+                        "data": {
+                            "value": "精准/高效"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -17827,10 +17963,10 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1749575581172.0076,
-    "create_date": "2025-6-10 @17h 13m 01s 172ms",
-    "date_last_chat": 1749578056616,
-    "chat_size": 1122019,
+    "date_added": 1749578058881.726,
+    "create_date": "2025-6-10 @17h 54m 18s 881ms",
+    "date_last_chat": 1749655406095,
+    "chat_size": 1276771,
     "past_metadata": {
         "": {}
     }
