@@ -57,7 +57,7 @@
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
                         "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
                         "cell_9jUXcRBd_DUUdC2HzyOLcniyZ",
-                        "cell_9jUXcRBd_zEq6MAZH7JHFcQ6w"
+                        "cell_9jUXcRBd_5wIOI0lMKFNFRZl7"
                     ]
                 ],
                 "cellHistory": [
@@ -1319,6 +1319,36 @@
                         "coordUid": "coo_LDro8rAOJ4L4zXS",
                         "data": {
                             "value": "唐柔/莉莉娅/艾莉丝/零/曦月/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_RufoC839PzukpZSl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/零/曦月/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_m58zpB9pmfPnNzEX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/零/曦月/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_5wIOI0lMKFNFRZl7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/鹿屿/曦月"
                         },
                         "targetUid": ""
                     }
@@ -7690,13 +7720,6 @@
                         "cell_undefined_zFhoonZpwoFUwyn5",
                         "cell_undefined_eybzPyxRR4NTJp68",
                         "cell_undefined_31VSbTdJCdBTL8a2"
-                    ],
-                    [
-                        "cell_Is9kpQpa_rqyz3wSL0cWTaU7J",
-                        "cell_Is9kpQpa_syclMls7b0htOBlR",
-                        "cell_Is9kpQpa_XO2S3lPzk0emI1EW",
-                        "cell_Is9kpQpa_qc15TqGdolhyzHTL",
-                        "cell_Is9kpQpa_u9L6z9Rjuvud4jHP"
                     ]
                 ],
                 "cellHistory": [
@@ -8388,10 +8411,34 @@
                     [
                         "cell_3KbXcTSB_R8E9SvOOUEFyJqNT",
                         "cell_3KbXcTSB_UjRJZDYxEbEboeAb",
-                        "cell_3KbXcTSB_zKT5p68L0RcxvwaT",
+                        "cell_3KbXcTSB_HYsx2uyafodXJyo7",
                         "cell_3KbXcTSB_wIhyrbtqHDvorjbN",
                         "cell_3KbXcTSB_10cX6qPaXp1zOxTC",
-                        "cell_3KbXcTSB_yxstTSszuz6ofHzh"
+                        "cell_3KbXcTSB_jd7sIvsKaGgvwA3y"
+                    ],
+                    [
+                        "cell_3KbXcTSB_Tui8gmyWI2GaChEY",
+                        "cell_3KbXcTSB_DYxqR49ti0nVphZy",
+                        "cell_3KbXcTSB_GaTiknT44eySrWTP",
+                        "cell_3KbXcTSB_11pHPcGNxUEIUSxQ",
+                        "cell_3KbXcTSB_eFJWdHlg11djXW0E",
+                        "cell_3KbXcTSB_TC0RP1WuQJ2OjIMc"
+                    ],
+                    [
+                        "cell_3KbXcTSB_7Qoi08CRd4G1KaAu",
+                        "cell_3KbXcTSB_cvk6ztFqb1y95A3r",
+                        "cell_3KbXcTSB_goRKS9LSjoNvaQEN",
+                        "cell_3KbXcTSB_RUEmZumUiLbGy1Bi",
+                        "cell_3KbXcTSB_xqyB9J7dpWjLRWUr",
+                        "cell_3KbXcTSB_CL3lMTw7CQEHwcx7"
+                    ],
+                    [
+                        "cell_3KbXcTSB_hG1yfkzsGPUsKK0A",
+                        "cell_3KbXcTSB_P7yVt80ktNsAYpWv",
+                        "cell_3KbXcTSB_EZwxluLot7zIwJX3",
+                        "cell_3KbXcTSB_UZmEzpmVUXEHYQJE",
+                        "cell_3KbXcTSB_tK3QuNpqvMUs7hI6",
+                        "cell_3KbXcTSB_rk2kgB94bpptOHrw"
                     ]
                 ],
                 "cellHistory": [
@@ -18898,6 +18945,356 @@
                             "value": "专注/意外/抵抗"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tlqFRLlXw5fSkrQp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dc8npWGqZAl4E4j",
+                        "data": {
+                            "value": "准备狙击曦月/被鹿屿隔绝迷宫困住/被鹿屿碎影刃攻击能量被削弱/取出光子触击枪并反击/能量耗尽/套装解除/被鹿屿扑倒搔痒/被淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ppCuMh63u4frYJLH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Txsj6qcVwpQNx9f",
+                        "data": {
+                            "value": "专注/意外/抵抗/应对/虚弱/失败/淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_IFyaqKzcowyqF3En",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2AHhXU8oTWsmDHK",
+                        "data": {
+                            "value": "对零使用隔绝迷宫/用碎影刃攻击零/扑倒零并搔痒淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_f0Fg7vtHHJ82qv2c",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WcefnyZxOxl6Fc4",
+                        "data": {
+                            "value": "紧张/坚韧/攻击/成功"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_okpFwYvRN0FURpRc",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_9Y4Hx1cwR4Ub0kw",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EBcMVyDoVDPfxhwV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RSSMC2mcq8CW3Hv",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3yuNNkIOIa5c13ep",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NAYewjwOAAJfxm6",
+                        "data": {
+                            "value": "扑倒零并搔痒淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_4lMLU5OTjKXevXRg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TRKckCJwqUC7fHC",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_yxy8yrpzSgvoCh9V",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1oRmXSR49WS4NFs",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xUvTfoUlxjzR0lKx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iYZ8wdzIH3RUc33",
+                        "data": {
+                            "value": "成功/紧张"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Lqyr2BLA1qMaovhE",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_573YmwLEjxHvryr",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TvsHqCuSce6BjlXn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6Pn5yxF0yhyINxD",
+                        "data": {
+                            "value": "零"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_SkjPZCGCoq7rHRo1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cut72FuDihEySgu",
+                        "data": {
+                            "value": "套装强制解除/被淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_CpAJAyHI3SOrqn1T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_S8lRl5MiCk0tazI",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Atu8KLFIurw4WhHs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9Yf7lWTIMEKyNZ5",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_bWTRlbhNyXOrFN8G",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Jped740EpMGsr73",
+                        "data": {
+                            "value": "失败/淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_HYsx2uyafodXJyo7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dc8npWGqZAl4E4j",
+                        "data": {
+                            "value": "准备狙击曦月/被鹿屿隔绝迷宫困住/被鹿屿碎影刃攻击能量被削弱/被鹿屿攻击能量进一步流失"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_jd7sIvsKaGgvwA3y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Txsj6qcVwpQNx9f",
+                        "data": {
+                            "value": "专注/意外/抵抗/受制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Tui8gmyWI2GaChEY",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_92Mvn0UTsUcWuHM",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DYxqR49ti0nVphZy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PBN64V3zXcUYizt",
+                        "data": {
+                            "value": "零"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GaTiknT44eySrWTP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hPTnyDMK9CTlKfV",
+                        "data": {
+                            "value": "掏出光子触击枪抵抗鹿屿/被鹿屿碎影刃攻击/TL核心套装强制解除/被鹿屿扑倒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_11pHPcGNxUEIUSxQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_e4ZYRPbA2p1NCiO",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_eFJWdHlg11djXW0E",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xz746yMol76x6OQ",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TC0RP1WuQJ2OjIMc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GkMotGHBlnxSfNt",
+                        "data": {
+                            "value": "抵抗/受制/绝望"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7Qoi08CRd4G1KaAu",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_wBBHkN7laTGHHAC",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cvk6ztFqb1y95A3r",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ipfxPluZzZNveZ4",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_goRKS9LSjoNvaQEN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_v8Q2zHxIU3YBgDm",
+                        "data": {
+                            "value": "用碎影刃攻击零/扑倒零/开始对零进行搔痒淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RUEmZumUiLbGy1Bi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QzPEjnuLsMs0QGw",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xqyB9J7dpWjLRWUr",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kE6Dcrbd48PdXHz",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_CL3lMTw7CQEHwcx7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_d7zxiAEvXf5KNLG",
+                        "data": {
+                            "value": "攻击/捕捉/坚韧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_hG1yfkzsGPUsKK0A",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_vxGXi1cHI9imkLi",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_P7yVt80ktNsAYpWv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CxQ5QCuUo9JUrmQ",
+                        "data": {
+                            "value": "零"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EZwxluLot7zIwJX3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_r55cq1gJ54h7ImF",
+                        "data": {
+                            "value": "被鹿屿搔痒淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UZmEzpmVUXEHYQJE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yWZ8hiBtLnhiHxd",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tK3QuNpqvMUs7hI6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3hBLd5MbUqxTn4J",
+                        "data": {
+                            "value": "TL比赛场地（雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_rk2kgB94bpptOHrw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pSYGpyzk2X7CJ4F",
+                        "data": {
+                            "value": "痛苦/失控/淘汰"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -19047,7 +19444,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749656041513.4504,
     "create_date": "2025-6-11 @15h 34m 01s 513ms",
-    "date_last_chat": 1749740766345,
+    "date_last_chat": 1749740995838,
     "chat_size": 1363923,
     "past_metadata": {
         "": {}
