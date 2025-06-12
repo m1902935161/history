@@ -53,11 +53,11 @@
                         "cell_undefined_hCjE7tHO0rHXbjc0"
                     ],
                     [
-                        "cell_9jUXcRBd_JAo3naiBELaLGE82",
-                        "cell_9jUXcRBd_xmlbY49f2giAVkNE",
-                        "cell_9jUXcRBd_D2EIRirkYa3qYHvk",
-                        "cell_9jUXcRBd_6W5JZoPOH0bQPRuw",
-                        "cell_9jUXcRBd_FD4uCRnRq7mcNByz"
+                        "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
+                        "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
+                        "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
+                        "cell_9jUXcRBd_DUUdC2HzyOLcniyZ",
+                        "cell_9jUXcRBd_ojuxTsRQrJuNHP3H"
                     ]
                 ],
                 "cellHistory": [
@@ -1249,6 +1249,64 @@
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_EIcH7RPdJJWtCJf",
+                        "data": {
+                            "value": "唐柔/莉莉娅/艾莉丝/零/曦月/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_k49vURydL8gccrgV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9rw6sSAS0XSEiV",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/零/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_qV3gaF571tUJMND",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Xr2ZyI30xYtsmge",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pNM4C4jGVOv0hoG",
+                        "data": {
+                            "value": "傍晚"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_DUUdC2HzyOLcniyZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "TL比赛现场（休息区/雪地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_ojuxTsRQrJuNHP3H",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
                         "data": {
                             "value": "唐柔/莉莉娅/艾莉丝/零/曦月/鹿屿"
                         },
@@ -8184,10 +8242,10 @@
                     [
                         "cell_3KbXcTSB_hICTJxL4vXv4ikqx",
                         "cell_3KbXcTSB_4PnpIuLZpCh1pAuS",
-                        "cell_3KbXcTSB_dEDeT4IsDxIKV5ri",
+                        "cell_3KbXcTSB_l4uEzy0IT1frxyZj",
                         "cell_3KbXcTSB_8pklYjjREn0x2mEz",
                         "cell_3KbXcTSB_BtToXUbIlJc8s47u",
-                        "cell_3KbXcTSB_kVLb5Dxujt5EdOVy"
+                        "cell_3KbXcTSB_m9o1KXPwfWbQptOb"
                     ],
                     [
                         "cell_3KbXcTSB_8ceHq1u5cAzMhnxO",
@@ -8232,10 +8290,10 @@
                     [
                         "cell_3KbXcTSB_6n6lSYMwcOWtGYha",
                         "cell_3KbXcTSB_NfS0Yf9PToLJAHxc",
-                        "cell_3KbXcTSB_TdCEZhtZiQm3AUid",
+                        "cell_3KbXcTSB_Sem1kMm8CRxYawwD",
                         "cell_3KbXcTSB_LLSsOBBDhtdcFl95",
                         "cell_3KbXcTSB_W7KUcGWjEtyQe9kJ",
-                        "cell_3KbXcTSB_CWXiNzWp4jtyR1LV"
+                        "cell_3KbXcTSB_c1FKU1HQfkEwNih7"
                     ],
                     [
                         "cell_3KbXcTSB_jfQB0hfbqDaHoWf4",
@@ -8256,10 +8314,10 @@
                     [
                         "cell_3KbXcTSB_4npzA8dHWi02V8k0",
                         "cell_3KbXcTSB_jYndexrs0DEIDflo",
-                        "cell_3KbXcTSB_33593AtXQJm0dLlX",
+                        "cell_3KbXcTSB_fApzFZlubDgsSAdT",
                         "cell_3KbXcTSB_0fLdm2X7t1yqG1Ml",
                         "cell_3KbXcTSB_SFr939j3pijqWPEL",
-                        "cell_3KbXcTSB_kqvrVWI4fOlGt3o7"
+                        "cell_3KbXcTSB_NNWPl0Tizut8vjvV"
                     ],
                     [
                         "cell_3KbXcTSB_YM4faKSN4pNFbMPs",
@@ -8288,10 +8346,10 @@
                     [
                         "cell_3KbXcTSB_LoyFwxszgbxJWORs",
                         "cell_3KbXcTSB_SKIuN64fMPkTGOC8",
-                        "cell_3KbXcTSB_XXyRtQTcLTmCsg83",
+                        "cell_3KbXcTSB_i3lhxrrKnxpgZkxR",
                         "cell_3KbXcTSB_1aTzvYQpQ8IcCddN",
                         "cell_3KbXcTSB_24m7ghDaR6iCEYYr",
-                        "cell_3KbXcTSB_x3WaglqB0EyUYq9J"
+                        "cell_3KbXcTSB_1qgaQCZNQTDpbP6Q"
                     ]
                 ],
                 "cellHistory": [
@@ -18406,6 +18464,166 @@
                             "value": "冷静/观察/追击/激烈/支援/掌控/实验/利用/完成"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vfgbNmsOHEIJN3q1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zNAZY0LJRVnW2St",
+                        "data": {
+                            "value": "圣翼飞升俯冲支援唐柔/与唐柔汇合形成2v2局面/参与近身缠斗/联手攻击莉莉娅/被零狙击命中/被莉莉娅旋律摇篮束缚/被莉莉娅身体咏叹演奏/挣脱束缚/发动圣翼飞升/准备撤离"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NsEVutZ3aQipnen5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aZHij3GLKv5DOxi",
+                        "data": {
+                            "value": "专注/支援/激烈/攻击性/合作/痛苦/受制/屈辱/抵抗/逃离"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0M3mDPiBYpWLHFLM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SrVNwDnw0jui88g",
+                        "data": {
+                            "value": "被唐柔/曦月联合攻击/瘫倒失控/被零支援获得机会/对曦月使用旋律摇篮/开始对曦月身体咏叹演奏/失去对曦月的控制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_nsBItSozvOEIig6k",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_B3OFCrQe7FAXNfc",
+                        "data": {
+                            "value": "痛苦/失控/崩溃/转机/掌控/专注/意外"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lgCwmEhOSDRtVSiG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9LW1MoaV32lnixN",
+                        "data": {
+                            "value": "对曦月身体咏叹演奏固定曲目/失去对曦月的控制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_u44jQvElmrQ3TmYt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_suuHHmTJzl4Qchx",
+                        "data": {
+                            "value": "掌控/艺术化/专注/意外"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ybtpLXfo3iZwR2Aa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XCNkSVObauxryHy",
+                        "data": {
+                            "value": "对唐柔发动真言审判/利用信息/施加羞辱效果/淘汰唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tBdlcAdDynSQ7Qqz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0iSzypn1z0SayvG",
+                        "data": {
+                            "value": "冷静/实验/审讯/利用/完成"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_i3lhxrrKnxpgZkxR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3GgQUGpuEqB0hUc",
+                        "data": {
+                            "value": "TL核心套装强制解除/裸体暴露/被淘汰/传送回休息区/经历屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1qgaQCZNQTDpbP6Q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mA45bcH3jAPm97N",
+                        "data": {
+                            "value": "痛苦/崩溃/淘汰/屈辱/羞耻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Sem1kMm8CRxYawwD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zNAZY0LJRVnW2St",
+                        "data": {
+                            "value": "圣翼飞升俯冲支援唐柔/与唐柔汇合形成2v2局面/参与近身缠斗/联手攻击莉莉娅/被零狙击命中/被莉莉娅旋律摇篮束缚/被莉莉娅身体咏叹演奏/挣脱控制/发动圣翼飞升"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_c1FKU1HQfkEwNih7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aZHij3GLKv5DOxi",
+                        "data": {
+                            "value": "专注/支援/激烈/攻击性/合作/痛苦/受制/屈辱/挣脱/虚弱/急切"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fApzFZlubDgsSAdT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QOb2q6CQmXIUFZG",
+                        "data": {
+                            "value": "被唐柔/曦月联合攻击/瘫倒失控/被零支援获得机会/对曦月使用旋律摇篮/开始对曦月身体咏叹演奏/曦月挣脱控制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NNWPl0Tizut8vjvV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7BTYtZxvFZYqOCW",
+                        "data": {
+                            "value": "痛苦/失控/崩溃/转机/掌控/专注/意外/恼怒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_l4uEzy0IT1frxyZj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uUvIYSTaKfphaYP",
+                        "data": {
+                            "value": "与唐柔初次交锋/追击唐柔/参与近身缠斗/扑倒唐柔支援莉莉娅/压制唐柔并发动真言审判/利用信息/施加羞辱效果/淘汰唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_m9o1KXPwfWbQptOb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VTvxGUSIBUY9Q3O",
+                        "data": {
+                            "value": "冷静/观察/追击/激烈/支援/掌控/实验/利用/完成"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -18555,7 +18773,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749656041513.4504,
     "create_date": "2025-6-11 @15h 34m 01s 513ms",
-    "date_last_chat": 1749740183202,
+    "date_last_chat": 1749740507488,
     "chat_size": 1363923,
     "past_metadata": {
         "": {}
