@@ -60,8 +60,8 @@
                         "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
                         "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
-                        "cell_9jUXcRBd_N2yISfMsZQzcAW31",
-                        "cell_9jUXcRBd_QipIMFu1LcdYi17S"
+                        "cell_9jUXcRBd_x4Pw7mynxb0XWyDH",
+                        "cell_9jUXcRBd_k2P8S4dfiArfOaIw"
                     ]
                 ],
                 "cellHistory": [
@@ -1518,6 +1518,46 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_QipIMFu1LcdYi17S",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/鹿屿/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_k6vk78sciyohCOvq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_3a6F5ciPMHyT5Z4r",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "莉莉娅/艾莉丝/鹿屿/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_x4Pw7mynxb0XWyDH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_k2P8S4dfiArfOaIw",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_LDro8rAOJ4L4zXS",
@@ -8761,18 +8801,50 @@
                     [
                         "cell_3KbXcTSB_dwI3lYi3Axqb3f6G",
                         "cell_3KbXcTSB_fjhGIChvEKCWXHoL",
-                        "cell_3KbXcTSB_gMZdNMPwoQFAgaIp",
+                        "cell_3KbXcTSB_ntEm0FnZatd6t8vA",
                         "cell_3KbXcTSB_nrDCxcJRt1QlQqR7",
                         "cell_3KbXcTSB_deRbukHsF2ZKQLes",
-                        "cell_3KbXcTSB_NGtQpNLz1sWFaKXL"
+                        "cell_3KbXcTSB_kS3qqnFcJfXzrU6P"
                     ],
                     [
                         "cell_3KbXcTSB_8MzIKsag5DCyuJNi",
                         "cell_3KbXcTSB_FtWaiElyjn5LXapi",
-                        "cell_3KbXcTSB_2eIDLYFuE2cTiBkm",
+                        "cell_3KbXcTSB_P6HWF6BcO060cdhM",
                         "cell_3KbXcTSB_o0a3NjwLMJB455mb",
                         "cell_3KbXcTSB_RYfDavxEc06aBCWq",
-                        "cell_3KbXcTSB_yZ8K5hFWAc2YacML"
+                        "cell_3KbXcTSB_gGIQNv8rhg9jFRmW"
+                    ],
+                    [
+                        "cell_3KbXcTSB_Rx3kNYxVpewRmIEk",
+                        "cell_3KbXcTSB_oH6fnoorMCB0KSPe",
+                        "cell_3KbXcTSB_JQ7rQF0HixHf128M",
+                        "cell_3KbXcTSB_eKgwl8d0WlAdvPUy",
+                        "cell_3KbXcTSB_abWSWOnaLiPEwYil",
+                        "cell_3KbXcTSB_QGeUzkJ10PJny275"
+                    ],
+                    [
+                        "cell_3KbXcTSB_3oAHiKypHYUzSoZT",
+                        "cell_3KbXcTSB_okh4NYJe4mNPCXXL",
+                        "cell_3KbXcTSB_tDdfCt4HTzTsIEIu",
+                        "cell_3KbXcTSB_F7Ppm4N9nLR4SB6Y",
+                        "cell_3KbXcTSB_tHSmElImIoyRSAwb",
+                        "cell_3KbXcTSB_dbxtV5uKeNJi8LnN"
+                    ],
+                    [
+                        "cell_3KbXcTSB_0ykS9tGcDhreVteU",
+                        "cell_3KbXcTSB_iHlvwuZzjFyLjgMX",
+                        "cell_3KbXcTSB_tESMfeLsHONrMUId",
+                        "cell_3KbXcTSB_1dCoZFwAkOHmRjpx",
+                        "cell_3KbXcTSB_EXGNG0IoioJ6OGlq",
+                        "cell_3KbXcTSB_y8hCRmxx2Ub04ao2"
+                    ],
+                    [
+                        "cell_3KbXcTSB_Wq8zSF3Cv0nBvN2r",
+                        "cell_3KbXcTSB_28UPDlZL5PpGg74p",
+                        "cell_3KbXcTSB_SkBMadWLrnWkJ2MX",
+                        "cell_3KbXcTSB_dHWX8wOxxp7w0dLg",
+                        "cell_3KbXcTSB_fKBLAuIeAXw11tbj",
+                        "cell_3KbXcTSB_uMfxqKu2hEmjulkE"
                     ]
                 ],
                 "cellHistory": [
@@ -22553,6 +22625,630 @@
                             "value": "执行任务"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_AjyKO5EGjsENiuLy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Q9EIhdIFxcsUXJW",
+                        "data": {
+                            "value": "使用隔绝迷宫分隔莉莉娅和艾莉丝/隔绝迷宫被莉莉娅击碎"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_2j3PogZaFbqdjuDp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vLnDLM9Ye3xVEv7",
+                        "data": {
+                            "value": "战术执行/受挫"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QMndzWeGNdJetmjv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Vks22xNDTflnJeM",
+                        "data": {
+                            "value": "突袭艾莉丝并将其按倒/对艾莉丝进行搔痒淘汰/被莉莉娅推开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RrZ2J8PmhFvJVaUj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1BRKZ7PkHzm8zyb",
+                        "data": {
+                            "value": "攻击/合作/受阻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kMiVt0a7FJ93wN3p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_deQ638SZFQtyq8D",
+                        "data": {
+                            "value": "对艾莉丝进行搔痒淘汰/被艾莉丝反击/与艾莉丝缠斗搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_922qRanODRZQlmCw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kYa3wOf1BZ4Y4Si",
+                        "data": {
+                            "value": "执行任务/受袭/抵抗/缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_AkgFFYoGd4vtWT1r",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9o2WZww196CA74P",
+                        "data": {
+                            "value": "冲入混战/联手突袭艾莉丝并将其按倒/对艾莉丝进行搔痒淘汰/被艾莉丝反击/与艾莉丝缠斗搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gKC1MVwyYTdr0nSY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kFiV27ohVehyZXd",
+                        "data": {
+                            "value": "介入/支援/攻击/合作/受袭/抵抗/缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kXfddiwCpPqcsCpX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QOb2q6CQmXIUFZG",
+                        "data": {
+                            "value": "被唐柔/曦月联合攻击/瘫倒失控/被零支援获得机会/对曦月使用旋律摇篮/开始对曦月身体咏叹演奏/曦月挣脱控制/击碎鹿屿隔绝迷宫/攻击鹿屿/对鹿屿演奏忧伤变奏曲/推开鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_f6vD5WCTxi1yyoXZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7BTYtZxvFZYqOCW",
+                        "data": {
+                            "value": "痛苦/失控/崩溃/转机/掌控/专注/意外/恼怒/攻击/得手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_44tmFh7kny6ZK8GD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hAWA54L8pFbned0",
+                        "data": {
+                            "value": "在鹿屿身后生成拷问架/被迫分隔/隔绝迷宫被击碎/对曦月反击/与曦月缠斗搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3pYq6ILTh3rmRVvF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0HgTrNF4i9xafIc",
+                        "data": {
+                            "value": "战术执行/控制/意外/攻击/缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_mkTc4L9LQJ190U6l",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_DhsX6XAYe1TPwDJ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sz8z0MJ6QurQaT3a",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Hqkq6BDqutUUuLt",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_brb25hRvsDsZ9lQq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DCV0xVBB0WltQEP",
+                        "data": {
+                            "value": "隔绝迷宫被击碎/被莉莉娅攻击/身体疲惫/被推开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_g51xWpA0TvmknCHM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HYbiCiiw4h1Woue",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_I7Cdk3wnqLccOBEs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_T9erzEPtxgbXsbb",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_jRYfcw6IxXW25lXz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_IzXqiBWesSLWmxR",
+                        "data": {
+                            "value": "受挫/痛苦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fy4lm8kDS95TyRsW",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Q07JgvR5IJMALKS",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1tVfuaKSmgsN3P5s",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MkezmV9G5Pp7000",
+                        "data": {
+                            "value": "艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QvNhHYFmsxYldN9Q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aRvyaA0mWxFNnNf",
+                        "data": {
+                            "value": "从被按倒状态反击曦月/与曦月缠斗搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_OYcRt1nt1oZAtheF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8WhPzXjN6LOwcbO",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_5Wx1RdRw7c6WiAUz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mRt2oKm6GL9UYe7",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Hmw3B1EFLGs93QmK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_chvEL1SzTo5ThhQ",
+                        "data": {
+                            "value": "反击/缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vlOc0SYIRdHRFuzA",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_u0MOrPayJ0RfG2q",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YFi5m0V89xdeVIEq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6EKoNlmNZhTYA97",
+                        "data": {
+                            "value": "曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_S6trS5GgKgPCKfPO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RQzfQguYrF796XV",
+                        "data": {
+                            "value": "对艾莉丝进行搔痒淘汰/被艾莉丝反击/与艾莉丝缠斗搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1cySfptZHJLcx4n5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DmQ3hXatfBYgzzZ",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tB0G3VtCVJITtmqD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_n11Sr3yTqLR3W4s",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_zTesax8y0CWMRyjH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_INnCDBX9NNRns4f",
+                        "data": {
+                            "value": "执行任务/受袭/抵抗/缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gZH3AjHzXUMCbHQO",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_7haWNHL2Ua4GrYu",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FkQrU8hmptzix3bZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4OgQEQyShOosGAF",
+                        "data": {
+                            "value": "鹿屿/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_PP2xlspPZ0KSCb8F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2u5fW998yUhibny",
+                        "data": {
+                            "value": "对艾莉丝进行搔痒淘汰/被莉莉娅打断/鹿屿被推开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_yyAvBb96Z7FylBFZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_j693Zyf3Wwkn6v0",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_q84z27NkDdGwSxbZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7Hxn5sVJzPoEwW4",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cF14DN5O6t0AuLc4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7omXVh1J0Neb33E",
+                        "data": {
+                            "value": "执行任务/受阻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ntEm0FnZatd6t8vA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Vks22xNDTflnJeM",
+                        "data": {
+                            "value": "突袭艾莉丝并将其按倒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_kS3qqnFcJfXzrU6P",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1BRKZ7PkHzm8zyb",
+                        "data": {
+                            "value": "攻击/合作/被打断"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_P6HWF6BcO060cdhM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_deQ638SZFQtyq8D",
+                        "data": {
+                            "value": "对艾莉丝进行搔痒淘汰/被打断"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_gGIQNv8rhg9jFRmW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kYa3wOf1BZ4Y4Si",
+                        "data": {
+                            "value": "执行任务/被打断"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Rx3kNYxVpewRmIEk",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_nBwOxBmN1Uj3VoK",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_oH6fnoorMCB0KSPe",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Ue0JccwlBk9WOi0",
+                        "data": {
+                            "value": "莉莉娅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_JQ7rQF0HixHf128M",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hQ3h1vKIGv0hAWr",
+                        "data": {
+                            "value": "击碎隔绝迷宫/对鹿屿发动身体咏叹（忧伤变奏曲）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_eKgwl8d0WlAdvPUy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Qqru9uVsyW54ooU",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_abWSWOnaLiPEwYil",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SZNgyVU9q96j6Vb",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_QGeUzkJ10PJny275",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_e47i9L0wJS3Z1Oo",
+                        "data": {
+                            "value": "攻击/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3oAHiKypHYUzSoZT",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_uGXLRCWIBrnNf0B",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_okh4NYJe4mNPCXXL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pVLP1ke35bmd8Jw",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tDdfCt4HTzTsIEIu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dqfseHynVtIIgDy",
+                        "data": {
+                            "value": "被莉莉娅身体咏叹（忧伤变奏曲）击中/感到疲惫/被推开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_F7Ppm4N9nLR4SB6Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Bl3fzVYzXb2YxA6",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tHSmElImIoyRSAwb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oK6r3zP5632f0fh",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_dbxtV5uKeNJi8LnN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_evcx3mmoJsrIRN9",
+                        "data": {
+                            "value": "受制/疲惫"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0ykS9tGcDhreVteU",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Qxaf70devgrBIVP",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_iHlvwuZzjFyLjgMX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7KmbnUAAPfqI3Nb",
+                        "data": {
+                            "value": "艾莉丝"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_tESMfeLsHONrMUId",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aBTkgeSYLHya9Wb",
+                        "data": {
+                            "value": "从被压制状态脱困/对曦月发起反击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1dCoZFwAkOHmRjpx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_h5kvOHYI95uNqNK",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EXGNG0IoioJ6OGlq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aul5nBNqnS5lhZO",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_y8hCRmxx2Ub04ao2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_w4gXMzUudQn0VwQ",
+                        "data": {
+                            "value": "反击/攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Wq8zSF3Cv0nBvN2r",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_T8YuGkdd1BAc4O0",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_28UPDlZL5PpGg74p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ceQ6oHj0uBBOo4T",
+                        "data": {
+                            "value": "艾莉丝/曦月"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_SkBMadWLrnWkJ2MX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DGJQ2Qv4v9JbH5W",
+                        "data": {
+                            "value": "陷入近身缠斗并互相搔痒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_dHWX8wOxxp7w0dLg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1jrSLShVUjA397c",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_fKBLAuIeAXw11tbj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fBB5nsslIAVveoj",
+                        "data": {
+                            "value": "TL比赛场地（雪地开阔地）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_uMfxqKu2hEmjulkE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_C4HF4SSODbHob5n",
+                        "data": {
+                            "value": "激烈/痛苦/屈辱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -22738,7 +23434,7 @@
             "sticky": {},
             "cooldown": {}
         },
-        "lastInContextMessageId": 17
+        "lastInContextMessageId": 19
     },
     "fav": false,
     "chat_id": "2025-06-07@16h40m10s",
@@ -22750,7 +23446,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749830572105.407,
     "create_date": "2025-6-13 @16h 02m 52s 105ms",
-    "date_last_chat": 1749832989736,
+    "date_last_chat": 1749833589070,
     "chat_size": 1850694,
     "past_metadata": {
         "": {}
