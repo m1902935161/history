@@ -59,8 +59,8 @@
                         "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
                         "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
-                        "cell_9jUXcRBd_JmCeM46dvPdj1aPz",
-                        "cell_9jUXcRBd_cweHp4d6slpKasLw"
+                        "cell_9jUXcRBd_bTpMLPq3oHS9Sgce",
+                        "cell_9jUXcRBd_pXaJ9U52rYYssN0y"
                     ]
                 ],
                 "cellHistory": [
@@ -1457,6 +1457,26 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_cweHp4d6slpKasLw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "沈梦/露娜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_bTpMLPq3oHS9Sgce",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "TL比赛现场（光影备战区）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_pXaJ9U52rYYssN0y",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_LDro8rAOJ4L4zXS",
@@ -8642,20 +8662,20 @@
                         "cell_3KbXcTSB_ddkJAIefkpYVat9W"
                     ],
                     [
-                        "cell_3KbXcTSB_uLripvS9dwJUHRjO",
-                        "cell_3KbXcTSB_fZbgIw3up93mzdhJ",
-                        "cell_3KbXcTSB_3E2a4VhOM158T9ZX",
-                        "cell_3KbXcTSB_ZEBJgi7lSnVKHuLh",
-                        "cell_3KbXcTSB_YfO2OeQTkg9zw8p2",
-                        "cell_3KbXcTSB_xCqDzQmeMbo58cHU"
+                        "cell_3KbXcTSB_Rnk5NuBoeU8T0vNd",
+                        "cell_3KbXcTSB_9SezSpdqYuSHhfij",
+                        "cell_3KbXcTSB_d7gE2LYPMKMBR2un",
+                        "cell_3KbXcTSB_7x8FSipJoYtmOJWy",
+                        "cell_3KbXcTSB_0EWPUgdU1howaGbx",
+                        "cell_3KbXcTSB_yaSAHthBCeAWd8lN"
                     ],
                     [
-                        "cell_3KbXcTSB_MJZRLb8RZByylmMw",
-                        "cell_3KbXcTSB_RtQa7SHbNBkZzmNQ",
-                        "cell_3KbXcTSB_S6oTFN729AUcVuXE",
-                        "cell_3KbXcTSB_4pTElWgbyrsdDAeK",
-                        "cell_3KbXcTSB_M0zyBYI7Ouz0JPbf",
-                        "cell_3KbXcTSB_BX6KB6Szi7qMXy5b"
+                        "cell_3KbXcTSB_E9B6nXt3AhY9Tns6",
+                        "cell_3KbXcTSB_qCJndp8kgkPjLy5y",
+                        "cell_3KbXcTSB_hgrfpfainK5rwlpY",
+                        "cell_3KbXcTSB_b1pBXtYqQe84snTV",
+                        "cell_3KbXcTSB_4iFqN1SIsgt63suG",
+                        "cell_3KbXcTSB_Tq6Pw34zLDUBbMBy"
                     ]
                 ],
                 "cellHistory": [
@@ -21310,6 +21330,122 @@
                             "value": "调皮/友好/理念冲突"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Rnk5NuBoeU8T0vNd",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_zeG9PYj2kddX32s",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9SezSpdqYuSHhfij",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DIZeXmTmF4mz0i9",
+                        "data": {
+                            "value": "沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_d7gE2LYPMKMBR2un",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zN1KUEGsCZDWu4R",
+                        "data": {
+                            "value": "在备战区部署策略"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_7x8FSipJoYtmOJWy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rl1I0q0nWl5xpAe",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_0EWPUgdU1howaGbx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_OCmuXDiMPr2baCZ",
+                        "data": {
+                            "value": "TL比赛现场（光影备战区）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_yaSAHthBCeAWd8lN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_k8ETN02huiCQvav",
+                        "data": {
+                            "value": "冷静/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_E9B6nXt3AhY9Tns6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_xXKISFRlF9ZW5n5",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qCJndp8kgkPjLy5y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_I0HtI7W9x1R1KxQ",
+                        "data": {
+                            "value": "露娜"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_hgrfpfainK5rwlpY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gZPnXPzRyBcdpRf",
+                        "data": {
+                            "value": "进入光影备战区/搔痒沈梦腋下/与沈梦讨论选手管理理念"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_b1pBXtYqQe84snTV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UW7yBi1WnV6fbHl",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_4iFqN1SIsgt63suG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lsBTXDSxgWxWcfA",
+                        "data": {
+                            "value": "TL比赛现场（光影备战区）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Tq6Pw34zLDUBbMBy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_T7kSS2WujqpdmHa",
+                        "data": {
+                            "value": "调皮/友好/理念冲突"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -21507,7 +21643,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749819794167.5098,
     "create_date": "2025-6-13 @13h 03m 14s 167ms",
-    "date_last_chat": 1749828376438,
+    "date_last_chat": 1749828554164,
     "chat_size": 1592640,
     "past_metadata": {
         "": {}
