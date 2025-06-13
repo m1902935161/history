@@ -8676,6 +8676,14 @@
                         "cell_3KbXcTSB_b1pBXtYqQe84snTV",
                         "cell_3KbXcTSB_4iFqN1SIsgt63suG",
                         "cell_3KbXcTSB_Tq6Pw34zLDUBbMBy"
+                    ],
+                    [
+                        "cell_3KbXcTSB_E1VaiHNRsVqqHv9y",
+                        "cell_3KbXcTSB_ZymmUUlVv94bMtKP",
+                        "cell_3KbXcTSB_thWgATA79gG7JogL",
+                        "cell_3KbXcTSB_pyMPQYfZSfGS2WOK",
+                        "cell_3KbXcTSB_nkHTR0RQqTuiKjQB",
+                        "cell_3KbXcTSB_l4GEZ01lEtKhbmCd"
                     ]
                 ],
                 "cellHistory": [
@@ -21446,6 +21454,64 @@
                             "value": "调皮/友好/理念冲突"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_E1VaiHNRsVqqHv9y",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_pa4coED1J0zEAAp",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_ZymmUUlVv94bMtKP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uUSiSojTd6s1TlJ",
+                        "data": {
+                            "value": "沈梦"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_thWgATA79gG7JogL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XEXUyeiA96qANPj",
+                        "data": {
+                            "value": "回忆作为TL选手时被淘汰的经历/被俘/赤裸/束缚/遭受搔痒折磨/屈辱淘汰"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_pyMPQYfZSfGS2WOK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tkfUMbgoRRojrAD",
+                        "data": {
+                            "value": "过去"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_nkHTR0RQqTuiKjQB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pf71ynvjWqnXb4F",
+                        "data": {
+                            "value": "TL比赛场地"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_l4GEZ01lEtKhbmCd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_F3RnMxwZEoncAkf",
+                        "data": {
+                            "value": "痛苦/屈辱/愤怒/决定"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -21631,7 +21697,7 @@
             "sticky": {},
             "cooldown": {}
         },
-        "lastInContextMessageId": 9
+        "lastInContextMessageId": 11
     },
     "fav": false,
     "chat_id": "2025-06-07@16h40m10s",
@@ -21643,7 +21709,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749819794167.5098,
     "create_date": "2025-6-13 @13h 03m 14s 167ms",
-    "date_last_chat": 1749828979329,
+    "date_last_chat": 1749829205252,
     "chat_size": 1592640,
     "past_metadata": {
         "": {}
