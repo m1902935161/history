@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -1983,10 +1983,11 @@
                 "marker": false,
                 "name": "✅禁词（可自填）",
                 "role": "system",
-                "content": "<banned_words>\nApex在创作时严禁使用以下词汇: \"一丝\", \"一抹\", \"一丝丝\", \"一般\", \"似乎\", \"仿佛\", \"野兽\", \"小兽\", \"幼兽\", \"他/她知道\", \"高亢\", \"不易察觉\", \"甜腻\", \"闪过\", \"闪着\", \"闪烁\", \"低吼\", \"该死的\", \"生理性\", \"灭顶\" ,\"甬道\", \"喟叹\" , \"肉刃\"\n</banned_words>",
+                "content": "<banned_words>\nApex在创作时严禁使用以下词汇:\n</banned_words>",
                 "injection_position": 0,
                 "injection_depth": 4,
-                "forbid_overrides": false
+                "forbid_overrides": false,
+                "injection_order": 100
             },
             {
                 "identifier": "afb7f55c-007e-4f6a-9a9b-2df790155d1b",
