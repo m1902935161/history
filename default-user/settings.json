@@ -9,7 +9,7 @@
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "NavLockOn": "false",
-        "GroupMembers_PerPage": "25",
+        "GroupMembers_PerPage": "50",
         "GroupCandidates_PerPage": "50"
     },
     "currentVersion": "1.13.0",
