@@ -2,14 +2,14 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "NavLockOn": "false",
-        "GroupMembers_PerPage": "25",
+        "GroupMembers_PerPage": "50",
         "GroupCandidates_PerPage": "50"
     },
     "currentVersion": "1.13.0",
@@ -1433,7 +1433,6 @@
         "【光影】唐柔.png": [],
         "【光影】鹿屿.png": [],
         "【星辰】艾莉丝.png": [],
-        "【星辰】莉利娅.png": [],
         "【星辰】零.png": [],
         "【极光】羽灵.png": [],
         "【潮汐】夏琳.png": [],
@@ -1448,7 +1447,16 @@
         "【星辰经纪人】露娜.png": [],
         "【极光】许晴.png": [],
         "【光影】鹿瑶.png": [],
-        "【潮汐】薇拉.png": []
+        "【潮汐】薇拉.png": [],
+        "【星辰】克拉拉.png": [],
+        "【极光】许凤萱.png": [],
+        "【极光】许凰音.png": [],
+        "【星辰】莉莉娅.png": [],
+        "【潮汐】柳如烟.png": [],
+        "【星辰】伊芙琳.png": [],
+        "【极光】言浅.png": [],
+        "【潮汐】肖甜.png": [],
+        "【极光】罗雪.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -1975,10 +1983,11 @@
                 "marker": false,
                 "name": "✅禁词（可自填）",
                 "role": "system",
-                "content": "<banned_words>\nApex在创作时严禁使用以下词汇: \"一丝\", \"一抹\", \"一丝丝\", \"一般\", \"似乎\", \"仿佛\", \"野兽\", \"小兽\", \"幼兽\", \"他/她知道\", \"高亢\", \"不易察觉\", \"甜腻\", \"闪过\", \"闪着\", \"闪烁\", \"低吼\", \"该死的\", \"生理性\", \"灭顶\" ,\"甬道\", \"喟叹\" , \"肉刃\"\n</banned_words>",
+                "content": "<banned_words>\nApex在创作时严禁使用以下词汇:\n</banned_words>",
                 "injection_position": 0,
                 "injection_depth": 4,
-                "forbid_overrides": false
+                "forbid_overrides": false,
+                "injection_order": 100
             },
             {
                 "identifier": "afb7f55c-007e-4f6a-9a9b-2df790155d1b",
