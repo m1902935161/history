@@ -59,9 +59,9 @@
                     [
                         "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
-                        "cell_9jUXcRBd_UI742lYBYsOA5HIe",
-                        "cell_9jUXcRBd_unNHJWqO403GEx92",
-                        "cell_9jUXcRBd_G4N0I4W5WL3zQyMg"
+                        "cell_9jUXcRBd_EODNX8YkaEjwfKPs",
+                        "cell_9jUXcRBd_gdqPpF0xxICEomBS",
+                        "cell_9jUXcRBd_PQEIrzTnIJDxCEQr"
                     ]
                 ],
                 "cellHistory": [
@@ -1708,6 +1708,76 @@
                     },
                     {
                         "uid": "cell_9jUXcRBd_G4N0I4W5WL3zQyMg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_jge5DOSrDfJn4qja",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Xr2ZyI30xYtsmge",
+                        "data": {
+                            "value": "第二天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_cgPoSkCyf19QjjhI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pNM4C4jGVOv0hoG",
+                        "data": {
+                            "value": "早晨"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_TWRg2Ub8Zd8Asa8a",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "潮汐俱乐部餐厅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_tbaukT3Sepc4TaV8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_EODNX8YkaEjwfKPs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pNM4C4jGVOv0hoG",
+                        "data": {
+                            "value": "早上"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_gdqPpF0xxICEomBS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "潮汐俱乐部（餐厅）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_PQEIrzTnIJDxCEQr",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_LDro8rAOJ4L4zXS",
@@ -9037,20 +9107,20 @@
                         "cell_3KbXcTSB_YI6iwdS72Q4Hz1OX"
                     ],
                     [
-                        "cell_3KbXcTSB_GVuRH2StK9Cc1qd7",
-                        "cell_3KbXcTSB_ac58m6ymLCQIO7aj",
-                        "cell_3KbXcTSB_eVYu8cf3CuqSv77Z",
-                        "cell_3KbXcTSB_wNx86hChYL33gq0g",
-                        "cell_3KbXcTSB_hR9eOe4F0acDfCSO",
-                        "cell_3KbXcTSB_aKpFW5mvhOSDrIbD"
+                        "cell_3KbXcTSB_3jL8k6oJeBvxnqDD",
+                        "cell_3KbXcTSB_FvNANvGzrQ2i7QUE",
+                        "cell_3KbXcTSB_qg4W5c1WIZS5lTW6",
+                        "cell_3KbXcTSB_GITgS1EIozRzTDIN",
+                        "cell_3KbXcTSB_NoyIV9Qwn1wTw8m5",
+                        "cell_3KbXcTSB_E0tNLxpenaXnWeZS"
                     ],
                     [
-                        "cell_3KbXcTSB_ez3ReNLaJcnBXx0r",
-                        "cell_3KbXcTSB_s2yxQupyYOhygY2O",
-                        "cell_3KbXcTSB_8YJmR6g4MV18yg3f",
-                        "cell_3KbXcTSB_ucyaLCGinrRRQJqu",
-                        "cell_3KbXcTSB_WUr5WkMUxXPwkgot",
-                        "cell_3KbXcTSB_cYDjh4HY6yVWLUHL"
+                        "cell_3KbXcTSB_plbVgNt6pDTa161s",
+                        "cell_3KbXcTSB_i0ZubAqh2vEu41dx",
+                        "cell_3KbXcTSB_IeajXp1q0fJROsy0",
+                        "cell_3KbXcTSB_4UTBS6wT5SiVr4cJ",
+                        "cell_3KbXcTSB_bawY1YY9wAzsrz8J",
+                        "cell_3KbXcTSB_Y2edSyCKlAEgKgWy"
                     ]
                 ],
                 "cellHistory": [
@@ -25209,6 +25279,354 @@
                             "value": "战意/敌对"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EQHwT4I0jFmzERAr",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_bC42rVNiq5fcyUM",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_hbj1FA61XLfClqBj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WvAJoVZUvG71vTp",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xRVcS23EqyXjUw9z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_flSwHkJmx7wpecy",
+                        "data": {
+                            "value": "在潮汐俱乐部餐厅遇到柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_48livccx3XMKzc0v",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_SUZfPuI2Tqb7DG2",
+                        "data": {
+                            "value": "第二天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_bZz4DzK7cGICoP3T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_uTk9ZB1MfFykq5i",
+                        "data": {
+                            "value": "潮汐俱乐部餐厅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Miz7dPh2WAFZ6K1h",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_7WHhRQxVfBJEE8n",
+                        "data": {
+                            "value": "惊讶/厌恶"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vCJG7C5Asbz80ycO",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_NILQN4khuSVjyQM",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1v5tpIlQ3ruDH4OU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_f20NvndZEj2AMdS",
+                        "data": {
+                            "value": "柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1UWf5kR90c4gNanX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZM2IiyEwTGgg1Pq",
+                        "data": {
+                            "value": "在潮汐俱乐部餐厅遇到林巧/嘲讽林巧比赛表现"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NJgBU3eh3qbrQrcx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cY6m5EdL6mMqXBe",
+                        "data": {
+                            "value": "第二天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_l1qCH1OhxHQrRDOw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PJ3a8yF983VGfsa",
+                        "data": {
+                            "value": "潮汐俱乐部餐厅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lwce0H86RucY2K0Q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qbphohb14xXCUj0",
+                        "data": {
+                            "value": "高傲/嘲讽"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_rtP9dl2ywkeB8hze",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_qsEtNt5z09sYfyZ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_cjOPKFOQ4U4AT9t5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iGljuOCabpyqR6G",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_n0awDMUSckj7KBSq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9xOLC23gcWuLbWQ",
+                        "data": {
+                            "value": "因比赛表现引发激烈争吵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_mCUJz97ap4llEhEV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8NEGHMQZwQkQFJJ",
+                        "data": {
+                            "value": "第二天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xbcIDSJkaMematWZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TT7qQfKjp06JspZ",
+                        "data": {
+                            "value": "潮汐俱乐部餐厅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RYcgM0RxJOyeZrq8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xKy2DFkQx12Xr8v",
+                        "data": {
+                            "value": "愤怒/高傲"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_aq3w5IWfqyBKq3yj",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_jV5rI9VmQKjQYOt",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qROglDed0uXFCshi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_d9v797CHsxOw9m4",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_2l9Ar9LQlhQvU6Ht",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_615ozsN65t3JYzu",
+                        "data": {
+                            "value": "决定前往训练场进行一对一对决"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_AzE4tnJwD0kkHKhF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QBkuYX1xKS3JwCZ",
+                        "data": {
+                            "value": "第二天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_n8IHfpB32G7ZbPm9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8IDG8jqn4xHm7LL",
+                        "data": {
+                            "value": "潮汐俱乐部餐厅"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_1wtRrVMofQBZ94TD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5e2u1usHObRziCS",
+                        "data": {
+                            "value": "决心/敌意"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3jL8k6oJeBvxnqDD",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_hhyuJ0VR06MqaoL",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FvNANvGzrQ2i7QUE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_el0paUHv7aFkMGz",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qg4W5c1WIZS5lTW6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mObkKi3uq72qHXK",
+                        "data": {
+                            "value": "在潮汐俱乐部餐厅相遇并发生激烈争吵"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_GITgS1EIozRzTDIN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XL7BNnhX55sw5FW",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NoyIV9Qwn1wTw8m5",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Rp8Hr8fdNv4wPzN",
+                        "data": {
+                            "value": "潮汐俱乐部（餐厅）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_E0tNLxpenaXnWeZS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pn4x39qQizpmxWJ",
+                        "data": {
+                            "value": "愤怒/轻蔑/敌意"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_plbVgNt6pDTa161s",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_hZkujsHPg27a2GP",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_i0ZubAqh2vEu41dx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8fOreAMyN4tLgQt",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_IeajXp1q0fJROsy0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Hxp9qw0KMKp6G6J",
+                        "data": {
+                            "value": "约定进行一对一TL对决"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_4UTBS6wT5SiVr4cJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2wSqoOhfF0GxO4R",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_bawY1YY9wAzsrz8J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0NlUCG2mXZ1G0GU",
+                        "data": {
+                            "value": "潮汐俱乐部（餐厅）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Y2edSyCKlAEgKgWy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2fiv1SwtGTIYlDt",
+                        "data": {
+                            "value": "战意/敌对"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -25406,7 +25824,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749830572105.407,
     "create_date": "2025-6-13 @16h 02m 52s 105ms",
-    "date_last_chat": 1749865896748,
+    "date_last_chat": 1749866197575,
     "chat_size": 1850694,
     "past_metadata": {
         "": {}
