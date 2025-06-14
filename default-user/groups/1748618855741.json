@@ -61,7 +61,7 @@
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
                         "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
                         "cell_9jUXcRBd_YYyoC4QWKyX9DHUu",
-                        "cell_9jUXcRBd_LFeHSzUCddoN0znO"
+                        "cell_9jUXcRBd_SaBemEMXW0daRDoW"
                     ]
                 ],
                 "cellHistory": [
@@ -8637,10 +8637,10 @@
                     [
                         "cell_3KbXcTSB_6n6lSYMwcOWtGYha",
                         "cell_3KbXcTSB_NfS0Yf9PToLJAHxc",
-                        "cell_3KbXcTSB_tmpMZXWnJMLnU5PF",
+                        "cell_3KbXcTSB_gfkJFfC5lsTeQDhU",
                         "cell_3KbXcTSB_LLSsOBBDhtdcFl95",
                         "cell_3KbXcTSB_W7KUcGWjEtyQe9kJ",
-                        "cell_3KbXcTSB_IBEYjj2GXXrU7ycP"
+                        "cell_3KbXcTSB_J2ykriCToZlwnpfO"
                     ],
                     [
                         "cell_3KbXcTSB_jfQB0hfbqDaHoWf4",
@@ -8933,18 +8933,18 @@
                     [
                         "cell_3KbXcTSB_0ykS9tGcDhreVteU",
                         "cell_3KbXcTSB_iHlvwuZzjFyLjgMX",
-                        "cell_3KbXcTSB_imgVusFNB3HULuRL",
+                        "cell_3KbXcTSB_xLB1tpGBoPwRbemn",
                         "cell_3KbXcTSB_1dCoZFwAkOHmRjpx",
                         "cell_3KbXcTSB_EXGNG0IoioJ6OGlq",
-                        "cell_3KbXcTSB_8J6nVVAs32sh3pwj"
+                        "cell_3KbXcTSB_bnLucWQ1qqKqjVF9"
                     ],
                     [
                         "cell_3KbXcTSB_Wq8zSF3Cv0nBvN2r",
                         "cell_3KbXcTSB_28UPDlZL5PpGg74p",
-                        "cell_3KbXcTSB_56RznOIj3Pibydtq",
+                        "cell_3KbXcTSB_jaPSgtiGzUqeklnF",
                         "cell_3KbXcTSB_dHWX8wOxxp7w0dLg",
                         "cell_3KbXcTSB_fKBLAuIeAXw11tbj",
-                        "cell_3KbXcTSB_MPWZMAV1ZERlfbuB"
+                        "cell_3KbXcTSB_ozrAtfdon78a1bXK"
                     ],
                     [
                         "cell_3KbXcTSB_Qwb7qP0ifwPDb0YA",
@@ -8965,26 +8965,18 @@
                     [
                         "cell_3KbXcTSB_g6Yw1lYEtqDx5IoS",
                         "cell_3KbXcTSB_byB6IgJYKlgxdimt",
-                        "cell_3KbXcTSB_8AfDDh7new8lfody",
+                        "cell_3KbXcTSB_0c0IYOKiuUEW8aYL",
                         "cell_3KbXcTSB_LW64Xbl2LP4lIVdN",
                         "cell_3KbXcTSB_XJRHq02OMyrn6ckg",
-                        "cell_3KbXcTSB_DcBPv4PWgpJwhCcc"
+                        "cell_3KbXcTSB_JoWghvS0wZpk9xHL"
                     ],
                     [
                         "cell_3KbXcTSB_Gclitsn0ayJDMWal",
                         "cell_3KbXcTSB_9L2dXsJ3LOTUvLXz",
-                        "cell_3KbXcTSB_6YoMaZXEgmDxg0Eq",
+                        "cell_3KbXcTSB_EcH02TnAGg9hHlG5",
                         "cell_3KbXcTSB_QAlEQLPi2b3YAmOs",
                         "cell_3KbXcTSB_IwkN8AnEjtahBEV9",
-                        "cell_3KbXcTSB_4q7WGNBAOkHv718v"
-                    ],
-                    [
-                        "cell_3KbXcTSB_OxuTBs9LikrflLE5",
-                        "cell_3KbXcTSB_oTe9szjNfLnzwCHz",
-                        "cell_3KbXcTSB_keb9fImwkfKQHIdi",
-                        "cell_3KbXcTSB_JKhnhksa3FC7QFhK",
-                        "cell_3KbXcTSB_YvsVyrBP6DfhCy7g",
-                        "cell_3KbXcTSB_YXHBMxzaFiXyA7kD"
+                        "cell_3KbXcTSB_2UTMmKFvtxF4fwGl"
                     ]
                 ],
                 "cellHistory": [
@@ -25154,7 +25146,7 @@
             "sticky": {},
             "cooldown": {}
         },
-        "lastInContextMessageId": 29
+        "lastInContextMessageId": 30
     },
     "fav": false,
     "chat_id": "2025-06-07@16h40m10s",
@@ -25166,7 +25158,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749830572105.407,
     "create_date": "2025-6-13 @16h 02m 52s 105ms",
-    "date_last_chat": 1749863148507,
+    "date_last_chat": 1749863356616,
     "chat_size": 1850694,
     "past_metadata": {
         "": {}
