@@ -60,8 +60,8 @@
                         "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
                         "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
-                        "cell_9jUXcRBd_S3TByAdMt9qO61NZ",
-                        "cell_9jUXcRBd_hJkXF1Pp0RZqhuw4"
+                        "cell_9jUXcRBd_LobZTJcT4etioXHj",
+                        "cell_9jUXcRBd_UjusEZjSVKVHIWiU"
                     ]
                 ],
                 "cellHistory": [
@@ -1923,6 +1923,26 @@
                         "coordUid": "coo_LDro8rAOJ4L4zXS",
                         "data": {
                             "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_LobZTJcT4etioXHj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_UjusEZjSVKVHIWiU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_LDro8rAOJ4L4zXS",
+                        "data": {
+                            "value": "林巧/柳如烟/潮汐俱乐部成员"
                         },
                         "targetUid": ""
                     }
@@ -9352,34 +9372,66 @@
                     [
                         "cell_3KbXcTSB_4CU5melVpInlkYnc",
                         "cell_3KbXcTSB_oCsPnjiFKAcLHSO1",
-                        "cell_3KbXcTSB_jIcErAEuNUtFbUw2",
+                        "cell_3KbXcTSB_KfsorC8xab0RhsiS",
                         "cell_3KbXcTSB_92LN4SnfIOqRDwPO",
                         "cell_3KbXcTSB_r21VTUwrc59cE0hi",
-                        "cell_3KbXcTSB_kVbPmTGexNa3b5Nf"
+                        "cell_3KbXcTSB_hg9ZkFRszOmBf1yh"
                     ],
                     [
                         "cell_3KbXcTSB_6pfp5cyAs9wn7alb",
                         "cell_3KbXcTSB_yE882Nz8qHLJygUQ",
-                        "cell_3KbXcTSB_TLs5mo28JrtCSwME",
+                        "cell_3KbXcTSB_52RQA3aq5p642G0X",
                         "cell_3KbXcTSB_mnNoA2Oz7j3N3blg",
                         "cell_3KbXcTSB_H5udr3bwXX17oK1C",
-                        "cell_3KbXcTSB_CwF1TXyD9jAoGCpa"
+                        "cell_3KbXcTSB_llHd5wUKj9i2N6YL"
                     ],
                     [
                         "cell_3KbXcTSB_petPG0LXkzZOCiG3",
                         "cell_3KbXcTSB_EFGM43K9VX7S0Nxf",
-                        "cell_3KbXcTSB_iGGFQSavg7ZAiOj3",
+                        "cell_3KbXcTSB_hmbp4b0ze0fLNSps",
                         "cell_3KbXcTSB_hDLxiSuPm35Sjey0",
                         "cell_3KbXcTSB_blUCW74L5TJbVCnn",
-                        "cell_3KbXcTSB_tdEG7ZolMXsZrO7e"
+                        "cell_3KbXcTSB_EMVQ5ewgCdJ3xxtF"
                     ],
                     [
                         "cell_3KbXcTSB_3j2mJ1NS6yHjkgVX",
                         "cell_3KbXcTSB_ZL9UOX5wB6CC8kcH",
-                        "cell_3KbXcTSB_2y4oViO1xMR7uRpf",
+                        "cell_3KbXcTSB_TDfunLvrgFqKgMJt",
                         "cell_3KbXcTSB_woJZTRqIxL4fyhGR",
                         "cell_3KbXcTSB_DJyzU5E1NaOVLUZO",
-                        "cell_3KbXcTSB_TUL7znLV6dpCtPBx"
+                        "cell_3KbXcTSB_9qPNUvFwSjJILiwS"
+                    ],
+                    [
+                        "cell_3KbXcTSB_rm9dpBKzzLkfmzw5",
+                        "cell_3KbXcTSB_lK7AkOj1BtzJRbI2",
+                        "cell_3KbXcTSB_sOAVtcCAIfIDHfD3",
+                        "cell_3KbXcTSB_NKJ19HebAiKuSiYI",
+                        "cell_3KbXcTSB_W3oH7dYtmCMFBfk6",
+                        "cell_3KbXcTSB_FqDYWrzHjtMufS3J"
+                    ],
+                    [
+                        "cell_3KbXcTSB_mRteH9wjCKKyfMGt",
+                        "cell_3KbXcTSB_xRqVTKT9x5hZkwOI",
+                        "cell_3KbXcTSB_FHHrBMMbkz7Oe0bP",
+                        "cell_3KbXcTSB_RPCTBW2QiYiKFmmb",
+                        "cell_3KbXcTSB_uiglqi6xbTBwECPK",
+                        "cell_3KbXcTSB_u1PQSCIiVsAskZDP"
+                    ],
+                    [
+                        "cell_3KbXcTSB_YyYocLtLY0gOfWdD",
+                        "cell_3KbXcTSB_DlqtSPQnsm4GQ7HZ",
+                        "cell_3KbXcTSB_BVdGNl8VT9ij39OX",
+                        "cell_3KbXcTSB_57zPkDOCUnpTTuDG",
+                        "cell_3KbXcTSB_nr2d2hLo9eZl1dHP",
+                        "cell_3KbXcTSB_3LDqC0HrdVpCLqLs"
+                    ],
+                    [
+                        "cell_3KbXcTSB_PvuBlehAgu3IoJep",
+                        "cell_3KbXcTSB_d1Ji91T4Fz6c2N7q",
+                        "cell_3KbXcTSB_Qh9EIDcT6YDa4lN2",
+                        "cell_3KbXcTSB_WJFWGc8x6fa0K8iJ",
+                        "cell_3KbXcTSB_UGXAcnwAGAVSQNrM",
+                        "cell_3KbXcTSB_9VuvO9UQSMfp24OS"
                     ]
                 ],
                 "cellHistory": [
@@ -26836,6 +26888,474 @@
                             "value": "激烈/痛苦/失控/战意/复杂"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_VS0Nxo9oc90mKtrS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Mehr5j5otfbc06l",
+                        "data": {
+                            "value": "压制并搔痒柳如烟/被敕令短暂控制/发动玉足女皇进攻形态/浮空追击柳如烟/进行足部攻击/在空中被柳如烟抓住脚踝/被拖拽到地面/切换回玉足女皇防御形态/发动玉足奖励踢开柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TKNDYLkjcbjOFg0p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yn9vKxJLmRbKm0b",
+                        "data": {
+                            "value": "高傲/嘲讽/攻击性/意外/追击/战意/受制/应对"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RT9itpqO11oAiqDz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TWbMHOuBLYWr8Tw",
+                        "data": {
+                            "value": "拉开距离并用女帝之手反击林巧/进行手臂抵抗/抓住林巧脚踝并拖拽到地面/被林巧玉足奖励踢开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_w1nsRxboufzbEHFb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rSZGtarYtSgazNA",
+                        "data": {
+                            "value": "挣脱/警惕/反击/抓住机会/意外"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_21cNx8JPWdRMoanE",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_7KyJaUKXKu1wC4N",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_AXBP4hgT07teHtF7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1pUsQLxts1feZqY",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Uu7xSoq32MYF0LbG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2mWmLRbPpJal2n4",
+                        "data": {
+                            "value": "在绯夜古堡花园区域进行激烈三回合交锋"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_MiaxKDK0nNJY5YBD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8m8t14vLK03eRA7",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qFUkZDvJ43fQkpiL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ki7Zc5TLBfHDiJ1",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NjWfiX962f7peIFI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KnDU7xKfO1r7vid",
+                        "data": {
+                            "value": "激烈/胶着/战意"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_vQJP7HzeVJOAIKwy",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_nBz97qFY0uYsaYf",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FWv6ohf3E8jJ93L8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_N0EQaMaD1XULsJu",
+                        "data": {
+                            "value": "潮汐俱乐部成员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_qvnQRV4Yc89ekHZp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rlb0y2CEnZG6BGv",
+                        "data": {
+                            "value": "聚拢观摩林巧与柳如烟的训练对决"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_OwoQCuwPIpbzTWAL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cEi6Qx2ay5hciBX",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_CSIuT7db2FloX4NU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_I0OWZjArhq7k7RG",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_I5W3OC8tDi7Bjr8p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_S2Lr7UJXZVW037x",
+                        "data": {
+                            "value": "好奇/观战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_KfsorC8xab0RhsiS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_leEfBnurUJbWi8F",
+                        "data": {
+                            "value": "被林巧压制并搔痒/发动敕令脱困/抓住林巧脚踝将其拖下/被林巧踢开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_hg9ZkFRszOmBf1yh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FkOhkdnDs1jVWZI",
+                        "data": {
+                            "value": "痛苦/失控/屈辱/果断/意外"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_52RQA3aq5p642G0X",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Mehr5j5otfbc06l",
+                        "data": {
+                            "value": "压制并搔痒柳如烟/被敕令短暂控制/发动玉足女皇攻击形态/浮空追击柳如烟/进行足部攻击/被柳如烟抓住脚踝拖下/切换玉足女皇防御形态/发动玉足奖励踢开柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_llHd5wUKj9i2N6YL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yn9vKxJLmRbKm0b",
+                        "data": {
+                            "value": "高傲/嘲讽/攻击性/意外/追击/战意/受制/应变/反击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_hmbp4b0ze0fLNSps",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TWbMHOuBLYWr8Tw",
+                        "data": {
+                            "value": "拉开距离并用女帝之手反击林巧/进行手臂抵抗/抓住林巧脚踝将其拖下/被林巧踢开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_EMVQ5ewgCdJ3xxtF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rSZGtarYtSgazNA",
+                        "data": {
+                            "value": "挣脱/警惕/反击/果断/意外"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_TDfunLvrgFqKgMJt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tMzLm9D6gZy1cbP",
+                        "data": {
+                            "value": "在绯夜古堡花园区域进行激烈二回合交锋/互相搔痒/伴随发笑/开始第三回合近身肉搏战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9qPNUvFwSjJILiwS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eJGdB39NH9Uziei",
+                        "data": {
+                            "value": "激烈/痛苦/失控/战意/复杂/胶着/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_rm9dpBKzzLkfmzw5",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ayJTACYv19ql5qq",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_lK7AkOj1BtzJRbI2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_meTtCDIH3ng5IFf",
+                        "data": {
+                            "value": "柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_sOAVtcCAIfIDHfD3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_g8AsJclbEvDSwtB",
+                        "data": {
+                            "value": "抓住林巧脚踝将其拖下/被林巧踢开"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_NKJ19HebAiKuSiYI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vYs6YOnPdQtJ1mE",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_W3oH7dYtmCMFBfk6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bJYr09P7De7qnOp",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FqDYWrzHjtMufS3J",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TVYGziN1yZcSccb",
+                        "data": {
+                            "value": "果断/意外"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_mRteH9wjCKKyfMGt",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_pWD0CX7ZIphMz8A",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_xRqVTKT9x5hZkwOI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_d5hwBkFZVc82f6O",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_FHHrBMMbkz7Oe0bP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XtlnuajvQhxoBi1",
+                        "data": {
+                            "value": "被柳如烟抓住脚踝拖下/切换玉足女皇防御形态/发动玉足奖励踢开柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_RPCTBW2QiYiKFmmb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_k8a2eqJ5btMHRNQ",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_uiglqi6xbTBwECPK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lXkaj6wBd2euMvD",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_u1PQSCIiVsAskZDP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eLFraLoWB2AXl88",
+                        "data": {
+                            "value": "受制/应变/反击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_YyYocLtLY0gOfWdD",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_vVZhyDk6PrGjbIK",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_DlqtSPQnsm4GQ7HZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PjHVob90ddmgAS3",
+                        "data": {
+                            "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_BVdGNl8VT9ij39OX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WBpYDiEY3AaG3iH",
+                        "data": {
+                            "value": "开始第三回合近身肉搏战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_57zPkDOCUnpTTuDG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pemCvTydTSpPv56",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_nr2d2hLo9eZl1dHP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GwIFvKtSDe021Ry",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3LDqC0HrdVpCLqLs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9PQNS8XmTgD5uy3",
+                        "data": {
+                            "value": "激烈/胶着/专注"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_PvuBlehAgu3IoJep",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_IAeMnxgE2cW6IXq",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_d1Ji91T4Fz6c2N7q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EisZTIIa4JTIOA4",
+                        "data": {
+                            "value": "潮汐俱乐部成员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_Qh9EIDcT6YDa4lN2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xPH7w6y3Mxl7iLD",
+                        "data": {
+                            "value": "聚拢观摩林巧与柳如烟的对决"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_WJFWGc8x6fa0K8iJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_aNLgBMHum04VvoN",
+                        "data": {
+                            "value": "今天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UGXAcnwAGAVSQNrM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ji4E6oqv3ahZrpZ",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_9VuvO9UQSMfp24OS",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Qx5vfiKER3MOaKo",
+                        "data": {
+                            "value": "观摩/好奇"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -27021,7 +27541,7 @@
             "sticky": {},
             "cooldown": {}
         },
-        "lastInContextMessageId": 43
+        "lastInContextMessageId": 47
     },
     "fav": false,
     "chat_id": "2025-06-07@16h40m10s",
@@ -27033,7 +27553,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749830572105.407,
     "create_date": "2025-6-13 @16h 02m 52s 105ms",
-    "date_last_chat": 1749876493190,
+    "date_last_chat": 1749879053746,
     "chat_size": 1850694,
     "past_metadata": {
         "": {}
