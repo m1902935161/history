@@ -9,13 +9,13 @@
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "NavLockOn": "false",
-        "GroupMembers_PerPage": "100",
+        "GroupMembers_PerPage": "200",
         "GroupCandidates_PerPage": "50"
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1458,7 +1458,8 @@
         "【潮汐】肖甜.png": [],
         "【极光】罗雪.png": [],
         "【潮汐】绮罗.png": [],
-        "【光影】山田杏.png": []
+        "【光影】山田杏.png": [],
+        "【光影】白露.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
