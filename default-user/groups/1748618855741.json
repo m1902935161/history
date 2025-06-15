@@ -61,7 +61,7 @@
                         "cell_9jUXcRBd_T2eoVgQ9YrigrFd6",
                         "cell_9jUXcRBd_QVrQDu8xHMnHbdfk",
                         "cell_9jUXcRBd_ZLvvY4tH3GJOezme",
-                        "cell_9jUXcRBd_tq3lyFoJInmHLYyr",
+                        "cell_9jUXcRBd_8LxfUJXbPwLsgwkV",
                         "cell_9jUXcRBd_mcb1aUl2SsabOHZQ"
                     ]
                 ],
@@ -2144,6 +2144,16 @@
                         "coordUid": "coo_LDro8rAOJ4L4zXS",
                         "data": {
                             "value": "林巧/柳如烟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_9jUXcRBd_8LxfUJXbPwLsgwkV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_lbZ6SfxfZRd5iEB",
+                        "data": {
+                            "value": "TL训练场（绯夜古堡地下室）"
                         },
                         "targetUid": ""
                     }
@@ -8921,9 +8931,9 @@
                     [
                         "cell_Is9kpQpa_3m1LuxNxLke6Lj5w",
                         "cell_Is9kpQpa_60FWj1ZQYtJIV3QI",
-                        "cell_Is9kpQpa_FIvB1QjNwnVkQqai",
+                        "cell_Is9kpQpa_Bb7xsdxOxqdDU1af",
                         "cell_Is9kpQpa_57lWIDZtPPbr45nv",
-                        "cell_Is9kpQpa_R9pA2vpx2JNhgPKf"
+                        "cell_Is9kpQpa_2zs9WKaTZl6F8ISs"
                     ]
                 ],
                 "cellHistory": [
@@ -9368,6 +9378,26 @@
                     },
                     {
                         "uid": "cell_Is9kpQpa_R9pA2vpx2JNhgPKf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KtOANquJmJIISR3",
+                        "data": {
+                            "value": "进行中"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_Is9kpQpa_Bb7xsdxOxqdDU1af",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_F06PieudtLvBVad",
+                        "data": {
+                            "value": "训练场一对一对决/第四回合交锋"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_Is9kpQpa_2zs9WKaTZl6F8ISs",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_KtOANquJmJIISR3",
@@ -10395,18 +10425,18 @@
                     [
                         "cell_3KbXcTSB_PARDfm0twbVbdUsB",
                         "cell_3KbXcTSB_btG8EF7vV3V9uByN",
-                        "cell_3KbXcTSB_s4V4vYlkqutFkGft",
+                        "cell_3KbXcTSB_UNVev9TBhWrD856q",
                         "cell_3KbXcTSB_fnl3PBGIqIkuxVsT",
                         "cell_3KbXcTSB_mzk3L5nKJAgI78Cz",
-                        "cell_3KbXcTSB_bbGaYZl8HQTr0WSV"
+                        "cell_3KbXcTSB_KsMSMeV1dCqBUnKi"
                     ],
                     [
                         "cell_3KbXcTSB_UjAccU5jCa9Atwdu",
                         "cell_3KbXcTSB_Z6msPBpP916Xv2k6",
-                        "cell_3KbXcTSB_Ya2RGk9O26Hwt7nC",
+                        "cell_3KbXcTSB_m66dEGN0IBxI81zK",
                         "cell_3KbXcTSB_BfKjZXmDiUUybaks",
                         "cell_3KbXcTSB_1nMpgG2VIPoQ63Qm",
-                        "cell_3KbXcTSB_BIJDTcIFBIh82QNC"
+                        "cell_3KbXcTSB_8MxD6YJ9ZFbXG8et"
                     ]
                 ],
                 "cellHistory": [
@@ -32077,6 +32107,96 @@
                             "value": "屈辱/痛苦/失控/羞愤/愤怒"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_XTrxAqhE7p1QeEYb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Mehr5j5otfbc06l",
+                        "data": {
+                            "value": "压制并搔痒柳如烟/被敕令短暂控制/发动玉足女皇攻击形态/浮空追击柳如烟/进行足部攻击/被柳如烟抓住脚踝并拉到地面/切换回防御模式/发动玉足奖励将柳如烟踢开/进入地下室追击柳如烟/被柳如烟布袋偷袭/被柳如烟敕令强制下跪/被柳如烟扑倒并骑乘/被搔痒脚心/尝试反击但失败并趴倒在地/被柳如烟死死压制/遭受言语羞辱/破口大骂/绝望哭喊"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_uuQCfodNFpgWLpoc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TWbMHOuBLYWr8Tw",
+                        "data": {
+                            "value": "拉开距离并用女帝之手反击林巧/进行手臂抵抗/抓住林巧脚踝将其拉到地面/被林巧玉足奖励踢开/逃入地下室/对林巧发动布袋偷袭/对林巧使用敕令使其下跪/趁林巧下跪扑倒并骑乘林巧/开始搔痒林巧脚心/对林巧进行言语嘲讽/压制尝试反击的林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_pQBrDpbwVY9rG1WZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HMRMxABhkMlosxZ",
+                        "data": {
+                            "value": "被柳如烟扑倒并骑乘/被搔痒脚心/无法反抗/尝试反击但失败并趴倒在地/被柳如烟死死压制/遭受言语羞辱/绝望哭喊"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_x7vFKM3uMBN9Qj2C",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_J4ZGRLNmf7nUdBU",
+                        "data": {
+                            "value": "骑乘林巧/搔痒林巧脚心/对林巧进行言语嘲讽/压制尝试反击的林巧/享受林巧的痛苦和羞辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_3s1DwUri6wBIbj6m",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CD0L0Ts2OW2ei68",
+                        "data": {
+                            "value": "双手撑地被柳如烟骑乘/右脚被柳如烟抬起/被搔痒脚心/遭受言语嘲讽/羞愤/咒骂/尝试单手反击失败/趴倒在地/被柳如烟死死压制/绝望哭喊"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_m66dEGN0IBxI81zK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CD0L0Ts2OW2ei68",
+                        "data": {
+                            "value": "双手撑地被柳如烟骑乘/右脚被柳如烟抬起/被搔痒脚心/遭受言语嘲讽/羞愤/咒骂/试图反手抓柳如烟腰部/手臂支撑不住趴倒在地/绝望挣扎/无法还嘴/发出狂笑和尖叫"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_8MxD6YJ9ZFbXG8et",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_F2mte8t1Ee7yq0K",
+                        "data": {
+                            "value": "屈辱/痛苦/失控/羞愤/愤怒/绝望"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_UNVev9TBhWrD856q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_J4ZGRLNmf7nUdBU",
+                        "data": {
+                            "value": "骑乘林巧/搔痒林巧脚心/对林巧进行言语嘲讽/躲避林巧反手抓腰/继续压制林巧/延长折磨/言语羞辱林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_3KbXcTSB_KsMSMeV1dCqBUnKi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_O2EI7F7EJdUbbjv",
+                        "data": {
+                            "value": "掌控/嘲讽/享受/报复/享受"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -32262,7 +32382,7 @@
             "sticky": {},
             "cooldown": {}
         },
-        "lastInContextMessageId": 61
+        "lastInContextMessageId": 65
     },
     "fav": false,
     "chat_id": "2025-06-07@16h40m10s",
@@ -32274,7 +32394,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1749957349583.9119,
     "create_date": "2025-6-15 @03h 15m 49s 583ms",
-    "date_last_chat": 1749963182441,
+    "date_last_chat": 1749972274357,
     "chat_size": 2832288,
     "past_metadata": {
         "": {}
