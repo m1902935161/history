@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -2955,11 +2955,11 @@
                     },
                     {
                         "identifier": "aa0d4562-1814-4ac2-96fe-9c24588b2d24",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "7bcd26a2-5a78-4aea-a573-324392f72fff",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "496ae724-3342-4e88-a340-7ca0a53d24ac",
