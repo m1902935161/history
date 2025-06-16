@@ -25,7 +25,8 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "Eldoria"
+                "Eldoria",
+                "New World (1)"
             ]
         },
         "world_info_depth": 2,
