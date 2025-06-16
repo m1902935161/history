@@ -33408,7 +33408,7 @@
             "sticky": {},
             "cooldown": {}
         },
-        "lastInContextMessageId": 71
+        "lastInContextMessageId": 77
     },
     "fav": false,
     "chat_id": "2025-06-07@16h40m10s",
@@ -33418,9 +33418,9 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1750065436403.142,
-    "create_date": "2025-6-16 @09h 17m 16s 403ms",
-    "date_last_chat": 1749990111483.68,
+    "date_added": 1750065708261.5818,
+    "create_date": "2025-6-16 @09h 21m 48s 261ms",
+    "date_last_chat": 1750074010486,
     "chat_size": 3133177,
     "past_metadata": {
         "": {}
