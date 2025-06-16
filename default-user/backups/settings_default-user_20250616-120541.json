@@ -2,20 +2,20 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "NavLockOn": "false",
-        "GroupMembers_PerPage": "25",
+        "GroupMembers_PerPage": "200",
         "GroupCandidates_PerPage": "50"
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": null,
-    "active_group": "1748618855741",
+    "active_character": "魅魔型AI创作工具.png",
+    "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1455,7 +1455,14 @@
         "【潮汐】柳如烟.png": [],
         "【星辰】伊芙琳.png": [],
         "【极光】言浅.png": [],
-        "【潮汐】肖甜.png": []
+        "【潮汐】肖甜.png": [],
+        "【极光】罗雪.png": [],
+        "【潮汐】绮罗.png": [],
+        "【光影】山田杏.png": [],
+        "【光影】白露.png": [],
+        "【星辰】琉璃.png": [],
+        "【星辰】隼.png": [],
+        "【光影】安琪.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -1982,10 +1989,11 @@
                 "marker": false,
                 "name": "✅禁词（可自填）",
                 "role": "system",
-                "content": "<banned_words>\nApex在创作时严禁使用以下词汇: \"一丝\", \"一抹\", \"一丝丝\", \"一般\", \"似乎\", \"仿佛\", \"野兽\", \"小兽\", \"幼兽\", \"他/她知道\", \"高亢\", \"不易察觉\", \"甜腻\", \"闪过\", \"闪着\", \"闪烁\", \"低吼\", \"该死的\", \"生理性\", \"灭顶\" ,\"甬道\", \"喟叹\" , \"肉刃\"\n</banned_words>",
+                "content": "<banned_words>\nApex在创作时严禁使用以下词汇:\n</banned_words>",
                 "injection_position": 0,
                 "injection_depth": 4,
-                "forbid_overrides": false
+                "forbid_overrides": false,
+                "injection_order": 100
             },
             {
                 "identifier": "afb7f55c-007e-4f6a-9a9b-2df790155d1b",
@@ -2931,7 +2939,7 @@
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "63185a41-de15-4ed0-971f-b16eb2c6ff1d",
@@ -2947,7 +2955,7 @@
                     },
                     {
                         "identifier": "aa0d4562-1814-4ac2-96fe-9c24588b2d24",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "7bcd26a2-5a78-4aea-a573-324392f72fff",
@@ -2955,7 +2963,7 @@
                     },
                     {
                         "identifier": "496ae724-3342-4e88-a340-7ca0a53d24ac",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "ab53ce47-16da-4e2e-ad7e-8069dd44292e",
@@ -2991,7 +2999,7 @@
                     },
                     {
                         "identifier": "b6d0f461-d1b7-4e64-a203-802b5d4194a2",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "bab814a0-9eb4-46d2-b55b-1c5e7908a238",
