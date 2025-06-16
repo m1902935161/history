@@ -2,8 +2,8 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
-        "NavOpened": "false",
+        "LNavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -14,8 +14,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -2931,11 +2931,11 @@
                     },
                     {
                         "identifier": "e7b85762-73d1-4dad-a373-dd1ae181c8be",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "751a591c-3357-4902-8ae6-81df592d09d1",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
