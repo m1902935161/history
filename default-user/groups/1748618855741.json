@@ -2,6 +2,9 @@
     "id": "1748618855741",
     "name": "TL",
     "members": [
+        "【星辰】隼.png",
+        "【星辰】琉璃.png",
+        "【光影】安琪.png",
         "【光影】山田杏.png",
         "【光影】白露.png",
         "【潮汐】绮罗.png",
@@ -33415,8 +33418,8 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1750064531480.34,
-    "create_date": "2025-6-16 @09h 02m 11s 480ms",
+    "date_added": 1750065436403.142,
+    "create_date": "2025-6-16 @09h 17m 16s 403ms",
     "date_last_chat": 1749990111483.68,
     "chat_size": 3133177,
     "past_metadata": {
