@@ -1179,8 +1179,7 @@
             "height": 512,
             "prompt_prefix": "best quality, absurdres, masterpiece,",
             "negative_prompt": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry",
-            "sampler": "DDIM",
-            "model": "",
+            "sampler": "UniPC",
             "restore_faces": true,
             "enable_hr": true,
             "horde": true,
@@ -1203,9 +1202,9 @@
                 "-2": "The text prompt used to generate the image. Must represent an exhaustive description of the desired image that will allow an artist or a photographer to perfectly recreate it."
             },
             "character_prompts": {},
-            "source": "extras",
-            "scheduler": "normal",
-            "vae": "",
+            "source": "drawthings",
+            "scheduler": null,
+            "vae": null,
             "seed": -1,
             "adetailer_face": false,
             "horde_sanitize": true,
@@ -1242,7 +1241,7 @@
             "novel_sm_dyn": false,
             "novel_decrisper": false,
             "openai_style": "vivid",
-            "openai_quality": "standard",
+            "openai_quality": "hd",
             "style": "Default",
             "styles": [
                 {
