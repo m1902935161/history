@@ -300,12 +300,15 @@ export async function replaceCharacterScriptVariables(variables: Record<string, 
 export async function purgeEmbeddedScripts({ character }: { character: any }): Promise<void> {
   const avatar = character?.character?.avatar;
   const charactersWithScripts = getSettingValue('script.characters_with_scripts') || [];
-
-  if (avatar && charactersWithScripts?.includes(avatar)) {
-    const index = charactersWithScripts.indexOf(avatar);
-    if (index !== -1) {
-      charactersWithScripts.splice(index, 1);
-      saveSettingValue('script.characters_with_scripts', charactersWithScripts);
+  if (avatar) {
+    // TODO: 旧版没有 accountStorage，等酒馆更新几个版本后再更换
+    localStorage.removeItem(`AlertScript_${avatar}`);
+    if (charactersWithScripts?.includes(avatar)) {
+      const index = charactersWithScripts.indexOf(avatar);
+      if (index !== -1) {
+        charactersWithScripts.splice(index, 1);
+        saveSettingValue('script.characters_with_scripts', charactersWithScripts);
+      }
     }
   }
 }

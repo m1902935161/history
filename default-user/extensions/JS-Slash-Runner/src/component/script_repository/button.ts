@@ -1,6 +1,6 @@
 import { ScriptManager } from '@/component/script_repository/script_controller';
 import { eventSource } from '@sillytavern/script';
-import { Script } from './types';
+import { Script } from '@/component/script_repository/types';
 
 let isQrEnabled = false;
 let isCombined = false;
@@ -275,7 +275,8 @@ function checkQrCombinedStatus() {
   if (!isQrEnabled) {
     if (isCombined) {
       const $qrBar = $('#send_form #qr--bar');
-      if ($qrBar.children().length === 0) {
+      const isThButtonExist = $qrBar.find('.th--buttons').length > 0;
+      if (!isThButtonExist) {
         $qrBar.append('<div class="qr--buttons th--buttons"></div>');
       }
     }

@@ -1,7 +1,7 @@
 import { getCharacterScriptVariables, replaceCharacterScriptVariables } from '@/component/script_repository/data';
 import { getChatMessages, setChatMessages } from '@/function/chat_message';
 
-import { chat, chat_metadata, saveMetadata, saveSettings } from '@sillytavern/script';
+import { chat, chat_metadata, eventSource, saveMetadata, saveSettings } from '@sillytavern/script';
 import { extension_settings } from '@sillytavern/scripts/extensions';
 
 interface VariableOption {
@@ -53,6 +53,7 @@ export async function replaceVariables(
       }
       message_id = message_id === 'latest' ? -1 : message_id;
       await setChatMessages([{ message_id, data: variables }], { refresh: 'none' });
+      eventSource.emit('message_variables_changed', { message_id, variables });
       break;
     case 'chat':
       _.set(chat_metadata, 'variables', variables);
@@ -60,6 +61,7 @@ export async function replaceVariables(
       break;
     case 'character':
       await replaceCharacterScriptVariables(variables);
+      eventSource.emit('character_variables_changed', { variables });
       break;
     case 'global':
       _.set(extension_settings.variables, 'global', variables);

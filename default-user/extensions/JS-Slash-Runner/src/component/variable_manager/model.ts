@@ -1,15 +1,11 @@
-import { VariableDataType, VariableItem, VariableType } from '@/component/variable_manager/types';
-import { getLastMessageId } from '@/function/util';
-import {
-  deleteVariable,
-  getVariables,
-  insertOrAssignVariables,
-  replaceVariables,
-  updateVariablesWith,
-} from '@/function/variables';
+import { TavernVariables, VariableDataType, VariableItem, VariableType } from '@/component/variable_manager/types';
+import { getVariables, replaceVariables } from '@/function/variables';
+import { uuidv4 } from '@sillytavern/scripts/utils';
+import { VariableManagerUtil } from '@/component/variable_manager/util';
 
 export class VariableModel {
-  private currentVariables: Record<string, any> = {};
+  private currentVariables: VariableItem[] | null = null;
+  private variableIdMap: Map<string, VariableItem> = new Map();
 
   private activeVariableType: VariableType = 'global';
 
@@ -26,176 +22,234 @@ export class VariableModel {
   private floorMinRange: number | null = null;
   private floorMaxRange: number | null = null;
 
-  /**
-   * 变量加载状态标志
-   * @private
-   */
-  private _isLoading: boolean = false;
-
-  /**
-   * 变量加载防抖计时器
-   * @private
-   */
-  private _loadDebounceTimeout: number | null = null;
-
-  /**
-   * 变量加载请求ID，用于取消过时的请求
-   * @private
-   */
-  private _loadRequestId: number = 0;
-
-  /**
-   * 操作来源标记
-   * 标记当前是否为内部操作（用户界面触发）
-   * 用于避免同步服务对内部操作产生的事件进行重复处理
-   * @private
-   */
-  private _isInternalOperation: boolean = false;
-
-  /**
-   * 操作计数器
-   * 用于处理嵌套操作场景，确保最外层操作结束后才重置标记
-   * @private
-   */
-  private _internalOperationCount: number = 0;
-
   constructor() {}
 
   /**
-   * 获取变量是否正在加载
+   * 为变量创建唯一ID并建立映射关系
+   * @param name 变量名称
+   * @param value 变量值
+   * @param message_id 消息ID（可选，仅用于message类型变量）
+   * @returns 生成的唯一ID
    */
-  public get isLoading(): boolean {
-    return this._isLoading;
+  public createVariableItem(name: string, value: any, message_id?: number): VariableItem {
+    const id = uuidv4();
+    const variable_item: VariableItem = {
+      name,
+      value,
+      dataType: VariableManagerUtil.inferDataType(value),
+      id,
+      ...(message_id !== undefined && { message_id }),
+    };
+    this.variableIdMap.set(id, variable_item);
+    return variable_item;
+  }
+
+  // ========== 前端和Map之间的存取 ==========
+
+  /**
+   * 获取当前map中的所有变量 (前端 ← map)
+   */
+  public getCurrentMapVariables(): VariableItem[] {
+    return this.currentVariables ? [...this.currentVariables] : [];
   }
 
   /**
-   * 标记开始内部操作
-   * 通过内部操作标记，使同步服务能够识别并忽略由内部操作触发的事件
+   * 向map中添加变量 (前端 → map)
    */
-  public beginInternalOperation(): void {
-    this._internalOperationCount++;
-    this._isInternalOperation = true;
-  }
-
-  /**
-   * 标记结束内部操作
-   * 仅当所有嵌套操作都完成时才重置标记
-   */
-  public endInternalOperation(): void {
-    this._internalOperationCount = Math.max(0, this._internalOperationCount - 1);
-
-    if (this._internalOperationCount === 0) {
-      this._isInternalOperation = false;
+  public addToMap(name: string, value: any, message_id?: number): VariableItem {
+    const variable = this.createVariableItem(name, value, message_id);
+    if (!this.currentVariables) {
+      this.currentVariables = [];
     }
+    this.currentVariables.push(variable);
+    return variable;
   }
 
   /**
-   * 检查当前是否为内部操作
-   * @returns 是否为内部操作
+   * 从map中移除变量 (前端 → map)
    */
-  public isInternalOperation(): boolean {
-    return this._isInternalOperation;
+  public removeFromMap(id: string): boolean {
+    if (!this.currentVariables) return false;
+    const index = this.currentVariables.findIndex(v => v.id === id);
+    if (index >= 0) {
+      this.currentVariables.splice(index, 1);
+      this.variableIdMap.delete(id);
+      return true;
+    }
+    return false;
   }
 
   /**
-   * 强制重置内部操作状态
-   * 用于异常情况下的恢复
+   * 在map中更新变量 (前端 → map)
    */
-  public resetInternalOperationState(): void {
-    this._internalOperationCount = 0;
-    this._isInternalOperation = false;
+  public updateInMap(id: string, newName: string, newValue: any, newMessageId?: number): boolean {
+    if (!this.currentVariables) return false;
+    const variable = this.currentVariables.find(v => v.id === id);
+    if (variable) {
+      variable.name = newName;
+      variable.value = newValue;
+      variable.dataType = VariableManagerUtil.inferDataType(newValue);
+      if (newMessageId !== undefined) {
+        variable.message_id = newMessageId;
+      }
+      this.variableIdMap.set(id, variable);
+      return true;
+    }
+    return false;
+  }
+
+  /**
+   * 清除所有变量ID映射
+   */
+  public clearVariableIdMap(): void {
+    this.variableIdMap.clear();
+  }
+
+  /**
+   * 通过ID获取变量信息
+   * @param id 变量ID
+   * @returns 变量信息对象 {name, value} 或 undefined
+   */
+  public getVariableById(id: string): VariableItem | undefined {
+    return this.variableIdMap.get(id);
+  }
+
+  // ========== 酒馆和Map之间的存取 ==========
+
+  /**
+   * 将酒馆变量转换为VariableItem数组
+   * @param tavernVariables 从酒馆获取的原始变量数据
+   * @param message_id 消息ID（可选，仅用于message类型变量）
+   * @returns 转换后的VariableItem数组
+   * @description 自动推断每个变量的数据类型并分配唯一ID
+   */
+  public convertTavernVariablesToItems(tavernVariables: TavernVariables, message_id?: number): VariableItem[] {
+    return Object.entries(tavernVariables).map(([name, value]) => {
+      return this.createVariableItem(name, value, message_id);
+    });
+  }
+
+  /**
+   * 将VariableItem数组转换为TavernVariables对象
+   * @param variables VariableItem数组
+   * @param message_id 可选的message_id筛选条件
+   * @returns TavernVariables对象
+   */
+  public convertItemsToTavernVariables(variables: VariableItem[], message_id?: number): TavernVariables {
+    const result: TavernVariables = {};
+
+    for (const variable of variables) {
+      // 如果指定了message_id，只转换匹配的变量
+      if (message_id !== undefined) {
+        if (variable.message_id === message_id) {
+          result[variable.name] = variable.value;
+        }
+      } else {
+        // 如果没有指定message_id，转换所有变量
+        result[variable.name] = variable.value;
+      }
+    }
+
+    return result;
   }
 
   /**
    * 加载指定类型的变量
    * @param type 变量类型(global/character/chat/message)
-   * @param preloadedVariables 预加载的变量数据，如果提供则直接使用而不再获取
-   * @returns Promise<boolean> 加载是否成功完成
+   * @returns 加载的变量数据
    */
-  public async loadVariables(type: VariableType, preloadedVariables?: Record<string, any>): Promise<boolean> {
-    // 如果类型没变，则不重新加载
-    if (this.activeVariableType === type && Object.keys(this.currentVariables).length > 0) {
-      return true;
-    }
+  public async loadFromTavern(type: VariableType): Promise<VariableItem[]> {
+    this.clearVariableIdMap();
 
-    // 取消之前的防抖计时器
-    if (this._loadDebounceTimeout !== null) {
-      window.clearTimeout(this._loadDebounceTimeout);
-      this._loadDebounceTimeout = null;
-    }
+    try {
+      this.activeVariableType = type;
 
-    // 生成新的请求ID
-    const requestId = ++this._loadRequestId;
+      if (type === 'message') {
+        this.currentVariables = [];
 
-    // 返回一个Promise，在防抖后执行实际加载
-    return new Promise<boolean>(resolve => {
-      this._loadDebounceTimeout = window.setTimeout(async () => {
-        // 如果当前请求已经过时，则取消
-        if (requestId !== this._loadRequestId) {
-          resolve(false);
-          return;
-        }
+        // 获取当前楼层范围
+        const [minFloor, maxFloor] = this.getFloorRange();
 
-        // 设置加载状态
-        this._isLoading = true;
+        // 确保至少有一个有效的楼层范围
+        if (minFloor !== null || maxFloor !== null) {
+          const effectiveMinFloor = minFloor ?? 0;
+          const effectiveMaxFloor = maxFloor ?? minFloor ?? 0;
 
-        try {
-          this.activeVariableType = type;
-
-          if (type === 'message') {
-            const [currentMinFloor, currentMaxFloor] = this.getFloorRange();
-            const hasExistingRange = currentMinFloor !== null && currentMaxFloor !== null;
-
-            if (!hasExistingRange) {
-              const lastMessageId = getLastMessageId();
-
-              const newMinFloor = Math.max(0, lastMessageId - 4);
-              const newMaxFloor = lastMessageId;
-
-              this.updateFloorRange(newMinFloor, newMaxFloor);
+          // 遍历每个楼层，加载各自的变量
+          for (let floor = effectiveMinFloor; floor <= effectiveMaxFloor; floor++) {
+            try {
+              const floorVars = this.getFloorVariables(floor);
+              // 为每个楼层的变量添加message_id标识
+              const floorVariableItems = this.convertTavernVariablesToItems(floorVars, floor);
+              this.currentVariables.push(...floorVariableItems);
+            } catch (error) {
+              console.warn(`[VariableModel] 加载第${floor}层变量失败:`, error);
+              // 继续加载其他楼层
             }
-
-            this.currentVariables = {};
-
-            if (hasExistingRange || (currentMinFloor !== null && currentMaxFloor !== null)) {
-              const minFloor = currentMinFloor!;
-              const maxFloor = currentMaxFloor!;
-
-              for (let floor = minFloor; floor <= maxFloor; floor++) {
-                const floorVars = this.getFloorVariables(floor);
-                const floorVarCount = Object.keys(floorVars).length;
-
-                if (floorVarCount > 0) {
-                  Object.assign(this.currentVariables, floorVars);
-                }
-              }
-            }
-          } else if (preloadedVariables) {
-            // 如果提供了预加载的变量，则直接使用
-            this.currentVariables = preloadedVariables;
-          } else {
-            // 否则重新获取变量
-            this.currentVariables = getVariables({ type });
           }
-
-          resolve(true);
-        } catch (error) {
-          console.error(`[VariableModel] 加载${type}变量失败:`, error);
-          resolve(false);
-        } finally {
-          this._isLoading = false;
-          this._loadDebounceTimeout = null;
         }
-      }, 50); // 50ms防抖延迟
-    });
+      } else {
+        const variables = getVariables({ type }) as TavernVariables;
+        this.currentVariables = this.convertTavernVariablesToItems(variables);
+      }
+
+      return this.currentVariables;
+    } catch (error) {
+      console.error(`[VariableManager] 加载${type}变量失败:`, error);
+      return [];
+    }
   }
 
   /**
-   * 获取当前加载的所有变量
-   * @returns 当前变量
+   * 保存所有变量到酒馆
+   * @param type 变量类型(global/character/chat/message)
+   * @param message_id 消息ID(仅用于message类型，可选，如果指定则只保存到该楼层)
    */
-  public getCurrentVariables(): Record<string, any> {
-    return this.currentVariables;
+  public async saveAllVariables(type: VariableType, message_id?: number): Promise<void> {
+    if (!this.currentVariables) {
+      console.warn('[VariableModel] 当前没有变量数据，跳过保存');
+      return;
+    }
+
+    if (type === 'message') {
+      const [minFloor, maxFloor] = this.getFloorRange();
+
+      if (minFloor === null || maxFloor === null) {
+        console.warn('[VariableModel] 保存message变量失败: 未设置有效的楼层范围');
+        return;
+      }
+
+      // 如果指定了特定的message_id，只保存到该楼层
+      if (message_id !== undefined && message_id >= minFloor && message_id <= maxFloor) {
+        const variablesForFloor = this.currentVariables.filter(v => v.message_id === message_id);
+        const tavernVariables = this.convertItemsToTavernVariables(variablesForFloor, message_id);
+
+        try {
+          await replaceVariables(tavernVariables, { type: 'message', message_id });
+          console.log(`[VariableManager] 成功保存第${message_id}层变量`);
+        } catch (error) {
+          console.error(`[VariableManager] 保存第${message_id}层变量失败:`, error);
+        }
+      } else {
+        // 对于消息类型，按楼层分组保存变量
+        for (let floor = minFloor; floor <= maxFloor; floor++) {
+          const variablesForFloor = this.currentVariables.filter(v => v.message_id === floor);
+          const tavernVariables = this.convertItemsToTavernVariables(variablesForFloor, floor);
+
+          try {
+            await replaceVariables(tavernVariables, { type: 'message', message_id: floor });
+          } catch (error) {
+            console.error(`[VariableManager] 保存第${floor}层变量失败:`, error);
+          }
+        }
+      }
+    } else {
+      // 对于其他类型（global/character/chat），构建变量对象
+      const tavernVariables = this.convertItemsToTavernVariables(this.currentVariables);
+      await replaceVariables(tavernVariables, { type });
+    }
+
+    console.log(`[VariableManager] 保存变量成功`);
   }
 
   /**
@@ -207,84 +261,31 @@ export class VariableModel {
   }
 
   /**
-   * 获取特定变量的值
-   * @param name 变量名称
-   * @returns 变量值
-   */
-  public getVariableValue(name: string): any {
-    return this.currentVariables[name];
-  }
-
-  /**
-   * 保存变量数据
-   * @param type 变量类型(global/character/chat/message)
-   * @param name 变量名称
-   * @param value 变量值
-   * @param message_id 消息ID(仅用于message类型)
-   */
-  public async saveVariableData(type: VariableType, name: string, value: any, message_id?: number): Promise<void> {
-    if (type === this.activeVariableType) {
-      this.currentVariables[name] = value;
-    }
-
-    if (type === 'message' && message_id !== undefined) {
-      await updateVariablesWith(data => ({ ...data, [name]: value }), { type, message_id });
-    } else {
-      await updateVariablesWith(data => ({ ...data, [name]: value }), { type });
-    }
-  }
-
-  /**
-   * 删除变量
-   * @param type 变量类型(global/character/chat/message)
-   * @param name 变量名称
-   * @param message_id 消息ID(仅用于message类型)
-   */
-  public async deleteVariableData(type: VariableType, name: string, message_id?: number): Promise<void> {
-    if (type === this.activeVariableType && this.currentVariables[name]) {
-      delete this.currentVariables[name];
-    }
-
-    if (type === 'message' && message_id !== undefined) {
-      await deleteVariable(name, { type, message_id });
-    } else {
-      await deleteVariable(name, { type });
-    }
-  }
-
-  /**
-   * 重命名变量（在单个事务中完成）
-   * @param type 变量类型(global/character/chat/message)
-   * @param oldName 旧变量名称
-   * @param newName 新变量名称
-   * @param value 变量值
-   */
-  public async renameVariable(type: VariableType, oldName: string, newName: string, value: any): Promise<void> {
-    await updateVariablesWith(
-      variables => {
-        _.set(variables, newName, value);
-        _.unset(variables, oldName);
-        return variables;
-      },
-      { type },
-    );
-
-    if (type === this.activeVariableType) {
-      this.currentVariables[newName] = value;
-      delete this.currentVariables[oldName];
-    }
-  }
-
-  /**
    * 更新列表变量的顺序
    * @param type 变量类型(global/character/chat/message)
    * @param name 变量名称
    * @param items 新的列表顺序
+   * @param variable_id 变量ID(可选，如果提供则同时更新ID映射)
    */
-  public async updateListOrder(type: VariableType, name: string, items: string[]): Promise<void> {
-    if (type === this.activeVariableType && this.currentVariables[name] && Array.isArray(this.currentVariables[name])) {
-      this.currentVariables[name] = items;
-      await insertOrAssignVariables({ [name]: items }, { type });
+  public async updateListOrder(type: VariableType, name: string, items: string[], variable_id?: string): Promise<void> {
+    if (type === this.activeVariableType && this.currentVariables) {
+      const variable = this.currentVariables.find(variable => variable.name === name);
+      if (variable && Array.isArray(variable.value)) {
+        variable.value = items;
+
+        // 如果提供了变量ID，更新映射
+        if (variable_id) {
+          const varInfo = this.variableIdMap.get(variable_id);
+          if (varInfo) {
+            varInfo.value = items;
+            // 保持变量的message_id不变
+            this.variableIdMap.set(variable_id, varInfo);
+          }
+        }
+
+        // 使用完全覆盖模式保存
+        await this.saveAllVariables(type, variable.message_id);
+      }
     }
   }
 
@@ -294,14 +295,14 @@ export class VariableModel {
    */
   public async clearAllVariables(type: VariableType): Promise<void> {
     if (type === this.activeVariableType) {
-      this.currentVariables = {};
+      this.currentVariables = [];
+      this.clearVariableIdMap();
     }
 
     // 消息类型变量需要逐层清除
     if (type === 'message') {
       const [minFloor, maxFloor] = this.getFloorRange();
 
-      // 如果没有设置有效的楼层范围，则不执行操作
       if (minFloor === null || maxFloor === null) {
         console.warn('[VariableModel] 清除message变量失败: 未设置有效的楼层范围');
         return;
@@ -310,14 +311,16 @@ export class VariableModel {
       // 逐层清除变量
       for (let floor = minFloor; floor <= maxFloor; floor++) {
         try {
-          await replaceVariables({}, { type: 'message', message_id: floor });
+          const emptyVariables: TavernVariables = {};
+          await replaceVariables(emptyVariables, { type: 'message', message_id: floor });
         } catch (error) {
           console.error(`[VariableModel] 清除第${floor}层变量失败:`, error);
         }
       }
     } else {
       // 其他类型变量直接替换为空对象
-      await replaceVariables({}, { type });
+      const emptyVariables: TavernVariables = {};
+      await replaceVariables(emptyVariables, { type });
     }
   }
 
@@ -360,12 +363,26 @@ export class VariableModel {
    * @param max 最大楼层
    */
   public updateFloorRange(min: number | null, max: number | null): void {
+    // 验证楼层不能小于0
     if (min !== null) {
       min = Math.max(0, min);
+    }
+    if (max !== null) {
+      max = Math.max(0, max);
+    }
+
+    // 如果设置了范围但是最小值大于最大值，则交换它们
+    if (min !== null && max !== null && min > max) {
+      [min, max] = [max, min];
     }
 
     this.floorMinRange = min;
     this.floorMaxRange = max;
+
+    // 清除缓存，强制重新加载
+    if (this.activeVariableType === 'message') {
+      this.currentVariables = null;
+    }
   }
 
   /**
@@ -381,9 +398,9 @@ export class VariableModel {
    * @param messageId 消息ID
    * @returns 楼层变量数据对象
    */
-  public getFloorVariables(messageId: number): Record<string, any> {
+  public getFloorVariables(messageId: number): TavernVariables {
     try {
-      const variables = getVariables({ type: 'message', message_id: messageId });
+      const variables = getVariables({ type: 'message', message_id: messageId }) as TavernVariables;
       return variables || {};
     } catch (error) {
       console.error(`获取第${messageId}层变量失败:`, error);
@@ -392,94 +409,114 @@ export class VariableModel {
   }
 
   /**
-   * 转换变量到UI显示格式
-   * @returns 格式化后的变量列表，用于UI显示
+   * 查找变量对应的 ID
+   * @param name 变量名称
+   * @param message_id 消息ID（可选，用于精确匹配message类型变量）
+   * @returns 找到的变量ID，如果不存在则返回undefined
    */
-  public formatVariablesForUI(): VariableItem[] {
-    const result: VariableItem[] = [];
-
-    for (const name in this.currentVariables) {
-      const value = this.currentVariables[name];
-      let type: VariableDataType = 'string';
-      let formattedValue = value;
-
-      if (Array.isArray(value)) {
-        type = 'array';
-      } else if (value === null) {
-        type = 'string';
-        formattedValue = 'null';
-      } else if (value === undefined) {
-        type = 'string';
-        formattedValue = 'undefined';
-      } else if (typeof value === 'boolean') {
-        type = 'boolean';
-      } else if (typeof value === 'number') {
-        type = 'number';
-      } else if (typeof value === 'object') {
-        type = 'object';
-      } else if (typeof value === 'string') {
-        type = 'string';
+  public findVariableId(name: string, message_id?: number): string | undefined {
+    for (const id of this.variableIdMap.keys()) {
+      const varInfo = this.variableIdMap.get(id);
+      if (varInfo && varInfo.name === name) {
+        // 如果指定了message_id，需要精确匹配
+        if (message_id !== undefined) {
+          if (varInfo.message_id === message_id) {
+            return id;
+          }
+        } else {
+          // 如果没有指定message_id，返回第一个匹配的变量
+          return id;
+        }
       }
-
-      result.push({
-        name,
-        type,
-        value: formattedValue,
-      });
     }
-
-    return result;
+    return undefined;
   }
 
   /**
-   * 过滤变量列表
-   * @param operationId 操作ID（用于日志追踪）
-   * @returns 过滤后的变量列表
+   * 获取指定楼层的变量列表
+   * @param message_id 消息ID
+   * @returns 属于该楼层的变量列表
    */
-  public filterVariables(): VariableItem[] {
-    const initialVariables = this.formatVariablesForUI();
+  public getVariablesByMessageId(message_id: number): VariableItem[] {
+    if (!this.currentVariables) return [];
+    return this.currentVariables.filter(variable => variable.message_id === message_id);
+  }
 
-    if (Object.values(this.filterState).every(value => value === true) && !this.searchKeyword) {
-      return initialVariables;
+  /**
+   * 获取所有没有message_id的变量（通常是非message类型的变量）
+   * @returns 没有message_id的变量列表
+   */
+  public getVariablesWithoutMessageId(): VariableItem[] {
+    if (!this.currentVariables) return [];
+    return this.currentVariables.filter(variable => variable.message_id === undefined);
+  }
+
+  /**
+   * 根据变量名获取所有同名变量
+   * @param name 变量名称
+   * @returns 同名变量列表
+   */
+  public getVariablesByName(name: string): VariableItem[] {
+    if (!this.currentVariables) return [];
+    return this.currentVariables.filter(variable => variable.name === name);
+  }
+
+  /**
+   * 通过变量名查找变量
+   * @param name 变量名称
+   * @param message_id 消息ID（可选，用于精确匹配message类型变量）
+   * @returns 找到的变量，如果不存在则返回undefined
+   */
+  public findVariableByName(name: string, message_id?: number): VariableItem | undefined {
+    if (!this.currentVariables) return undefined;
+
+    for (const variable of this.currentVariables) {
+      if (variable.name === name) {
+        if (message_id !== undefined) {
+          if (variable.message_id === message_id) {
+            return variable;
+          }
+        } else {
+          return variable;
+        }
+      }
+    }
+    return undefined;
+  }
+
+  /**
+   * 同步当前变量列表，根据外部变化进行增量更新
+   * @param added 新增的变量
+   * @param removedIds 要删除的变量ID列表
+   * @param updated 要更新的变量
+   */
+  public syncCurrentVariables(added: VariableItem[], removedIds: string[], updated: VariableItem[]): void {
+    if (!this.currentVariables) {
+      this.currentVariables = [];
     }
 
-    const filteredVariables = initialVariables.filter(variable => {
-      const typeFilterPassed = this.filterState[variable.type];
-      if (!typeFilterPassed) return false;
-
-      if (this.searchKeyword) {
-        const keyword = this.searchKeyword.toLowerCase();
-        const nameMatch = variable.name.toLowerCase().includes(keyword);
-
-        let valueMatch = false;
-        if (['string', 'number', 'boolean'].includes(variable.type)) {
-          const valueStr = String(variable.value).toLowerCase();
-          valueMatch = valueStr.includes(keyword);
-        }
-
-        return nameMatch || valueMatch;
+    // 处理删除
+    removedIds.forEach(id => {
+      const index = this.currentVariables!.findIndex(v => v.id === id);
+      if (index >= 0) {
+        this.currentVariables!.splice(index, 1);
+        this.variableIdMap.delete(id);
       }
-
-      return true;
     });
 
-    return filteredVariables;
-  }
+    // 处理新增
+    added.forEach(variable => {
+      this.currentVariables!.push(variable);
+      this.variableIdMap.set(variable.id, variable);
+    });
 
-  /**
-   * 强制刷新当前变量数据
-   * @returns 是否刷新成功
-   */
-  public forceRefreshVariables(): boolean {
-    try {
-      if (this.activeVariableType !== 'message') {
-        const latestVariables = getVariables({ type: this.activeVariableType });
-        this.currentVariables = { ...latestVariables };
+    // 处理更新
+    updated.forEach(updatedVariable => {
+      const index = this.currentVariables!.findIndex(v => v.id === updatedVariable.id);
+      if (index >= 0) {
+        this.currentVariables![index] = updatedVariable;
+        this.variableIdMap.set(updatedVariable.id, updatedVariable);
       }
-      return true;
-    } catch (error) {
-      console.error(`[VariableModel] 强制刷新变量失败:`, error);
-      return false;
-    }
+    });
   }
 }

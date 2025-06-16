@@ -1,554 +1,600 @@
-import { VariableDataType } from '@/component/variable_manager/types';
+import { VariableDataType, VariableItem } from '@/component/variable_manager/types';
+import { VariableManagerUtil } from '@/component/variable_manager/util';
 import { getSortableDelay } from '@sillytavern/scripts/utils';
 
+declare const toastr: any;
+
 export class VariableCardFactory {
+  private defaultTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>;
+
   /**
-   * 从值推断变量数据类型
-   * @param value 要推断类型的值
-   * @returns 推断出的变量数据类型
+   * 构造函数
+   * @param defaultTypeDialogCallback 默认的类型选择对话框回调函数
    */
-  public inferDataType(value: any): VariableDataType {
-    if (Array.isArray(value)) {
-      return 'array';
-    } else if (typeof value === 'boolean') {
-      return 'boolean';
-    } else if (typeof value === 'number') {
-      return 'number';
-    } else if (typeof value === 'object' && value !== null) {
-      return 'object';
-    }
-    return 'string';
+  constructor(defaultTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>) {
+    this.defaultTypeDialogCallback = defaultTypeDialogCallback;
+    this.setupGlobalEventDelegation();
   }
 
   /**
-   * 设置变量卡片的数据属性
-   * @param card 变量卡片jQuery对象
-   * @param name 变量名称
-   * @param value 变量值
-   * @returns 设置了属性的变量卡片jQuery对象
+   * 设置全局事件委托
    */
-  public setCardDataAttributes(card: JQuery<HTMLElement>, name: string, value: any): JQuery<HTMLElement> {
-    card.attr('data-name', name);
-    card.attr('data-original-name', name);
-    card.attr('data-value', JSON.stringify(value));
-    return card;
+  private setupGlobalEventDelegation(): void {
+    $(document).on('click', '.variable-action-btn.object-save-btn', event => {
+      event.stopPropagation();
+      event.stopImmediatePropagation();
+
+      const $button = $(event.currentTarget);
+      const $nestedCard = $button.closest('.variable-card');
+
+      const $parentCard = this.findTopLevelCard($nestedCard);
+
+      if ($parentCard) {
+        this.saveNestedCardValue($parentCard);
+      }
+    });
+
+    $(document).on('click', '.variable-action-btn.object-delete-btn', event => {
+      event.stopPropagation();
+      event.stopImmediatePropagation();
+
+      const $button = $(event.currentTarget);
+      const $nestedCard = $button.closest('.variable-card');
+
+      const $parentCard = this.findTopLevelCard($nestedCard);
+
+      if ($parentCard) {
+        this.deleteNestedCardValue($parentCard, $nestedCard);
+      }
+    });
+
+    $(document).on('click', '.variable-action-btn.add-nested-key-btn', async event => {
+      event.stopPropagation();
+      event.stopImmediatePropagation();
+
+      const $button = $(event.currentTarget);
+      const $card = $button.closest('.variable-card');
+
+      const dialogCallback = this.defaultTypeDialogCallback;
+      if (dialogCallback) {
+        await dialogCallback((dataType: VariableDataType) => {
+          this.addObjectKey($card, dataType, this.defaultTypeDialogCallback);
+        });
+      } else {
+        console.error('添加卡片出错');
+        toastr.error('添加卡片出错');
+      }
+    });
+
+    $(document).on('click', '.variable-action-btn.add-key-btn', async event => {
+      event.stopPropagation();
+      event.stopImmediatePropagation();
+
+      const $button = $(event.currentTarget);
+      const $card = $button.closest('.variable-card');
+
+      const dialogCallback = this.defaultTypeDialogCallback;
+      if (dialogCallback) {
+        await dialogCallback((dataType: VariableDataType) => {
+          this.addObjectKey($card, dataType, this.defaultTypeDialogCallback);
+        });
+      } else {
+        console.error('未提供类型选择对话框回调函数');
+        toastr.error('未提供类型选择对话框回调函数');
+      }
+    });
   }
 
   /**
    * 创建变量卡片
-   * @param type 变量数据类型
-   * @param name 变量名称
-   * @param value 变量值
+   * @param variable 变量
+   * @param isNested 是否为嵌套卡片
    * @param showTypeDialogCallback 显示类型选择对话框的回调函数（仅用于对象类型）
    * @returns 变量卡片jQuery对象
    */
   public createCard(
-    type: VariableDataType,
-    name: string,
-    value: any,
+    variable: VariableItem,
+    isNested?: boolean,
     showTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>,
   ): JQuery<HTMLElement> {
     let card: JQuery<HTMLElement>;
-    switch (type) {
+    const { name, value, dataType, id } = variable;
+    card = $(`
+      <div class="variable-card" data-type="${dataType}" data-variable-id="${id}">
+        <div class="variable-card-header">
+          <div class="variable-title-container">
+            <i></i>
+            <input type="text" class="variable-title" value="${name}" placeholder="变量名称">
+          </div>
+          <div class="variable-actions">
+            <button class="variable-action-btn save-btn" title="保存">
+              <i class="fa-regular fa-save"></i>
+            </button>
+            <button class="variable-action-btn delete-btn" title="删除">
+              <i class="fa-regular fa-trash-can"></i>
+            </button>
+          </div>
+        </div>
+        <div class="variable-card-content">
+        </div>
+      </div>
+    `);
+
+    if (isNested) {
+      card.removeAttr('data-variable-id');
+      card
+        .find('.variable-action-btn.save-btn')
+        .removeClass('save-btn')
+        .addClass('object-save-btn')
+        .end()
+        .find('.variable-action-btn.delete-btn')
+        .removeClass('delete-btn')
+        .addClass('object-delete-btn');
+    }
+
+    switch (dataType) {
       case 'array':
-        card = this.createArrayCard(name, value as any[]);
-        break;
-      case 'boolean':
-        card = this.createBooleanCard(name, value as boolean);
-        break;
-      case 'number':
-        card = this.createNumberCard(name, value as number);
+        card
+          .find('.variable-title-container i')
+          .addClass('fa-solid fa-list')
+          .end()
+          .find('.variable-card-content')
+          .append(
+            `<div class="list-items-container"></div><button class="add-list-item"><i class="fa-solid fa-plus"></i> 添加项目</button>`,
+          );
+
+        this.populateArrayItems(card, value);
+
+        {
+          const listContainer = card.find('.list-items-container');
+          listContainer.sortable({
+            delay: getSortableDelay(),
+            handle: '.drag-handle',
+          });
+        }
         break;
       case 'object':
-        card = this.createObjectCard(name, value as object, showTypeDialogCallback);
+        card.find('.variable-title-container i').addClass('fa-regular fa-code');
+        this.setupObjectCard(card, variable, isNested, showTypeDialogCallback);
+        break;
+      case 'boolean':
+        card
+          .find('.variable-title-container i')
+          .addClass('fa-regular fa-toggle-on')
+          .end()
+          .find('.variable-card-content')
+          .append(
+            `
+              <div class="boolean-input-container">
+                <div class="boolean-buttons-container">
+                  <button class="boolean-btn ${value ? 'active' : ''}" data-value="true">True</button>
+                  <button class="boolean-btn ${!value ? 'active' : ''}" data-value="false">False</button>
+                </div>
+              </div>
+            `,
+          )
+          .find('.boolean-btn')
+          .on('click', function () {
+            card.find('.boolean-btn').removeClass('active');
+            $(this).addClass('active');
+          });
+        break;
+      case 'number':
+        card
+          .find('.variable-title-container i')
+          .addClass('fa-solid fa-hashtag')
+          .end()
+          .find('.variable-card-content')
+          .append(`<input type="number" class="number-input variable-content-input" value="${value}" step="any">`);
         break;
       case 'string':
-        card = this.createStringCard(name, String(value));
+        card
+          .find('.variable-title-container i')
+          .addClass('fa-solid fa-font')
+          .end()
+          .find('.variable-card-content')
+          .append(
+            `<textarea class="string-input variable-content-input" placeholder="输入字符串值">${value}</textarea>`,
+          );
         break;
-      default:
-        // 默认返回字符串变量卡片（包括处理null和undefined值）
-        card = this.createStringCard(name, String(value));
     }
-
-    // 设置数据属性
-    return this.setCardDataAttributes(card, name, value);
-  }
-
-  /**
-   * 创建数组变量卡片
-   * @param name 变量名称
-   * @param items 数组项
-   * @returns 数组变量卡片jQuery对象
-   */
-  private createArrayCard(name: string, items: any[]): JQuery<HTMLElement> {
-    const card = $(`
-      <div class="variable-card" data-type="array" data-name="${name}">
-        <div class="variable-card-header">
-          <div class="variable-title-container">
-            <i class="fa-solid fa-list"></i>
-            <input type="text" class="variable-title" value="${name}" placeholder="变量名称">
-          </div>
-          <div class="variable-actions">
-            <button class="variable-action-btn save-btn" title="保存">
-              <i class="fa-regular fa-save"></i>
-            </button>
-            <button class="variable-action-btn delete-btn" title="删除">
-              <i class="fa-regular fa-trash-can"></i>
-            </button>
-          </div>
-        </div>
-        <div class="variable-card-content">
-          <div class="list-items-container">
-            ${this.generateArrayItems(items)}
-          </div>
-          <button class="add-list-item"><i class="fa-solid fa-plus"></i> 添加项目</button>
-        </div>
-      </div>
-    `);
-
-    // 为列表添加拖拽功能
-    const listContainer = card.find('.list-items-container');
-    listContainer.sortable({
-      delay: getSortableDelay(),
-      handle: '.drag-handle',
-      // 此处只记录排序事件，实际保存由保存按钮触发
-    });
-
     return card;
   }
 
   /**
-   * 生成数组项HTML
-   * @param items 数组项
-   * @returns 数组项HTML字符串
+   * 从卡片获取变量信息
+   * @param card 变量卡片
+   * @returns 变量信息
    */
-  private generateArrayItems(items: any[]): string {
-    if (!items || items.length === 0) {
-      return '';
-    }
+  public getVariableFromCard(card: JQuery<HTMLElement>): VariableItem | null {
+    const id = card.attr('data-variable-id') || '';
+    const name = card.find('.variable-title').val() as string;
+    const dataType = card.attr('data-type') as VariableDataType;
+    const value = this.extractValueFromCard(card, dataType);
 
-    return items
-      .map(item => {
-        // 检查是否为对象类型，如果是则使用JSON.stringify进行格式化
-        let displayValue: string;
-        if (item !== null && typeof item === 'object') {
-          displayValue = JSON.stringify(item, null, 2);
-        } else {
-          displayValue = String(item);
-        }
-
-        return `
-      <div class="list-item">
-        <span class="drag-handle">☰</span>
-        <textarea class="variable-content-input">${displayValue}</textarea>
-        <button class="list-item-delete"><i class="fa-solid fa-times"></i></button>
-      </div>
-    `;
-      })
-      .join('');
+    return {
+      id,
+      name,
+      dataType,
+      value,
+    };
   }
 
   /**
-   * 创建布尔变量卡片
-   * @param name 变量名称
-   * @param value 布尔值
-   * @returns 布尔变量卡片jQuery对象
+   * 从卡片提取值（统一处理所有类型的卡片值提取）
+   * @param card 卡片
+   * @param dataType 数据类型
+   * @returns 提取的值
    */
-  private createBooleanCard(name: string, value: boolean): JQuery<HTMLElement> {
-    const card = $(`
-      <div class="variable-card" data-type="boolean" data-name="${name}">
-        <div class="variable-card-header">
-          <div class="variable-title-container">
-            <i class="fa-regular fa-toggle-on"></i>
-            <input type="text" class="variable-title" value="${name}" placeholder="变量名称">
-          </div>
-          <div class="variable-actions">
-            <button class="variable-action-btn save-btn" title="保存">
-              <i class="fa-regular fa-save"></i>
-            </button>
-            <button class="variable-action-btn delete-btn" title="删除">
-              <i class="fa-regular fa-trash-can"></i>
-            </button>
-          </div>
-        </div>
-        <div class="variable-card-content">
-          <div class="boolean-input-container">
-            <div class="boolean-buttons-container">
-              <button class="boolean-btn ${value ? 'active' : ''}" data-value="true">True</button>
-              <button class="boolean-btn ${!value ? 'active' : ''}" data-value="false">False</button>
-            </div>
-          </div>
-        </div>
-      </div>
-    `);
-
-    card.find('.boolean-btn').on('click', function () {
-      card.find('.boolean-btn').removeClass('active');
-      $(this).addClass('active');
-    });
-
-    return card;
-  }
-
-  /**
-   * 创建数字变量卡片
-   * @param name 变量名称
-   * @param value 数字值
-   * @returns 数字变量卡片jQuery对象
-   */
-  private createNumberCard(name: string, value: number): JQuery<HTMLElement> {
-    const card = $(`
-      <div class="variable-card" data-type="number" data-name="${name}">
-        <div class="variable-card-header">
-          <div class="variable-title-container">
-            <i class="fa-solid fa-hashtag"></i>
-            <input type="text" class="variable-title" value="${name}" placeholder="变量名称">
-          </div>
-          <div class="variable-actions">
-            <button class="variable-action-btn save-btn" title="保存">
-              <i class="fa-regular fa-save"></i>
-            </button>
-            <button class="variable-action-btn delete-btn" title="删除">
-              <i class="fa-regular fa-trash-can"></i>
-            </button>
-          </div>
-        </div>
-        <div class="variable-card-content">
-          <input type="number" class="number-input variable-content-input" value="${value}" step="any">
-        </div>
-      </div>
-    `);
-
-    return card;
-  }
-
-  /**
-   * 创建对象变量卡片
-   * @param name 变量名称
-   * @param value 对象值
-   * @param showTypeDialogCallback 显示类型选择对话框的回调函数
-   * @returns 对象变量卡片jQuery对象
-   */
-  private createObjectCard(
-    name: string,
-    value: object,
-    showTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>,
-  ): JQuery<HTMLElement> {
-    const jsonString = JSON.stringify(value, null, 2);
-
-    const card = $(`
-      <div class="variable-card" data-type="object" data-name="${name}" data-view-mode="card">
-        <div class="variable-card-header">
-          <div class="variable-title-container">
-            <i class="fa-regular fa-code"></i>
-            <input type="text" class="variable-title" value="${name}" placeholder="变量名称">
-          </div>
-          <div class="variable-actions">
-            <button class="variable-action-btn toggle-view-btn" title="切换到JSON视图">
-              <i class="fa-regular fa-list"></i>
-            </button>
-            <button class="variable-action-btn add-key-btn" title="添加键值对">
-              <i class="fa-regular fa-plus"></i>
-            </button>
-            <button class="variable-action-btn save-btn" title="保存">
-              <i class="fa-regular fa-save"></i>
-            </button>
-            <button class="variable-action-btn delete-btn" title="删除">
-              <i class="fa-regular fa-trash-can"></i>
-            </button>
-          </div>
-        </div>
-        <div class="variable-card-content">
-          <textarea class="json-input variable-content-input" placeholder="输入JSON对象" style="display: none;">${jsonString}</textarea>
-          <div class="object-card-view">
-            <div class="nested-cards-container"></div>
-          </div>
-        </div>
-      </div>
-    `);
-
-    // 监听JSON输入框变更，更新卡片视图
-    card.find('.json-input').on('change', () => {
-      try {
-        const jsonValue = JSON.parse(card.find('.json-input').val() as string);
-
-        // 如果当前是卡片视图模式，需要更新卡片视图
-        if (card.attr('data-view-mode') === 'card') {
-          this.renderObjectCardView(card, jsonValue);
-        }
-
-        // 更新数据属性
-        card.attr('data-value', JSON.stringify(jsonValue));
-      } catch (e) {
-        console.error('JSON解析错误:', e);
+  private extractValueFromCard(card: JQuery<HTMLElement>, dataType: VariableDataType): any {
+    switch (dataType) {
+      case 'string':
+        return card.find('.string-input').val() as string;
+      case 'number': {
+        const numberValue = card.find('.number-input').val() as string;
+        return numberValue ? parseFloat(numberValue) : 0;
       }
-    });
+      case 'boolean':
+        return card.find('.boolean-btn.active').attr('data-value') === 'true';
+      case 'array': {
+        const arrayItems: any[] = [];
+        card.find('.list-item').each((_, elem) => {
+          const $listItem = $(elem);
 
-    // 添加切换视图按钮事件
-    card.find('.toggle-view-btn').on('click', () => {
-      const $card = card;
-      const currentMode = $card.attr('data-view-mode') || 'json';
-
-      // 切换模式
-      const newMode = currentMode === 'json' ? 'card' : 'json';
-      $card.attr('data-view-mode', newMode);
-
-      // 从卡片的data-value属性获取最新数据
-      let latestData;
-      try {
-        latestData = JSON.parse($card.attr('data-value') || '{}');
-      } catch (e) {
-        console.error('获取最新数据失败:', e);
-        latestData = {};
-      }
-
-      // 更新按钮图标
-      const $icon = $card.find('.toggle-view-btn i');
-      if (newMode === 'json') {
-        $icon.removeClass('fa-list').addClass('fa-eye');
-        $card.find('.toggle-view-btn').attr('title', '切换到卡片视图');
-
-        // 显示JSON输入框，隐藏卡片视图
-        $card.find('.json-input').show();
-        $card.find('.object-card-view').hide();
-
-        // 更新JSON输入框内容为最新数据
-        $card.find('.json-input').val(JSON.stringify(latestData, null, 2));
-      } else {
-        $icon.removeClass('fa-eye').addClass('fa-list');
-        $card.find('.toggle-view-btn').attr('title', '切换到JSON视图');
-
-        // 隐藏JSON输入框，显示卡片视图
-        $card.find('.json-input').hide();
-        $card.find('.object-card-view').show();
-
-        try {
-          // 渲染卡片视图
-          this.renderObjectCardView(card, latestData);
-        } catch (e) {
-          console.error('渲染卡片视图错误:', e);
-
-          // 解析错误时回退到JSON视图
-          $card.attr('data-view-mode', 'json');
-          $card.find('.json-input').show();
-          $card.find('.object-card-view').hide();
-          $icon.removeClass('fa-list').addClass('fa-eye');
-          $card.find('.toggle-view-btn').attr('title', '切换到卡片视图');
-        }
-      }
-    });
-
-    // 添加键值对按钮事件
-    card.find('.add-key-btn').on('click', function () {
-      if (showTypeDialogCallback) {
-        // 使用回调函数显示类型选择对话框
-        showTypeDialogCallback(async (dataType: VariableDataType) => {
-          const $card = $(this).closest('.variable-card');
-          $card.trigger('object:addKey', [dataType]);
+          const itemValue = $listItem.find('.variable-content-input').val() as string;
+          try {
+            arrayItems.push(JSON.parse(itemValue));
+          } catch {
+            arrayItems.push(itemValue);
+          }
         });
+        return arrayItems;
+      }
+      case 'object': {
+        const viewMode = card.attr('data-view-mode') || 'card';
+
+        if (viewMode === 'card') {
+          const extracted = this.extractObjectFromNestedCards(card);
+          return extracted;
+        }
+
+        const jsonValue = card.find('.json-input').val() as string;
+
+        if (jsonValue && jsonValue.trim()) {
+          try {
+            const parsed = JSON.parse(jsonValue);
+            return parsed;
+          } catch (e) {
+            console.error('JSON解析错误:', e);
+            toastr.error('JSON解析错误');
+            return {};
+          }
+        } else {
+          const extracted = this.extractObjectFromNestedCards(card);
+          return extracted;
+        }
+      }
+      default:
+        return card.find('.variable-content-input').val() as string;
+    }
+  }
+
+  /**
+   * 从嵌套卡片提取对象值
+   * @param card 对象卡片
+   * @returns 提取的对象值
+   */
+  private extractObjectFromNestedCards(card: JQuery<HTMLElement>): Record<string, any> {
+    const result: Record<string, any> = {};
+
+    let $container = card.find('> .variable-card-content > .object-card-view > .nested-cards-container');
+
+    if ($container.length === 0) {
+      $container = card.find('> .variable-card-content > .nested-object-container > .nested-cards-container');
+    }
+
+    if ($container.length === 0) {
+      $container = card.find('.nested-cards-container').first();
+    }
+
+    $container.children('.variable-card').each((_index, element) => {
+      const $nestedCard = $(element);
+      const key = $nestedCard.find('.variable-title').val() as string;
+      const nestedDataType = $nestedCard.attr('data-type') as VariableDataType;
+
+      if (key) {
+        const nestedValue = this.extractValueFromCard($nestedCard, nestedDataType);
+        result[key] = nestedValue;
       } else {
-        console.log('未提供类型选择对话框回调函数');
+        console.warn('[VariableManager] 跳过空键的嵌套卡片:', _index);
       }
     });
 
-    // 在返回卡片之前渲染初始卡片视图
-    try {
-      const jsonValue = JSON.parse(jsonString);
-      this.renderObjectCardView(card, jsonValue);
-    } catch (e) {
-      console.error('JSON解析错误:', e);
-      // 解析错误时回退到JSON视图
-      card.attr('data-view-mode', 'json');
-      card.find('.json-input').show();
-      card.find('.object-card-view').hide();
-      card.find('.toggle-view-btn i').removeClass('fa-list').addClass('fa-eye');
-      card.find('.toggle-view-btn').attr('title', '切换到卡片视图');
-    }
-
-    return card;
+    return result;
   }
 
   /**
    * 渲染对象卡片的卡片视图
    * @param card 对象卡片jQuery对象
-   * @param value 对象值
+   * @param variable 对象变量
+   * @param showTypeDialogCallback 显示类型选择对话框的回调函数
    */
-  private renderObjectCardView(card: JQuery<HTMLElement>, value: Record<string, any>): void {
+  private renderObjectCardView(
+    card: JQuery<HTMLElement>,
+    variable: VariableItem,
+    showTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>,
+  ): void {
     const $container = card.find('.nested-cards-container');
     $container.empty();
 
-    // 遍历对象的所有键值对，为每个键值对创建卡片
-    for (const key in value) {
-      if (Object.prototype.hasOwnProperty.call(value, key)) {
-        const propertyValue = value[key];
-        const type = this.inferDataType(propertyValue);
+    if (!variable.value || typeof variable.value !== 'object') {
+      return;
+    }
 
-        // 创建嵌套卡片的容器
-        const $nestedCardWrapper = $(`
-          <div class="nested-card-wrapper" data-key="${key}">
-            <div class="nested-card-content"></div>
-          </div>
-        `);
+    Object.entries(variable.value).forEach(([key, propertyValue]) => {
+      const dataType: VariableDataType = VariableManagerUtil.inferDataType(propertyValue);
 
-        // 创建对应类型的卡片
-        const nestedCard = this.createCard(type, key, propertyValue);
+      const propertyVariable: VariableItem = {
+        name: key,
+        dataType: dataType,
+        value: propertyValue,
+        id: '',
+      };
 
-        // 简化嵌套卡片的外观
-        const titleInput = nestedCard.find('.variable-title-container input');
-        titleInput.attr('title', '点击编辑键名');
-        titleInput.addClass('nested-card-key-input');
+      const nestedCard = this.createCard(propertyVariable, true, showTypeDialogCallback);
 
-        // 把嵌套卡片中的save-btn和delete-btn分别改为object-save-btn和object-delete-btn
-        nestedCard.find('.variable-action-btn.save-btn').removeClass('save-btn').addClass('object-save-btn');
-        nestedCard.find('.variable-action-btn.delete-btn').removeClass('delete-btn').addClass('object-delete-btn');
+      $container.append(nestedCard);
+    });
+  }
 
-        // 移除直接绑定的事件，让事件可以冒泡到控制器
-        // 将以前需要的数据作为属性添加到按钮元素上，以便控制器可以读取
-        const objectDeleteBtn = nestedCard.find('.variable-action-btn.object-delete-btn');
-        objectDeleteBtn.attr('data-nested-key', $nestedCardWrapper.attr('data-key') || '');
-        objectDeleteBtn.attr('data-parent-card-id', card.attr('id') || '');
+  /**
+   * 触发嵌套卡片保存事件
+   * @param parentCard 父级卡片
+   */
+  private saveNestedCardValue(parentCard: JQuery<HTMLElement>): void {
+    this.syncCardViewToJsonInput(parentCard);
 
-        // 将卡片添加到容器中
-        $nestedCardWrapper.find('.nested-card-content').append(nestedCard);
-        $container.append($nestedCardWrapper);
-
-        // 添加键名点击编辑功能
-        titleInput.on('input', function () {
-          const $input = $(this);
-          const oldKey = $nestedCardWrapper.attr('data-key') || '';
-          const newKey = $input.val() as string;
-
-          if (newKey && newKey !== oldKey && oldKey) {
-            // 更新键名
-            $nestedCardWrapper.attr('data-key', newKey);
-
-            // 获取对象值并更新键名
-            const objValue = JSON.parse(card.attr('data-value') || '{}') as Record<string, any>;
-            if (objValue[oldKey] !== undefined) {
-              objValue[newKey] = objValue[oldKey];
-              delete objValue[oldKey];
-
-              // 更新对象卡片的值
-              const jsonString = JSON.stringify(objValue, null, 2);
-              card.find('.json-input').val(jsonString);
-              card.attr('data-value', JSON.stringify(objValue));
-            }
-          }
-        });
-
-        // 添加保存按钮点击事件 - 使用一个特殊的事件名称避免级联触发
-        nestedCard.find('.variable-action-btn.object-save-btn').on('click', () => {
-          // 获取当前嵌套卡片的键和值
-          const currentKey = $nestedCardWrapper.attr('data-key') || '';
-
-          // 根据卡片类型获取最新值
-          let nestedValue;
-          const nestedCardType = nestedCard.attr('data-type');
-
-          switch (nestedCardType) {
-            case 'string':
-              nestedValue = nestedCard.find('.string-input').val();
-              break;
-            case 'number':
-              nestedValue = parseFloat(nestedCard.find('.number-input').val() as string);
-              break;
-            case 'boolean':
-              nestedValue = nestedCard.find('.boolean-btn.active').attr('data-value') === 'true';
-              break;
-            case 'array':
-              nestedValue = [];
-              nestedCard.find('.list-item .variable-content-input').each(function () {
-                let elementValue = $(this).val() as string;
-
-                // 尝试解析可能的JSON字符串
-                if (typeof elementValue === 'string') {
-                  elementValue = elementValue.trim();
-                  // 检查是否为可能的对象或数组格式
-                  if (
-                    (elementValue.startsWith('{') && elementValue.endsWith('}')) ||
-                    (elementValue.startsWith('[') && elementValue.endsWith(']'))
-                  ) {
-                    try {
-                      // 尝试解析JSON字符串
-                      const parsedValue = JSON.parse(elementValue);
-                      nestedValue.push(parsedValue);
-                      return; // 提前返回，避免重复添加
-                    } catch (error) {
-                      console.log('JSON字符串解析失败，保留原始字符串:', elementValue);
-                    }
-                  }
-                }
-
-                // 如果不是JSON或解析失败，保留原始值
-                nestedValue.push(elementValue);
-              });
-              break;
-            case 'object':
-              nestedValue = JSON.parse(nestedCard.attr('data-value') || '{}');
-              break;
-            default:
-              nestedValue = nestedCard.find('.variable-content-input').val();
-          }
-
-          // 更新父对象中对应键的值
-          const parentObjValue = JSON.parse(card.attr('data-value') || '{}') as Record<string, any>;
-          parentObjValue[currentKey] = nestedValue;
-
-          // 更新父对象卡片的值
-          const updatedJsonString = JSON.stringify(parentObjValue, null, 2);
-          card.find('.json-input').val(updatedJsonString);
-          card.attr('data-value', JSON.stringify(parentObjValue));
-
-          // 更新嵌套卡片的值属性
-          nestedCard.attr('data-value', JSON.stringify(nestedValue));
-
-          card.trigger('save:fromNestedCard');
-
-          if (!card.data('saving')) {
-            card.data('saving', true);
-            try {
-              const topCard = card.closest('.variable-card');
-              topCard.find('> .variable-card-header .object-save-btn').trigger('click');
-            } finally {
-              setTimeout(() => {
-                card.data('saving', false);
-              }, 100);
-            }
-          }
-        });
-      }
+    const topLevelCard = this.findTopLevelCard(parentCard);
+    if (topLevelCard) {
+      topLevelCard.trigger('nested-card:changed');
     }
   }
 
   /**
-   * 创建字符串变量卡片
-   * @param name 变量名称
-   * @param value 字符串值
-   * @returns 字符串变量卡片jQuery对象
+   * 找到顶级对象卡片
+   * @param card 当前卡片
+   * @returns 具有data-variable-id属性的卡片或null
    */
-  private createStringCard(name: string, value: string): JQuery<HTMLElement> {
-    const card = $(`
-      <div class="variable-card" data-type="string" data-name="${name}">
-        <div class="variable-card-header">
-          <div class="variable-title-container">
-            <i class="fa-solid fa-font"></i>
-            <input type="text" class="variable-title" value="${name}" placeholder="变量名称">
-          </div>
-          <div class="variable-actions">
-            <button class="variable-action-btn save-btn" title="保存">
-              <i class="fa-regular fa-save"></i>
-            </button>
-            <button class="variable-action-btn delete-btn" title="删除">
-              <i class="fa-regular fa-trash-can"></i>
-            </button>
-          </div>
-        </div>
-        <div class="variable-card-content">
-          <textarea class="string-input variable-content-input" placeholder="输入字符串值">${value}</textarea>
-        </div>
-      </div>
-    `);
+  private findTopLevelCard(card: JQuery<HTMLElement>): JQuery<HTMLElement> | null {
+    if (card.attr('data-variable-id')) {
+      return card;
+    }
 
-    return card;
+    const cardWithId = card.closest('[data-variable-id]');
+    return cardWithId.length > 0 ? cardWithId : null;
+  }
+
+  /**
+   * 删除嵌套卡片
+   * @param parentCard 父级卡片
+   * @param nestedCard 嵌套卡片
+   */
+  private deleteNestedCardValue(parentCard: JQuery<HTMLElement>, nestedCard: JQuery<HTMLElement>): void {
+    nestedCard.remove();
+
+    this.syncCardViewToJsonInput(parentCard);
+
+    const topLevelCard = this.findTopLevelCard(parentCard);
+    if (topLevelCard) {
+      topLevelCard.trigger('nested-card:changed');
+    }
+  }
+
+  /**
+   * 为对象卡片添加新的键值对（统一处理顶级和嵌套对象卡片）
+   * @param card 对象卡片（顶级或嵌套）
+   * @param dataType 新键值对的数据类型
+   * @param showTypeDialogCallback 显示类型选择对话框的回调函数
+   */
+  private addObjectKey(
+    card: JQuery<HTMLElement>,
+    newDataType: VariableDataType,
+    showTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>,
+  ): void {
+    const defaultValue = VariableManagerUtil.getDefaultValueForType(newDataType);
+    const existingKeys = new Set<string>();
+
+    const $targetCard = card.closest('.variable-card');
+    $targetCard
+      .find('.nested-cards-container')
+      .first()
+      .children('.variable-card')
+      .each((_, element) => {
+        const key = $(element).find('.variable-title').val() as string;
+        if (key) {
+          existingKeys.add(key);
+        }
+      });
+
+    const newKey = VariableManagerUtil.generateUniqueKey(existingKeys);
+
+    const newVariable: VariableItem = {
+      name: newKey,
+      dataType: newDataType,
+      value: defaultValue,
+      id: '',
+    };
+
+    const newNestedCard = this.createCard(newVariable, true, showTypeDialogCallback);
+
+    const $targetCardHeader = $targetCard.find('.variable-card-header').first();
+    const $targetCardContent = $targetCardHeader.siblings('.variable-card-content').first();
+    const $container = $targetCardContent.find('.nested-cards-container').first();
+
+    $container.prepend(newNestedCard);
+
+    newNestedCard.find('.variable-title').focus().select();
+
+    const topLevelCard = this.findTopLevelCard($targetCard);
+    if (topLevelCard && topLevelCard.is($targetCard)) {
+      this.syncCardViewToJsonInput($targetCard);
+    }
+  }
+
+  /**
+   * 设置对象卡片（统一处理嵌套和非嵌套对象卡片）
+   * @param card 对象卡片
+   * @param variable 变量对象
+   * @param isNested 是否为嵌套卡片
+   * @param showTypeDialogCallback 显示类型选择对话框的回调函数
+   */
+  private setupObjectCard(
+    card: JQuery<HTMLElement>,
+    variable: VariableItem,
+    isNested?: boolean,
+    showTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>,
+  ): void {
+    if (isNested) {
+      card.find('.variable-card-content').append(`
+        <div class="nested-object-container">
+          <div class="nested-cards-container"></div>
+        </div>
+      `);
+
+      card.find('.variable-actions .object-save-btn').before(`
+        <button class="variable-action-btn add-nested-key-btn" title="添加键值对">
+          <i class="fa-regular fa-plus"></i>
+        </button>
+      `);
+    } else {
+      card.find('.variable-card-content').append(`
+        <textarea class="json-input variable-content-input" placeholder="输入JSON对象" style="display: none;"></textarea>
+            <div class="object-card-view">
+              <div class="nested-cards-container"></div>
+            </div>
+      `);
+
+      card.find('.variable-actions .save-btn').before(`
+        <button class="variable-action-btn toggle-view-btn" title="切换到JSON视图">
+          <i class="fa-regular fa-list"></i>
+        </button>
+        <button class="variable-action-btn add-key-btn" title="添加键值对">
+          <i class="fa-regular fa-plus"></i>
+        </button>
+      `);
+
+      card.find('.json-input').val(JSON.stringify(variable.value, null, 2)).end().attr('data-view-mode', 'card');
+
+      card.find('.json-input').on('blur change', () => {
+        const currentMode = card.attr('data-view-mode') || 'card';
+
+        if (currentMode === 'card') {
+          this.syncJsonInputToCardView(card, showTypeDialogCallback);
+        }
+      });
+
+      card.find('.toggle-view-btn').on('click', () => {
+        const $card = card;
+        const currentMode = $card.attr('data-view-mode') || 'card';
+
+        const newMode = currentMode === 'json' ? 'card' : 'json';
+        $card.attr('data-view-mode', newMode);
+
+        if (newMode === 'json') {
+          $card
+            .find('.toggle-view-btn i')
+            .removeClass('fa-list')
+            .addClass('fa-eye')
+            .end()
+            .attr('title', '切换到卡片视图');
+          $card.find('.variable-action-btn.add-key-btn').hide();
+
+          $card.find('.json-input').show().end().find('.object-card-view').hide();
+
+          this.syncCardViewToJsonInput($card);
+        } else {
+          $card
+            .find('.toggle-view-btn i')
+            .removeClass('fa-eye')
+            .addClass('fa-list')
+            .end()
+            .attr('title', '切换到JSON视图');
+          $card.find('.variable-action-btn.add-key-btn').show();
+
+          $card.find('.json-input').hide().end().find('.object-card-view').show();
+
+          this.syncJsonInputToCardView($card, showTypeDialogCallback);
+        }
+      });
+    }
+
+    try {
+      this.renderObjectCardView(card, variable, showTypeDialogCallback);
+    } catch (e) {
+      console.error('渲染初始对象卡片视图错误:', e);
+      toastr.error('渲染对象卡片视图错误');
+    }
+  }
+
+  /**
+   * 同步卡片视图到JSON输入框
+   * @param card 对象卡片
+   */
+  private syncCardViewToJsonInput(card: JQuery<HTMLElement>): void {
+    const objectValue = this.extractObjectFromNestedCards(card);
+    card.find('.json-input').val(JSON.stringify(objectValue, null, 2));
+  }
+
+  /**
+   * 同步JSON输入框到卡片视图
+   * @param card 对象卡片
+   * @param showTypeDialogCallback 显示类型选择对话框的回调函数
+   */
+  private syncJsonInputToCardView(
+    card: JQuery<HTMLElement>,
+    showTypeDialogCallback?: (callback: (dataType: VariableDataType) => void) => Promise<void>,
+  ): void {
+    try {
+      const jsonValue = card.find('.json-input').val() as string;
+      if (jsonValue && jsonValue.trim()) {
+        const objectValue = JSON.parse(jsonValue);
+        const tempVariable: VariableItem = {
+          id: card.attr('data-variable-id') || '',
+          name: card.find('.variable-title').val() as string,
+          dataType: 'object',
+          value: objectValue,
+        };
+        this.renderObjectCardView(card, tempVariable, showTypeDialogCallback);
+      }
+    } catch (parseError) {
+      console.error('JSON解析错误:', parseError);
+      toastr.error('JSON格式错误，无法同步到卡片视图');
+    }
+  }
+
+  /**
+   * 创建数组项（所有项都显示为字符串输入框）
+   * @param card 数组卡片
+   * @param items 数组项
+   */
+  private populateArrayItems(card: JQuery<HTMLElement>, items: any[]): void {
+    if (!items || items.length === 0) {
+      return;
+    }
+
+    const listContainer = card.find('.list-items-container');
+    listContainer.empty();
+
+    items.forEach(item => {
+      const displayValue = typeof item === 'object' ? JSON.stringify(item) : String(item);
+      const listItem = $(`
+        <div class="list-item">
+          <span class="drag-handle">☰</span>
+          <textarea class="variable-content-input">${displayValue}</textarea>
+          <button class="list-item-delete"><i class="fa-solid fa-times"></i></button>
+        </div>
+      `);
+      listContainer.append(listItem);
+    });
   }
 }

@@ -11,6 +11,8 @@ const templatePath = `${extensionFolderPath}/src/component/variable_manager/publ
 
 let variableView: VariableView | null = null;
 let variableController: VariableController | null = null;
+let variableModel: VariableModel | null = null;
+let syncService: VariableSyncService | null = null;
 
 /**
  * 初始化变量管理器
@@ -20,12 +22,12 @@ export async function openVariableManager() {
 
   const $variableManagerContainer = $(await renderExtensionTemplateAsync(`${templatePath}`, 'index'));
 
-  const model = new VariableModel();
+  variableModel = new VariableModel();
   variableView = new VariableView($variableManagerContainer);
 
-  const syncService = new VariableSyncService(variableView, model);
+  syncService = new VariableSyncService(variableView, variableModel);
 
-  variableController = new VariableController(model, variableView, syncService);
+  variableController = new VariableController(variableModel, variableView, syncService, variableView.cardFactory);
 
   variableView.setController(variableController);
 
