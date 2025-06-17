@@ -44,7 +44,7 @@
                         "cell_w51jcYzN_tQ0L432ad49ocIky",
                         "cell_w51jcYzN_JNdZ3u7to7gpEePJ",
                         "cell_w51jcYzN_6VE5i4wcEHiG52Qd",
-                        "cell_w51jcYzN_v6XEenbwC8ATuO54"
+                        "cell_w51jcYzN_u3Uwb8EVBhfCroJY"
                     ],
                     [
                         "cell_w51jcYzN_DFoTReo1zjrT3fXV",
@@ -1528,6 +1528,16 @@
                     },
                     {
                         "uid": "cell_w51jcYzN_v6XEenbwC8ATuO54",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YFpbHPgjxregQ8S",
+                        "data": {
+                            "value": "唐柔/苏闪闪/凌然"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_u3Uwb8EVBhfCroJY",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_YFpbHPgjxregQ8S",
@@ -27527,6 +27537,14 @@
                         "cell_UJ493xyB_P0d4ssZrWGUfoUfD",
                         "cell_UJ493xyB_gIilZMl9xUEixgcf",
                         "cell_UJ493xyB_5X8Gk5PYGKKo6WSx"
+                    ],
+                    [
+                        "cell_UJ493xyB_U3KkkK0iBV1aFlby",
+                        "cell_UJ493xyB_35sCNNv8MdloXJnn",
+                        "cell_UJ493xyB_eXgBd2YFnReF7oIn",
+                        "cell_UJ493xyB_pMhX6JrhQmI2OdwT",
+                        "cell_UJ493xyB_7M5dF0jrJ7W3EYNf",
+                        "cell_UJ493xyB_RIBOUIYFaAmRfNW7"
                     ]
                 ],
                 "cellHistory": [
@@ -29449,6 +29467,64 @@
                             "value": "警惕/紧张/隐藏的愉悦/不悦"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_U3KkkK0iBV1aFlby",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_cba0KB8gcd4HGtz",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_35sCNNv8MdloXJnn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9JpU5CYTIvNKL93",
+                        "data": {
+                            "value": "凌然"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_eXgBd2YFnReF7oIn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_EcWwmrjRJ96ptis",
+                        "data": {
+                            "value": "丛林支援苏闪闪并参与对唐柔的围攻"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_pMhX6JrhQmI2OdwT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5jAs1saxwbZisq5",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_7M5dF0jrJ7W3EYNf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tXEsr4ncIzplm8U",
+                        "data": {
+                            "value": "全息竞技场（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_RIBOUIYFaAmRfNW7",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zHn6HDFQ7Qnc0gP",
+                        "data": {
+                            "value": "冷静/专注"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -29599,7 +29675,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750179448520.528,
     "create_date": "2025-6-17 @16h 57m 28s 520ms",
-    "date_last_chat": 1750181484051,
+    "date_last_chat": 1750181761058,
     "chat_size": 3313933,
     "past_metadata": {
         "": {},
