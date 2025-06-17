@@ -2,8 +2,8 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
-        "NavOpened": "false",
+        "LNavOpened": "true",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -14,8 +14,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -25,7 +25,8 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "Eldoria"
+                "Eldoria",
+                "New World (1)"
             ]
         },
         "world_info_depth": 2,
@@ -1178,10 +1179,9 @@
             "height": 512,
             "prompt_prefix": "best quality, absurdres, masterpiece,",
             "negative_prompt": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry",
-            "sampler": "DDIM",
-            "model": "",
-            "restore_faces": false,
-            "enable_hr": false,
+            "sampler": "UniPC",
+            "restore_faces": true,
+            "enable_hr": true,
             "horde": true,
             "horde_nsfw": false,
             "horde_karras": true,
@@ -1202,9 +1202,9 @@
                 "-2": "The text prompt used to generate the image. Must represent an exhaustive description of the desired image that will allow an artist or a photographer to perfectly recreate it."
             },
             "character_prompts": {},
-            "source": "extras",
-            "scheduler": "normal",
-            "vae": "",
+            "source": "drawthings",
+            "scheduler": null,
+            "vae": null,
             "seed": -1,
             "adetailer_face": false,
             "horde_sanitize": true,
@@ -1241,7 +1241,7 @@
             "novel_sm_dyn": false,
             "novel_decrisper": false,
             "openai_style": "vivid",
-            "openai_quality": "standard",
+            "openai_quality": "hd",
             "style": "Default",
             "styles": [
                 {
@@ -1429,38 +1429,12 @@
         "null": [],
         "魅魔型AI创作工具.png": [],
         "1748618855741": [],
-        "【光影】刘恋.png": [],
         "【光影】唐柔.png": [],
         "【光影】鹿屿.png": [],
-        "【星辰】艾莉丝.png": [],
-        "【星辰】零.png": [],
-        "【极光】羽灵.png": [],
-        "【潮汐】夏琳.png": [],
+        "【光影】刘嘉欣.png": [],
         "【潮汐】林巧.png": [],
-        "【极光】苏闪闪.png": [],
-        "【极光】沈棠.png": [],
-        "【潮汐】凌汐.png": [],
-        "【光影】曦月.png": [],
-        "【潮汐经纪人】凛霜.png": [],
-        "【极光经纪人】温雅.png": [],
-        "【光影经纪人】沈梦.png": [],
-        "【星辰经纪人】露娜.png": [],
-        "【极光】许晴.png": [],
-        "【光影】鹿瑶.png": [],
-        "【潮汐】薇拉.png": [],
-        "【星辰】克拉拉.png": [],
-        "【极光】许凤萱.png": [],
-        "【极光】许凰音.png": [],
-        "【星辰】莉莉娅.png": [],
-        "【潮汐】柳如烟.png": [],
-        "【星辰】伊芙琳.png": [],
-        "【极光】言浅.png": [],
-        "【潮汐】肖甜.png": [],
-        "【极光】罗雪.png": [],
-        "【潮汐】绮罗.png": [],
-        "【光影】山田杏.png": [],
-        "【光影】白露.png": [],
-        "【星辰】琉璃.png": []
+        "【潮汐】苏闪闪.png": [],
+        "【潮汐】凌然.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2929,15 +2903,15 @@
                     },
                     {
                         "identifier": "e7b85762-73d1-4dad-a373-dd1ae181c8be",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "751a591c-3357-4902-8ae6-81df592d09d1",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "63185a41-de15-4ed0-971f-b16eb2c6ff1d",
@@ -2953,15 +2927,15 @@
                     },
                     {
                         "identifier": "aa0d4562-1814-4ac2-96fe-9c24588b2d24",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "7bcd26a2-5a78-4aea-a573-324392f72fff",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "496ae724-3342-4e88-a340-7ca0a53d24ac",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "ab53ce47-16da-4e2e-ad7e-8069dd44292e",
@@ -2985,7 +2959,7 @@
                     },
                     {
                         "identifier": "d3f9e3c6-cc21-4913-9a94-4dfccfa3f1c4",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "9c667918-89db-4926-b5a4-1683fde0f7e3",
@@ -3173,7 +3147,7 @@
         "use_makersuite_sysprompt": false,
         "use_alt_scale": false,
         "squash_system_messages": false,
-        "image_inlining": false,
+        "image_inlining": true,
         "inline_image_quality": "low",
         "bypass_status_check": false,
         "continue_prefill": false,
