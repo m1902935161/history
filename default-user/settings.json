@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1428,7 +1428,8 @@
         ],
         "null": [],
         "魅魔型AI创作工具.png": [],
-        "1748618855741": []
+        "1748618855741": [],
+        "【光影】唐柔.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
