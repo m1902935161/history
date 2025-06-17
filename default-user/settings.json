@@ -14,8 +14,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": null,
-    "active_group": "1748618855741",
+    "active_character": "【潮汐经纪人】陆沉舟.png",
+    "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1435,7 +1435,8 @@
         "【潮汐】林巧.png": [],
         "【潮汐】苏闪闪.png": [],
         "【潮汐】凌然.png": [],
-        "【光影经纪人】沈梦.png": []
+        "【光影经纪人】沈梦.png": [],
+        "【潮汐经纪人】陆沉舟.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
