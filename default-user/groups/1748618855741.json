@@ -43,8 +43,8 @@
                         "cell_w51jcYzN_DCyHSmfH7LrBgUbB",
                         "cell_w51jcYzN_tQ0L432ad49ocIky",
                         "cell_w51jcYzN_JNdZ3u7to7gpEePJ",
-                        "cell_w51jcYzN_pF3tQbII5OuIPT4M",
-                        "cell_w51jcYzN_paRLddcv6nlUQaDO"
+                        "cell_w51jcYzN_6VE5i4wcEHiG52Qd",
+                        "cell_w51jcYzN_v6XEenbwC8ATuO54"
                     ],
                     [
                         "cell_w51jcYzN_DFoTReo1zjrT3fXV",
@@ -1513,6 +1513,26 @@
                         "coordUid": "coo_AEPAMAKDhGUW4Zh",
                         "data": {
                             "value": "唐柔/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_6VE5i4wcEHiG52Qd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jCH9Wdp9gWI0y29",
+                        "data": {
+                            "value": "全息竞技场（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_v6XEenbwC8ATuO54",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YFpbHPgjxregQ8S",
+                        "data": {
+                            "value": "唐柔/苏闪闪/凌然"
                         },
                         "targetUid": ""
                     }
@@ -27499,6 +27519,14 @@
                         "cell_UJ493xyB_ULQq1BID6XFYokZo",
                         "cell_UJ493xyB_sC4JKCkOdbwZUDyN",
                         "cell_UJ493xyB_doNkHpGm6klaAC5V"
+                    ],
+                    [
+                        "cell_UJ493xyB_ZaYON9U4lKUb8IFU",
+                        "cell_UJ493xyB_NBk9XG28CrfhivyR",
+                        "cell_UJ493xyB_ilFypx8j1hEIzI0F",
+                        "cell_UJ493xyB_P0d4ssZrWGUfoUfD",
+                        "cell_UJ493xyB_gIilZMl9xUEixgcf",
+                        "cell_UJ493xyB_5X8Gk5PYGKKo6WSx"
                     ]
                 ],
                 "cellHistory": [
@@ -29363,6 +29391,64 @@
                             "value": "紧张/兴奋/警惕/不悦/隐藏的愉悦"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_ZaYON9U4lKUb8IFU",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_4kyVB5UvaRCTp5i",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_NBk9XG28CrfhivyR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_drNAsuT8vgj2Af6",
+                        "data": {
+                            "value": "苏闪闪/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_ilFypx8j1hEIzI0F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Yh7Hxe3icvItzVU",
+                        "data": {
+                            "value": "丛林遭遇战并缠斗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_P0d4ssZrWGUfoUfD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sHGeRRLU57cBRLA",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_gIilZMl9xUEixgcf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4WWHRlFXbloAhCi",
+                        "data": {
+                            "value": "全息竞技场（丛林）"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_5X8Gk5PYGKKo6WSx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_es7CPcJHjnNvI3S",
+                        "data": {
+                            "value": "警惕/紧张/隐藏的愉悦/不悦"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -29513,7 +29599,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750179448520.528,
     "create_date": "2025-6-17 @16h 57m 28s 520ms",
-    "date_last_chat": 1750181096551,
+    "date_last_chat": 1750181484051,
     "chat_size": 3313933,
     "past_metadata": {
         "": {},
