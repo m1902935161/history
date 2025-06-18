@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "false",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -14,8 +14,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1179,10 +1179,9 @@
             "height": 512,
             "prompt_prefix": "best quality, absurdres, masterpiece,",
             "negative_prompt": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry",
-            "sampler": "DDIM",
-            "model": "",
-            "restore_faces": false,
-            "enable_hr": false,
+            "sampler": "UniPC",
+            "restore_faces": true,
+            "enable_hr": true,
             "horde": true,
             "horde_nsfw": false,
             "horde_karras": true,
@@ -1203,9 +1202,9 @@
                 "-2": "The text prompt used to generate the image. Must represent an exhaustive description of the desired image that will allow an artist or a photographer to perfectly recreate it."
             },
             "character_prompts": {},
-            "source": "extras",
-            "scheduler": "normal",
-            "vae": "",
+            "source": "drawthings",
+            "scheduler": null,
+            "vae": null,
             "seed": -1,
             "adetailer_face": false,
             "horde_sanitize": true,
@@ -1242,7 +1241,7 @@
             "novel_sm_dyn": false,
             "novel_decrisper": false,
             "openai_style": "vivid",
-            "openai_quality": "standard",
+            "openai_quality": "hd",
             "style": "Default",
             "styles": [
                 {
@@ -1429,7 +1428,18 @@
         ],
         "null": [],
         "魅魔型AI创作工具.png": [],
-        "1748618855741": []
+        "1748618855741": [],
+        "【光影】唐柔.png": [],
+        "【光影】鹿屿.png": [],
+        "【光影】刘嘉欣.png": [],
+        "【潮汐】林巧.png": [],
+        "【潮汐】苏闪闪.png": [],
+        "【潮汐】凌然.png": [],
+        "【光影经纪人】沈梦.png": [],
+        "【潮汐经纪人】陆沉舟.png": [],
+        "【极光经纪人】温雅.png": [],
+        "【星辰经纪人】许娜.png": [],
+        "【星辰】肖甜.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2906,7 +2916,7 @@
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "63185a41-de15-4ed0-971f-b16eb2c6ff1d",
@@ -2954,7 +2964,7 @@
                     },
                     {
                         "identifier": "d3f9e3c6-cc21-4913-9a94-4dfccfa3f1c4",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "9c667918-89db-4926-b5a4-1683fde0f7e3",
@@ -3142,7 +3152,7 @@
         "use_makersuite_sysprompt": false,
         "use_alt_scale": false,
         "squash_system_messages": false,
-        "image_inlining": false,
+        "image_inlining": true,
         "inline_image_quality": "low",
         "bypass_status_check": false,
         "continue_prefill": false,
