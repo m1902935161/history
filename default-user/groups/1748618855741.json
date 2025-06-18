@@ -2873,6 +2873,16 @@
                             "value": "唐柔/刘嘉欣/鹿屿/凌然/林巧/苏闪闪"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_F2091V0YPyxDEPSF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "唐柔/刘嘉欣/鹿屿/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -50157,6 +50167,122 @@
                             "value": "不耐烦/冲动"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_McahS761jYgcEEn5",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_cSLP9GmMIB1KPV3",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_g3YvGwvhMwrozGVE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dQcytpBWctyMDgX",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_uCRVppZXUCeMvxUC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MpqkKmZVo8ty0FF",
+                        "data": {
+                            "value": "遭遇凌然陷阱/被压制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_BiSoBYgL7VzvqvXo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6WspqE3GokES4vk",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_RNvhBCGA9qPGVqEj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kXhpRvSGwj6QIHY",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_Ni1JrojpxorXs9sP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3gyjdg6Hf00VDm3",
+                        "data": {
+                            "value": "疼痛/挣扎"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_OKItTVLQbRf7Ao6S",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_KQ3918ct0ZucMex",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_DLxXUQM3Fc9c75Ue",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ED1xBqvCF2FRjho",
+                        "data": {
+                            "value": "鹿屿/刘嘉欣"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_l80W9R9pdv96FYMF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rJh4S3rxEiZgYlq",
+                        "data": {
+                            "value": "支援唐柔途中遭遇苏闪闪/林巧埋伏"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_fgEdKJZdFzfGkFIL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8smDV2gFLpC2P6O",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_OIXLVLBOd5dAatcE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ltXJiuNdwK8BRMU",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_hVY6oHce58eJfLGB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_O3mPgqNA4C2jBHS",
+                        "data": {
+                            "value": "震惊/被动"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -50307,7 +50433,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750253607545.2197,
     "create_date": "2025-6-18 @13h 33m 27s 545ms",
-    "date_last_chat": 1750263131356,
+    "date_last_chat": 1750263680684,
     "chat_size": 3272369,
     "past_metadata": {
         "": {},
