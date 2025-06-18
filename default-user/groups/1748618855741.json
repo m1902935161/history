@@ -46,7 +46,7 @@
                         "cell_w51jcYzN_dT2BzlrcKlCXxQBn",
                         "cell_w51jcYzN_jXkFvu8E39kGNjEV",
                         "cell_w51jcYzN_ECzlBSnJgpYGwdsc",
-                        "cell_w51jcYzN_GVBXBqLDdyhD1Tqg"
+                        "cell_w51jcYzN_eVmDGngzKGc469O2"
                     ]
                 ],
                 "cellHistory": [
@@ -2977,6 +2977,16 @@
                     },
                     {
                         "uid": "cell_w51jcYzN_GVBXBqLDdyhD1Tqg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "刘嘉欣/唐柔/鹿屿/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_eVmDGngzKGc469O2",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_KmvuKApHscqWqsi",
@@ -46582,12 +46592,12 @@
                         "cell_UJ493xyB_6CgtLoeJRctM1PWz"
                     ],
                     [
-                        "cell_UJ493xyB_tmmho9Y6nGO3FzRv",
-                        "cell_UJ493xyB_QyoCdqURRhrBcqFr",
-                        "cell_UJ493xyB_wOC6yBY05JiTHwL5",
-                        "cell_UJ493xyB_nkPVEJitmtLxbhFQ",
-                        "cell_UJ493xyB_qf5n8Iiel6gRbgAw",
-                        "cell_UJ493xyB_pKAkw7eu2kNiwGMF"
+                        "cell_UJ493xyB_A6OKBaE55T8L7wER",
+                        "cell_UJ493xyB_NwcjnDRf4iSvhTpp",
+                        "cell_UJ493xyB_97GliY4VzPYTKQfq",
+                        "cell_UJ493xyB_E0A9nLfQLKvDP87n",
+                        "cell_UJ493xyB_BPltdj5Z7roOUJBH",
+                        "cell_UJ493xyB_J9YIDg1EPnoNneub"
                     ]
                 ],
                 "cellHistory": [
@@ -51778,6 +51788,74 @@
                             "value": "紧张/反击"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_4ZHtwrkFvmBeJHwF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XA60aaH8wq6ehcT",
+                        "data": {
+                            "value": "刘嘉欣压制林巧/试图脱鞋林巧抵抗/林巧激活女皇的加冕"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_A6OKBaE55T8L7wER",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_lTeXc94amPOwahl",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_NwcjnDRf4iSvhTpp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bJWokLwGe4rXgLv",
+                        "data": {
+                            "value": "刘嘉欣/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_97GliY4VzPYTKQfq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_333HdlfosdNegBq",
+                        "data": {
+                            "value": "刘嘉欣压制林巧/林巧挣脱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_E0A9nLfQLKvDP87n",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wBHKgmOLhyYnOaF",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_BPltdj5Z7roOUJBH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xOa0nwbDzCZ1b54",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_J9YIDg1EPnoNneub",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_A632dA0DQlR4Hhy",
+                        "data": {
+                            "value": "紧张/反击"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -51928,7 +52006,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750264412494.8743,
     "create_date": "2025-6-18 @16h 33m 32s 494ms",
-    "date_last_chat": 1750267283340,
+    "date_last_chat": 1750267365577,
     "chat_size": 3339392,
     "past_metadata": {
         "": {},
