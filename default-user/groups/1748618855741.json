@@ -44,8 +44,8 @@
                         "cell_w51jcYzN_CwePqwHSrfUdsC7w",
                         "cell_w51jcYzN_dT2BzlrcKlCXxQBn",
                         "cell_w51jcYzN_jXkFvu8E39kGNjEV",
-                        "cell_w51jcYzN_cXMllouyImJZmcHN",
-                        "cell_w51jcYzN_kLjf27tzAAjgDLO3"
+                        "cell_w51jcYzN_ECzlBSnJgpYGwdsc",
+                        "cell_w51jcYzN_CrsBaYzUrTveqrN5"
                     ]
                 ],
                 "cellHistory": [
@@ -2826,6 +2826,46 @@
                     },
                     {
                         "uid": "cell_w51jcYzN_kLjf27tzAAjgDLO3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "唐柔/刘嘉欣/鹿屿/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_Zkymlu98aNGOW2tA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCnAjNrzNPznGkx",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_0OP3mYzixeFFTzSg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "沈梦/唐柔/刘嘉欣/鹿屿/凌然/林巧/苏闪闪/陆沉舟"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_ECzlBSnJgpYGwdsc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCnAjNrzNPznGkx",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_CrsBaYzUrTveqrN5",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_KmvuKApHscqWqsi",
@@ -46391,20 +46431,12 @@
                         "cell_UJ493xyB_kZfmEc8JVx3QIjXw"
                     ],
                     [
-                        "cell_UJ493xyB_UnuGL7USaxqECWZi",
-                        "cell_UJ493xyB_Ukq5UynMxJ1taEzr",
-                        "cell_UJ493xyB_pUvKmeHjzGihe3ch",
-                        "cell_UJ493xyB_DSeoVdDUNtmEP5A5",
-                        "cell_UJ493xyB_N4xGSAolnVPA9yTk",
-                        "cell_UJ493xyB_ZfALKpkdciQVKAjw"
-                    ],
-                    [
-                        "cell_UJ493xyB_tVQimR4ldm6aGOa0",
-                        "cell_UJ493xyB_ivaALvev9XKWtfkr",
-                        "cell_UJ493xyB_VecQ2JcXbfxwYoZx",
-                        "cell_UJ493xyB_YxSL7nzZ6QZCr3Ux",
-                        "cell_UJ493xyB_qVcDROsT3avFI3qN",
-                        "cell_UJ493xyB_olkgNe9h65URSDpn"
+                        "cell_UJ493xyB_NuCjb0X2jsQj3u8m",
+                        "cell_UJ493xyB_T0J30HCWX8E5g1hM",
+                        "cell_UJ493xyB_RGmDiBmMml4a6IIg",
+                        "cell_UJ493xyB_ca3fhjLG4WDAAXNp",
+                        "cell_UJ493xyB_LRBKV7iB5UsEGvlA",
+                        "cell_UJ493xyB_JmBgekreNNiVTifb"
                     ]
                 ],
                 "cellHistory": [
@@ -50067,6 +50099,64 @@
                             "value": "羞愤/压制"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_NuCjb0X2jsQj3u8m",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_6GyAhJ5KrqpwPLJ",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_T0J30HCWX8E5g1hM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_54vRZFqiJW5Z9w5",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_RGmDiBmMml4a6IIg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xqGYSG469RsAEZL",
+                        "data": {
+                            "value": "比赛开始/脱离队伍"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_ca3fhjLG4WDAAXNp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_a6NsBRPihtkVr3p",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_LRBKV7iB5UsEGvlA",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MFga8bSGZy5FtaH",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_JmBgekreNNiVTifb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_07jf8tgPCu6syWA",
+                        "data": {
+                            "value": "不耐烦/冲动"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -50217,7 +50307,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750253607545.2197,
     "create_date": "2025-6-18 @13h 33m 27s 545ms",
-    "date_last_chat": 1750262468803,
+    "date_last_chat": 1750262702727,
     "chat_size": 3272369,
     "past_metadata": {
         "": {},
