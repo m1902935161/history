@@ -2,6 +2,7 @@
     "id": "1748618855741",
     "name": "TL",
     "members": [
+        "【星辰】许凰音.png",
         "【星辰】许凤萱.png",
         "【星辰】肖甜.png",
         "【潮汐】凌然.png",
@@ -45,7 +46,7 @@
                         "cell_w51jcYzN_dT2BzlrcKlCXxQBn",
                         "cell_w51jcYzN_jXkFvu8E39kGNjEV",
                         "cell_w51jcYzN_ECzlBSnJgpYGwdsc",
-                        "cell_w51jcYzN_IrZUfmKkIM7yByBE"
+                        "cell_w51jcYzN_S8ZGNmwiiPaQt8UG"
                     ]
                 ],
                 "cellHistory": [
@@ -2961,6 +2962,16 @@
                         "coordUid": "coo_KmvuKApHscqWqsi",
                         "data": {
                             "value": "刘嘉欣/鹿屿/唐柔/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_S8ZGNmwiiPaQt8UG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "刘嘉欣/唐柔/鹿屿/凌然/林巧/苏闪闪"
                         },
                         "targetUid": ""
                     }
@@ -46551,6 +46562,14 @@
                         "cell_UJ493xyB_S51aEvYUcb3Ml9zy",
                         "cell_UJ493xyB_PbpvMqe5ldQsQxrX",
                         "cell_UJ493xyB_aJMx2qoe06lImmns"
+                    ],
+                    [
+                        "cell_UJ493xyB_1cIGzjOPuYTRmQRK",
+                        "cell_UJ493xyB_EaK9mObuLNTR0wwa",
+                        "cell_UJ493xyB_RjLB4AW8tdctWqKN",
+                        "cell_UJ493xyB_MhPBdX0D8lBpPNfl",
+                        "cell_UJ493xyB_sL0KWx1NGfgBBZ3M",
+                        "cell_UJ493xyB_6CgtLoeJRctM1PWz"
                     ]
                 ],
                 "cellHistory": [
@@ -51625,6 +51644,64 @@
                             "value": "担忧/决心"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_1cIGzjOPuYTRmQRK",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_SnbjrUAassIQy2A",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_EaK9mObuLNTR0wwa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rNtzfFoc24KrLyi",
+                        "data": {
+                            "value": "刘嘉欣/林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_RjLB4AW8tdctWqKN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XA60aaH8wq6ehcT",
+                        "data": {
+                            "value": "刘嘉欣扑倒林巧/林巧激活女皇的加冕"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_MhPBdX0D8lBpPNfl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_i3zFPXRtrRKiMll",
+                        "data": {
+                            "value": "未知日期"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_sL0KWx1NGfgBBZ3M",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_myp8fAwMmszbjQj",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_6CgtLoeJRctM1PWz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DjCz5RUlUwpOfGS",
+                        "data": {
+                            "value": "紧张/反制"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -51775,7 +51852,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750264412494.8743,
     "create_date": "2025-6-18 @16h 33m 32s 494ms",
-    "date_last_chat": 1750266038584,
+    "date_last_chat": 1750266606268,
     "chat_size": 3339392,
     "past_metadata": {
         "": {},
