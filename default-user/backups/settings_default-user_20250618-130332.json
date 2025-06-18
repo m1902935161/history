@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -1430,11 +1430,16 @@
         "魅魔型AI创作工具.png": [],
         "1748618855741": [],
         "【光影】唐柔.png": [],
-        "【光影】刘嘉欣.png": [],
         "【光影】鹿屿.png": [],
-        "【潮汐】苏闪闪.png": [],
+        "【光影】刘嘉欣.png": [],
         "【潮汐】林巧.png": [],
-        "【潮汐】夏琳.png": []
+        "【潮汐】苏闪闪.png": [],
+        "【潮汐】凌然.png": [],
+        "【光影经纪人】沈梦.png": [],
+        "【潮汐经纪人】陆沉舟.png": [],
+        "【极光经纪人】温雅.png": [],
+        "【星辰经纪人】许娜.png": [],
+        "【星辰】肖甜.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2911,7 +2916,7 @@
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "63185a41-de15-4ed0-971f-b16eb2c6ff1d",
@@ -2959,7 +2964,7 @@
                     },
                     {
                         "identifier": "d3f9e3c6-cc21-4913-9a94-4dfccfa3f1c4",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "9c667918-89db-4926-b5a4-1683fde0f7e3",
