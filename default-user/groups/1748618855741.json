@@ -46,7 +46,7 @@
                         "cell_w51jcYzN_Q9OnnPQswVVpYb1r",
                         "cell_w51jcYzN_PI8ClHZJkOKw5Pci",
                         "cell_w51jcYzN_sEdyf0LDvSMrbZQQ",
-                        "cell_w51jcYzN_5MeSouYGk3fil6UH"
+                        "cell_w51jcYzN_ebzIQrU7cWUqtFwu"
                     ]
                 ],
                 "cellHistory": [
@@ -3270,6 +3270,36 @@
                         "coordUid": "coo_9tbHxHf7N7FPW4V",
                         "data": {
                             "value": "唐柔/林巧/苏闪闪/凌然/刘嘉欣/鹿屿/沈梦(语音)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_WzNaADTZZqWO1WLF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_X4GWcunjXUqGpWY",
+                        "data": {
+                            "value": "丛林地图/林间空地"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_3sQAKZKaJ8HtpGec",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tbHxHf7N7FPW4V",
+                        "data": {
+                            "value": "唐柔/林巧/苏闪闪/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_ebzIQrU7cWUqtFwu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tbHxHf7N7FPW4V",
+                        "data": {
+                            "value": "唐柔/林巧/苏闪闪/鹿屿"
                         },
                         "targetUid": ""
                     }
@@ -54280,7 +54310,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750328902443.618,
     "create_date": "2025-6-19 @10h 28m 22s 443ms",
-    "date_last_chat": 1750338020268,
+    "date_last_chat": 1750338322275,
     "chat_size": 3229737,
     "past_metadata": {
         "": {},
