@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1439,7 +1439,9 @@
         "【潮汐经纪人】陆沉舟.png": [],
         "【极光经纪人】温雅.png": [],
         "【星辰经纪人】许娜.png": [],
-        "【星辰】肖甜.png": []
+        "【星辰】肖甜.png": [],
+        "【星辰】许凤萱.png": [],
+        "【星辰】许凰音.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2916,7 +2918,7 @@
                     },
                     {
                         "identifier": "23f755cb-dd84-4510-b104-22cc97a16712",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "63185a41-de15-4ed0-971f-b16eb2c6ff1d",
@@ -2932,7 +2934,7 @@
                     },
                     {
                         "identifier": "aa0d4562-1814-4ac2-96fe-9c24588b2d24",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "7bcd26a2-5a78-4aea-a573-324392f72fff",
