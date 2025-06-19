@@ -45,8 +45,8 @@
                         "cell_w51jcYzN_0BgBWIfozHybriT3",
                         "cell_w51jcYzN_Q9OnnPQswVVpYb1r",
                         "cell_w51jcYzN_PI8ClHZJkOKw5Pci",
-                        "cell_w51jcYzN_8Rm5o91OXbZpulKK",
-                        "cell_w51jcYzN_3hKOjGnylsEaGqgL"
+                        "cell_w51jcYzN_qZAUOIqmpom5fimM",
+                        "cell_w51jcYzN_eyQgwZco0kZDOCtJ"
                     ]
                 ],
                 "cellHistory": [
@@ -3420,6 +3420,26 @@
                         "coordUid": "coo_9tbHxHf7N7FPW4V",
                         "data": {
                             "value": "唐柔/苏闪闪(撤离)/刘嘉欣/鹿屿/林巧(撤离)/凌然(撤离)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_qZAUOIqmpom5fimM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_X4GWcunjXUqGpWY",
+                        "data": {
+                            "value": "丛林地图林间小道"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_eyQgwZco0kZDOCtJ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tbHxHf7N7FPW4V",
+                        "data": {
+                            "value": "唐柔/刘嘉欣/鹿屿/凌然/林巧/苏闪闪"
                         },
                         "targetUid": ""
                     }
@@ -54662,7 +54682,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750338503048.3958,
     "create_date": "2025-6-19 @13h 08m 23s 48ms",
-    "date_last_chat": 1750351949412,
+    "date_last_chat": 1750374032685,
     "chat_size": 3375114,
     "past_metadata": {
         "": {},
