@@ -45,8 +45,8 @@
                         "cell_w51jcYzN_CwePqwHSrfUdsC7w",
                         "cell_w51jcYzN_dT2BzlrcKlCXxQBn",
                         "cell_w51jcYzN_jXkFvu8E39kGNjEV",
-                        "cell_w51jcYzN_ECzlBSnJgpYGwdsc",
-                        "cell_w51jcYzN_cM0F7hjOPGbHUtKt"
+                        "cell_w51jcYzN_9R40Pm1bwinXdofT",
+                        "cell_w51jcYzN_gMYwXZPTOPnuapBR"
                     ]
                 ],
                 "cellHistory": [
@@ -2997,6 +2997,26 @@
                     },
                     {
                         "uid": "cell_w51jcYzN_cM0F7hjOPGbHUtKt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "刘嘉欣/唐柔/鹿屿/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_9R40Pm1bwinXdofT",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCnAjNrzNPznGkx",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地带"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_gMYwXZPTOPnuapBR",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_KmvuKApHscqWqsi",
@@ -46560,62 +46580,6 @@
                         "cell_UJ493xyB_7f2bHUPAYrlcAZi1",
                         "cell_UJ493xyB_GVue6eJF1J0z4zJG",
                         "cell_UJ493xyB_kZfmEc8JVx3QIjXw"
-                    ],
-                    [
-                        "cell_UJ493xyB_NuCjb0X2jsQj3u8m",
-                        "cell_UJ493xyB_T0J30HCWX8E5g1hM",
-                        "cell_UJ493xyB_RGmDiBmMml4a6IIg",
-                        "cell_UJ493xyB_ca3fhjLG4WDAAXNp",
-                        "cell_UJ493xyB_LRBKV7iB5UsEGvlA",
-                        "cell_UJ493xyB_JmBgekreNNiVTifb"
-                    ],
-                    [
-                        "cell_UJ493xyB_cTsbSUBEDHpGYM1m",
-                        "cell_UJ493xyB_MMvLuK58vKuJntGJ",
-                        "cell_UJ493xyB_88aT9VI7q3EJM8gs",
-                        "cell_UJ493xyB_37n2gJhWZDuBy6Jg",
-                        "cell_UJ493xyB_lNHQZ0KlvoX95AUr",
-                        "cell_UJ493xyB_QoEP6OwPQMAMSuuZ"
-                    ],
-                    [
-                        "cell_UJ493xyB_bVGxwyA2Ah3gecFs",
-                        "cell_UJ493xyB_4tJTtBA6N67XA7Sa",
-                        "cell_UJ493xyB_7eRbuHkaaBNenMps",
-                        "cell_UJ493xyB_66FE41NzgGjF8Ua8",
-                        "cell_UJ493xyB_f4N5MIX0K40IkbRu",
-                        "cell_UJ493xyB_wPoz7FeuuX5bTZbd"
-                    ],
-                    [
-                        "cell_UJ493xyB_NV4t1dGMRPclTk1c",
-                        "cell_UJ493xyB_vj81CYFNQiXxUYnm",
-                        "cell_UJ493xyB_0VuPgo3auJW6BIBV",
-                        "cell_UJ493xyB_S51aEvYUcb3Ml9zy",
-                        "cell_UJ493xyB_PbpvMqe5ldQsQxrX",
-                        "cell_UJ493xyB_aJMx2qoe06lImmns"
-                    ],
-                    [
-                        "cell_UJ493xyB_1cIGzjOPuYTRmQRK",
-                        "cell_UJ493xyB_EaK9mObuLNTR0wwa",
-                        "cell_UJ493xyB_RjLB4AW8tdctWqKN",
-                        "cell_UJ493xyB_MhPBdX0D8lBpPNfl",
-                        "cell_UJ493xyB_sL0KWx1NGfgBBZ3M",
-                        "cell_UJ493xyB_6CgtLoeJRctM1PWz"
-                    ],
-                    [
-                        "cell_UJ493xyB_A6OKBaE55T8L7wER",
-                        "cell_UJ493xyB_NwcjnDRf4iSvhTpp",
-                        "cell_UJ493xyB_97GliY4VzPYTKQfq",
-                        "cell_UJ493xyB_E0A9nLfQLKvDP87n",
-                        "cell_UJ493xyB_BPltdj5Z7roOUJBH",
-                        "cell_UJ493xyB_J9YIDg1EPnoNneub"
-                    ],
-                    [
-                        "cell_UJ493xyB_xJJwJT3dXiQ2Jtl1",
-                        "cell_UJ493xyB_zmUWjBx4JjuEwnqS",
-                        "cell_UJ493xyB_55OR4HJHd4VJ1rxh",
-                        "cell_UJ493xyB_LEOcWNOMnl0ZASPL",
-                        "cell_UJ493xyB_x2c3kDtF0OnvY0Tb",
-                        "cell_UJ493xyB_OENNSSBQLXmU9MKR"
                     ]
                 ],
                 "cellHistory": [
@@ -52160,7 +52124,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750301530417.0032,
     "create_date": "2025-6-19 @02h 52m 10s 417ms",
-    "date_last_chat": 1750304412421,
+    "date_last_chat": 1750308606859,
     "chat_size": 3467716,
     "past_metadata": {
         "": {},
