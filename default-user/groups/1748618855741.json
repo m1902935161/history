@@ -45,8 +45,8 @@
                         "cell_w51jcYzN_CwePqwHSrfUdsC7w",
                         "cell_w51jcYzN_dT2BzlrcKlCXxQBn",
                         "cell_w51jcYzN_jXkFvu8E39kGNjEV",
-                        "cell_w51jcYzN_9R40Pm1bwinXdofT",
-                        "cell_w51jcYzN_gMYwXZPTOPnuapBR"
+                        "cell_w51jcYzN_rDysXOxQwp41IvMg",
+                        "cell_w51jcYzN_kC6ceIKgpkoc6xEd"
                     ]
                 ],
                 "cellHistory": [
@@ -3017,6 +3017,26 @@
                     },
                     {
                         "uid": "cell_w51jcYzN_gMYwXZPTOPnuapBR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "刘嘉欣/唐柔/鹿屿/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_rDysXOxQwp41IvMg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCnAjNrzNPznGkx",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地带深处"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_kC6ceIKgpkoc6xEd",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_KmvuKApHscqWqsi",
@@ -52122,10 +52142,10 @@
     "auto_mode_delay": 5,
     "generation_mode_join_prefix": "",
     "generation_mode_join_suffix": "",
-    "date_added": 1750301530417.0032,
-    "create_date": "2025-6-19 @02h 52m 10s 417ms",
-    "date_last_chat": 1750308784661,
-    "chat_size": 3467716,
+    "date_added": 1750308792783.196,
+    "create_date": "2025-6-19 @04h 53m 12s 783ms",
+    "date_last_chat": 1750322669255,
+    "chat_size": 3310703,
     "past_metadata": {
         "": {},
         "2025-06-07@16h40m10s": {
