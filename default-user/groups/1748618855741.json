@@ -46,7 +46,7 @@
                         "cell_w51jcYzN_Q9OnnPQswVVpYb1r",
                         "cell_w51jcYzN_PI8ClHZJkOKw5Pci",
                         "cell_w51jcYzN_8Rm5o91OXbZpulKK",
-                        "cell_w51jcYzN_uWLu0lOfHDW9N14d"
+                        "cell_w51jcYzN_Or4UsPNvvd4OO1kH"
                     ]
                 ],
                 "cellHistory": [
@@ -3360,6 +3360,16 @@
                         "coordUid": "coo_9tbHxHf7N7FPW4V",
                         "data": {
                             "value": "唐柔/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_Or4UsPNvvd4OO1kH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tbHxHf7N7FPW4V",
+                        "data": {
+                            "value": "唐柔/林巧/苏闪闪/刘嘉欣(靠近)/鹿屿(靠近)"
                         },
                         "targetUid": ""
                     }
@@ -54602,7 +54612,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750338503048.3958,
     "create_date": "2025-6-19 @13h 08m 23s 48ms",
-    "date_last_chat": 1750345824881,
+    "date_last_chat": 1750346278835,
     "chat_size": 3375114,
     "past_metadata": {
         "": {},
