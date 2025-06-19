@@ -45,8 +45,8 @@
                         "cell_w51jcYzN_0BgBWIfozHybriT3",
                         "cell_w51jcYzN_Q9OnnPQswVVpYb1r",
                         "cell_w51jcYzN_PI8ClHZJkOKw5Pci",
-                        "cell_w51jcYzN_sEdyf0LDvSMrbZQQ",
-                        "cell_w51jcYzN_A65znK0D390Kr9zw"
+                        "cell_w51jcYzN_8Rm5o91OXbZpulKK",
+                        "cell_w51jcYzN_uWLu0lOfHDW9N14d"
                     ]
                 ],
                 "cellHistory": [
@@ -3320,6 +3320,46 @@
                         "coordUid": "coo_9tbHxHf7N7FPW4V",
                         "data": {
                             "value": "唐柔/林巧/苏闪闪/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_kce0Sb5I97yyNHPl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_X4GWcunjXUqGpWY",
+                        "data": {
+                            "value": "丛林地图"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_rkRITDGG3UAx0Ysf",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tbHxHf7N7FPW4V",
+                        "data": {
+                            "value": "唐柔/林巧/苏闪闪/凌然(陷阱触发)/刘嘉欣(语音)/鹿屿(语音)"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_8Rm5o91OXbZpulKK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_X4GWcunjXUqGpWY",
+                        "data": {
+                            "value": "丛林地图某处空旷地"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_uWLu0lOfHDW9N14d",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9tbHxHf7N7FPW4V",
+                        "data": {
+                            "value": "唐柔/林巧/苏闪闪"
                         },
                         "targetUid": ""
                     }
@@ -54180,6 +54220,238 @@
                             "value": "紧张/期待"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_Cs1X0c8GdSeYYLfK",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_9rZ0fzmhbcNf8Lu",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_dFNw9ujUIUYKIdlU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_iwsp1q3UhuOfKS8",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_IHHWTJQBtFXTLY1w",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5i5iLQ3C7bRvw1r",
+                        "data": {
+                            "value": "遭遇潮汐伏击，被苏闪闪使用「连体噤声」控制"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_XvNwtVlGV6guWZBz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dfFKsDoJYVHTP0b",
+                        "data": {
+                            "value": "比赛日/未知时间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_mEqKtvbyG8VFzE2m",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_t4hKL8u1UiGZFaz",
+                        "data": {
+                            "value": "丛林地图"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_LzUViFT5nnxdhpMy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dUaglcpV189rmyS",
+                        "data": {
+                            "value": "不耐烦/震惊/愤怒/痒痛/屈辱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_IsiFKt4XKJewBXu7",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_xcV4mU9LZS74Ih6",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_ZZjl34EDFirxP2Mj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jVrvvvbHhhPybgq",
+                        "data": {
+                            "value": "林巧"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_PMeFCm0A0B4PMC4i",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QGZnDa4ziFNMfRA",
+                        "data": {
+                            "value": "对唐柔发动足部挠痒攻击"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_Pw1IScUP6cOxr27Q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_MIAd0qykj8Pq8q2",
+                        "data": {
+                            "value": "比赛日/未知时间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_NEktLPXO3qDzyI52",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_9o9UG3dPXMzkWdp",
+                        "data": {
+                            "value": "丛林地图"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_Y8I9ylUVu8OAir35",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pKdpexJCahB1Xqx",
+                        "data": {
+                            "value": "高傲/得意/享受"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_mghKzulTHtNeQO3U",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_RqLsRP74mvD919k",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_5sQNljaRWrrZHtEM",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cRzYaqEElwRSV9t",
+                        "data": {
+                            "value": "苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_bL1BMu5oNzyv44LO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ciLIJLX2Dj9nbfu",
+                        "data": {
+                            "value": "对唐柔使用「连体噤声」"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_WctZdjOnNroS0YUL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4j2aDHF74KKTiWn",
+                        "data": {
+                            "value": "比赛日/未知时间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_li5OreZYfyxud4ET",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZpmhMyJahXKM8tV",
+                        "data": {
+                            "value": "丛林地图"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_Fc7Wvmqp0MXpTaWz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xCIKSaKxXVxpsAF",
+                        "data": {
+                            "value": "冷静/满足"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_8eZlV7tsHTYqYm5f",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_FKHxq4gVrXBElnG",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_IBQ8QdDjcW7w35bB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WpVqmjyUyOHvYIf",
+                        "data": {
+                            "value": "凌然"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_N9gRSLmAvDzg9I3Q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vQG3lNr2BGIxtbJ",
+                        "data": {
+                            "value": "设置「感官陷阱」，成功伏击唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_0b2LYhqSXLahyPbr",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gX0KLkVXXH3HOev",
+                        "data": {
+                            "value": "比赛日/未知时间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_wrz9Uxn2C10cqbBc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xbKL1LxXXsEip87",
+                        "data": {
+                            "value": "丛林地图"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_UJ493xyB_A7pEFncenMoAHU6E",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_1MO3oF7NFiOlwO8",
+                        "data": {
+                            "value": "狩猎成功后的冷酷"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -54330,7 +54602,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750338503048.3958,
     "create_date": "2025-6-19 @13h 08m 23s 48ms",
-    "date_last_chat": 1750345492595,
+    "date_last_chat": 1750345824881,
     "chat_size": 3375114,
     "past_metadata": {
         "": {},
