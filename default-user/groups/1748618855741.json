@@ -45,8 +45,8 @@
                         "cell_w51jcYzN_CwePqwHSrfUdsC7w",
                         "cell_w51jcYzN_dT2BzlrcKlCXxQBn",
                         "cell_w51jcYzN_jXkFvu8E39kGNjEV",
-                        "cell_w51jcYzN_rDysXOxQwp41IvMg",
-                        "cell_w51jcYzN_kC6ceIKgpkoc6xEd"
+                        "cell_w51jcYzN_WbFQcmKQsvzAhbX2",
+                        "cell_w51jcYzN_CuWYQh0J71emEMIB"
                     ]
                 ],
                 "cellHistory": [
@@ -3042,6 +3042,46 @@
                         "coordUid": "coo_KmvuKApHscqWqsi",
                         "data": {
                             "value": "刘嘉欣/唐柔/鹿屿/凌然/林巧/苏闪闪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_6Q8HKqUdFe1AePe9",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCnAjNrzNPznGkx",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_bpaFcRpiG9f9sx77",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "唐柔/刘嘉欣/鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_WbFQcmKQsvzAhbX2",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RCnAjNrzNPznGkx",
+                        "data": {
+                            "value": "TL比赛竞技场/丛林地形"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_w51jcYzN_CuWYQh0J71emEMIB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KmvuKApHscqWqsi",
+                        "data": {
+                            "value": "唐柔/刘嘉欣/鹿屿/苏闪闪"
                         },
                         "targetUid": ""
                     }
@@ -52144,7 +52184,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750323456754.905,
     "create_date": "2025-6-19 @08h 57m 36s 754ms",
-    "date_last_chat": 1750328169379,
+    "date_last_chat": 1750328452264,
     "chat_size": 3342818,
     "past_metadata": {
         "": {},
