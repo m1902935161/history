@@ -2,6 +2,17 @@
     "id": "1748618855741",
     "name": "TL",
     "members": [
+        "【星辰经纪人】许娜.png",
+        "【星辰】许凰音.png",
+        "【星辰】许凤萱.png",
+        "【星辰】肖甜.png",
+        "【星辰】沈棠.png",
+        "【极光经纪人】温雅.png",
+        "【光影经纪人】沈梦.png",
+        "【光影】唐柔.png",
+        "【光影】鹿屿.png",
+        "【光影】刘嘉欣.png",
+        "【潮汐经纪人】陆沉舟.png",
         "【潮汐】苏闪闪.png",
         "【潮汐】凌然.png",
         "【潮汐】林巧.png"
@@ -18,7 +29,14 @@
         "note_interval": 1,
         "note_position": 1,
         "note_depth": 4,
-        "note_role": 0
+        "note_role": 0,
+        "tainted": true,
+        "chat_id_hash": 7432494281602677,
+        "timedWorldInfo": {
+            "sticky": {},
+            "cooldown": {}
+        },
+        "lastInContextMessageId": 0
     },
     "fav": false,
     "chat_id": "2025-06-16@19h55m33s",
@@ -31,7 +49,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750396879312.7942,
     "create_date": "2025-6-20 @05h 21m 19s 312ms",
-    "date_last_chat": 1750383761076.0173,
+    "date_last_chat": 1750397117931,
     "chat_size": 3510579,
     "past_metadata": {
         "": {},
