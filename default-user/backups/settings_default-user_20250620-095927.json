@@ -2,8 +2,8 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
-        "NavOpened": "false",
+        "LNavOpened": "true",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -14,8 +14,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1439,7 +1439,10 @@
         "【潮汐经纪人】陆沉舟.png": [],
         "【极光经纪人】温雅.png": [],
         "【星辰经纪人】许娜.png": [],
-        "【星辰】肖甜.png": []
+        "【星辰】肖甜.png": [],
+        "【星辰】许凤萱.png": [],
+        "【星辰】许凰音.png": [],
+        "【星辰】沈棠.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2932,7 +2935,7 @@
                     },
                     {
                         "identifier": "aa0d4562-1814-4ac2-96fe-9c24588b2d24",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "7bcd26a2-5a78-4aea-a573-324392f72fff",
