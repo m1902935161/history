@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "true",
+        "LNavOpened": "false",
         "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
@@ -1441,7 +1441,14 @@
         "【星辰经纪人】许娜.png": [],
         "【星辰】肖甜.png": [],
         "【星辰】许凤萱.png": [],
-        "【星辰】许凰音.png": []
+        "【星辰】许凰音.png": [],
+        "【星辰】沈棠.png": [],
+        "【光影】苏雨亭.png": [],
+        "【光影】肖怡.png": [],
+        "【光影】肖爽.png": [],
+        "【极光】白凝冰.png": [],
+        "【极光】夏无殇.png": [],
+        "【极光】温浅月.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2926,15 +2933,15 @@
                     },
                     {
                         "identifier": "b7d078d7-c431-4ce4-898e-b6decb75698d",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "80488c06-1d0a-4a8a-88c1-cafe84f62d8f",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "aa0d4562-1814-4ac2-96fe-9c24588b2d24",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "7bcd26a2-5a78-4aea-a573-324392f72fff",
