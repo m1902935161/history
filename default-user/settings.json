@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "NavOpened": "true",
+        "NavOpened": "false",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1448,7 +1448,8 @@
         "【光影】肖爽.png": [],
         "【极光】白凝冰.png": [],
         "【极光】夏无殇.png": [],
-        "【极光】温浅月.png": []
+        "【极光】温浅月.png": [],
+        "【星辰】洛羽灵.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
