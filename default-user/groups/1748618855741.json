@@ -52,8 +52,8 @@
                         "cell_kDYOAwj3_OwWVNImVX9YzpcjL",
                         "cell_kDYOAwj3_6fKoN04ZohGcAook",
                         "cell_kDYOAwj3_jaPoaIwiauRSvqT9",
-                        "cell_kDYOAwj3_iXcStvagJV0otqam",
-                        "cell_kDYOAwj3_AxBgNLltLGN7ZLxK"
+                        "cell_kDYOAwj3_tM9t4UKhDPoR5YR6",
+                        "cell_kDYOAwj3_82P200xa7JcJGluZ"
                     ]
                 ],
                 "cellHistory": [
@@ -299,6 +299,26 @@
                         "coordUid": "coo_rbWyDZs6EjpbCJe",
                         "data": {
                             "value": "鹿屿/唐柔/光影俱乐部引导员/其他新人"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_kDYOAwj3_tM9t4UKhDPoR5YR6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wELGMZOJYRjaSpE",
+                        "data": {
+                            "value": "光影俱乐部/宿舍区/A-07豪华套间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_kDYOAwj3_82P200xa7JcJGluZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rbWyDZs6EjpbCJe",
+                        "data": {
+                            "value": "鹿屿/唐柔"
                         },
                         "targetUid": ""
                     }
@@ -6602,11 +6622,11 @@
                         "cell_undefined_31VSbTdJCdBTL8a2"
                     ],
                     [
-                        "cell_sZ9bubsB_PdLqtWnNNwQOJ1Wu",
-                        "cell_sZ9bubsB_BxUOg90MSYDKnpPk",
-                        "cell_sZ9bubsB_vEu5W3eAo0cg0q5m",
-                        "cell_sZ9bubsB_mSxquHy7gI4TZPdK",
-                        "cell_sZ9bubsB_fcLz80p2MNRm1je4"
+                        "cell_sZ9bubsB_e2TCduhWX1l4OcmA",
+                        "cell_sZ9bubsB_AQpjlgd3frFnTwnN",
+                        "cell_sZ9bubsB_VQTlJ3Pc8prKfmpD",
+                        "cell_sZ9bubsB_HcFSf8HOD4cuWU6s",
+                        "cell_sZ9bubsB_ZyPLWhlYQK3DXhmK"
                     ]
                 ],
                 "cellHistory": [
@@ -6710,6 +6730,54 @@
                             "value": "当天"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_sZ9bubsB_e2TCduhWX1l4OcmA",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_d3Rd5NiSNJHC5al",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_sZ9bubsB_AQpjlgd3frFnTwnN",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_BIDGo4xINkoxrSr",
+                        "data": {
+                            "value": "鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_sZ9bubsB_VQTlJ3Pc8prKfmpD",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_XSiWcU4hXIrPnWs",
+                        "data": {
+                            "value": "熟悉新住所并进行协同适应性训练"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_sZ9bubsB_HcFSf8HOD4cuWU6s",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_r9plJdjANGw0chI",
+                        "data": {
+                            "value": "光影俱乐部宿舍A-07"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_sZ9bubsB_ZyPLWhlYQK3DXhmK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_v8Pif5QS61qqwJT",
+                        "data": {
+                            "value": "待定"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -6767,6 +6835,22 @@
                         "cell_uRCxMQp8_p4Kpl26iy8I9Tog8",
                         "cell_uRCxMQp8_ZMc1QGica8exysqT",
                         "cell_uRCxMQp8_vRrIWYWJOblxUvEd"
+                    ],
+                    [
+                        "cell_uRCxMQp8_57jwFtZnJQnLRLG6",
+                        "cell_uRCxMQp8_1OpomxNz1jx59AoC",
+                        "cell_uRCxMQp8_iyF5mkvwmD5sIumq",
+                        "cell_uRCxMQp8_GpJrCvtgvCeJ6SQI",
+                        "cell_uRCxMQp8_ZiU3UZBbCKRq1qyu",
+                        "cell_uRCxMQp8_T6BOE2L9cO1rv4KI"
+                    ],
+                    [
+                        "cell_uRCxMQp8_pzV1BxXxuUIWj0nM",
+                        "cell_uRCxMQp8_qB1IkFw2fwzwLOIt",
+                        "cell_uRCxMQp8_c4ydD7NvwfhtFZ8O",
+                        "cell_uRCxMQp8_94QqLe76D497yKdp",
+                        "cell_uRCxMQp8_848W2JqiQGl2FbLU",
+                        "cell_uRCxMQp8_xhpwm3Or1kHkmRfu"
                     ]
                 ],
                 "cellHistory": [
@@ -7239,6 +7323,122 @@
                             "value": "痛苦/羞耻/崩溃/震惊"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_57jwFtZnJQnLRLG6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_A3vYrjt44R2iXua",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_1OpomxNz1jx59AoC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_c6dHr7TdKCEdNPc",
+                        "data": {
+                            "value": "鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_iyF5mkvwmD5sIumq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Zgnc91t2xm58z1r",
+                        "data": {
+                            "value": "植入专属TL核心，正式成为TL选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_GpJrCvtgvCeJ6SQI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_HngZCKyodweyIqw",
+                        "data": {
+                            "value": "当天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_ZiU3UZBbCKRq1qyu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kkWG4KCO5G7RXDQ",
+                        "data": {
+                            "value": "光影俱乐部医疗室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_T6BOE2L9cO1rv4KI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rRL4jYdj55PmtJL",
+                        "data": {
+                            "value": "新奇/紧张"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_pzV1BxXxuUIWj0nM",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_JBNHesTTek47Rnu",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_qB1IkFw2fwzwLOIt",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_O1k26cCCQBaGAEb",
+                        "data": {
+                            "value": "鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_c4ydD7NvwfhtFZ8O",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bGia0FRSexQRDBR",
+                        "data": {
+                            "value": "被俱乐部管理层强制安排成为室友"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_94QqLe76D497yKdp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KrLPd3tr9oTh8Xj",
+                        "data": {
+                            "value": "当天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_848W2JqiQGl2FbLU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_v5ZwI12o20kcy7h",
+                        "data": {
+                            "value": "光影俱乐部宿舍区"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_xhpwm3Or1kHkmRfu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Kkfo8GRZQii9i4N",
+                        "data": {
+                            "value": "震惊/愤怒（唐柔）/无奈（鹿屿）"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7488,7 +7688,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750434709471.5945,
     "create_date": "2025-6-20 @15h 51m 49s 471ms",
-    "date_last_chat": 1750510876729,
+    "date_last_chat": 1750510936516,
     "chat_size": 3676792,
     "past_metadata": {
         "": {},
