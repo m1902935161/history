@@ -15,8 +15,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1450,7 +1450,6 @@
         "【极光】白凝冰.png": [],
         "【极光】夏无殇.png": [],
         "【极光】温浅月.png": [],
-        "【星辰】洛羽灵.png": [],
         "【光影】岳小荞.png": [],
         "【极光】洛羽灵.png": []
     },
