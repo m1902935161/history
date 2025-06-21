@@ -52,8 +52,8 @@
                         "cell_kDYOAwj3_OwWVNImVX9YzpcjL",
                         "cell_kDYOAwj3_6fKoN04ZohGcAook",
                         "cell_kDYOAwj3_jaPoaIwiauRSvqT9",
-                        "cell_kDYOAwj3_tM9t4UKhDPoR5YR6",
-                        "cell_kDYOAwj3_82P200xa7JcJGluZ"
+                        "cell_kDYOAwj3_aq47hV7XjUA9f1em",
+                        "cell_kDYOAwj3_BsyhJUtxG8gwXhkY"
                     ]
                 ],
                 "cellHistory": [
@@ -321,6 +321,26 @@
                             "value": "鹿屿/唐柔"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_kDYOAwj3_aq47hV7XjUA9f1em",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wELGMZOJYRjaSpE",
+                        "data": {
+                            "value": "光影俱乐部/选手宿舍区/鹿屿的房间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_kDYOAwj3_BsyhJUtxG8gwXhkY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rbWyDZs6EjpbCJe",
+                        "data": {
+                            "value": "鹿屿/唐柔/光影俱乐部引导员"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -374,7 +394,7 @@
                         "cell_jt4gxlKN_hvgSWfceaOtNHX0i",
                         "cell_jt4gxlKN_btFjhWikOAhTbvcL",
                         "cell_jt4gxlKN_Sq7Jmc7bUuyHn5YO",
-                        "cell_jt4gxlKN_z57vtK94RwzIUx4p",
+                        "cell_jt4gxlKN_glBdjFz3b8suWVSi",
                         "cell_jt4gxlKN_Ho9HZNeAGJl6Z0Ck"
                     ],
                     [
@@ -385,7 +405,7 @@
                         "cell_jt4gxlKN_7o1HyemoFWTjyi8j",
                         "cell_jt4gxlKN_dj37SfvSvjMl12Zm",
                         "cell_jt4gxlKN_GCTjs1s4XEkUAxCx",
-                        "cell_jt4gxlKN_XnUH6hhxloI09oMe",
+                        "cell_jt4gxlKN_0bAJilPERp5qjqcp",
                         "cell_jt4gxlKN_jdbpLH0MeVKeSZGg"
                     ],
                     [
@@ -4454,6 +4474,26 @@
                             "value": "负责引导新人注册"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jt4gxlKN_glBdjFz3b8suWVSi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ctH2ir14bEVTl56",
+                        "data": {
+                            "value": "光影俱乐部选手宿舍704号房"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jt4gxlKN_0bAJilPERp5qjqcp",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vN1EKDZGkEvkC1G",
+                        "data": {
+                            "value": "光影俱乐部选手宿舍703号房"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -6620,13 +6660,6 @@
                         "cell_undefined_zFhoonZpwoFUwyn5",
                         "cell_undefined_eybzPyxRR4NTJp68",
                         "cell_undefined_31VSbTdJCdBTL8a2"
-                    ],
-                    [
-                        "cell_sZ9bubsB_e2TCduhWX1l4OcmA",
-                        "cell_sZ9bubsB_AQpjlgd3frFnTwnN",
-                        "cell_sZ9bubsB_VQTlJ3Pc8prKfmpD",
-                        "cell_sZ9bubsB_HcFSf8HOD4cuWU6s",
-                        "cell_sZ9bubsB_ZyPLWhlYQK3DXhmK"
                     ]
                 ],
                 "cellHistory": [
@@ -6837,20 +6870,12 @@
                         "cell_uRCxMQp8_vRrIWYWJOblxUvEd"
                     ],
                     [
-                        "cell_uRCxMQp8_57jwFtZnJQnLRLG6",
-                        "cell_uRCxMQp8_1OpomxNz1jx59AoC",
-                        "cell_uRCxMQp8_iyF5mkvwmD5sIumq",
-                        "cell_uRCxMQp8_GpJrCvtgvCeJ6SQI",
-                        "cell_uRCxMQp8_ZiU3UZBbCKRq1qyu",
-                        "cell_uRCxMQp8_T6BOE2L9cO1rv4KI"
-                    ],
-                    [
-                        "cell_uRCxMQp8_pzV1BxXxuUIWj0nM",
-                        "cell_uRCxMQp8_qB1IkFw2fwzwLOIt",
-                        "cell_uRCxMQp8_c4ydD7NvwfhtFZ8O",
-                        "cell_uRCxMQp8_94QqLe76D497yKdp",
-                        "cell_uRCxMQp8_848W2JqiQGl2FbLU",
-                        "cell_uRCxMQp8_xhpwm3Or1kHkmRfu"
+                        "cell_uRCxMQp8_CAfitDZvpoUSjmvu",
+                        "cell_uRCxMQp8_FCIijBbNO7SnIWxw",
+                        "cell_uRCxMQp8_WBkWJeCLJUtEZlPG",
+                        "cell_uRCxMQp8_XetEh2Y1GeUuHoBW",
+                        "cell_uRCxMQp8_I4BR5ItfrMvrT84p",
+                        "cell_uRCxMQp8_spnp9SBHDwGEK2Pb"
                     ]
                 ],
                 "cellHistory": [
@@ -7439,6 +7464,64 @@
                             "value": "震惊/愤怒（唐柔）/无奈（鹿屿）"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_CAfitDZvpoUSjmvu",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_ec1tvfQo7rDpl3A",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_FCIijBbNO7SnIWxw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_roPnP1Rh8LR6fVp",
+                        "data": {
+                            "value": "鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_WBkWJeCLJUtEZlPG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_yfnHuel0v0sLPdj",
+                        "data": {
+                            "value": "植入专属TL核心，正式成为光影俱乐部TL选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_XetEh2Y1GeUuHoBW",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_I32RFp7qszKbokg",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_I4BR5ItfrMvrT84p",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RlHj2aFjRiwh3Eu",
+                        "data": {
+                            "value": "光影俱乐部医疗室"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_uRCxMQp8_spnp9SBHDwGEK2Pb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_NGkm93CJ4WVfUaB",
+                        "data": {
+                            "value": "紧张/期待"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7479,6 +7562,20 @@
                         "cell_undefined_IY17qKVtG8nppeJ8",
                         "cell_undefined_lW4h0JZUSjmLNyYR",
                         "cell_undefined_dErmyyD9S67iYGwM"
+                    ],
+                    [
+                        "cell_8Xl1CGaK_lc4ndSH34BSLlhh3",
+                        "cell_8Xl1CGaK_MeteVV1TOlZZICFd",
+                        "cell_8Xl1CGaK_MyzPvPAUj5S4a5gb",
+                        "cell_8Xl1CGaK_C3F6Hz2kEVFmJ737",
+                        "cell_8Xl1CGaK_thfxxF3rBDns01Rv"
+                    ],
+                    [
+                        "cell_8Xl1CGaK_yev8PCe3DyndYGJs",
+                        "cell_8Xl1CGaK_N9s6SKcDtzt74qxe",
+                        "cell_8Xl1CGaK_zqUBVggOvesfmzQY",
+                        "cell_8Xl1CGaK_cuVAcsPjtxdj5wOG",
+                        "cell_8Xl1CGaK_r07MokUMcTAUqsXc"
                     ]
                 ],
                 "cellHistory": [
@@ -7630,6 +7727,102 @@
                             "value": "参加TL比赛的凭证/用于生成专属套装“琉璃之躯”"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_lc4ndSH34BSLlhh3",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_wlDOZ4p6AvmH3x3",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_MeteVV1TOlZZICFd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PGcITy0lAa6d3BE",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_MyzPvPAUj5S4a5gb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_g73kHcAI2TNhsm7",
+                        "data": {
+                            "value": "一枚与神经系统绑定的芯片，记录并生成其在TL比赛中的套装与能力。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_C3F6Hz2kEVFmJ737",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6A0Ob18kdN8nRwk",
+                        "data": {
+                            "value": "TL核心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_thfxxF3rBDns01Rv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KRGTDTylfRGh4mu",
+                        "data": {
+                            "value": "作为TL选手的身份证明和能力核心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_yev8PCe3DyndYGJs",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_KJ6VlpIEmDWIi9f",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_N9s6SKcDtzt74qxe",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wF6ksth2E8Jrmp8",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_zqUBVggOvesfmzQY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tkByXOvnCGK9YMe",
+                        "data": {
+                            "value": "一枚与神经系统绑定的芯片，记录并生成其在TL比赛中的套装与能力。"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_cuVAcsPjtxdj5wOG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_oy9CkNDIJuqwD8t",
+                        "data": {
+                            "value": "TL核心"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_8Xl1CGaK_r07MokUMcTAUqsXc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fnZXI7XtTGlXhiB",
+                        "data": {
+                            "value": "作为TL选手的身份证明和能力核心"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -7688,7 +7881,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750434709471.5945,
     "create_date": "2025-6-20 @15h 51m 49s 471ms",
-    "date_last_chat": 1750510936516,
+    "date_last_chat": 1750511307307,
     "chat_size": 3676792,
     "past_metadata": {
         "": {},
