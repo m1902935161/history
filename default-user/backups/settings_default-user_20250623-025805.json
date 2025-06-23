@@ -2,15 +2,16 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
-        "NavOpened": "false",
+        "LNavOpened": "true",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
         "NavLockOn": "false",
         "GroupMembers_PerPage": "200",
-        "GroupCandidates_PerPage": "50"
+        "GroupCandidates_PerPage": "50",
+        "Characters_PerPage": "100"
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
@@ -1431,10 +1432,8 @@
         "1748618855741": [],
         "【光影】唐柔.png": [],
         "【光影】鹿屿.png": [],
-        "【光影】刘嘉欣.png": [],
         "【潮汐】林巧.png": [],
         "【潮汐】苏闪闪.png": [],
-        "【潮汐】凌然.png": [],
         "【光影经纪人】沈梦.png": [],
         "【潮汐经纪人】陆沉舟.png": [],
         "【极光经纪人】温雅.png": [],
@@ -1448,7 +1447,11 @@
         "【光影】肖爽.png": [],
         "【极光】白凝冰.png": [],
         "【极光】夏无殇.png": [],
-        "【极光】温浅月.png": []
+        "【极光】温浅月.png": [],
+        "【光影】岳小荞.png": [],
+        "【极光】洛羽灵.png": [],
+        "【光影】刘嘉欣.png": [],
+        "【潮汐】凌然.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3136,7 +3139,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "gemini-2.5-flash-preview-04-17",
+        "custom_model": "[vh]gemini-2.5-pro",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
