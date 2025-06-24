@@ -15,8 +15,8 @@
     },
     "currentVersion": "1.13.0",
     "username": "旁白",
-    "active_character": "魅魔型AI创作工具.png",
-    "active_group": null,
+    "active_character": null,
+    "active_group": "1748618855741",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "RecoveredRuins",
     "user_avatar": "user-default.png",
@@ -1454,7 +1454,8 @@
         "【潮汐】凌然.png": [],
         "【潮汐】柳如烟.png": [],
         "【极光】白妍.png": [],
-        "【星辰】苏白洲.png": []
+        "【星辰】苏白洲.png": [],
+        "【光影】鹿瑶.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
