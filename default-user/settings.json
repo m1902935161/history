@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1457,7 +1457,8 @@
         "【星辰】苏白洲.png": [],
         "【光影】鹿瑶.png": [],
         "【潮汐】罗砂.png": [],
-        "【潮汐】姜辰曦.png": []
+        "【潮汐】姜辰曦.png": [],
+        "【星辰】红隼.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
