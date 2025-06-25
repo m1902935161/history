@@ -62,7 +62,7 @@
                         "cell_edeq7wGC_QMXJEdVOAYEUOLAZ",
                         "cell_edeq7wGC_N4A7HJb5cdbl6Uj9",
                         "cell_edeq7wGC_V7NMzvGPRH2DkGQh",
-                        "cell_edeq7wGC_kZpC9U02y8jFiWzQ"
+                        "cell_edeq7wGC_LIFoEIA5IsqDOXIj"
                     ]
                 ],
                 "cellHistory": [
@@ -434,6 +434,56 @@
                         "coordUid": "coo_vCAR03quHLKLf5E",
                         "data": {
                             "value": "全息竞技场/废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_KDUAaXFg33l08qvj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Xhuod5qerKh08BQ",
+                        "data": {
+                            "value": "下午"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_d3Vroo9eyn2O3LLy",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vCAR03quHLKLf5E",
+                        "data": {
+                            "value": "全息竞技场/废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_T9OzFzj7WIToQGUd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Xhuod5qerKh08BQ",
+                        "data": {
+                            "value": "下午"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_69IkEG8PSesaX6tG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vCAR03quHLKLf5E",
+                        "data": {
+                            "value": "全息竞技场/废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_LIFoEIA5IsqDOXIj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0Y9LpLiRlmjbPKZ",
+                        "data": {
+                            "value": "鹿屿/唐柔/刘嘉欣/肖怡/肖爽/岳小荞"
                         },
                         "targetUid": ""
                     }
@@ -4559,7 +4609,7 @@
                     [
                         "cell_1QwRI6FR_I9xLnjuwEoWwosSb",
                         "cell_1QwRI6FR_raGeP74dpGQIEFVj",
-                        "cell_1QwRI6FR_LRIs4DSjbpJMxWN8",
+                        "cell_1QwRI6FR_W4s1v1uo0JUK2HTL",
                         "cell_1QwRI6FR_TJrPxgq0EkNaEiBb",
                         "cell_1QwRI6FR_bcm8I1eNp2pW8dNm",
                         "cell_1QwRI6FR_D3Y4o1RKncDQJBk3"
@@ -5327,6 +5377,172 @@
                             "value": "紧张/兴奋/戒备/羞愤"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_onzNi6oel4mGIy48",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "紧张/兴奋/戒备/羞愤"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_6h6FloEzbXRHXgVX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "紧张/兴奋/戒备/羞耻/愤怒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_b7JCKM9GqlzzSdbx",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_G3F8wTx0OhP4Sc7",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_7J8Qtsx0xYjxmtRm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DXizdlrvJiBpYDI",
+                        "data": {
+                            "value": "鹿屿/唐柔/刘嘉欣"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_ejp5hLgGOiB1pv8F",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_CcoN3PbxKvrzBmP",
+                        "data": {
+                            "value": "在新人训练赛中与肖怡、肖爽、岳小荞队展开激烈对战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_kAa3vUTJ83SIIbPB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_roYHBlKIpGht1VF",
+                        "data": {
+                            "value": "第二天下午"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_lcJPEQGkS2sIlaBn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KTHi41yDHhvRkDG",
+                        "data": {
+                            "value": "全息竞技场-废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_yHjEeRXcsVsZFCQu",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_sfugTu4L82JOPlA",
+                        "data": {
+                            "value": "混乱/被动/奋力抵抗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_fk1MuGSEW660PYLo",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "紧张/兴奋/戒备/羞耻/愤怒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_dzF2ZPbBIBMR6vgq",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_bes6hUJl0kXgoTi",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_5fpwyCY4NIQT95Lg",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_May4CG7XcCEPSEa",
+                        "data": {
+                            "value": "鹿屿/唐柔/刘嘉欣"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_QLOhJbfMG7FbVB93",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_cFpTJFovRqHLrVF",
+                        "data": {
+                            "value": "在新人训练赛中与肖怡、肖爽、岳小荞队展开激烈对战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_oyi5YJun1XzzthDE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_n2U83RGjMIpaPe8",
+                        "data": {
+                            "value": "第二天下午"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_GPL34xFwliGC2dRj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZE8wVlI4qP28gDi",
+                        "data": {
+                            "value": "全息竞技场-废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_SXC9lGCOCOxhnwpn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wnusATeIlKRRM1n",
+                        "data": {
+                            "value": "混乱/被动/奋力抵抗"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_mipfZqALeji6Svzv",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "紧张/兴奋/戒备/羞愤"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_W4s1v1uo0JUK2HTL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WG63jx9Zb9cjnOL",
+                        "data": {
+                            "value": "参加新人分组训练赛，与唐柔、刘嘉欣组队，对阵肖怡、肖爽、岳小荞，陷入激战"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -5480,7 +5696,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750816261729.0222,
     "create_date": "2025-6-25 @01h 51m 01s 729ms",
-    "date_last_chat": 1750867857989,
+    "date_last_chat": 1750868456218,
     "chat_size": 4493565,
     "past_metadata": {
         "": {},
