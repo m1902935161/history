@@ -56,6 +56,13 @@
                         "cell_undefined_hDuyfuiYMPL4yvLa",
                         "cell_undefined_Z6ldc96pkYlpuA3u",
                         "cell_undefined_hCjE7tHO0rHXbjc0"
+                    ],
+                    [
+                        "cell_edeq7wGC_Ji1j37OVsHV5Vuxa",
+                        "cell_edeq7wGC_XCs4iCJ0eXSSdP4z",
+                        "cell_edeq7wGC_1virGM6wcOpfwldm",
+                        "cell_edeq7wGC_bQhLU7BinsRfJ92n",
+                        "cell_edeq7wGC_ZK6qCpLiBrvRpNXV"
                     ]
                 ],
                 "cellHistory": [
@@ -111,6 +118,54 @@
                             "value": "此地角色"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_Ji1j37OVsHV5Vuxa",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Am18LfVs7IeGVb8",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_XCs4iCJ0eXSSdP4z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_5ZgHPjInYLo0woF",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_1virGM6wcOpfwldm",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Xhuod5qerKh08BQ",
+                        "data": {
+                            "value": "白天/傍晚"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_bQhLU7BinsRfJ92n",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vCAR03quHLKLf5E",
+                        "data": {
+                            "value": "光影俱乐部/休息区/鹿屿的房间"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_ZK6qCpLiBrvRpNXV",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0Y9LpLiRlmjbPKZ",
+                        "data": {
+                            "value": "鹿屿/唐柔/光影俱乐部引导员/鹿瑶"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -155,6 +210,50 @@
                         "cell_undefined_dKSjscTR0a2TRgDB",
                         "cell_undefined_P6kBNVEc4mZWNSrI",
                         "cell_undefined_sioSz89x6xfSw5eG"
+                    ],
+                    [
+                        "cell_ua9bAqji_0wdPevujvBTS4BmE",
+                        "cell_ua9bAqji_hdRwlYaKGtoGJl0R",
+                        "cell_ua9bAqji_kLAogfbotFWzlcrZ",
+                        "cell_ua9bAqji_q08ylHRgRj7JWiX6",
+                        "cell_ua9bAqji_m2FHvSEje9sgBf6c",
+                        "cell_ua9bAqji_1USLuN9YmbGERLqQ",
+                        "cell_ua9bAqji_6GXBFZglKedJ8Raa",
+                        "cell_ua9bAqji_j4fdtazHJLW3mVn8",
+                        "cell_ua9bAqji_MM5vyYJAaZb5lfeO"
+                    ],
+                    [
+                        "cell_ua9bAqji_f5vlm4CyMSJW2nnE",
+                        "cell_ua9bAqji_TB2UC4yEYNvZDgCl",
+                        "cell_ua9bAqji_dBaGYudwadA6r59b",
+                        "cell_ua9bAqji_ly7izHE7RrKyzaNG",
+                        "cell_ua9bAqji_1DHayJo58zRSTcU1",
+                        "cell_ua9bAqji_XpiGbxFulflqK2iR",
+                        "cell_ua9bAqji_hcfAPCFRhCKROybR",
+                        "cell_ua9bAqji_M0vC7lVBLj18eVKU",
+                        "cell_ua9bAqji_Y8WO7mkrlp2NI8mU"
+                    ],
+                    [
+                        "cell_ua9bAqji_iTYaJpN2N7FHYzby",
+                        "cell_ua9bAqji_cvKpnu64QENV1gIz",
+                        "cell_ua9bAqji_662cuSTU0PMNHESx",
+                        "cell_ua9bAqji_yZ6cHZ8GxnypNRNl",
+                        "cell_ua9bAqji_m6qmYAOiIQmDF5Wi",
+                        "cell_ua9bAqji_r7DzCE3vHoDMVhAn",
+                        "cell_ua9bAqji_yfq8RMU3kLgVmwCR",
+                        "cell_ua9bAqji_xN2fJSezgqYCCDKa",
+                        "cell_ua9bAqji_8ROpPkT8sthccsEj"
+                    ],
+                    [
+                        "cell_ua9bAqji_8fmPJvwmcUADumnd",
+                        "cell_ua9bAqji_DAgIWJfxpqoTFF9Y",
+                        "cell_ua9bAqji_quvj1gw8iinFVNS4",
+                        "cell_ua9bAqji_WCRsgPQ1w9RJg2t3",
+                        "cell_ua9bAqji_CvucCTXLz313dcsh",
+                        "cell_ua9bAqji_PINOsgfS42sinNEL",
+                        "cell_ua9bAqji_rgRYh2v7vFe93D8q",
+                        "cell_ua9bAqji_ZeUUOWQUeLV78Ki4",
+                        "cell_ua9bAqji_xQ5BN2eLE8mBH4Ih"
                     ]
                 ],
                 "cellHistory": [
@@ -251,6 +350,358 @@
                             "value": "其他重要信息"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_0wdPevujvBTS4BmE",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Z9DZQCVLzApNiCs",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_hdRwlYaKGtoGJl0R",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_QDsB17z1tYrvOkT",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_kLAogfbotFWzlcrZ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_pnWzCx9LnAcEfij",
+                        "data": {
+                            "value": "外表极其美丽/黑色短发"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_q08ylHRgRj7JWiX6",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AMHwneMyL7wEin0",
+                        "data": {
+                            "value": "温柔/幽默/开朗/善良"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_m2FHvSEje9sgBf6c",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_KuLaPs10lwjnBlP",
+                        "data": {
+                            "value": "大学生/TL选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_1USLuN9YmbGERLqQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Oq75khm9bkP5TGP",
+                        "data": {
+                            "value": "全息游戏"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_6GXBFZglKedJ8Raa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_wKAZi7v9T3AoqYy",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_j4fdtazHJLW3mVn8",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_eUo2hUtzY4BIDL2",
+                        "data": {
+                            "value": "光影俱乐部宿舍"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_MM5vyYJAaZb5lfeO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0Ocisz3WvPJb46B",
+                        "data": {
+                            "value": "拥有超乎寻常的身体敏感度/为了妹妹参加TL"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_f5vlm4CyMSJW2nnE",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_CbuwjDK3xobaQ0I",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_TB2UC4yEYNvZDgCl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_OA25jejMsdSRdh6",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_dBaGYudwadA6r59b",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ysgDVO5MrmT3xUx",
+                        "data": {
+                            "value": "栗色双马尾/琥珀色眼眸"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_ly7izHE7RrKyzaNG",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_k6arwCGCHrkqZ6r",
+                        "data": {
+                            "value": "傲慢/高傲/尖锐/内心脆弱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_1DHayJo58zRSTcU1",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FjGWMiXebirhZoD",
+                        "data": {
+                            "value": "TL选手"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_XpiGbxFulflqK2iR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_hBHRnZGQvbQ3Ies",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_hcfAPCFRhCKROybR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_i6hdbkUAbKuk6oC",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_M0vC7lVBLj18eVKU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ayQk762N6EnRlOo",
+                        "data": {
+                            "value": "光影俱乐部宿舍"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_Y8WO7mkrlp2NI8mU",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_dBOMWE3WeCRS1ox",
+                        "data": {
+                            "value": "家道中落的前大小姐/为偿还债务参赛"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_iTYaJpN2N7FHYzby",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_qnHSqD6Cliy0WOD",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_cvKpnu64QENV1gIz",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4WKD61pJOnStAEf",
+                        "data": {
+                            "value": "光影俱乐部引导员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_662cuSTU0PMNHESx",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Vl8he4SrICrVJa4",
+                        "data": {
+                            "value": "身材高挑"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_yZ6cHZ8GxnypNRNl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4D5F6F9v2ky5y2s",
+                        "data": {
+                            "value": "专业/严厉"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_m6qmYAOiIQmDF5Wi",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_gTdH3RWzewOX50C",
+                        "data": {
+                            "value": "光影俱乐部工作人员"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_r7DzCE3vHoDMVhAn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_J7NNrPipNrKLW8g",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_yfq8RMU3kLgVmwCR",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_Y7rcUqe3POzfJ9K",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_xN2fJSezgqYCCDKa",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YmFZr9wCZONVS5e",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_8ROpPkT8sthccsEj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_VzTzjlpI0oRT8v8",
+                        "data": {
+                            "value": "负责引导新人注册"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_8fmPJvwmcUADumnd",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_gc5t18zeVmL9uGp",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_DAgIWJfxpqoTFF9Y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WBvF1teiNYedztn",
+                        "data": {
+                            "value": "鹿瑶"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_quvj1gw8iinFVNS4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZfbIKqgJK14uLMa",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_WCRsgPQ1w9RJg2t3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_3k0Rl7XrS1Zt2eP",
+                        "data": {
+                            "value": "活泼/关心哥哥"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_CvucCTXLz313dcsh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_rQprur2Hk0ljl3H",
+                        "data": {
+                            "value": "大学生"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_PINOsgfS42sinNEL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_n40LzIksPHzKpgW",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_rgRYh2v7vFe93D8q",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_tvvrQb8azw1rqbN",
+                        "data": {
+                            "value": "未知"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_ZeUUOWQUeLV78Ki4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_r4yFZm3DxQB4KI2",
+                        "data": {
+                            "value": "与哥哥合租的公寓"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_ua9bAqji_xQ5BN2eLE8mBH4Ih",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ZiU09P5wUNu2LiI",
+                        "data": {
+                            "value": "鹿屿的妹妹/与哥哥相依为命"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -291,6 +742,27 @@
                         "cell_undefined_zf7pfZ2bb4FZ3RKG",
                         "cell_undefined_WvvpnVlaDtXCf43h",
                         "cell_undefined_juHmq7H8cuvtvrTb"
+                    ],
+                    [
+                        "cell_jg395SiJ_Ou7oPzelmGi5SI0O",
+                        "cell_jg395SiJ_1g9pU4G1NNGqdWqE",
+                        "cell_jg395SiJ_UYnTjjprIHdF1G7y",
+                        "cell_jg395SiJ_V7U3NjZfMnIQdKIY",
+                        "cell_jg395SiJ_a7loYrNNa9DiCkCX"
+                    ],
+                    [
+                        "cell_jg395SiJ_WgrzDbhpe4DcAUbf",
+                        "cell_jg395SiJ_M66qyjdYdv9xVt0t",
+                        "cell_jg395SiJ_yAT1AGyDV3BlgV5a",
+                        "cell_jg395SiJ_JkSRffEYFhIGD3NK",
+                        "cell_jg395SiJ_GUHJ9RPo08XzJ2xc"
+                    ],
+                    [
+                        "cell_jg395SiJ_M9pUrGG7pLblftN6",
+                        "cell_jg395SiJ_szsgnnXeRnmyoraL",
+                        "cell_jg395SiJ_XIybVD0it2Ec2Aiw",
+                        "cell_jg395SiJ_gjeLUUgwvDTOXot0",
+                        "cell_jg395SiJ_POUusPeUjjTmCAWB"
                     ]
                 ],
                 "cellHistory": [
@@ -345,6 +817,150 @@
                         "coordUid": "coo_ulGoL4X0upruZmn",
                         "data": {
                             "value": "对<user>好感"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_Ou7oPzelmGi5SI0O",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_URzACaW50ytpLGf",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_1g9pU4G1NNGqdWqE",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_GZyMI4W5K1Kn5dX",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_UYnTjjprIHdF1G7y",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_un5MJXbKVbKuGvc",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_V7U3NjZfMnIQdKIY",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_YzkrgGzOuKrU093",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_a7loYrNNa9DiCkCX",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_T9MeUwKx8ritjG6",
+                        "data": {
+                            "value": "50"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_WgrzDbhpe4DcAUbf",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_dU5C1eDWUidyR5m",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_M66qyjdYdv9xVt0t",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_U3pUkcIK2VMYn0d",
+                        "data": {
+                            "value": "唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_yAT1AGyDV3BlgV5a",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_I1h59HBwQOLHsi3",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_JkSRffEYFhIGD3NK",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PfQUwLTO1LolwCM",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_GUHJ9RPo08XzJ2xc",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fcTTMClznnOVwn1",
+                        "data": {
+                            "value": "50"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_M9pUrGG7pLblftN6",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_Ulht2gWecX4qhbr",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_szsgnnXeRnmyoraL",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_bg35WiutWV6HuVi",
+                        "data": {
+                            "value": "鹿瑶"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_XIybVD0it2Ec2Aiw",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_RkJwuqF6aJU2oby",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_gjeLUUgwvDTOXot0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_m9Fat2FOlill3Vr",
+                        "data": {
+                            "value": "无"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_jg395SiJ_POUusPeUjjTmCAWB",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4qbTfSXFxNKTKrN",
+                        "data": {
+                            "value": "50"
                         },
                         "targetUid": ""
                     }
@@ -483,6 +1099,30 @@
                         "cell_undefined_SelB2c5zBvC4K5Gb",
                         "cell_undefined_Qmlj9NGMiZkYcqVF",
                         "cell_undefined_11ZzBDMs46mTI32Q"
+                    ],
+                    [
+                        "cell_1QwRI6FR_RZF8fqi09EwbHgtW",
+                        "cell_1QwRI6FR_39Igl3Fq9lbznBWP",
+                        "cell_1QwRI6FR_8rGAvGn3XrdwLife",
+                        "cell_1QwRI6FR_T5bxLfd2gkFwOmVd",
+                        "cell_1QwRI6FR_npYV1muh7OddF98B",
+                        "cell_1QwRI6FR_9CAP8aBWd1SH0dRQ"
+                    ],
+                    [
+                        "cell_1QwRI6FR_gQ7Dz3ZbteN8JiCT",
+                        "cell_1QwRI6FR_bDb23eDsjqFWsXxn",
+                        "cell_1QwRI6FR_75uOaKQ2CEyCS1XO",
+                        "cell_1QwRI6FR_21Sa1N8W657UXlS3",
+                        "cell_1QwRI6FR_obhp0duk1TdHYeio",
+                        "cell_1QwRI6FR_hPFr0owqDR6AYjAl"
+                    ],
+                    [
+                        "cell_1QwRI6FR_ENgBoZNS4xrV9HLX",
+                        "cell_1QwRI6FR_s4zpD3XYA9JgJpLF",
+                        "cell_1QwRI6FR_4yArEW8WY2NYXh1V",
+                        "cell_1QwRI6FR_IRvoFIsrF8j3lXTs",
+                        "cell_1QwRI6FR_SnCqM3yLYBEEo59d",
+                        "cell_1QwRI6FR_JyGrv3Xxi2h1kd1C"
                     ]
                 ],
                 "cellHistory": [
@@ -547,6 +1187,180 @@
                         "coordUid": "coo_iaXVKox8D5eHnye",
                         "data": {
                             "value": "情绪"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_RZF8fqi09EwbHgtW",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_XfMHaGHyaYy0nhv",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_39Igl3Fq9lbznBWP",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_urKqNPN9eAKKrFs",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_8rGAvGn3XrdwLife",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_DgAkuCzZXMDefOO",
+                        "data": {
+                            "value": "接受全身敏感度扫描并被检测出超规格体质"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_T5bxLfd2gkFwOmVd",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_esIZImoAmx2dbcI",
+                        "data": {
+                            "value": "当天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_npYV1muh7OddF98B",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_E18z2y7UOMZV4kW",
+                        "data": {
+                            "value": "光影俱乐部检测舱"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_9CAP8aBWd1SH0dRQ",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_TOwmk1TxAa9tr4R",
+                        "data": {
+                            "value": "痛苦/羞耻/崩溃/震惊"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_gQ7Dz3ZbteN8JiCT",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_qyIDdrjJ0P2492O",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_bDb23eDsjqFWsXxn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mcrQqGUemItCQWO",
+                        "data": {
+                            "value": "鹿屿/唐柔"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_75uOaKQ2CEyCS1XO",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_PmqCBi2xNftRPK7",
+                        "data": {
+                            "value": "完成TL选手注册/植入TL核心/分配专属套装"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_21Sa1N8W657UXlS3",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_fZtEbf4rXLvGC40",
+                        "data": {
+                            "value": "当天"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_obhp0duk1TdHYeio",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_UGl04uhpqvzd2AW",
+                        "data": {
+                            "value": "光影俱乐部"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_hPFr0owqDR6AYjAl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_kK4Oe2G5SJTIYwa",
+                        "data": {
+                            "value": "紧张/好奇/疲惫"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_ENgBoZNS4xrV9HLX",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_4kDR1CQ8JXKwJX4",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_s4zpD3XYA9JgJpLF",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_AeDV0vap6NsXOuc",
+                        "data": {
+                            "value": "鹿屿"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_4yArEW8WY2NYXh1V",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_2If6sjLO0FwK9vu",
+                        "data": {
+                            "value": "与妹妹鹿瑶通话/隐瞒参加TL比赛的真相"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_IRvoFIsrF8j3lXTs",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jT7KkdSw4zNxN1x",
+                        "data": {
+                            "value": "当天傍晚"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_SnCqM3yLYBEEo59d",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_emz8SdPdh5WMmwq",
+                        "data": {
+                            "value": "光影俱乐部宿舍"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_JyGrv3Xxi2h1kd1C",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_xvHEC9rnEkoIlqR",
+                        "data": {
+                            "value": "温柔/坚定/内心承压"
                         },
                         "targetUid": ""
                     }
@@ -702,7 +1516,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750816261729.0222,
     "create_date": "2025-6-25 @01h 51m 01s 729ms",
-    "date_last_chat": 1750862209731,
+    "date_last_chat": 1750862309716,
     "chat_size": 4493565,
     "past_metadata": {
         "": {},
