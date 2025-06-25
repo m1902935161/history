@@ -4542,7 +4542,15 @@
                         "cell_1QwRI6FR_LRIs4DSjbpJMxWN8",
                         "cell_1QwRI6FR_TJrPxgq0EkNaEiBb",
                         "cell_1QwRI6FR_bcm8I1eNp2pW8dNm",
-                        "cell_1QwRI6FR_D3Y4o1RKncDQJBk3"
+                        "cell_1QwRI6FR_UScgitdbUGaN2c5T"
+                    ],
+                    [
+                        "cell_1QwRI6FR_fAXpKmISjQE1Qi2o",
+                        "cell_1QwRI6FR_HbyR50P99Qn79w0S",
+                        "cell_1QwRI6FR_0zg39EThuREBNsYh",
+                        "cell_1QwRI6FR_Kj0Bc7DJD3CExXZC",
+                        "cell_1QwRI6FR_YzEX2Md7NZJd03AC",
+                        "cell_1QwRI6FR_th0dyzBPAmmg5uqn"
                     ]
                 ],
                 "cellHistory": [
@@ -5229,6 +5237,74 @@
                             "value": "激烈/羞耻/兴奋"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_UScgitdbUGaN2c5T",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "紧张/兴奋/戒备/羞耻/愤怒"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_fAXpKmISjQE1Qi2o",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_AGdx3v7zOePNB2e",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_HbyR50P99Qn79w0S",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_ewFqYGd5iqjuV5H",
+                        "data": {
+                            "value": "鹿屿/唐柔/刘嘉欣"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_0zg39EThuREBNsYh",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_U8Eo0Z6KKXR5Aqz",
+                        "data": {
+                            "value": "在新人训练赛中与肖怡、肖爽、岳小荞队展开激烈对战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_Kj0Bc7DJD3CExXZC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_qgov9ZXYJoS3ash",
+                        "data": {
+                            "value": "第二天下午"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_YzEX2Md7NZJd03AC",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_zotV0BXKL5Ihcjv",
+                        "data": {
+                            "value": "全息竞技场-废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_th0dyzBPAmmg5uqn",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FF3K8CnuzbtiAfW",
+                        "data": {
+                            "value": "混乱/被动/奋力抵抗"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -5382,7 +5458,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750816261729.0222,
     "create_date": "2025-6-25 @01h 51m 01s 729ms",
-    "date_last_chat": 1750867312797,
+    "date_last_chat": 1750867574435,
     "chat_size": 4493565,
     "past_metadata": {
         "": {},
