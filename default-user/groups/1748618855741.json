@@ -62,7 +62,7 @@
                         "cell_edeq7wGC_QMXJEdVOAYEUOLAZ",
                         "cell_edeq7wGC_N4A7HJb5cdbl6Uj9",
                         "cell_edeq7wGC_V7NMzvGPRH2DkGQh",
-                        "cell_edeq7wGC_ansCX7Wnc6LSEl69"
+                        "cell_edeq7wGC_LIFoEIA5IsqDOXIj"
                     ]
                 ],
                 "cellHistory": [
@@ -4619,10 +4619,10 @@
                     [
                         "cell_1QwRI6FR_I9xLnjuwEoWwosSb",
                         "cell_1QwRI6FR_raGeP74dpGQIEFVj",
-                        "cell_1QwRI6FR_W4s1v1uo0JUK2HTL",
+                        "cell_1QwRI6FR_AAreVpQ1IeGbyaXb",
                         "cell_1QwRI6FR_TJrPxgq0EkNaEiBb",
                         "cell_1QwRI6FR_bcm8I1eNp2pW8dNm",
-                        "cell_1QwRI6FR_MWZvQP8hbosCba3u"
+                        "cell_1QwRI6FR_D3Y4o1RKncDQJBk3"
                     ]
                 ],
                 "cellHistory": [
@@ -5563,6 +5563,16 @@
                             "value": "紧张/兴奋/戒备/屈辱"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_AAreVpQ1IeGbyaXb",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WG63jx9Zb9cjnOL",
+                        "data": {
+                            "value": "参加新人分组训练赛，在刘嘉欣的帮助下摆脱困境，战斗继续"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -5716,7 +5726,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750816261729.0222,
     "create_date": "2025-6-25 @01h 51m 01s 729ms",
-    "date_last_chat": 1750869666395,
+    "date_last_chat": 1750869853279,
     "chat_size": 4493565,
     "past_metadata": {
         "": {},
