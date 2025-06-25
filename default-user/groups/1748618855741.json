@@ -396,6 +396,26 @@
                             "value": "鹿屿/唐柔/刘嘉欣/肖怡/肖爽/岳小荞/沈梦"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_O26nRstU9M7gqer4",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_vCAR03quHLKLf5E",
+                        "data": {
+                            "value": "全息竞技场/废弃都市"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_hSak05SE1n10ZJ0Z",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0Y9LpLiRlmjbPKZ",
+                        "data": {
+                            "value": "鹿屿/唐柔/刘嘉欣/肖怡/肖爽/岳小荞"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -4394,6 +4414,54 @@
                             "value": "当前"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_bzUckPmB_CklYAI10MYwJjijY",
+                        "type": "row_header",
+                        "status": "",
+                        "coordUid": "coo_VkETXPFw7uOPJSe",
+                        "data": {},
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_bzUckPmB_jfLKKGbL6b90FHUH",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jidQn38CboscP1U",
+                        "data": {
+                            "value": "A组/B组新人"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_bzUckPmB_TYexOMUQ6tBLVJ2k",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_jVxHprTf8olS5w4",
+                        "data": {
+                            "value": "进行3v3新人训练赛"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_bzUckPmB_Ka0UnvcrzW8AjKn0",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_mbwj7ARDFgSkM03",
+                        "data": {
+                            "value": "全息竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_bzUckPmB_rxp39onvCda5tLbq",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_4V6mqT2X3KCGXDg",
+                        "data": {
+                            "value": "当天下午"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -5121,6 +5189,46 @@
                             "value": "紧张/兴奋/戒备"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_Dm0HiUylXzSJR3JI",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_WG63jx9Zb9cjnOL",
+                        "data": {
+                            "value": "在废弃都市地图展开3v3训练赛混战"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_nEf3QyW6qYX3kYha",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_FWTbi5MX8sgQbYl",
+                        "data": {
+                            "value": "第二天下午"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_daif8NLufZi6F5dl",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_8AFLnogQxLN12D6",
+                        "data": {
+                            "value": "全息竞技场"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_X0PYnIgdDV86Pu6N",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "激烈/羞耻/兴奋"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -5274,7 +5382,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750816261729.0222,
     "create_date": "2025-6-25 @01h 51m 01s 729ms",
-    "date_last_chat": 1750866784541,
+    "date_last_chat": 1750867312797,
     "chat_size": 4493565,
     "past_metadata": {
         "": {},

@@ -3146,7 +3146,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "[vc]gemini-2.5-pro",
+        "custom_model": "[vh]gemini-2.5-pro",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
