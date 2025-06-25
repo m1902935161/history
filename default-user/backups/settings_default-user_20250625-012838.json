@@ -3,7 +3,7 @@
     "accountStorage": {
         "__migrated": "1",
         "LNavOpened": "true",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "SelectedNavTab": "rm_button_characters",
         "WI_PerPage": "25",
@@ -1451,7 +1451,12 @@
         "【光影】岳小荞.png": [],
         "【极光】洛羽灵.png": [],
         "【光影】刘嘉欣.png": [],
-        "【潮汐】凌然.png": []
+        "【潮汐】凌然.png": [],
+        "【潮汐】柳如烟.png": [],
+        "【极光】白妍.png": [],
+        "【星辰】苏白洲.png": [],
+        "【光影】鹿瑶.png": [],
+        "【潮汐】罗砂.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -3139,7 +3144,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "pollinations_model": "openai",
-        "custom_model": "[vh]gemini-2.5-pro",
+        "custom_model": "[vc]gemini-2.5-pro",
         "custom_url": "https://new.api-kk.shop/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
