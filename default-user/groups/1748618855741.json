@@ -62,7 +62,7 @@
                         "cell_edeq7wGC_QMXJEdVOAYEUOLAZ",
                         "cell_edeq7wGC_N4A7HJb5cdbl6Uj9",
                         "cell_edeq7wGC_V7NMzvGPRH2DkGQh",
-                        "cell_edeq7wGC_LIFoEIA5IsqDOXIj"
+                        "cell_edeq7wGC_ansCX7Wnc6LSEl69"
                     ]
                 ],
                 "cellHistory": [
@@ -479,6 +479,16 @@
                     },
                     {
                         "uid": "cell_edeq7wGC_LIFoEIA5IsqDOXIj",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_0Y9LpLiRlmjbPKZ",
+                        "data": {
+                            "value": "鹿屿/唐柔/刘嘉欣/肖怡/肖爽/岳小荞"
+                        },
+                        "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_edeq7wGC_ansCX7Wnc6LSEl69",
                         "type": "cell",
                         "status": "",
                         "coordUid": "coo_0Y9LpLiRlmjbPKZ",
@@ -4612,7 +4622,7 @@
                         "cell_1QwRI6FR_W4s1v1uo0JUK2HTL",
                         "cell_1QwRI6FR_TJrPxgq0EkNaEiBb",
                         "cell_1QwRI6FR_bcm8I1eNp2pW8dNm",
-                        "cell_1QwRI6FR_D3Y4o1RKncDQJBk3"
+                        "cell_1QwRI6FR_MWZvQP8hbosCba3u"
                     ]
                 ],
                 "cellHistory": [
@@ -5543,6 +5553,16 @@
                             "value": "参加新人分组训练赛，与唐柔、刘嘉欣组队，对阵肖怡、肖爽、岳小荞，陷入激战"
                         },
                         "targetUid": ""
+                    },
+                    {
+                        "uid": "cell_1QwRI6FR_MWZvQP8hbosCba3u",
+                        "type": "cell",
+                        "status": "",
+                        "coordUid": "coo_6c1dUlFhFvHqYJa",
+                        "data": {
+                            "value": "紧张/兴奋/戒备/屈辱"
+                        },
+                        "targetUid": ""
                     }
                 ],
                 "config": {
@@ -5696,7 +5716,7 @@
     "generation_mode_join_suffix": "",
     "date_added": 1750816261729.0222,
     "create_date": "2025-6-25 @01h 51m 01s 729ms",
-    "date_last_chat": 1750869390815,
+    "date_last_chat": 1750869666395,
     "chat_size": 4493565,
     "past_metadata": {
         "": {},
